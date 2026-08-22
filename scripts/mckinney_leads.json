@@ -1,0 +1,56 @@
+[
+  {
+    "business_name": "McKinney Pro Plumbing",
+    "niche": "Plumbing & Drain Services",
+    "city": "McKinney, TX",
+    "phone": "(972) 552-7212",
+    "email": "service@mckinneyproplumbing.com",
+    "url": "http://mckinneyproplumbing.com",
+    "notes": "Target: Missing SSL and mobile viewport"
+  },
+  {
+    "business_name": "Heritage Ranch Plumbing",
+    "niche": "Plumbing & Drain Services",
+    "city": "McKinney, TX",
+    "phone": "(972) 736-8215",
+    "email": "info@heritageranchplumbing.com",
+    "url": "http://heritageranchplumbing.com",
+    "notes": "Target: Missing mobile viewport & tap-to-call link"
+  },
+  {
+    "business_name": "Collin County HVAC & Heating",
+    "niche": "HVAC & Air Conditioning",
+    "city": "McKinney, TX",
+    "phone": "(972) 542-0695",
+    "email": "dispatch@collincountyhvac.com",
+    "url": "http://collincountyhvac.com",
+    "notes": "Target: High load latency (3.2 seconds)"
+  },
+  {
+    "business_name": "McKinney Air Experts",
+    "niche": "HVAC & Air Conditioning",
+    "city": "McKinney, TX",
+    "phone": "(972) 569-9230",
+    "email": "service@mckinneyairexperts.com",
+    "url": "http://mckinneyairexperts.com",
+    "notes": "Target: Non-secure HTTP"
+  },
+  {
+    "business_name": "North Texas Roofing & Storm Care",
+    "niche": "Roofing & Restoration",
+    "city": "McKinney, TX",
+    "phone": "(972) 548-7663",
+    "email": "contact@northtexasroofing.com",
+    "url": "http://northtexasroofing.com",
+    "notes": "Target: Missing schema & mobile responsiveness"
+  },
+  {
+    "business_name": "Apex Roofing McKinney",
+    "niche": "Roofing & Restoration",
+    "city": "McKinney, TX",
+    "phone": "(972) 562-7663",
+    "email": "info@apexroofingmckinney.com",
+    "url": "http://apexroofingmckinney.com",
+    "notes": "Target: Slow HTTP & non-SSL"
+  }
+]

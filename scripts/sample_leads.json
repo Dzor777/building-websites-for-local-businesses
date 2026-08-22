@@ -1,0 +1,34 @@
+[
+  {
+    "business_name": "Austin Fast Plumbing",
+    "niche": "Plumbing",
+    "city": "Austin, TX",
+    "phone": "(512) 555-0182",
+    "url": "http://httpbin.org/get",
+    "notes": "Older local business listing"
+  },
+  {
+    "business_name": "Lone Star HVAC & Air",
+    "niche": "HVAC",
+    "city": "Round Rock, TX",
+    "phone": "(512) 555-0144",
+    "url": "https://httpbin.org/delay/3",
+    "notes": "Slow responding website"
+  },
+  {
+    "business_name": "Capital City Roofing",
+    "niche": "Roofing",
+    "city": "Austin, TX",
+    "phone": "(512) 555-0199",
+    "url": "https://httpbin.org/html",
+    "notes": "Basic HTML missing mobile viewport meta"
+  },
+  {
+    "business_name": "Travis County Electric",
+    "niche": "Electrician",
+    "city": "Austin, TX",
+    "phone": "(512) 555-0177",
+    "url": "https://example.com",
+    "notes": "Clean example site"
+  }
+]

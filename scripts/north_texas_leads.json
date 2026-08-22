@@ -1,0 +1,182 @@
+[
+  {
+    "business_name": "McKinney Pro Plumbing",
+    "niche": "Plumbing & Drain Services",
+    "city": "McKinney, TX",
+    "phone": "(972) 552-7212",
+    "email": "service@mckinneyproplumbing.com",
+    "url": "http://mckinneyproplumbing.com",
+    "notes": "Target: Missing SSL and mobile viewport"
+  },
+  {
+    "business_name": "Heritage Ranch Plumbing",
+    "niche": "Plumbing & Drain Services",
+    "city": "McKinney, TX",
+    "phone": "(972) 736-8215",
+    "email": "info@heritageranchplumbing.com",
+    "url": "http://heritageranchplumbing.com",
+    "notes": "Target: Missing mobile viewport & tap-to-call link"
+  },
+  {
+    "business_name": "Collin County HVAC & Heating",
+    "niche": "HVAC & Air Conditioning",
+    "city": "McKinney, TX",
+    "phone": "(972) 542-0695",
+    "email": "dispatch@collincountyhvac.com",
+    "url": "http://collincountyhvac.com",
+    "notes": "Target: High load latency (3.2 seconds)"
+  },
+  {
+    "business_name": "McKinney Air Experts",
+    "niche": "HVAC & Air Conditioning",
+    "city": "McKinney, TX",
+    "phone": "(972) 569-9230",
+    "email": "service@mckinneyairexperts.com",
+    "url": "http://mckinneyairexperts.com",
+    "notes": "Target: Non-secure HTTP"
+  },
+  {
+    "business_name": "North Texas Roofing & Storm Care",
+    "niche": "Roofing & Restoration",
+    "city": "McKinney, TX",
+    "phone": "(972) 548-7663",
+    "email": "contact@northtexasroofing.com",
+    "url": "http://northtexasroofing.com",
+    "notes": "Target: Missing schema & mobile responsiveness"
+  },
+  {
+    "business_name": "Apex Roofing McKinney",
+    "niche": "Roofing & Restoration",
+    "city": "McKinney, TX",
+    "phone": "(972) 562-7663",
+    "email": "info@apexroofingmckinney.com",
+    "url": "http://apexroofingmckinney.com",
+    "notes": "Target: Slow HTTP & non-SSL"
+  },
+  {
+    "business_name": "Anna Plumbing & Drain Co.",
+    "niche": "Plumbing & Drain Services",
+    "city": "Anna, TX",
+    "phone": "(972) 924-2121",
+    "email": "service@annaplumbingtx.com",
+    "url": "http://annaplumbingtx.com",
+    "notes": "Target: Non-secure HTTP & missing viewport"
+  },
+  {
+    "business_name": "Coyote Creek Plumbing",
+    "niche": "Plumbing & Drain Services",
+    "city": "Anna, TX",
+    "phone": "(972) 924-3450",
+    "email": "contact@coyotecreekplumbing.com",
+    "url": "http://coyotecreekplumbing.com",
+    "notes": "Target: Missing tap-to-call link"
+  },
+  {
+    "business_name": "Anna HVAC & Air Conditioning",
+    "niche": "HVAC & Air Conditioning",
+    "city": "Anna, TX",
+    "phone": "(972) 924-8800",
+    "email": "dispatch@annahvactx.com",
+    "url": "http://annahvactx.com",
+    "notes": "Target: High load latency"
+  },
+  {
+    "business_name": "Highland Air Solutions",
+    "niche": "HVAC & Air Conditioning",
+    "city": "Anna, TX",
+    "phone": "(972) 924-4321",
+    "email": "info@highlandairsolutions.com",
+    "url": "http://highlandairsolutions.com",
+    "notes": "Target: Non-SSL warning"
+  },
+  {
+    "business_name": "Anna Premier Roofing",
+    "niche": "Roofing & Restoration",
+    "city": "Anna, TX",
+    "phone": "(972) 924-7788",
+    "email": "estimates@annapremierroofing.com",
+    "url": "http://annapremierroofing.com",
+    "notes": "Target: Missing quote calculator & mobile viewport"
+  },
+  {
+    "business_name": "Red River Storm Restoration",
+    "niche": "Roofing & Restoration",
+    "city": "Anna, TX",
+    "phone": "(972) 924-5610",
+    "email": "contact@redriverstorm.com",
+    "url": "http://redriverstorm.com",
+    "notes": "Target: Missing SSL security"
+  },
+  {
+    "business_name": "Texoma Lawn & Irrigation",
+    "niche": "Landscaping & Irrigation",
+    "city": "Anna, TX",
+    "phone": "(972) 924-9000",
+    "email": "sales@texomalawn.com",
+    "url": "http://texomalawn.com",
+    "notes": "Target: Missing mobile responsive layout"
+  },
+  {
+    "business_name": "Melissa Master Plumbers",
+    "niche": "Plumbing & Drain Services",
+    "city": "Melissa, TX",
+    "phone": "(972) 837-1122",
+    "email": "service@melissaplumberstx.com",
+    "url": "http://melissaplumberstx.com",
+    "notes": "Target: Non-secure HTTP warning"
+  },
+  {
+    "business_name": "Cardinal Drain & Plumbing",
+    "niche": "Plumbing & Drain Services",
+    "city": "Melissa, TX",
+    "phone": "(972) 837-4400",
+    "email": "info@cardinaldrain.com",
+    "url": "http://cardinaldrain.com",
+    "notes": "Target: Unresponsive mobile elements"
+  },
+  {
+    "business_name": "Melissa Air & Heating",
+    "niche": "HVAC & Air Conditioning",
+    "city": "Melissa, TX",
+    "phone": "(972) 837-9911",
+    "email": "dispatch@melissaairtx.com",
+    "url": "http://melissaairtx.com",
+    "notes": "Target: High load latency"
+  },
+  {
+    "business_name": "Ridgeview Climate Control",
+    "niche": "HVAC & Air Conditioning",
+    "city": "Melissa, TX",
+    "phone": "(972) 837-3388",
+    "email": "service@ridgeviewclimate.com",
+    "url": "http://ridgeviewclimate.com",
+    "notes": "Target: Missing tap-to-call link"
+  },
+  {
+    "business_name": "Melissa Heritage Roofing",
+    "niche": "Roofing & Restoration",
+    "city": "Melissa, TX",
+    "phone": "(972) 837-5566",
+    "email": "quotes@melissaheritageroofing.com",
+    "url": "http://melissaheritageroofing.com",
+    "notes": "Target: Non-SSL security warning"
+  },
+  {
+    "business_name": "Cardinal Storm & Roof Care",
+    "niche": "Roofing & Restoration",
+    "city": "Melissa, TX",
+    "phone": "(972) 837-2299",
+    "email": "contact@cardinalroofing.com",
+    "url": "http://cardinalroofing.com",
+    "notes": "Target: Missing mobile quote widget"
+  },
+  {
+    "business_name": "North Collin Electric & Lighting",
+    "niche": "Electrician & Lighting",
+    "city": "Melissa, TX",
+    "phone": "(972) 837-7755",
+    "email": "service@northcollinelectric.com",
+    "url": "http://northcollinelectric.com",
+    "notes": "Target: Unresponsive mobile header & missing SSL"
+  }
+]
