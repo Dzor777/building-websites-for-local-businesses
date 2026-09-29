@@ -17,32 +17,50 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenQuoteModal }) => {
       <div className="bg-slate-950/90 border-b border-slate-800 py-2 px-4 text-xs text-slate-300">
         <div className="max-w-7xl mx-auto flex flex-wrap items-center justify-between gap-2">
           <div className="flex items-center space-x-6">
-            <a
-              href={`tel:${siteConfig.phoneRaw}`}
-              className="flex items-center space-x-2 text-white font-bold hover:text-sky-400 transition-colors group"
-            >
-              <div className="w-6 h-6 rounded-full bg-amber-400 flex items-center justify-center text-slate-950 group-hover:scale-110 transition-transform">
-                <Phone className="w-3.5 h-3.5 fill-slate-950" />
-              </div>
-              <span>{siteConfig.formattedPhone}</span>
-            </a>
+            {siteConfig.slug === 'dylan-roth-web-services' ? (
+              <a
+                href={`mailto:${siteConfig.email}`}
+                className="flex items-center space-x-2 text-white font-bold hover:text-sky-400 transition-colors group"
+              >
+                <div className="w-6 h-6 rounded-full bg-amber-400 flex items-center justify-center text-slate-950 group-hover:scale-110 transition-transform">
+                  <Mail className="w-3.5 h-3.5" />
+                </div>
+                <span>{siteConfig.email}</span>
+              </a>
+            ) : (
+              <a
+                href={`tel:${siteConfig.phoneRaw}`}
+                className="flex items-center space-x-2 text-white font-bold hover:text-sky-400 transition-colors group"
+              >
+                <div className="w-6 h-6 rounded-full bg-amber-400 flex items-center justify-center text-slate-950 group-hover:scale-110 transition-transform">
+                  <Phone className="w-3.5 h-3.5 fill-slate-950" />
+                </div>
+                <span>{siteConfig.formattedPhone}</span>
+              </a>
+            )}
 
             <div className="hidden sm:flex items-center space-x-2 text-slate-300 font-medium border-l border-slate-800 pl-6">
               <div className="w-6 h-6 rounded-full bg-sky-500/20 flex items-center justify-center text-sky-400">
                 <MapPin className="w-3.5 h-3.5" />
               </div>
-              <span>{siteConfig.city}, TX</span>
+              <span>{siteConfig.slug === 'dylan-roth-web-services' ? 'Serving All Texas Trades' : `${siteConfig.city}, TX`}</span>
             </div>
           </div>
 
           <div className="flex items-center space-x-4">
-            <a
-              href="#contact"
-              className="px-3 py-1 text-xs font-bold text-slate-950 bg-amber-400 hover:bg-amber-300 rounded-md transition-colors flex items-center space-x-1 shadow-sm"
-            >
-              <MapPin className="w-3 h-3 text-slate-950" />
-              <span>Location Map</span>
-            </a>
+            {siteConfig.slug === 'dylan-roth-web-services' ? (
+              <span className="px-3 py-1 text-xs font-bold text-amber-400 bg-amber-400/10 border border-amber-400/30 rounded-md">
+                All Local Texas Trades
+              </span>
+            ) : (
+              <a
+                href="#contact"
+                className="px-3 py-1 text-xs font-bold text-slate-950 bg-amber-400 hover:bg-amber-300 rounded-md transition-colors flex items-center space-x-1 shadow-sm"
+              >
+                <MapPin className="w-3 h-3 text-slate-950" />
+                <span>Location Map</span>
+              </a>
+            )}
 
             {siteConfig.slug !== 'dylan-roth-web-services' && (
               <a

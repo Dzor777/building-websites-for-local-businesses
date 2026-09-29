@@ -62,7 +62,7 @@ export const QualityCommitment: React.FC<QualityCommitmentProps> = ({ onOpenQuot
               Transform your property with <strong className="text-white">{siteConfig.name}</strong>. Our professional team delivers residential and commercial {siteConfig.niche} services tailored to your exact property specifications. From minor repairs to full-scale installations, we provide unmatched attention to detail and commitment to quality.
             </p>
             <p className="text-slate-400 text-sm leading-relaxed">
-              Every craftsman on our team is trained, experienced, and insured—bringing both skill and professionalism to your project. With transparent flat-rate estimates and premium materials, we make sure your job is completed on time and on budget.
+              Every craftsman on our team is trained, experienced, and insured, bringing both skill and professionalism to your project. With transparent flat-rate estimates and premium materials, we make sure your job is completed on time and on budget.
             </p>
 
             {/* Dual CTA Buttons (PainterBros Image 2 Bottom Left) */}
@@ -108,7 +108,7 @@ export const QualityCommitment: React.FC<QualityCommitmentProps> = ({ onOpenQuot
                 </p>
 
                 <div className="pt-2 text-xs font-semibold text-slate-400 border-t border-slate-800">
-                  – {siteConfig.reviews.items && siteConfig.reviews.items.length > 0 ? siteConfig.reviews.items[0].author : 'Ben Jones'}, Verified Customer in {siteConfig.city}, TX
+                  - {siteConfig.reviews.items && siteConfig.reviews.items.length > 0 ? siteConfig.reviews.items[0].author : 'Ben Jones'}, Verified Customer in {siteConfig.city}, TX
                 </div>
               </div>
             </div>
