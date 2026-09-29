@@ -1,5 +1,5 @@
 import React from 'react';
-import { ShieldCheck, Heart, Droplets, Flame } from 'lucide-react';
+import { ShieldCheck, Droplets, Flame } from 'lucide-react';
 import { siteConfig } from '../config/site';
 
 
@@ -109,10 +109,22 @@ export const Footer: React.FC = () => {
           <div>
             © {currentYear} {siteConfig.legalName}. All rights reserved.
           </div>
-          <div className="flex items-center space-x-1 text-slate-400">
-            <span>Built & Managed with</span>
-            <Heart className="w-3.5 h-3.5 text-rose-500 fill-rose-500" />
-            <span>by Dylan Roth</span>
+          <div className="flex items-center space-x-1.5 text-slate-400">
+            {siteConfig.slug === 'dylan-roth-web-services' ? (
+              <span>Designed &amp; Managed by Dylan Roth Web Services</span>
+            ) : (
+              <>
+                <span>Website by</span>
+                <a
+                  href="https://dzor777.github.io/building-websites-for-local-businesses/"
+                  target="_blank"
+                  rel="noopener"
+                  className="text-slate-300 hover:text-amber-400 transition-colors font-medium underline-offset-4 hover:underline"
+                >
+                  Dylan Roth Web Services
+                </a>
+              </>
+            )}
           </div>
         </div>
 

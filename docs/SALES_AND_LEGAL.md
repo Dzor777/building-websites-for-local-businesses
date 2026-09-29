@@ -54,6 +54,8 @@ TERM COMMITMENT: Initial 6-month minimum commitment for Client (to cover initial
 
 OWNERSHIP: You retain 100% ownership of your business brand, domain name, logos, and custom copy content. Underlying site frameworks and code remain licensed under your active subscription.
 
+DESIGN ATTRIBUTION: A discreet, unobtrusive text link ("Website by Dylan Roth Web Services") is included in the sub-footer crediting Provider. You may request removal of this credit at any time upon written notice.
+
 Once submitted, I’ll begin setting up your domain and put your site live in under 24 hours!
 
 Best regards,
@@ -90,6 +92,9 @@ Provider agrees to design, build, host, and maintain a high-converting, mobile-o
 
 ### 4. Ownership
 Client retains 100% ownership of their business brand, domain name, logos, and custom copy content. Underlying site frameworks and code remain licensed under active subscription.
+
+### 5. Design Credit & Attribution
+A discreet, unobtrusive text link ("Website by Dylan Roth Web Services") is included in the website sub-footer crediting Provider. Client may request removal of this credit at any time upon written notice.
 
 ---
 

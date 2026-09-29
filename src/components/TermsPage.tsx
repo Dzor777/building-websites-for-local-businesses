@@ -117,8 +117,16 @@ export const TermsPage: React.FC = () => {
             </p>
           </section>
 
-
-
+          {/* Section 5 */}
+          <section className="space-y-3 border-t border-slate-700/60 pt-6">
+            <h2 className="text-lg font-bold text-white flex items-center space-x-2">
+              <span className="w-6 h-6 rounded-lg bg-sky-500/20 text-sky-400 text-xs font-black flex items-center justify-center">5</span>
+              <span>Design Credit &amp; Attribution</span>
+            </h2>
+            <p className="text-slate-300 pl-8">
+              A discreet, unobtrusive text link (&quot;Website by Dylan Roth Web Services&quot;) is included in the website sub-footer crediting Provider. Client may request removal of this credit at any time upon written notice.
+            </p>
+          </section>
         </div>
 
         {/* Footer info */}
