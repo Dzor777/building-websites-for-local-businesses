@@ -168,7 +168,7 @@ roth.dylan777@gmail.com
 
 ### 6. Sirius Plumbing & Air Conditioning
 
-* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://siriuspac.com](https://siriuspac.com) | **To Email:** `service@siriuspac.com` | **Phone:** (972) 703-9450 | **City:** Frisco, TX
+* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://siriuspac.com](https://siriuspac.com) | **To Email:** `service@siriuspac.com` | **Phone:** (972) 703-9450 | **City:** Frisco, TX | **Status:** 📤 Sent / Scheduled
 
 **Subject:** Modern quote calculator preview for Sirius Plumbing & Air Conditioning / Frisco
 
@@ -200,7 +200,7 @@ roth.dylan777@gmail.com
 
 ### 7. DNA Plumbing Heating & Air
 
-* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://www.dnaplumbingservices.com](https://www.dnaplumbingservices.com) | **To Email:** `info@dnaplumbingservices.com` | **Phone:** (214) 817-3755 | **City:** Plano, TX
+* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://www.dnaplumbingservices.com](https://www.dnaplumbingservices.com) | **To Email:** `info@dnaplumbingservices.com` | **Phone:** (214) 817-3755 | **City:** Plano, TX | **Status:** 📤 Sent / Scheduled
 
 **Subject:** Quick note regarding DNA Plumbing Heating & Air's mobile site / Plano
 
@@ -232,7 +232,7 @@ roth.dylan777@gmail.com
 
 ### 8. Dallas Plumbing & AC Co.
 
-* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://dallasplumbing.com](https://dallasplumbing.com) | **To Email:** `service@dallasplumbing.com` | **Phone:** (214) 227-9459 | **City:** Dallas, TX
+* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://dallasplumbing.com](https://dallasplumbing.com) | **To Email:** `service@dallasplumbing.com` | **Phone:** (214) 227-9459 | **City:** Dallas, TX | **Status:** 📤 Sent / Scheduled
 
 **Subject:** Modern quote calculator preview for Dallas Plumbing & AC Co. / Dallas
 
@@ -264,7 +264,7 @@ roth.dylan777@gmail.com
 
 ### 9. Baker Brothers Plumbing
 
-* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://www.bakerbrothersplumbing.com](https://www.bakerbrothersplumbing.com) | **To Email:** `customer_form@bakerbrothersplumbing.com` | **Phone:** (214) 892-2225 | **City:** Fort Worth, TX
+* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://www.bakerbrothersplumbing.com](https://www.bakerbrothersplumbing.com) | **To Email:** `customer_form@bakerbrothersplumbing.com` | **Phone:** (214) 892-2225 | **City:** Fort Worth, TX | **Status:** 📤 Sent / Scheduled
 
 **Subject:** Modern quote calculator preview for Baker Brothers Plumbing / Fort Worth
 
@@ -296,7 +296,7 @@ roth.dylan777@gmail.com
 
 ### 10. ABC Home & Commercial Services
 
-* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://www.abchomeandcommercial.com/austin/](https://www.abchomeandcommercial.com/austin/) | **To Email:** `service@abchomeandcommercial.com` | **Phone:** (512) 837-9500 | **City:** Austin, TX
+* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://www.abchomeandcommercial.com/austin/](https://www.abchomeandcommercial.com/austin/) | **To Email:** `service@abchomeandcommercial.com` | **Phone:** (512) 837-9500 | **City:** Austin, TX | **Status:** 📤 Sent / Scheduled
 
 **Subject:** Modern quote calculator preview for ABC Home & Commercial Services / Austin
 
