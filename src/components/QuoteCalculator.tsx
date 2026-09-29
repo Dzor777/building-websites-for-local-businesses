@@ -12,6 +12,7 @@ export const QuoteCalculator: React.FC<QuoteCalculatorProps> = ({ initialService
     initialServiceId ? [initialServiceId] : ['drain-cleaning']
   );
   const [propertyType, setPropertyType] = useState<'residential' | 'commercial'>('residential');
+  const [commercialSqFt, setCommercialSqFt] = useState<number>(3500);
   const [urgency, setUrgency] = useState<'standard' | 'emergency'>('standard');
   const [submitted, setSubmitted] = useState(false);
   const [formData, setFormData] = useState({
@@ -20,6 +21,9 @@ export const QuoteCalculator: React.FC<QuoteCalculatorProps> = ({ initialService
     email: '',
     notes: '',
   });
+
+  const isRoofing = siteConfig.niche.toLowerCase().includes('roofing');
+  const isHVAC = siteConfig.niche.toLowerCase().includes('hvac') || siteConfig.niche.toLowerCase().includes('air conditioning');
 
   const toggleService = (id: string) => {
     if (selectedServices.includes(id)) {
@@ -37,13 +41,55 @@ export const QuoteCalculator: React.FC<QuoteCalculatorProps> = ({ initialService
     return acc + (s ? s.basePrice : 0);
   }, 0);
 
-  const multiplierProp = propertyType === 'commercial' ? 1.3 : 1.0;
-  const emergencyFee = urgency === 'emergency' ? 75 : 0;
-  const estimatedTotal = Math.round(rawBase * multiplierProp + emergencyFee);
+  // Trade-Tailored Commercial Adjustment
+  let commercialAdjustment = 0;
+  if (propertyType === 'commercial') {
+    if (isRoofing) {
+      // commercialSqFt represents Roofing Squares (10 to 100)
+      commercialAdjustment = Math.round(commercialSqFt * 45);
+    } else if (isHVAC) {
+      // commercialSqFt represents Sq Ft (1500 to 15000)
+      const tons = commercialSqFt / 500;
+      commercialAdjustment = Math.round(tons * 220);
+    } else {
+      // Plumbing / General Commercial Facility Sq Ft
+      commercialAdjustment = Math.round((commercialSqFt / 1000) * 95);
+    }
+  }
+
+  const emergencyFee = urgency === 'emergency' ? 100 : 0;
+  const estimatedTotal = Math.round(rawBase + commercialAdjustment + emergencyFee);
+
+
+
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
     if (!formData.name || !formData.phone) return;
+
+    // Dispatch lead notification via Web3Forms
+    try {
+      fetch('https://api.web3forms.com/submit', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          access_key: '014ce85a-f806-45da-978d-a0e22f5fd503',
+          subject: `⚡ Demo Quote Test: ${siteConfig.name} (${siteConfig.city}, ${siteConfig.state})`,
+          from_name: 'WaaS Demo Preview System',
+          client_name: siteConfig.name,
+          client_city: siteConfig.city,
+          prospect_name: formData.name,
+          prospect_phone: formData.phone,
+          estimated_total: `$${estimatedTotal}`,
+          property_type: propertyType,
+          urgency: urgency,
+          selected_services: selectedServices.join(', ')
+        })
+      });
+    } catch (err) {
+      // Ignore network errors in demo mode
+    }
+
     setSubmitted(true);
   };
 
@@ -68,18 +114,21 @@ export const QuoteCalculator: React.FC<QuoteCalculatorProps> = ({ initialService
         {/* Estimator Card Container */}
         <div className="max-w-4xl mx-auto glass-card rounded-2xl p-6 sm:p-10 border border-slate-800 shadow-2xl">
           {submitted ? (
-            <div className="py-12 text-center space-y-6">
+            <div className="py-10 text-center space-y-6">
               <div className="w-16 h-16 bg-emerald-500/20 border border-emerald-500/40 rounded-full flex items-center justify-center mx-auto text-emerald-400">
                 <Check className="w-8 h-8" />
               </div>
               <div className="space-y-2">
                 <h3 className="text-2xl font-bold text-white">Estimate Request Received!</h3>
-                <p className="text-slate-300 max-w-md mx-auto text-sm">
-                  Thank you, <strong className="text-white">{formData.name}</strong>. Our on-call technician will call you at <strong className="text-sky-400">{formData.phone}</strong> within 15 minutes to confirm your appointment.
+                <p className="text-slate-300 max-w-lg mx-auto text-sm leading-relaxed">
+                  Thank you, <strong className="text-white">{formData.name}</strong>. A representative from <strong className="text-sky-400">{siteConfig.name}</strong> will be contacting you at <strong className="text-sky-400">{formData.phone}</strong> shortly to confirm your appointment.
                 </p>
               </div>
-              <div className="p-4 rounded-xl bg-slate-800/80 border border-slate-700 max-w-sm mx-auto text-xs text-slate-400">
-                Estimated Total: <strong className="text-emerald-400 font-bold text-base">${estimatedTotal}</strong>
+              <div className="p-4 rounded-xl bg-slate-900 border border-slate-700 max-w-sm mx-auto text-xs text-slate-400">
+                Estimated Upfront Total: <strong className="text-emerald-400 font-bold text-base">${estimatedTotal}</strong>
+              </div>
+              <div className="p-3.5 rounded-xl bg-sky-950/40 border border-sky-800/50 max-w-md mx-auto text-xs text-sky-300 italic">
+                💡 <strong>Demo Mode Preview</strong>: On your live production website, this quote request is instantly dispatched to your phone & team inbox!
               </div>
               <button
                 onClick={() => setSubmitted(false)}
@@ -89,6 +138,7 @@ export const QuoteCalculator: React.FC<QuoteCalculatorProps> = ({ initialService
               </button>
             </div>
           ) : (
+
             <form onSubmit={handleSubmit} className="space-y-8">
               
               {/* Step 1: Choose Services */}
@@ -152,10 +202,45 @@ export const QuoteCalculator: React.FC<QuoteCalculatorProps> = ({ initialService
                           : 'bg-slate-800/60 text-slate-300 border-slate-700'
                       }`}
                     >
-                      Commercial (+30%)
+                      Commercial
                     </button>
                   </div>
+
+                  {propertyType === 'commercial' && (
+                    <div className="p-3.5 rounded-xl bg-sky-950/40 border border-sky-800/50 space-y-2 transition-all">
+                      <div className="flex justify-between items-center text-[11px] font-semibold">
+                        <span className="text-sky-300">
+                          {isRoofing ? 'Commercial Roof Area (Squares):' : isHVAC ? 'Building Cooling Sizing (Sq Ft):' : 'Facility Area (Sq Ft):'}
+                        </span>
+                        <span className="text-emerald-400 font-extrabold text-xs">
+                          {isRoofing
+                            ? `${commercialSqFt > 100 ? 30 : (commercialSqFt < 10 ? 30 : commercialSqFt)} Squares (~${(commercialSqFt > 100 ? 30 : (commercialSqFt < 10 ? 30 : commercialSqFt)) * 100} sq ft)`
+                            : isHVAC
+                            ? `${commercialSqFt.toLocaleString()} sq ft (~${Math.round(commercialSqFt / 500)} Tons)`
+                            : `${commercialSqFt.toLocaleString()} sq ft`}
+                        </span>
+                      </div>
+                      
+                      <input
+                        type="range"
+                        min={isRoofing ? "10" : "1000"}
+                        max={isRoofing ? "100" : "15000"}
+                        step={isRoofing ? "5" : "500"}
+                        value={isRoofing && commercialSqFt > 100 ? 30 : commercialSqFt}
+                        onChange={(e) => setCommercialSqFt(Number(e.target.value))}
+                        className="w-full accent-sky-400 cursor-pointer h-1.5 bg-slate-800 rounded-lg appearance-none"
+                      />
+
+                      <div className="flex justify-between text-[10px] text-slate-400">
+                        <span>{isRoofing ? '10 Squares (1,000 sq ft)' : '1,000 sq ft'}</span>
+                        <span>{isRoofing ? '50 Squares' : '7,500 sq ft'}</span>
+                        <span>{isRoofing ? '100 Squares (10k sq ft)' : '15,000 sq ft'}</span>
+                      </div>
+                    </div>
+                  )}
                 </div>
+
+
 
                 {/* Urgency */}
                 <div className="space-y-2">
@@ -181,11 +266,15 @@ export const QuoteCalculator: React.FC<QuoteCalculatorProps> = ({ initialService
                           : 'bg-slate-800/60 text-slate-300 border-slate-700'
                       }`}
                     >
-                      24/7 Emergency (+$75)
+                      Emergency (+$100 example charge)
                     </button>
                   </div>
                 </div>
               </div>
+              <div className="text-[11px] text-slate-500 text-center italic">
+                * Sample calculation rates. We will calibrate all base pricing and options to match your exact company price list during setup.
+              </div>
+
 
               {/* Step 3: Estimated Price Banner & Contact Inputs */}
               <div className="p-6 rounded-2xl bg-gradient-to-br from-slate-900 to-slate-800 border border-slate-700/80 space-y-6">

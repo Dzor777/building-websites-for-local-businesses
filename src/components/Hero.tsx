@@ -1,5 +1,5 @@
-import React from 'react';
-import { Phone, ShieldCheck, Clock, DollarSign, Award, Star, ArrowRight, CheckCircle2 } from 'lucide-react';
+import React, { useState } from 'react';
+import { Star, Send, Check } from 'lucide-react';
 import { siteConfig } from '../config/site';
 
 interface HeroProps {
@@ -7,132 +7,251 @@ interface HeroProps {
 }
 
 export const Hero: React.FC<HeroProps> = ({ onOpenQuoteModal }) => {
+  const [submitted, setSubmitted] = useState(false);
+  const [formData, setFormData] = useState({
+    firstName: '',
+    lastName: '',
+    email: '',
+    phone: '',
+    zipCode: '',
+    propertyType: 'residential',
+    agreed: true
+  });
+
+  const isRoofing = siteConfig.niche.toLowerCase().includes('roof');
+  const isHVAC = siteConfig.niche.toLowerCase().includes('hvac') || siteConfig.niche.toLowerCase().includes('air conditioning');
+  const tradeNoun = isRoofing ? 'ROOFERS' : isHVAC ? 'HVAC TECHNICIANS' : 'PLUMBERS';
+  const eyebrowText = `EXPERT ${tradeNoun}. HONEST PRICING. EXCEPTIONAL RESULTS.`;
+
+  const handleSubmit = (e: React.FormEvent) => {
+    e.preventDefault();
+    if (!formData.firstName || !formData.phone) return;
+
+    try {
+      fetch('https://api.web3forms.com/submit', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          access_key: '014ce85a-f806-45da-978d-a0e22f5fd503',
+          subject: `⚡ Hero Consultation Lead: ${siteConfig.name} (${siteConfig.city}, TX)`,
+          from_name: 'PainterBros Layout Hero Form',
+          client_name: siteConfig.name,
+          prospect_name: `${formData.firstName} ${formData.lastName}`.trim(),
+          prospect_phone: formData.phone,
+          prospect_email: formData.email,
+          zip_code: formData.zipCode,
+          property_type: formData.propertyType
+        })
+      });
+    } catch (err) {
+      // Ignore in demo
+    }
+
+    setSubmitted(true);
+  };
+
   return (
-    <section className="relative pt-32 pb-20 md:pt-40 md:pb-28 overflow-hidden">
-      {/* Glow background accent */}
-      <div className="hero-glow" />
+    <section className="relative pt-36 pb-20 md:pt-44 md:pb-28 overflow-hidden bg-slate-950">
+      {/* Background Image / Ambient Overlay (PainterBros Full Bleed) */}
+      <div 
+        className="absolute inset-0 z-0 bg-cover bg-center bg-no-repeat opacity-20 filter brightness-75 scale-105 transition-transform duration-1000"
+        style={{
+          backgroundImage: `url('${
+            isRoofing 
+              ? 'https://images.unsplash.com/photo-1632759145351-1d592919f522?auto=format&fit=crop&q=80&w=1600'
+              : isHVAC
+              ? 'https://images.unsplash.com/photo-1621905251189-08b45d6a269e?auto=format&fit=crop&q=80&w=1600'
+              : 'https://images.unsplash.com/photo-1581578731548-c64695cc6952?auto=format&fit=crop&q=80&w=1600'
+          }')`
+        }}
+      />
+      <div className="absolute inset-0 bg-gradient-to-r from-slate-950 via-slate-950/90 to-slate-950/70 z-0" />
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 items-center">
           
-          {/* Left Column: Headline & Call To Action */}
-          <div className="lg:col-span-7 space-y-6 text-center lg:text-left">
+          {/* Left Column (60%): Massive Headline & Stats */}
+          <div className="lg:col-span-7 space-y-8 text-left">
             
-            {/* Top Pill Badge */}
-            <div className="inline-flex items-center space-x-2 px-3.5 py-1.5 rounded-full bg-sky-500/10 border border-sky-500/20 text-sky-300 text-xs font-semibold">
-              <span className="w-2 h-2 rounded-full bg-emerald-400 animate-ping" />
-              <span>Available 24/7 in {siteConfig.city}, {siteConfig.state}</span>
+            {/* Upper Eyebrow Tag */}
+            <div className="text-xs font-extrabold uppercase tracking-widest text-sky-400">
+              {eyebrowText}
             </div>
 
-            {/* Main Headline */}
-            <h1 className="text-4xl sm:text-5xl lg:text-6xl font-black text-white tracking-tight leading-tight">
-              Fast, Reliable <br />
-              <span className="gradient-text">{siteConfig.niche}</span> <br />
-              When You Need It Most.
+            {/* Massive Bold Main Headline */}
+            <h1 className="text-4xl sm:text-5xl lg:text-6xl font-black text-white tracking-tight leading-[1.1]">
+              YOUR HOME OR BUSINESS <br />
+              <span className="text-amber-400 uppercase">PERFECTLY SERVICED.</span> <br />
+              GET A FREE ESTIMATE TODAY
             </h1>
 
-            {/* Subheadline */}
-            <p className="text-base sm:text-lg text-slate-300 max-w-2xl mx-auto lg:mx-0 font-normal leading-relaxed">
-              {siteConfig.description} Upfront pricing, 30-minute emergency arrival, and 100% satisfaction guaranteed.
+            {/* Sub-description */}
+            <p className="text-base sm:text-lg text-slate-300 max-w-2xl font-normal leading-relaxed">
+              {siteConfig.description} Upfront flat-rate pricing, 100% satisfaction guaranteed, and fast dispatch across {siteConfig.city} and surrounding areas.
             </p>
 
-            {/* Bullet Points */}
-            <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 pt-2 text-sm text-slate-200">
-              <div className="flex items-center space-x-2 justify-center lg:justify-start">
-                <CheckCircle2 className="w-4 h-4 text-emerald-400 shrink-0" />
-                <span>Zero After-Hours Extra Fees</span>
+            {/* Stats Bar (PainterBros Hero Bottom) */}
+            <div className="pt-6 border-t border-slate-800/80 grid grid-cols-3 gap-4 max-w-xl">
+              <div>
+                <div className="text-2xl sm:text-3xl font-black text-white">500+</div>
+                <div className="text-xs text-slate-400 font-medium">Google Reviews</div>
               </div>
-              <div className="flex items-center space-x-2 justify-center lg:justify-start">
-                <CheckCircle2 className="w-4 h-4 text-emerald-400 shrink-0" />
-                <span>Verified Local Specialists</span>
+              <div className="border-l border-slate-800 pl-4">
+                <div className="text-2xl sm:text-3xl font-black text-white flex items-center space-x-1">
+                  <span>{siteConfig.reviews.googleRating}★</span>
+                </div>
+                <div className="flex text-amber-400 mt-1">
+                  {[...Array(5)].map((_, i) => (
+                    <Star key={i} className="w-3 h-3 fill-amber-400 text-amber-400" />
+                  ))}
+                </div>
               </div>
-
-              <div className="flex items-center space-x-2 justify-center lg:justify-start">
-                <CheckCircle2 className="w-4 h-4 text-emerald-400 shrink-0" />
-                <span>Same-Day Service Appointments</span>
+              <div className="border-l border-slate-800 pl-4">
+                <div className="text-2xl sm:text-3xl font-black text-white">100k+</div>
+                <div className="text-xs text-slate-400 font-medium">Jobs Completed</div>
               </div>
-              <div className="flex items-center space-x-2 justify-center lg:justify-start">
-                <CheckCircle2 className="w-4 h-4 text-emerald-400 shrink-0" />
-                <span>1-Year Warranty On All Work</span>
-              </div>
-            </div>
-
-            {/* Action Buttons */}
-            <div className="pt-4 flex flex-col sm:flex-row items-center justify-center lg:justify-start gap-4">
-              <a
-                href={`tel:${siteConfig.phoneRaw}`}
-                className="w-full sm:w-auto px-8 py-4 text-base font-bold text-white bg-gradient-to-r from-sky-500 to-blue-600 hover:from-sky-400 hover:to-blue-500 rounded-xl shadow-xl shadow-sky-500/30 hover:scale-105 transition-all flex items-center justify-center space-x-3"
-              >
-                <Phone className="w-5 h-5" />
-                <span>Call {siteConfig.formattedPhone}</span>
-              </a>
-
-              <button
-                onClick={onOpenQuoteModal}
-                className="w-full sm:w-auto px-6 py-4 text-base font-semibold text-slate-100 bg-slate-800/90 hover:bg-slate-700 border border-slate-700 rounded-xl transition-all flex items-center justify-center space-x-2 group"
-              >
-                <span>Get Instant Estimate</span>
-                <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
-              </button>
-            </div>
-
-            {/* Social Proof Snippet */}
-            <div className="pt-4 flex items-center justify-center lg:justify-start space-x-3 text-xs text-slate-400">
-              <div className="flex text-amber-400">
-                {[...Array(5)].map((_, i) => (
-                  <Star key={i} className="w-4 h-4 fill-amber-400" />
-                ))}
-              </div>
-              <span>
-                <strong className="text-white font-bold">{siteConfig.reviews.googleRating} / 5.0</strong> based on {siteConfig.reviews.totalReviews}+ Google Reviews
-              </span>
             </div>
 
           </div>
 
-          {/* Right Column: Hero Card & Trust Matrix */}
+          {/* Right Column (40%): Embedded Hero Consultation Form Card */}
           <div className="lg:col-span-5">
-            <div className="glass-card rounded-2xl p-6 sm:p-8 space-y-6 relative overflow-hidden shadow-2xl">
+            <div className="glass-card rounded-2xl p-6 sm:p-8 border border-slate-800 shadow-2xl bg-slate-900/90 backdrop-blur-md">
               
-              <div className="flex items-center justify-between border-b border-slate-800 pb-4">
-                <div>
-                  <h3 className="text-lg font-bold text-white">Need Emergency Service?</h3>
-                  <p className="text-xs text-slate-400">Dispatching technicians in {siteConfig.city}</p>
-                </div>
-                <div className="px-3 py-1 bg-emerald-500/10 border border-emerald-500/30 rounded-md text-emerald-400 text-xs font-semibold animate-pulse">
-                  Live Dispatch
-                </div>
-              </div>
-
-              {/* Trust Grid */}
-              <div className="grid grid-cols-2 gap-4">
-                {siteConfig.trustBadges.map((badge, idx) => (
-                  <div key={idx} className="p-3.5 rounded-xl bg-slate-800/50 border border-slate-700/50 space-y-1">
-                    <div className="w-8 h-8 rounded-lg bg-sky-500/10 border border-sky-500/20 flex items-center justify-center text-sky-400">
-                      {idx === 0 && <Clock className="w-4 h-4" />}
-                      {idx === 1 && <ShieldCheck className="w-4 h-4" />}
-                      {idx === 2 && <DollarSign className="w-4 h-4 text-emerald-400" />}
-                      {idx === 3 && <Award className="w-4 h-4 text-amber-400" />}
-                    </div>
-                    <div className="font-bold text-sm text-white pt-1">{badge.title}</div>
-                    <div className="text-xs text-slate-400">{badge.subtitle}</div>
+              {submitted ? (
+                <div className="py-10 text-center space-y-4">
+                  <div className="w-14 h-14 bg-emerald-500/20 border border-emerald-500/40 rounded-full flex items-center justify-center mx-auto text-emerald-400">
+                    <Check className="w-7 h-7" />
                   </div>
-                ))}
-              </div>
-
-              {/* Call Out Banner */}
-              <div className="p-4 rounded-xl bg-gradient-to-r from-amber-500/10 to-amber-600/5 border border-amber-500/20 flex items-center justify-between">
-                <div>
-                  <div className="text-xs font-semibold text-amber-400 uppercase tracking-wider">Limited Offer</div>
-                  <div className="text-sm font-bold text-white">$50 OFF First Service Call</div>
+                  <h3 className="text-xl font-bold text-white">Consultation Request Received!</h3>
+                  <p className="text-xs text-slate-300 leading-relaxed">
+                    Thank you, <strong className="text-white">{formData.firstName}</strong>. A representative from <strong className="text-sky-400">{siteConfig.name}</strong> will contact you at <strong className="text-sky-400">{formData.phone}</strong> shortly.
+                  </p>
+                  <button
+                    onClick={() => setSubmitted(false)}
+                    className="mt-4 px-5 py-2 text-xs font-semibold text-slate-300 bg-slate-800 hover:bg-slate-700 rounded-lg border border-slate-700 transition-colors"
+                  >
+                    Submit Another Request
+                  </button>
                 </div>
-                <button
-                  onClick={onOpenQuoteModal}
-                  className="px-3 py-1.5 bg-amber-500 hover:bg-amber-400 text-slate-950 font-bold text-xs rounded-lg transition-colors"
-                >
-                  Claim Offer
-                </button>
-              </div>
+              ) : (
+                <form onSubmit={handleSubmit} className="space-y-4">
+                  <div className="text-center space-y-1 mb-4">
+                    <h3 className="text-lg sm:text-xl font-black text-white tracking-tight">
+                      Work With Our Experts & Schedule Your
+                    </h3>
+                    <div className="text-xl sm:text-2xl font-black text-sky-400 uppercase">
+                      FREE Consultation
+                    </div>
+                  </div>
+
+                  {/* Name Fields */}
+                  <div className="grid grid-cols-2 gap-3">
+                    <input
+                      type="text"
+                      required
+                      placeholder="First Name *"
+                      value={formData.firstName}
+                      onChange={(e) => setFormData({ ...formData, firstName: e.target.value })}
+                      className="w-full px-3.5 py-2.5 bg-slate-950 border border-slate-700 rounded-lg text-xs text-white placeholder-slate-500 focus:outline-none focus:border-sky-500"
+                    />
+                    <input
+                      type="text"
+                      placeholder="Last Name"
+                      value={formData.lastName}
+                      onChange={(e) => setFormData({ ...formData, lastName: e.target.value })}
+                      className="w-full px-3.5 py-2.5 bg-slate-950 border border-slate-700 rounded-lg text-xs text-white placeholder-slate-500 focus:outline-none focus:border-sky-500"
+                    />
+                  </div>
+
+                  {/* Email Field */}
+                  <input
+                    type="email"
+                    placeholder="Email Address *"
+                    value={formData.email}
+                    onChange={(e) => setFormData({ ...formData, email: e.target.value })}
+                    className="w-full px-3.5 py-2.5 bg-slate-950 border border-slate-700 rounded-lg text-xs text-white placeholder-slate-500 focus:outline-none focus:border-sky-500"
+                  />
+
+                  {/* Phone & Zip Code Fields */}
+                  <div className="grid grid-cols-2 gap-3">
+                    <input
+                      type="tel"
+                      required
+                      placeholder="Phone Number *"
+                      value={formData.phone}
+                      onChange={(e) => setFormData({ ...formData, phone: e.target.value })}
+                      className="w-full px-3.5 py-2.5 bg-slate-950 border border-slate-700 rounded-lg text-xs text-white placeholder-slate-500 focus:outline-none focus:border-sky-500"
+                    />
+                    <input
+                      type="text"
+                      placeholder="Zip Code"
+                      value={formData.zipCode}
+                      onChange={(e) => setFormData({ ...formData, zipCode: e.target.value })}
+                      className="w-full px-3.5 py-2.5 bg-slate-950 border border-slate-700 rounded-lg text-xs text-white placeholder-slate-500 focus:outline-none focus:border-sky-500"
+                    />
+                  </div>
+
+                  {/* Property Type Radio Options */}
+                  <div className="flex items-center justify-center space-x-6 py-1 text-xs text-slate-300">
+                    <label className="flex items-center space-x-2 cursor-pointer">
+                      <input
+                        type="radio"
+                        name="propertyType"
+                        value="residential"
+                        checked={formData.propertyType === 'residential'}
+                        onChange={() => setFormData({ ...formData, propertyType: 'residential' })}
+                        className="text-sky-500 focus:ring-sky-500"
+                      />
+                      <span>Residential</span>
+                    </label>
+                    <label className="flex items-center space-x-2 cursor-pointer">
+                      <input
+                        type="radio"
+                        name="propertyType"
+                        value="commercial"
+                        checked={formData.propertyType === 'commercial'}
+                        onChange={() => setFormData({ ...formData, propertyType: 'commercial' })}
+                        className="text-sky-500 focus:ring-sky-500"
+                      />
+                      <span>Commercial</span>
+                    </label>
+                  </div>
+
+                  {/* Terms Checkbox */}
+                  <div className="flex items-start space-x-2 text-[10px] text-slate-400 leading-tight">
+                    <input
+                      type="checkbox"
+                      checked={formData.agreed}
+                      onChange={(e) => setFormData({ ...formData, agreed: e.target.checked })}
+                      className="mt-0.5 rounded text-sky-500"
+                    />
+                    <span>
+                      By checking this box, you agree to receiving text and email communications from {siteConfig.name}. We do not sell your info.
+                    </span>
+                  </div>
+
+                  {/* CTA Button */}
+                  <button
+                    type="submit"
+                    className="w-full py-3.5 text-sm font-extrabold text-slate-950 bg-sky-400 hover:bg-sky-300 rounded-xl shadow-lg transition-all flex items-center justify-center space-x-2"
+                  >
+                    <Send className="w-4 h-4 text-slate-950 fill-slate-950" />
+                    <span>Get My Free Quote</span>
+                  </button>
+
+                  {/* Optional Interactive Estimator Modal Link */}
+                  <div className="text-center pt-1">
+                    <button
+                      type="button"
+                      onClick={onOpenQuoteModal}
+                      className="text-xs text-amber-400 hover:text-amber-300 underline font-semibold transition-colors"
+                    >
+                      Or calculate instant itemized price estimate →
+                    </button>
+                  </div>
+                </form>
+              )}
 
             </div>
           </div>

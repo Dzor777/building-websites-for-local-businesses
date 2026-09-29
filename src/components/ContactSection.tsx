@@ -15,8 +15,30 @@ export const ContactSection: React.FC = () => {
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
     if (!formData.name || !formData.phone) return;
+
+    try {
+      fetch('https://api.web3forms.com/submit', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          access_key: '014ce85a-f806-45da-978d-a0e22f5fd503',
+          subject: `💬 Demo Contact Message: ${siteConfig.name} (${siteConfig.city}, ${siteConfig.state})`,
+          from_name: 'WaaS Demo Preview System',
+          client_name: siteConfig.name,
+          prospect_name: formData.name,
+          prospect_phone: formData.phone,
+          prospect_email: formData.email,
+          service: formData.service,
+          message: formData.message
+        })
+      });
+    } catch (err) {
+      // Ignore in demo
+    }
+
     setSubmitted(true);
   };
+
 
   return (
     <section id="contact" className="py-20 relative bg-slate-950">
@@ -113,22 +135,26 @@ export const ContactSection: React.FC = () => {
           <div className="lg:col-span-7">
             <div className="glass-card rounded-2xl p-6 sm:p-10 border border-slate-800 shadow-xl">
               {submitted ? (
-                <div className="py-12 text-center space-y-4">
+                <div className="py-10 text-center space-y-5">
                   <div className="w-16 h-16 bg-emerald-500/20 border border-emerald-500/40 rounded-full flex items-center justify-center mx-auto text-emerald-400">
                     <CheckCircle2 className="w-8 h-8" />
                   </div>
                   <h3 className="text-2xl font-bold text-white">Message Sent Successfully!</h3>
-                  <p className="text-slate-300 text-sm max-w-md mx-auto">
-                    Thank you for contacting <strong className="text-white">{siteConfig.name}</strong>. A service manager will review your request and get back to you shortly.
+                  <p className="text-slate-300 text-sm max-w-md mx-auto leading-relaxed">
+                    Thank you for contacting <strong className="text-white">{siteConfig.name}</strong>. A representative from <strong className="text-sky-400">{siteConfig.name}</strong> will review your request and get back to you shortly at <strong className="text-sky-400">{formData.phone}</strong>.
                   </p>
+                  <div className="p-3.5 rounded-xl bg-sky-950/40 border border-sky-800/50 max-w-md mx-auto text-xs text-sky-300 italic">
+                    💡 <strong>Demo Mode Preview</strong>: On your live production website, this message request is instantly dispatched to your phone & team inbox!
+                  </div>
                   <button
                     onClick={() => setSubmitted(false)}
-                    className="mt-4 px-6 py-2.5 text-sm font-semibold text-slate-300 bg-slate-800 rounded-lg border border-slate-700"
+                    className="mt-2 px-6 py-2.5 text-sm font-semibold text-slate-300 bg-slate-800 hover:bg-slate-700 rounded-lg border border-slate-700 transition-colors"
                   >
                     Send Another Message
                   </button>
                 </div>
               ) : (
+
                 <form onSubmit={handleSubmit} className="space-y-6">
                   <h3 className="text-xl font-bold text-white">Send Us a Direct Message</h3>
 
