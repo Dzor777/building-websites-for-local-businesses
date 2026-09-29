@@ -168,7 +168,7 @@ roth.dylan777@gmail.com
 
 ### 6. Sirius Plumbing & Air Conditioning
 
-* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://siriuspac.com](https://siriuspac.com) | **To Email:** `service@siriuspac.com` | **Phone:** (972) 235-6600 | **City:** Frisco, TX
+* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://siriuspac.com](https://siriuspac.com) | **To Email:** `service@siriuspac.com` | **Phone:** (972) 703-9450 | **City:** Frisco, TX
 
 **Subject:** Modern quote calculator preview for Sirius Plumbing & Air Conditioning / Frisco
 
@@ -360,7 +360,7 @@ roth.dylan777@gmail.com
 
 ### 12. Kidd Roofing San Antonio
 
-* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://www.kiddroof.com](https://www.kiddroof.com) | **To Email:** `info@kiddroof.com` | **Phone:** (210) 832-8241 | **City:** San Antonio, TX
+* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://www.kiddroof.com](https://www.kiddroof.com) | **To Email:** `info@kiddroof.com` | **Phone:** (866) 671-7791 | **City:** San Antonio, TX
 
 **Subject:** Modern quote calculator preview for Kidd Roofing San Antonio / San Antonio
 
@@ -392,7 +392,7 @@ roth.dylan777@gmail.com
 
 ### 13. BlackRock Plumbing Company
 
-* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://blackrockplumbingtx.com](https://blackrockplumbingtx.com) | **To Email:** `service@blackrockplumbingtx.com` | **Phone:** (469) 877-7798 | **City:** Melissa, TX
+* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://blackrockplumbingtx.com](https://blackrockplumbingtx.com) | **To Email:** `service@blackrockplumbingtx.com` | **Phone:** (469) 772-5766 | **City:** Melissa, TX
 
 **Subject:** Quick note regarding BlackRock Plumbing Company's mobile site / Melissa
 
@@ -616,7 +616,7 @@ roth.dylan777@gmail.com
 
 ### 20. Blue Sky Roofing
 
-* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://www.blueskyroofs.com](https://www.blueskyroofs.com) | **To Email:** `service@blueskyroofs.com` | **Phone:** (512) 495-9770 | **City:** San Antonio, TX
+* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://www.blueskyroofs.com](https://www.blueskyroofs.com) | **To Email:** `service@blueskyroofs.com` | **Phone:** (512) 649-8244 | **City:** San Antonio, TX
 
 **Subject:** Quick note regarding Blue Sky Roofing's mobile site / San Antonio
 

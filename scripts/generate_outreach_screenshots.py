@@ -88,12 +88,15 @@ def create_comparison_image(before_path: Path, after_path: Path, output_path: Pa
     canvas.save(output_path, "PNG", optimize=True)
 
 
-def capture_lead_screenshots(lead, page, output_dir: Path):
+def capture_lead_screenshots(lead, page, output_dir: Path, keep_before: bool = False, local_port: int = None):
     lead_id = lead["id"]
     name = lead.get("business_name") or lead.get("businessName", f"Lead #{lead_id}")
     slug = lead.get("slug", f"lead-{lead_id}")
     current_url = lead.get("url") or lead.get("currentWebsite", "")
-    preview_url = lead.get("preview_url") or f"https://dzor777.github.io/building-websites-for-local-businesses/?client={slug}"
+    if local_port:
+        preview_url = f"http://localhost:{local_port}/?client={slug}"
+    else:
+        preview_url = lead.get("preview_url") or f"https://dzor777.github.io/building-websites-for-local-businesses/?client={slug}"
 
     indiv_dir = output_dir / "individual"
     indiv_dir.mkdir(parents=True, exist_ok=True)
@@ -105,30 +108,32 @@ def capture_lead_screenshots(lead, page, output_dir: Path):
     print(f"\n[{lead_id}/20] Processing {name}...")
 
     # 1. Capture Current Site (Before)
-    print(f"  --> Capturing current website: {current_url}")
-    try:
-        page.goto(current_url, timeout=20000, wait_until="domcontentloaded")
-        page.wait_for_timeout(2500)
-        page.screenshot(path=str(before_path))
-    except Exception as e:
-        print(f"  [!] Note: Could not load live site ({e}). Creating fallback card.")
-        # Create fallback error card for offline/insecure site
-        fb = Image.new("RGB", (390, 844), color=(30, 41, 59))
-        fb_draw = ImageDraw.Draw(fb)
-        fb_draw.text((40, 380), "Site Security Warning / Offline", fill=(248, 113, 113), font=get_font(18, bold=True))
-        fb_draw.text((40, 420), f"URL: {current_url}", fill=(148, 163, 184), font=get_font(12))
-        fb_draw.text((40, 440), "Unable to establish secure HTTPS connection", fill=(148, 163, 184), font=get_font(12))
-        fb.save(before_path, "PNG")
+    if keep_before and before_path.exists():
+        print(f"  --> Using existing verified before screenshot: {before_path.name}")
+    else:
+        print(f"  --> Capturing current website: {current_url}")
+        try:
+            page.goto(current_url, timeout=25000, wait_until="domcontentloaded")
+            page.wait_for_timeout(3000)
+            page.screenshot(path=str(before_path))
+        except Exception as e:
+            print(f"  [!] Note: Could not load live site ({e}). Creating fallback card.")
+            fb = Image.new("RGB", (390, 844), color=(30, 41, 59))
+            fb_draw = ImageDraw.Draw(fb)
+            fb_draw.text((40, 380), "Site Security Warning / Offline", fill=(248, 113, 113), font=get_font(18, bold=True))
+            fb_draw.text((40, 420), f"URL: {current_url}", fill=(148, 163, 184), font=get_font(12))
+            fb_draw.text((40, 440), "Unable to establish secure HTTPS connection", fill=(148, 163, 184), font=get_font(12))
+            fb.save(before_path, "PNG")
 
     # 2. Capture Demo Upgrade (After)
     print(f"  --> Capturing modern demo: {preview_url}")
     try:
-        page.goto(preview_url, timeout=20000, wait_until="networkidle")
+        page.goto(preview_url, timeout=25000, wait_until="networkidle")
         page.wait_for_timeout(2000)
         page.screenshot(path=str(after_path))
     except Exception as e:
         print(f"  [!] Error loading demo ({e}). Retrying with domcontentloaded...")
-        page.goto(preview_url, timeout=20000, wait_until="domcontentloaded")
+        page.goto(preview_url, timeout=25000, wait_until="domcontentloaded")
         page.wait_for_timeout(2500)
         page.screenshot(path=str(after_path))
 
@@ -145,6 +150,8 @@ def main():
     parser.add_argument("--start", type=int, help="Start lead ID range (e.g. --start 1)")
     parser.add_argument("--end", type=int, help="End lead ID range (e.g. --end 5)")
     parser.add_argument("--batch", type=int, default=1, help="Target batch number (default: 1)")
+    parser.add_argument("--keep-before", action="store_true", help="Preserve existing before screenshots if present")
+    parser.add_argument("--local-port", type=int, default=None, help="Use local dev/preview port for after demo")
     parser.add_argument("--output-dir", type=str, default=str(DEFAULT_OUTPUT_DIR), help="Output directory")
     args = parser.parse_args()
 
@@ -179,20 +186,23 @@ def main():
     start_time = time.time()
 
     with sync_playwright() as p:
-        browser = p.chromium.launch(headless=True)
-        # Emulate modern mobile device (iPhone 14 / standard 390x844 viewport)
+        try:
+            browser = p.chromium.launch(channel="chrome", headless=False)
+        except Exception:
+            browser = p.chromium.launch(headless=True)
+
         context = browser.new_context(
             viewport={"width": 390, "height": 844},
             is_mobile=True,
             has_touch=True,
             device_scale_factor=2,
             ignore_https_errors=True,
-            user_agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+            user_agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
         )
         page = context.new_page()
 
         for lead in target_leads:
-            capture_lead_screenshots(lead, page, output_dir)
+            capture_lead_screenshots(lead, page, output_dir, keep_before=args.keep_before, local_port=args.local_port)
 
         browser.close()
 
