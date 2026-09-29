@@ -8,7 +8,7 @@ This document contains 20 personalized, ready-to-send cold email pitches for ver
 
 ### 1. Bewley Plumbing, LLC
 
-* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://www.bewleyplumbing.com](https://www.bewleyplumbing.com) | **To Email:** `info@bewleyplumbing.com` | **Phone:** (972) 562-0037 | **City:** McKinney, TX
+* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://www.bewleyplumbing.com](https://www.bewleyplumbing.com) | **To Email:** `info@bewleyplumbing.com` | **Phone:** (972) 562-0037 | **City:** McKinney, TX | **Status:** 📤 Sent / Scheduled
 
 **Subject:** Quick note regarding Bewley Plumbing, LLC's mobile site / McKinney
 
@@ -40,7 +40,7 @@ roth.dylan777@gmail.com
 
 ### 2. Performance Roofing of DFW
 
-* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://performanceroofingtx.com](https://performanceroofingtx.com) | **To Email:** `sales@performanceroofingtx.com` | **Phone:** (972) 360-8042 | **City:** McKinney, TX
+* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://performanceroofingtx.com](https://performanceroofingtx.com) | **To Email:** `sales@performanceroofingtx.com` | **Phone:** (972) 360-8042 | **City:** McKinney, TX | **Status:** 📤 Sent / Scheduled
 
 **Subject:** Quick note regarding Performance Roofing of DFW's mobile site / McKinney
 
@@ -72,7 +72,7 @@ roth.dylan777@gmail.com
 
 ### 3. Cross Air Heating & Cooling
 
-* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://crossairwecare.com](https://crossairwecare.com) | **To Email:** `service@crossairwecare.com` | **Phone:** (945) 220-8181 | **City:** Melissa, TX
+* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://crossairwecare.com](https://crossairwecare.com) | **To Email:** `service@crossairwecare.com` | **Phone:** (945) 220-8181 | **City:** Melissa, TX | **Status:** 📤 Sent / Scheduled
 
 **Subject:** Modern quote calculator preview for Cross Air Heating & Cooling / Melissa
 
@@ -104,7 +104,7 @@ roth.dylan777@gmail.com
 
 ### 4. Banner Roofing & Construction
 
-* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://banner-roofing.com](https://banner-roofing.com) | **To Email:** `info@banner-roofing.com` | **Phone:** (682) 207-1586 | **City:** Anna, TX
+* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://banner-roofing.com](https://banner-roofing.com) | **To Email:** `info@banner-roofing.com` | **Phone:** (682) 207-1586 | **City:** Anna, TX | **Status:** 📤 Sent / Scheduled
 
 **Subject:** Quick note regarding Banner Roofing & Construction's mobile site / Anna
 
@@ -136,7 +136,7 @@ roth.dylan777@gmail.com
 
 ### 5. Murley Plumbing
 
-* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://www.murleyplumbing.com](https://www.murleyplumbing.com) | **To Email:** `billing@murleyplumbing.com` | **Phone:** (972) 548-0799 | **City:** Anna, TX
+* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://www.murleyplumbing.com](https://www.murleyplumbing.com) | **To Email:** `service@murleyplumbing.com` | **Phone:** (972) 548-0799 | **City:** Anna, TX | **Status:** 📤 Sent / Scheduled
 
 **Subject:** Modern quote calculator preview for Murley Plumbing / Anna
 
