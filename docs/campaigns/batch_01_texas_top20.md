@@ -328,7 +328,7 @@ roth.dylan777@gmail.com
 
 ### 11. Braun Roofing & Construction
 
-* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://www.braunsroofing.com](https://www.braunsroofing.com) | **To Email:** `info@braunsroofing.com` | **Phone:** (713) 645-0505 | **City:** Houston, TX
+* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://www.braunsroofing.com](https://www.braunsroofing.com) | **To Email:** `info@braunsroofing.com` | **Phone:** (713) 645-0505 | **City:** Houston, TX | **Status:** 📤 Sent / Scheduled
 
 **Subject:** Quick note regarding Braun Roofing & Construction's mobile site / Houston
 
@@ -360,7 +360,7 @@ roth.dylan777@gmail.com
 
 ### 12. Kidd Roofing San Antonio
 
-* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://www.kiddroof.com](https://www.kiddroof.com) | **To Email:** `info@kiddroof.com` | **Phone:** (866) 671-7791 | **City:** San Antonio, TX
+* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://www.kiddroof.com](https://www.kiddroof.com) | **To Email:** `info@kiddroof.com` | **Phone:** (866) 671-7791 | **City:** San Antonio, TX | **Status:** 📤 Sent / Scheduled
 
 **Subject:** Modern quote calculator preview for Kidd Roofing San Antonio / San Antonio
 
@@ -392,7 +392,7 @@ roth.dylan777@gmail.com
 
 ### 13. BlackRock Plumbing Company
 
-* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://blackrockplumbingtx.com](https://blackrockplumbingtx.com) | **To Email:** `service@blackrockplumbingtx.com` | **Phone:** (469) 772-5766 | **City:** Melissa, TX
+* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://blackrockplumbingtx.com](https://blackrockplumbingtx.com) | **To Email:** `service@blackrockplumbingtx.com` | **Phone:** (469) 772-5766 | **City:** Melissa, TX | **Status:** 📤 Sent / Scheduled
 
 **Subject:** Quick note regarding BlackRock Plumbing Company's mobile site / Melissa
 
@@ -424,7 +424,7 @@ roth.dylan777@gmail.com
 
 ### 14. Jason Airtex HVAC
 
-* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://www.jasonsairtex.com](https://www.jasonsairtex.com) | **To Email:** `jasonsairtex@gmail.com` | **Phone:** (972) 285-3700 | **City:** Anna, TX
+* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://www.jasonsairtex.com](https://www.jasonsairtex.com) | **To Email:** `jasonsairtex@gmail.com` | **Phone:** (972) 285-3700 | **City:** Anna, TX | **Status:** 📤 Sent / Scheduled
 
 **Subject:** Modern quote calculator preview for Jason Airtex HVAC / Anna
 
@@ -456,7 +456,7 @@ roth.dylan777@gmail.com
 
 ### 15. AugerPros Plumbing
 
-* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://augerpros.com](https://augerpros.com) | **To Email:** `contact@augerpros.com` | **Phone:** (214) 206-6580 | **City:** McKinney, TX
+* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://augerpros.com](https://augerpros.com) | **To Email:** `contact@augerpros.com` | **Phone:** (214) 206-6580 | **City:** McKinney, TX | **Status:** 📤 Sent / Scheduled
 
 **Subject:** Quick note regarding AugerPros Plumbing's mobile site / McKinney
 
@@ -488,7 +488,7 @@ roth.dylan777@gmail.com
 
 ### 16. Smith and Son Plumbing
 
-* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://smithandsonplumbing.com](https://smithandsonplumbing.com) | **To Email:** `service@smithandsonplumbing.com` | **Phone:** (214) 430-7747 | **City:** McKinney, TX
+* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://smithandsonplumbing.com](https://smithandsonplumbing.com) | **To Email:** `service@smithandsonplumbing.com` | **Phone:** (214) 430-7747 | **City:** McKinney, TX | **Status:** 📤 Sent / Scheduled
 
 **Subject:** Modern quote calculator preview for Smith and Son Plumbing / McKinney
 
@@ -520,7 +520,7 @@ roth.dylan777@gmail.com
 
 ### 17. OneSource Roofing
 
-* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://onesourceroofs.com](https://onesourceroofs.com) | **To Email:** `contact@onesourceroofs.com` | **Phone:** (972) 928-2988 | **City:** Melissa, TX
+* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://onesourceroofs.com](https://onesourceroofs.com) | **To Email:** `contact@onesourceroofs.com` | **Phone:** (972) 928-2988 | **City:** Melissa, TX | **Status:** 📤 Sent / Scheduled
 
 **Subject:** Quick note regarding OneSource Roofing's mobile site / Melissa
 
@@ -552,7 +552,7 @@ roth.dylan777@gmail.com
 
 ### 18. Colony Air Conditioning & Heating
 
-* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://www.colonyac.com](https://www.colonyac.com) | **To Email:** `info@colonyac.com` | **Phone:** (972) 591-0293 | **City:** Plano, TX
+* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://www.colonyac.com](https://www.colonyac.com) | **To Email:** `info@colonyac.com` | **Phone:** (972) 591-0293 | **City:** Plano, TX | **Status:** 📤 Sent / Scheduled
 
 **Subject:** Modern quote calculator preview for Colony Air Conditioning & Heating / Plano
 
@@ -584,7 +584,7 @@ roth.dylan777@gmail.com
 
 ### 19. Hargrove Roofing Austin
 
-* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://www.hargroveroofing.com](https://www.hargroveroofing.com) | **To Email:** `quotes@hargroveroofing.com` | **Phone:** (737) 378-8393 | **City:** Austin, TX
+* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://www.hargroveroofing.com](https://www.hargroveroofing.com) | **To Email:** `quotes@hargroveroofing.com` | **Phone:** (737) 378-8393 | **City:** Austin, TX | **Status:** 📤 Sent / Scheduled
 
 **Subject:** Modern quote calculator preview for Hargrove Roofing Austin / Austin
 
@@ -616,7 +616,7 @@ roth.dylan777@gmail.com
 
 ### 20. Blue Sky Roofing
 
-* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://www.blueskyroofs.com](https://www.blueskyroofs.com) | **To Email:** `service@blueskyroofs.com` | **Phone:** (512) 649-8244 | **City:** San Antonio, TX
+* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://www.blueskyroofs.com](https://www.blueskyroofs.com) | **To Email:** `service@blueskyroofs.com` | **Phone:** (512) 649-8244 | **City:** San Antonio, TX | **Status:** 📤 Sent / Scheduled
 
 **Subject:** Quick note regarding Blue Sky Roofing's mobile site / San Antonio
 

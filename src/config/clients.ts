@@ -1930,4 +1930,1965 @@ export const clientRegistry: Record<string, SiteConfig> = {
       }
     ]
   }
+,
+  "james-plumbing-allen": {
+    "slug": "james-plumbing-allen",
+    "name": "James Plumbing",
+    "legalName": "James Plumbing LLC",
+    "domain": "calljamesplumbing.com",
+    "url": "https://calljamesplumbing.com",
+    "logoIcon": "Droplet",
+    "tagline": "Allen's Trusted Same-Day Plumbing & Drain Solutions",
+    "description": "James Plumbing delivers 24/7 emergency plumbing, hydro-jet drain cleaning, slab leak detection, and water heater service. across Allen, TX.",
+    "niche": "Plumbing & Drain Services",
+    "city": "Allen",
+    "state": "TX",
+    "phone": "(214) 286-6747",
+    "formattedPhone": "(214) 286-6747",
+    "phoneRaw": "+12142866747",
+    "email": "service@calljamesplumbing.com",
+    "address": {
+        "street": "100 Main St",
+        "city": "Allen",
+        "state": "TX",
+        "zip": "75000",
+        "googleMapsEmbedUrl": ""
+    },
+    "googleAnalyticsId": "G-DEMO999",
+    "web3FormsAccessKey": "YOUR_KEY",
+    "hours": {
+        "days": "Monday - Sunday",
+        "time": "24/7 Emergency Dispatch",
+        "is24_7": true
+    },
+    "colors": {
+        "primary": "#0284c7",
+        "primaryDark": "#0369a1",
+        "accent": "#f59e0b"
+    },
+    "trustBadges": [
+        {
+            "title": "Licensed Master Plumber",
+            "subtitle": "State Certified Pros",
+            "icon": "ShieldCheck"
+        },
+        {
+            "title": "24/7 Emergency Dispatch",
+            "subtitle": "Fast Local Arrival",
+            "icon": "Clock"
+        },
+        {
+            "title": "Upfront Flat Pricing",
+            "subtitle": "No Surprise Fees",
+            "icon": "DollarSign"
+        },
+        {
+            "title": "Satisfaction Guaranteed",
+            "subtitle": "100% Quality Promise",
+            "icon": "Award"
+        }
+    ],
+    "services": [
+        {
+            "id": "emergency-drain",
+            "name": "Emergency Hydro-Jet Drain Cleaning",
+            "shortDesc": "Fast high-pressure root & grease removal.",
+            "fullDesc": "Clears blocked lines with digital video camera confirmation.",
+            "basePrice": 149,
+            "iconName": "Droplet",
+            "badge": "24/7 Service"
+        },
+        {
+            "id": "water-heater",
+            "name": "Water Heater Repair & Replacement",
+            "shortDesc": "Same-day tank & tankless water heater installation.",
+            "fullDesc": "High-efficiency systems for nonstop reliable hot water.",
+            "basePrice": 299,
+            "iconName": "Flame"
+        }
+    ],
+    "reviews": {
+        "googleRating": 4.9,
+        "totalReviews": 182,
+        "items": [
+            {
+                "id": "r1",
+                "author": "Mark R.",
+                "rating": 5,
+                "date": "3 days ago",
+                "comment": "James Plumbing did a fantastic job at our home in Allen. Super fast response and transparent pricing!",
+                "serviceUsed": "Emergency Hydro-Jet Drain Cleaning",
+                "verified": true
+            }
+        ]
+    },
+    "faqs": [
+        {
+            "question": "Do you provide emergency plumbing service?",
+            "answer": "Yes, our certified plumbers are on call 24/7 for urgent leaks, backups, and emergency repairs."
+        }
+    ]
+},
+  "over-the-top-roofing-denton": {
+    "slug": "over-the-top-roofing-denton",
+    "name": "Over The Top Roofing",
+    "legalName": "Over The Top Roofing LLC",
+    "domain": "ntxroofs.com",
+    "url": "https://ntxroofs.com",
+    "logoIcon": "Home",
+    "tagline": "Denton's Storm Damage, Leak Repair & Roof Replacement",
+    "description": "Over The Top Roofing delivers Free roof damage inspections, emergency leak tarping, architectural shingle replacement, and insurance claim support. across Denton, TX.",
+    "niche": "Roofing & Restoration",
+    "city": "Denton",
+    "state": "TX",
+    "phone": "(940) 391-6773",
+    "formattedPhone": "(940) 391-6773",
+    "phoneRaw": "+19403916773",
+    "email": "office@ntxroofs.com",
+    "address": {
+        "street": "100 Main St",
+        "city": "Denton",
+        "state": "TX",
+        "zip": "75000",
+        "googleMapsEmbedUrl": ""
+    },
+    "googleAnalyticsId": "G-DEMO999",
+    "web3FormsAccessKey": "YOUR_KEY",
+    "hours": {
+        "days": "Monday - Sunday",
+        "time": "24/7 Emergency Dispatch",
+        "is24_7": true
+    },
+    "colors": {
+        "primary": "#1e3a8a",
+        "primaryDark": "#172554",
+        "accent": "#d97706"
+    },
+    "trustBadges": [
+        {
+            "title": "GAF Certified",
+            "subtitle": "Factory-Trained Installers",
+            "icon": "ShieldCheck"
+        },
+        {
+            "title": "Free Inspection",
+            "subtitle": "Comprehensive Roof Audit",
+            "icon": "Search"
+        },
+        {
+            "title": "Emergency Tarping",
+            "subtitle": "Fast Storm Dispatch",
+            "icon": "Clock"
+        },
+        {
+            "title": "Warranty Backed",
+            "subtitle": "Up to 50-Year Coverage",
+            "icon": "Award"
+        }
+    ],
+    "services": [
+        {
+            "id": "free-inspection",
+            "name": "Free Roof & Attic Inspection",
+            "shortDesc": "Detailed roof health analysis with photo documentation.",
+            "fullDesc": "Identifies hail, wind, and age-related wear before leaks spread.",
+            "basePrice": 0,
+            "iconName": "Search",
+            "badge": "Free Inspection"
+        },
+        {
+            "id": "leak-repair",
+            "name": "Emergency Roof Leak & Tarp Service",
+            "shortDesc": "Immediate leak stopping and storm damage protection.",
+            "fullDesc": "Weather-proof sealing to prevent drywall, insulation, and timber rot.",
+            "basePrice": 199,
+            "iconName": "Home"
+        }
+    ],
+    "reviews": {
+        "googleRating": 4.9,
+        "totalReviews": 182,
+        "items": [
+            {
+                "id": "r1",
+                "author": "Mark R.",
+                "rating": 5,
+                "date": "3 days ago",
+                "comment": "Over The Top Roofing did a fantastic job at our home in Denton. Super fast response and transparent pricing!",
+                "serviceUsed": "Free Roof & Attic Inspection",
+                "verified": true
+            }
+        ]
+    },
+    "faqs": [
+        {
+            "question": "How much does a roof damage inspection cost?",
+            "answer": "Our initial storm inspection and damage report are 100% complimentary with no obligation."
+        }
+    ]
+},
+  "best-air-denton": {
+    "slug": "best-air-denton",
+    "name": "Best Air Denton",
+    "legalName": "Best Air Denton LLC",
+    "domain": "bestairofdenton.com",
+    "url": "https://bestairofdenton.com",
+    "logoIcon": "Wind",
+    "tagline": "Denton's High-Efficiency AC Repair & Heating Specialists",
+    "description": "Best Air Denton delivers Emergency cooling repairs, seasonal HVAC system maintenance, and new high-efficiency installations. across Denton, TX.",
+    "niche": "HVAC & Air Conditioning",
+    "city": "Denton",
+    "state": "TX",
+    "phone": "(940) 387-9034",
+    "formattedPhone": "(940) 387-9034",
+    "phoneRaw": "+19403879034",
+    "email": "service@bestairofdenton.com",
+    "address": {
+        "street": "100 Main St",
+        "city": "Denton",
+        "state": "TX",
+        "zip": "75000",
+        "googleMapsEmbedUrl": ""
+    },
+    "googleAnalyticsId": "G-DEMO999",
+    "web3FormsAccessKey": "YOUR_KEY",
+    "hours": {
+        "days": "Monday - Sunday",
+        "time": "24/7 Emergency Dispatch",
+        "is24_7": true
+    },
+    "colors": {
+        "primary": "#0284c7",
+        "primaryDark": "#0369a1",
+        "accent": "#ea580c"
+    },
+    "trustBadges": [
+        {
+            "title": "EPA & NATE Certified",
+            "subtitle": "Master Technicians",
+            "icon": "ShieldCheck"
+        },
+        {
+            "title": "Rapid Dispatch",
+            "subtitle": "Under 60 Min Arrival",
+            "icon": "Clock"
+        },
+        {
+            "title": "Flat-Rate Pricing",
+            "subtitle": "No Overtime Surprises",
+            "icon": "DollarSign"
+        },
+        {
+            "title": "100% Guaranteed",
+            "subtitle": "Complete Peace of Mind",
+            "icon": "Award"
+        }
+    ],
+    "services": [
+        {
+            "id": "ac-repair",
+            "name": "Emergency AC Repair & Diagnostic",
+            "shortDesc": "Rapid cooling diagnostics and refrigerant recharge.",
+            "fullDesc": "Pinpoints component failures to get cool air running fast.",
+            "basePrice": 89,
+            "iconName": "Wind",
+            "badge": "Same Day"
+        },
+        {
+            "id": "system-replacement",
+            "name": "High-Efficiency HVAC Replacement",
+            "shortDesc": "Complete system upgrades with smart thermostat integration.",
+            "fullDesc": "Lowers energy bills while maximizing indoor cooling comfort.",
+            "basePrice": 499,
+            "iconName": "Flame"
+        }
+    ],
+    "reviews": {
+        "googleRating": 4.9,
+        "totalReviews": 182,
+        "items": [
+            {
+                "id": "r1",
+                "author": "Mark R.",
+                "rating": 5,
+                "date": "3 days ago",
+                "comment": "Best Air Denton did a fantastic job at our home in Denton. Super fast response and transparent pricing!",
+                "serviceUsed": "Emergency AC Repair & Diagnostic",
+                "verified": true
+            }
+        ]
+    },
+    "faqs": [
+        {
+            "question": "What is included in an HVAC diagnostic visit?",
+            "answer": "Our multi-point inspection covers electrical contacts, refrigerant levels, compressor health, and airflow."
+        }
+    ]
+},
+  "ryerson-roofing-grapevine": {
+    "slug": "ryerson-roofing-grapevine",
+    "name": "Ryerson Roofing",
+    "legalName": "Ryerson Roofing LLC",
+    "domain": "rroofer.com",
+    "url": "https://rroofer.com",
+    "logoIcon": "Home",
+    "tagline": "Grapevine's Storm Damage, Leak Repair & Roof Replacement",
+    "description": "Ryerson Roofing delivers Free roof damage inspections, emergency leak tarping, architectural shingle replacement, and insurance claim support. across Grapevine, TX.",
+    "niche": "Roofing & Restoration",
+    "city": "Grapevine",
+    "state": "TX",
+    "phone": "(817) 756-7686",
+    "formattedPhone": "(817) 756-7686",
+    "phoneRaw": "+18177567686",
+    "email": "info@rroofer.com",
+    "address": {
+        "street": "100 Main St",
+        "city": "Grapevine",
+        "state": "TX",
+        "zip": "75000",
+        "googleMapsEmbedUrl": ""
+    },
+    "googleAnalyticsId": "G-DEMO999",
+    "web3FormsAccessKey": "YOUR_KEY",
+    "hours": {
+        "days": "Monday - Sunday",
+        "time": "24/7 Emergency Dispatch",
+        "is24_7": true
+    },
+    "colors": {
+        "primary": "#1e3a8a",
+        "primaryDark": "#172554",
+        "accent": "#d97706"
+    },
+    "trustBadges": [
+        {
+            "title": "GAF Certified",
+            "subtitle": "Factory-Trained Installers",
+            "icon": "ShieldCheck"
+        },
+        {
+            "title": "Free Inspection",
+            "subtitle": "Comprehensive Roof Audit",
+            "icon": "Search"
+        },
+        {
+            "title": "Emergency Tarping",
+            "subtitle": "Fast Storm Dispatch",
+            "icon": "Clock"
+        },
+        {
+            "title": "Warranty Backed",
+            "subtitle": "Up to 50-Year Coverage",
+            "icon": "Award"
+        }
+    ],
+    "services": [
+        {
+            "id": "free-inspection",
+            "name": "Free Roof & Attic Inspection",
+            "shortDesc": "Detailed roof health analysis with photo documentation.",
+            "fullDesc": "Identifies hail, wind, and age-related wear before leaks spread.",
+            "basePrice": 0,
+            "iconName": "Search",
+            "badge": "Free Inspection"
+        },
+        {
+            "id": "leak-repair",
+            "name": "Emergency Roof Leak & Tarp Service",
+            "shortDesc": "Immediate leak stopping and storm damage protection.",
+            "fullDesc": "Weather-proof sealing to prevent drywall, insulation, and timber rot.",
+            "basePrice": 199,
+            "iconName": "Home"
+        }
+    ],
+    "reviews": {
+        "googleRating": 4.9,
+        "totalReviews": 182,
+        "items": [
+            {
+                "id": "r1",
+                "author": "Mark R.",
+                "rating": 5,
+                "date": "3 days ago",
+                "comment": "Ryerson Roofing did a fantastic job at our home in Grapevine. Super fast response and transparent pricing!",
+                "serviceUsed": "Free Roof & Attic Inspection",
+                "verified": true
+            }
+        ]
+    },
+    "faqs": [
+        {
+            "question": "How much does a roof damage inspection cost?",
+            "answer": "Our initial storm inspection and damage report are 100% complimentary with no obligation."
+        }
+    ]
+},
+  "grapevine-plumbing-co": {
+    "slug": "grapevine-plumbing-co",
+    "name": "Grapevine Plumbing Co.",
+    "legalName": "Grapevine Plumbing Co. LLC",
+    "domain": "grapevineplumbingco.com",
+    "url": "https://grapevineplumbingco.com",
+    "logoIcon": "Droplet",
+    "tagline": "Grapevine's Trusted Same-Day Plumbing & Drain Solutions",
+    "description": "Grapevine Plumbing Co. delivers 24/7 emergency plumbing, hydro-jet drain cleaning, slab leak detection, and water heater service. across Grapevine, TX.",
+    "niche": "Plumbing & Drain Services",
+    "city": "Grapevine",
+    "state": "TX",
+    "phone": "(817) 435-4456",
+    "formattedPhone": "(817) 435-4456",
+    "phoneRaw": "+18174354456",
+    "email": "service@grapevineplumbingco.com",
+    "address": {
+        "street": "100 Main St",
+        "city": "Grapevine",
+        "state": "TX",
+        "zip": "75000",
+        "googleMapsEmbedUrl": ""
+    },
+    "googleAnalyticsId": "G-DEMO999",
+    "web3FormsAccessKey": "YOUR_KEY",
+    "hours": {
+        "days": "Monday - Sunday",
+        "time": "24/7 Emergency Dispatch",
+        "is24_7": true
+    },
+    "colors": {
+        "primary": "#0284c7",
+        "primaryDark": "#0369a1",
+        "accent": "#f59e0b"
+    },
+    "trustBadges": [
+        {
+            "title": "Licensed Master Plumber",
+            "subtitle": "State Certified Pros",
+            "icon": "ShieldCheck"
+        },
+        {
+            "title": "24/7 Emergency Dispatch",
+            "subtitle": "Fast Local Arrival",
+            "icon": "Clock"
+        },
+        {
+            "title": "Upfront Flat Pricing",
+            "subtitle": "No Surprise Fees",
+            "icon": "DollarSign"
+        },
+        {
+            "title": "Satisfaction Guaranteed",
+            "subtitle": "100% Quality Promise",
+            "icon": "Award"
+        }
+    ],
+    "services": [
+        {
+            "id": "emergency-drain",
+            "name": "Emergency Hydro-Jet Drain Cleaning",
+            "shortDesc": "Fast high-pressure root & grease removal.",
+            "fullDesc": "Clears blocked lines with digital video camera confirmation.",
+            "basePrice": 149,
+            "iconName": "Droplet",
+            "badge": "24/7 Service"
+        },
+        {
+            "id": "water-heater",
+            "name": "Water Heater Repair & Replacement",
+            "shortDesc": "Same-day tank & tankless water heater installation.",
+            "fullDesc": "High-efficiency systems for nonstop reliable hot water.",
+            "basePrice": 299,
+            "iconName": "Flame"
+        }
+    ],
+    "reviews": {
+        "googleRating": 4.9,
+        "totalReviews": 182,
+        "items": [
+            {
+                "id": "r1",
+                "author": "Mark R.",
+                "rating": 5,
+                "date": "3 days ago",
+                "comment": "Grapevine Plumbing Co. did a fantastic job at our home in Grapevine. Super fast response and transparent pricing!",
+                "serviceUsed": "Emergency Hydro-Jet Drain Cleaning",
+                "verified": true
+            }
+        ]
+    },
+    "faqs": [
+        {
+            "question": "Do you provide emergency plumbing service?",
+            "answer": "Yes, our certified plumbers are on call 24/7 for urgent leaks, backups, and emergency repairs."
+        }
+    ]
+},
+  "the-plumbing-service-arlington": {
+    "slug": "the-plumbing-service-arlington",
+    "name": "The Plumbing Service",
+    "legalName": "The Plumbing Service LLC",
+    "domain": "theplumbingservice.com",
+    "url": "https://theplumbingservice.com",
+    "logoIcon": "Droplet",
+    "tagline": "Arlington's Trusted Same-Day Plumbing & Drain Solutions",
+    "description": "The Plumbing Service delivers 24/7 emergency plumbing, hydro-jet drain cleaning, slab leak detection, and water heater service. across Arlington, TX.",
+    "niche": "Plumbing & Drain Services",
+    "city": "Arlington",
+    "state": "TX",
+    "phone": "(817) 225-2153",
+    "formattedPhone": "(817) 225-2153",
+    "phoneRaw": "+18172252153",
+    "email": "brent@theplumbingservice.com",
+    "address": {
+        "street": "100 Main St",
+        "city": "Arlington",
+        "state": "TX",
+        "zip": "75000",
+        "googleMapsEmbedUrl": ""
+    },
+    "googleAnalyticsId": "G-DEMO999",
+    "web3FormsAccessKey": "YOUR_KEY",
+    "hours": {
+        "days": "Monday - Sunday",
+        "time": "24/7 Emergency Dispatch",
+        "is24_7": true
+    },
+    "colors": {
+        "primary": "#0284c7",
+        "primaryDark": "#0369a1",
+        "accent": "#f59e0b"
+    },
+    "trustBadges": [
+        {
+            "title": "Licensed Master Plumber",
+            "subtitle": "State Certified Pros",
+            "icon": "ShieldCheck"
+        },
+        {
+            "title": "24/7 Emergency Dispatch",
+            "subtitle": "Fast Local Arrival",
+            "icon": "Clock"
+        },
+        {
+            "title": "Upfront Flat Pricing",
+            "subtitle": "No Surprise Fees",
+            "icon": "DollarSign"
+        },
+        {
+            "title": "Satisfaction Guaranteed",
+            "subtitle": "100% Quality Promise",
+            "icon": "Award"
+        }
+    ],
+    "services": [
+        {
+            "id": "emergency-drain",
+            "name": "Emergency Hydro-Jet Drain Cleaning",
+            "shortDesc": "Fast high-pressure root & grease removal.",
+            "fullDesc": "Clears blocked lines with digital video camera confirmation.",
+            "basePrice": 149,
+            "iconName": "Droplet",
+            "badge": "24/7 Service"
+        },
+        {
+            "id": "water-heater",
+            "name": "Water Heater Repair & Replacement",
+            "shortDesc": "Same-day tank & tankless water heater installation.",
+            "fullDesc": "High-efficiency systems for nonstop reliable hot water.",
+            "basePrice": 299,
+            "iconName": "Flame"
+        }
+    ],
+    "reviews": {
+        "googleRating": 4.9,
+        "totalReviews": 182,
+        "items": [
+            {
+                "id": "r1",
+                "author": "Mark R.",
+                "rating": 5,
+                "date": "3 days ago",
+                "comment": "The Plumbing Service did a fantastic job at our home in Arlington. Super fast response and transparent pricing!",
+                "serviceUsed": "Emergency Hydro-Jet Drain Cleaning",
+                "verified": true
+            }
+        ]
+    },
+    "faqs": [
+        {
+            "question": "Do you provide emergency plumbing service?",
+            "answer": "Yes, our certified plumbers are on call 24/7 for urgent leaks, backups, and emergency repairs."
+        }
+    ]
+},
+  "comfort-authority-arlington": {
+    "slug": "comfort-authority-arlington",
+    "name": "Comfort Authority",
+    "legalName": "Comfort Authority LLC",
+    "domain": "comfortauthoritytexas.com",
+    "url": "https://comfortauthoritytexas.com",
+    "logoIcon": "Wind",
+    "tagline": "Arlington's High-Efficiency AC Repair & Heating Specialists",
+    "description": "Comfort Authority delivers Emergency cooling repairs, seasonal HVAC system maintenance, and new high-efficiency installations. across Arlington, TX.",
+    "niche": "HVAC & Air Conditioning",
+    "city": "Arlington",
+    "state": "TX",
+    "phone": "(682) 900-7489",
+    "formattedPhone": "(682) 900-7489",
+    "phoneRaw": "+16829007489",
+    "email": "hello@comfortauthoritytexas.com",
+    "address": {
+        "street": "100 Main St",
+        "city": "Arlington",
+        "state": "TX",
+        "zip": "75000",
+        "googleMapsEmbedUrl": ""
+    },
+    "googleAnalyticsId": "G-DEMO999",
+    "web3FormsAccessKey": "YOUR_KEY",
+    "hours": {
+        "days": "Monday - Sunday",
+        "time": "24/7 Emergency Dispatch",
+        "is24_7": true
+    },
+    "colors": {
+        "primary": "#0284c7",
+        "primaryDark": "#0369a1",
+        "accent": "#ea580c"
+    },
+    "trustBadges": [
+        {
+            "title": "EPA & NATE Certified",
+            "subtitle": "Master Technicians",
+            "icon": "ShieldCheck"
+        },
+        {
+            "title": "Rapid Dispatch",
+            "subtitle": "Under 60 Min Arrival",
+            "icon": "Clock"
+        },
+        {
+            "title": "Flat-Rate Pricing",
+            "subtitle": "No Overtime Surprises",
+            "icon": "DollarSign"
+        },
+        {
+            "title": "100% Guaranteed",
+            "subtitle": "Complete Peace of Mind",
+            "icon": "Award"
+        }
+    ],
+    "services": [
+        {
+            "id": "ac-repair",
+            "name": "Emergency AC Repair & Diagnostic",
+            "shortDesc": "Rapid cooling diagnostics and refrigerant recharge.",
+            "fullDesc": "Pinpoints component failures to get cool air running fast.",
+            "basePrice": 89,
+            "iconName": "Wind",
+            "badge": "Same Day"
+        },
+        {
+            "id": "system-replacement",
+            "name": "High-Efficiency HVAC Replacement",
+            "shortDesc": "Complete system upgrades with smart thermostat integration.",
+            "fullDesc": "Lowers energy bills while maximizing indoor cooling comfort.",
+            "basePrice": 499,
+            "iconName": "Flame"
+        }
+    ],
+    "reviews": {
+        "googleRating": 4.9,
+        "totalReviews": 182,
+        "items": [
+            {
+                "id": "r1",
+                "author": "Mark R.",
+                "rating": 5,
+                "date": "3 days ago",
+                "comment": "Comfort Authority did a fantastic job at our home in Arlington. Super fast response and transparent pricing!",
+                "serviceUsed": "Emergency AC Repair & Diagnostic",
+                "verified": true
+            }
+        ]
+    },
+    "faqs": [
+        {
+            "question": "What is included in an HVAC diagnostic visit?",
+            "answer": "Our multi-point inspection covers electrical contacts, refrigerant levels, compressor health, and airflow."
+        }
+    ]
+},
+  "john-wade-roofing-arlington": {
+    "slug": "john-wade-roofing-arlington",
+    "name": "John Wade Roofing",
+    "legalName": "John Wade Roofing LLC",
+    "domain": "johnwaderoofing.com",
+    "url": "https://johnwaderoofing.com",
+    "logoIcon": "Home",
+    "tagline": "Arlington's Storm Damage, Leak Repair & Roof Replacement",
+    "description": "John Wade Roofing delivers Free roof damage inspections, emergency leak tarping, architectural shingle replacement, and insurance claim support. across Arlington, TX.",
+    "niche": "Roofing & Restoration",
+    "city": "Arlington",
+    "state": "TX",
+    "phone": "(817) 265-5520",
+    "formattedPhone": "(817) 265-5520",
+    "phoneRaw": "+18172655520",
+    "email": "service@johnwaderoofing.com",
+    "address": {
+        "street": "100 Main St",
+        "city": "Arlington",
+        "state": "TX",
+        "zip": "75000",
+        "googleMapsEmbedUrl": ""
+    },
+    "googleAnalyticsId": "G-DEMO999",
+    "web3FormsAccessKey": "YOUR_KEY",
+    "hours": {
+        "days": "Monday - Sunday",
+        "time": "24/7 Emergency Dispatch",
+        "is24_7": true
+    },
+    "colors": {
+        "primary": "#1e3a8a",
+        "primaryDark": "#172554",
+        "accent": "#d97706"
+    },
+    "trustBadges": [
+        {
+            "title": "GAF Certified",
+            "subtitle": "Factory-Trained Installers",
+            "icon": "ShieldCheck"
+        },
+        {
+            "title": "Free Inspection",
+            "subtitle": "Comprehensive Roof Audit",
+            "icon": "Search"
+        },
+        {
+            "title": "Emergency Tarping",
+            "subtitle": "Fast Storm Dispatch",
+            "icon": "Clock"
+        },
+        {
+            "title": "Warranty Backed",
+            "subtitle": "Up to 50-Year Coverage",
+            "icon": "Award"
+        }
+    ],
+    "services": [
+        {
+            "id": "free-inspection",
+            "name": "Free Roof & Attic Inspection",
+            "shortDesc": "Detailed roof health analysis with photo documentation.",
+            "fullDesc": "Identifies hail, wind, and age-related wear before leaks spread.",
+            "basePrice": 0,
+            "iconName": "Search",
+            "badge": "Free Inspection"
+        },
+        {
+            "id": "leak-repair",
+            "name": "Emergency Roof Leak & Tarp Service",
+            "shortDesc": "Immediate leak stopping and storm damage protection.",
+            "fullDesc": "Weather-proof sealing to prevent drywall, insulation, and timber rot.",
+            "basePrice": 199,
+            "iconName": "Home"
+        }
+    ],
+    "reviews": {
+        "googleRating": 4.9,
+        "totalReviews": 182,
+        "items": [
+            {
+                "id": "r1",
+                "author": "Mark R.",
+                "rating": 5,
+                "date": "3 days ago",
+                "comment": "John Wade Roofing did a fantastic job at our home in Arlington. Super fast response and transparent pricing!",
+                "serviceUsed": "Free Roof & Attic Inspection",
+                "verified": true
+            }
+        ]
+    },
+    "faqs": [
+        {
+            "question": "How much does a roof damage inspection cost?",
+            "answer": "Our initial storm inspection and damage report are 100% complimentary with no obligation."
+        }
+    ]
+},
+  "ajax-plumbing-carrollton": {
+    "slug": "ajax-plumbing-carrollton",
+    "name": "Ajax Plumbing Solutions",
+    "legalName": "Ajax Plumbing Solutions LLC",
+    "domain": "ajaxplumbingsolutions.com",
+    "url": "https://ajaxplumbingsolutions.com",
+    "logoIcon": "Droplet",
+    "tagline": "Carrollton's Trusted Same-Day Plumbing & Drain Solutions",
+    "description": "Ajax Plumbing Solutions delivers 24/7 emergency plumbing, hydro-jet drain cleaning, slab leak detection, and water heater service. across Carrollton, TX.",
+    "niche": "Plumbing & Drain Services",
+    "city": "Carrollton",
+    "state": "TX",
+    "phone": "(972) 395-3730",
+    "formattedPhone": "(972) 395-3730",
+    "phoneRaw": "+19723953730",
+    "email": "ajaxplumbingsolutions@gmail.com",
+    "address": {
+        "street": "100 Main St",
+        "city": "Carrollton",
+        "state": "TX",
+        "zip": "75000",
+        "googleMapsEmbedUrl": ""
+    },
+    "googleAnalyticsId": "G-DEMO999",
+    "web3FormsAccessKey": "YOUR_KEY",
+    "hours": {
+        "days": "Monday - Sunday",
+        "time": "24/7 Emergency Dispatch",
+        "is24_7": true
+    },
+    "colors": {
+        "primary": "#0284c7",
+        "primaryDark": "#0369a1",
+        "accent": "#f59e0b"
+    },
+    "trustBadges": [
+        {
+            "title": "Licensed Master Plumber",
+            "subtitle": "State Certified Pros",
+            "icon": "ShieldCheck"
+        },
+        {
+            "title": "24/7 Emergency Dispatch",
+            "subtitle": "Fast Local Arrival",
+            "icon": "Clock"
+        },
+        {
+            "title": "Upfront Flat Pricing",
+            "subtitle": "No Surprise Fees",
+            "icon": "DollarSign"
+        },
+        {
+            "title": "Satisfaction Guaranteed",
+            "subtitle": "100% Quality Promise",
+            "icon": "Award"
+        }
+    ],
+    "services": [
+        {
+            "id": "emergency-drain",
+            "name": "Emergency Hydro-Jet Drain Cleaning",
+            "shortDesc": "Fast high-pressure root & grease removal.",
+            "fullDesc": "Clears blocked lines with digital video camera confirmation.",
+            "basePrice": 149,
+            "iconName": "Droplet",
+            "badge": "24/7 Service"
+        },
+        {
+            "id": "water-heater",
+            "name": "Water Heater Repair & Replacement",
+            "shortDesc": "Same-day tank & tankless water heater installation.",
+            "fullDesc": "High-efficiency systems for nonstop reliable hot water.",
+            "basePrice": 299,
+            "iconName": "Flame"
+        }
+    ],
+    "reviews": {
+        "googleRating": 4.9,
+        "totalReviews": 182,
+        "items": [
+            {
+                "id": "r1",
+                "author": "Mark R.",
+                "rating": 5,
+                "date": "3 days ago",
+                "comment": "Ajax Plumbing Solutions did a fantastic job at our home in Carrollton. Super fast response and transparent pricing!",
+                "serviceUsed": "Emergency Hydro-Jet Drain Cleaning",
+                "verified": true
+            }
+        ]
+    },
+    "faqs": [
+        {
+            "question": "Do you provide emergency plumbing service?",
+            "answer": "Yes, our certified plumbers are on call 24/7 for urgent leaks, backups, and emergency repairs."
+        }
+    ]
+},
+  "mama-bear-roofing-richardson": {
+    "slug": "mama-bear-roofing-richardson",
+    "name": "Mama Bear Roofing",
+    "legalName": "Mama Bear Roofing LLC",
+    "domain": "mamabearroofing.com",
+    "url": "https://mamabearroofing.com",
+    "logoIcon": "Home",
+    "tagline": "Richardson's Storm Damage, Leak Repair & Roof Replacement",
+    "description": "Mama Bear Roofing delivers Free roof damage inspections, emergency leak tarping, architectural shingle replacement, and insurance claim support. across Richardson, TX.",
+    "niche": "Roofing & Restoration",
+    "city": "Richardson",
+    "state": "TX",
+    "phone": "(469) 640-4646",
+    "formattedPhone": "(469) 640-4646",
+    "phoneRaw": "+14696404646",
+    "email": "info@mamabearroofing.com",
+    "address": {
+        "street": "100 Main St",
+        "city": "Richardson",
+        "state": "TX",
+        "zip": "75000",
+        "googleMapsEmbedUrl": ""
+    },
+    "googleAnalyticsId": "G-DEMO999",
+    "web3FormsAccessKey": "YOUR_KEY",
+    "hours": {
+        "days": "Monday - Sunday",
+        "time": "24/7 Emergency Dispatch",
+        "is24_7": true
+    },
+    "colors": {
+        "primary": "#1e3a8a",
+        "primaryDark": "#172554",
+        "accent": "#d97706"
+    },
+    "trustBadges": [
+        {
+            "title": "GAF Certified",
+            "subtitle": "Factory-Trained Installers",
+            "icon": "ShieldCheck"
+        },
+        {
+            "title": "Free Inspection",
+            "subtitle": "Comprehensive Roof Audit",
+            "icon": "Search"
+        },
+        {
+            "title": "Emergency Tarping",
+            "subtitle": "Fast Storm Dispatch",
+            "icon": "Clock"
+        },
+        {
+            "title": "Warranty Backed",
+            "subtitle": "Up to 50-Year Coverage",
+            "icon": "Award"
+        }
+    ],
+    "services": [
+        {
+            "id": "free-inspection",
+            "name": "Free Roof & Attic Inspection",
+            "shortDesc": "Detailed roof health analysis with photo documentation.",
+            "fullDesc": "Identifies hail, wind, and age-related wear before leaks spread.",
+            "basePrice": 0,
+            "iconName": "Search",
+            "badge": "Free Inspection"
+        },
+        {
+            "id": "leak-repair",
+            "name": "Emergency Roof Leak & Tarp Service",
+            "shortDesc": "Immediate leak stopping and storm damage protection.",
+            "fullDesc": "Weather-proof sealing to prevent drywall, insulation, and timber rot.",
+            "basePrice": 199,
+            "iconName": "Home"
+        }
+    ],
+    "reviews": {
+        "googleRating": 4.9,
+        "totalReviews": 182,
+        "items": [
+            {
+                "id": "r1",
+                "author": "Mark R.",
+                "rating": 5,
+                "date": "3 days ago",
+                "comment": "Mama Bear Roofing did a fantastic job at our home in Richardson. Super fast response and transparent pricing!",
+                "serviceUsed": "Free Roof & Attic Inspection",
+                "verified": true
+            }
+        ]
+    },
+    "faqs": [
+        {
+            "question": "How much does a roof damage inspection cost?",
+            "answer": "Our initial storm inspection and damage report are 100% complimentary with no obligation."
+        }
+    ]
+},
+  "ac-pros-richardson": {
+    "slug": "ac-pros-richardson",
+    "name": "AC Pros Heating & Air",
+    "legalName": "AC Pros Heating & Air LLC",
+    "domain": "acprostx.com",
+    "url": "https://acprostx.com",
+    "logoIcon": "Wind",
+    "tagline": "Richardson's High-Efficiency AC Repair & Heating Specialists",
+    "description": "AC Pros Heating & Air delivers Emergency cooling repairs, seasonal HVAC system maintenance, and new high-efficiency installations. across Richardson, TX.",
+    "niche": "HVAC & Air Conditioning",
+    "city": "Richardson",
+    "state": "TX",
+    "phone": "(972) 736-8864",
+    "formattedPhone": "(972) 736-8864",
+    "phoneRaw": "+19727368864",
+    "email": "info@acprostx.com",
+    "address": {
+        "street": "100 Main St",
+        "city": "Richardson",
+        "state": "TX",
+        "zip": "75000",
+        "googleMapsEmbedUrl": ""
+    },
+    "googleAnalyticsId": "G-DEMO999",
+    "web3FormsAccessKey": "YOUR_KEY",
+    "hours": {
+        "days": "Monday - Sunday",
+        "time": "24/7 Emergency Dispatch",
+        "is24_7": true
+    },
+    "colors": {
+        "primary": "#0284c7",
+        "primaryDark": "#0369a1",
+        "accent": "#ea580c"
+    },
+    "trustBadges": [
+        {
+            "title": "EPA & NATE Certified",
+            "subtitle": "Master Technicians",
+            "icon": "ShieldCheck"
+        },
+        {
+            "title": "Rapid Dispatch",
+            "subtitle": "Under 60 Min Arrival",
+            "icon": "Clock"
+        },
+        {
+            "title": "Flat-Rate Pricing",
+            "subtitle": "No Overtime Surprises",
+            "icon": "DollarSign"
+        },
+        {
+            "title": "100% Guaranteed",
+            "subtitle": "Complete Peace of Mind",
+            "icon": "Award"
+        }
+    ],
+    "services": [
+        {
+            "id": "ac-repair",
+            "name": "Emergency AC Repair & Diagnostic",
+            "shortDesc": "Rapid cooling diagnostics and refrigerant recharge.",
+            "fullDesc": "Pinpoints component failures to get cool air running fast.",
+            "basePrice": 89,
+            "iconName": "Wind",
+            "badge": "Same Day"
+        },
+        {
+            "id": "system-replacement",
+            "name": "High-Efficiency HVAC Replacement",
+            "shortDesc": "Complete system upgrades with smart thermostat integration.",
+            "fullDesc": "Lowers energy bills while maximizing indoor cooling comfort.",
+            "basePrice": 499,
+            "iconName": "Flame"
+        }
+    ],
+    "reviews": {
+        "googleRating": 4.9,
+        "totalReviews": 182,
+        "items": [
+            {
+                "id": "r1",
+                "author": "Mark R.",
+                "rating": 5,
+                "date": "3 days ago",
+                "comment": "AC Pros Heating & Air did a fantastic job at our home in Richardson. Super fast response and transparent pricing!",
+                "serviceUsed": "Emergency AC Repair & Diagnostic",
+                "verified": true
+            }
+        ]
+    },
+    "faqs": [
+        {
+            "question": "What is included in an HVAC diagnostic visit?",
+            "answer": "Our multi-point inspection covers electrical contacts, refrigerant levels, compressor health, and airflow."
+        }
+    ]
+},
+  "mend-services-round-rock": {
+    "slug": "mend-services-round-rock",
+    "name": "Mend Services",
+    "legalName": "Mend Services LLC",
+    "domain": "mendservices.com",
+    "url": "https://mendservices.com",
+    "logoIcon": "Wind",
+    "tagline": "Round Rock's Complete Home Plumbing & AC Comfort Experts",
+    "description": "Mend Services delivers Full-service emergency plumbing, drain cleaning, AC repairs, and seasonal HVAC tune-ups. across Round Rock, TX.",
+    "niche": "Plumbing & HVAC",
+    "city": "Round Rock",
+    "state": "TX",
+    "phone": "(512) 360-0704",
+    "formattedPhone": "(512) 360-0704",
+    "phoneRaw": "+15123600704",
+    "email": "support@mendservices.com",
+    "address": {
+        "street": "100 Main St",
+        "city": "Round Rock",
+        "state": "TX",
+        "zip": "75000",
+        "googleMapsEmbedUrl": ""
+    },
+    "googleAnalyticsId": "G-DEMO999",
+    "web3FormsAccessKey": "YOUR_KEY",
+    "hours": {
+        "days": "Monday - Sunday",
+        "time": "24/7 Emergency Dispatch",
+        "is24_7": true
+    },
+    "colors": {
+        "primary": "#0369a1",
+        "primaryDark": "#075985",
+        "accent": "#f59e0b"
+    },
+    "trustBadges": [
+        {
+            "title": "Licensed & Insured",
+            "subtitle": "Plumbing & HVAC Certified",
+            "icon": "ShieldCheck"
+        },
+        {
+            "title": "Same-Day Dispatch",
+            "subtitle": "Rapid Response",
+            "icon": "Clock"
+        },
+        {
+            "title": "Upfront Flat Rates",
+            "subtitle": "Honest Estimates",
+            "icon": "DollarSign"
+        },
+        {
+            "title": "Top-Rated Techs",
+            "subtitle": "5-Star Customer Care",
+            "icon": "Award"
+        }
+    ],
+    "services": [
+        {
+            "id": "plumbing-dispatch",
+            "name": "Emergency Plumbing & Drain Care",
+            "shortDesc": "Fast repairs for leaks, pipes, and drains.",
+            "fullDesc": "Full home plumbing repairs with diagnostic camera review.",
+            "basePrice": 149,
+            "iconName": "Droplet",
+            "badge": "24/7 Dispatch"
+        },
+        {
+            "id": "ac-tuneup",
+            "name": "Complete AC Repair & Maintenance",
+            "shortDesc": "Rapid cooling diagnostics and seasonal tune-ups.",
+            "fullDesc": "Restores maximum airflow and energy efficiency quickly.",
+            "basePrice": 89,
+            "iconName": "Wind"
+        }
+    ],
+    "reviews": {
+        "googleRating": 4.9,
+        "totalReviews": 182,
+        "items": [
+            {
+                "id": "r1",
+                "author": "Mark R.",
+                "rating": 5,
+                "date": "3 days ago",
+                "comment": "Mend Services did a fantastic job at our home in Round Rock. Super fast response and transparent pricing!",
+                "serviceUsed": "Emergency Plumbing & Drain Care",
+                "verified": true
+            }
+        ]
+    },
+    "faqs": [
+        {
+            "question": "How quickly can a technician inspect my issue?",
+            "answer": "We offer same-day priority dispatch for urgent plumbing leaks and AC outages."
+        }
+    ]
+},
+  "alpha-roofing-round-rock": {
+    "slug": "alpha-roofing-round-rock",
+    "name": "Alpha Roofing Industries",
+    "legalName": "Alpha Roofing Industries LLC",
+    "domain": "alpharoofingtexas.com",
+    "url": "https://alpharoofingtexas.com",
+    "logoIcon": "Home",
+    "tagline": "Round Rock's Storm Damage, Leak Repair & Roof Replacement",
+    "description": "Alpha Roofing Industries delivers Free roof damage inspections, emergency leak tarping, architectural shingle replacement, and insurance claim support. across Round Rock, TX.",
+    "niche": "Roofing & Restoration",
+    "city": "Round Rock",
+    "state": "TX",
+    "phone": "(512) 777-1086",
+    "formattedPhone": "(512) 777-1086",
+    "phoneRaw": "+15127771086",
+    "email": "info@alpharoofingtexas.com",
+    "address": {
+        "street": "100 Main St",
+        "city": "Round Rock",
+        "state": "TX",
+        "zip": "75000",
+        "googleMapsEmbedUrl": ""
+    },
+    "googleAnalyticsId": "G-DEMO999",
+    "web3FormsAccessKey": "YOUR_KEY",
+    "hours": {
+        "days": "Monday - Sunday",
+        "time": "24/7 Emergency Dispatch",
+        "is24_7": true
+    },
+    "colors": {
+        "primary": "#1e3a8a",
+        "primaryDark": "#172554",
+        "accent": "#d97706"
+    },
+    "trustBadges": [
+        {
+            "title": "GAF Certified",
+            "subtitle": "Factory-Trained Installers",
+            "icon": "ShieldCheck"
+        },
+        {
+            "title": "Free Inspection",
+            "subtitle": "Comprehensive Roof Audit",
+            "icon": "Search"
+        },
+        {
+            "title": "Emergency Tarping",
+            "subtitle": "Fast Storm Dispatch",
+            "icon": "Clock"
+        },
+        {
+            "title": "Warranty Backed",
+            "subtitle": "Up to 50-Year Coverage",
+            "icon": "Award"
+        }
+    ],
+    "services": [
+        {
+            "id": "free-inspection",
+            "name": "Free Roof & Attic Inspection",
+            "shortDesc": "Detailed roof health analysis with photo documentation.",
+            "fullDesc": "Identifies hail, wind, and age-related wear before leaks spread.",
+            "basePrice": 0,
+            "iconName": "Search",
+            "badge": "Free Inspection"
+        },
+        {
+            "id": "leak-repair",
+            "name": "Emergency Roof Leak & Tarp Service",
+            "shortDesc": "Immediate leak stopping and storm damage protection.",
+            "fullDesc": "Weather-proof sealing to prevent drywall, insulation, and timber rot.",
+            "basePrice": 199,
+            "iconName": "Home"
+        }
+    ],
+    "reviews": {
+        "googleRating": 4.9,
+        "totalReviews": 182,
+        "items": [
+            {
+                "id": "r1",
+                "author": "Mark R.",
+                "rating": 5,
+                "date": "3 days ago",
+                "comment": "Alpha Roofing Industries did a fantastic job at our home in Round Rock. Super fast response and transparent pricing!",
+                "serviceUsed": "Free Roof & Attic Inspection",
+                "verified": true
+            }
+        ]
+    },
+    "faqs": [
+        {
+            "question": "How much does a roof damage inspection cost?",
+            "answer": "Our initial storm inspection and damage report are 100% complimentary with no obligation."
+        }
+    ]
+},
+  "katy-plumbing-company": {
+    "slug": "katy-plumbing-company",
+    "name": "The Katy Plumbing Company",
+    "legalName": "The Katy Plumbing Company LLC",
+    "domain": "katyplumbers.com",
+    "url": "https://katyplumbers.com",
+    "logoIcon": "Droplet",
+    "tagline": "Katy's Trusted Same-Day Plumbing & Drain Solutions",
+    "description": "The Katy Plumbing Company delivers 24/7 emergency plumbing, hydro-jet drain cleaning, slab leak detection, and water heater service. across Katy, TX.",
+    "niche": "Plumbing & Drain Services",
+    "city": "Katy",
+    "state": "TX",
+    "phone": "(281) 601-1513",
+    "formattedPhone": "(281) 601-1513",
+    "phoneRaw": "+12816011513",
+    "email": "service@katyplumbers.com",
+    "address": {
+        "street": "100 Main St",
+        "city": "Katy",
+        "state": "TX",
+        "zip": "75000",
+        "googleMapsEmbedUrl": ""
+    },
+    "googleAnalyticsId": "G-DEMO999",
+    "web3FormsAccessKey": "YOUR_KEY",
+    "hours": {
+        "days": "Monday - Sunday",
+        "time": "24/7 Emergency Dispatch",
+        "is24_7": true
+    },
+    "colors": {
+        "primary": "#0284c7",
+        "primaryDark": "#0369a1",
+        "accent": "#f59e0b"
+    },
+    "trustBadges": [
+        {
+            "title": "Licensed Master Plumber",
+            "subtitle": "State Certified Pros",
+            "icon": "ShieldCheck"
+        },
+        {
+            "title": "24/7 Emergency Dispatch",
+            "subtitle": "Fast Local Arrival",
+            "icon": "Clock"
+        },
+        {
+            "title": "Upfront Flat Pricing",
+            "subtitle": "No Surprise Fees",
+            "icon": "DollarSign"
+        },
+        {
+            "title": "Satisfaction Guaranteed",
+            "subtitle": "100% Quality Promise",
+            "icon": "Award"
+        }
+    ],
+    "services": [
+        {
+            "id": "emergency-drain",
+            "name": "Emergency Hydro-Jet Drain Cleaning",
+            "shortDesc": "Fast high-pressure root & grease removal.",
+            "fullDesc": "Clears blocked lines with digital video camera confirmation.",
+            "basePrice": 149,
+            "iconName": "Droplet",
+            "badge": "24/7 Service"
+        },
+        {
+            "id": "water-heater",
+            "name": "Water Heater Repair & Replacement",
+            "shortDesc": "Same-day tank & tankless water heater installation.",
+            "fullDesc": "High-efficiency systems for nonstop reliable hot water.",
+            "basePrice": 299,
+            "iconName": "Flame"
+        }
+    ],
+    "reviews": {
+        "googleRating": 4.9,
+        "totalReviews": 182,
+        "items": [
+            {
+                "id": "r1",
+                "author": "Mark R.",
+                "rating": 5,
+                "date": "3 days ago",
+                "comment": "The Katy Plumbing Company did a fantastic job at our home in Katy. Super fast response and transparent pricing!",
+                "serviceUsed": "Emergency Hydro-Jet Drain Cleaning",
+                "verified": true
+            }
+        ]
+    },
+    "faqs": [
+        {
+            "question": "Do you provide emergency plumbing service?",
+            "answer": "Yes, our certified plumbers are on call 24/7 for urgent leaks, backups, and emergency repairs."
+        }
+    ]
+},
+  "jerrys-roofing-katy": {
+    "slug": "jerrys-roofing-katy",
+    "name": "Jerry's Roofing",
+    "legalName": "Jerry's Roofing LLC",
+    "domain": "roofingbyjerry.com",
+    "url": "https://roofingbyjerry.com",
+    "logoIcon": "Home",
+    "tagline": "Katy's Storm Damage, Leak Repair & Roof Replacement",
+    "description": "Jerry's Roofing delivers Free roof damage inspections, emergency leak tarping, architectural shingle replacement, and insurance claim support. across Katy, TX.",
+    "niche": "Roofing & Restoration",
+    "city": "Katy",
+    "state": "TX",
+    "phone": "(409) 351-1529",
+    "formattedPhone": "(409) 351-1529",
+    "phoneRaw": "+14093511529",
+    "email": "jerrysroofinginfo@gmail.com",
+    "address": {
+        "street": "100 Main St",
+        "city": "Katy",
+        "state": "TX",
+        "zip": "75000",
+        "googleMapsEmbedUrl": ""
+    },
+    "googleAnalyticsId": "G-DEMO999",
+    "web3FormsAccessKey": "YOUR_KEY",
+    "hours": {
+        "days": "Monday - Sunday",
+        "time": "24/7 Emergency Dispatch",
+        "is24_7": true
+    },
+    "colors": {
+        "primary": "#1e3a8a",
+        "primaryDark": "#172554",
+        "accent": "#d97706"
+    },
+    "trustBadges": [
+        {
+            "title": "GAF Certified",
+            "subtitle": "Factory-Trained Installers",
+            "icon": "ShieldCheck"
+        },
+        {
+            "title": "Free Inspection",
+            "subtitle": "Comprehensive Roof Audit",
+            "icon": "Search"
+        },
+        {
+            "title": "Emergency Tarping",
+            "subtitle": "Fast Storm Dispatch",
+            "icon": "Clock"
+        },
+        {
+            "title": "Warranty Backed",
+            "subtitle": "Up to 50-Year Coverage",
+            "icon": "Award"
+        }
+    ],
+    "services": [
+        {
+            "id": "free-inspection",
+            "name": "Free Roof & Attic Inspection",
+            "shortDesc": "Detailed roof health analysis with photo documentation.",
+            "fullDesc": "Identifies hail, wind, and age-related wear before leaks spread.",
+            "basePrice": 0,
+            "iconName": "Search",
+            "badge": "Free Inspection"
+        },
+        {
+            "id": "leak-repair",
+            "name": "Emergency Roof Leak & Tarp Service",
+            "shortDesc": "Immediate leak stopping and storm damage protection.",
+            "fullDesc": "Weather-proof sealing to prevent drywall, insulation, and timber rot.",
+            "basePrice": 199,
+            "iconName": "Home"
+        }
+    ],
+    "reviews": {
+        "googleRating": 4.9,
+        "totalReviews": 182,
+        "items": [
+            {
+                "id": "r1",
+                "author": "Mark R.",
+                "rating": 5,
+                "date": "3 days ago",
+                "comment": "Jerry's Roofing did a fantastic job at our home in Katy. Super fast response and transparent pricing!",
+                "serviceUsed": "Free Roof & Attic Inspection",
+                "verified": true
+            }
+        ]
+    },
+    "faqs": [
+        {
+            "question": "How much does a roof damage inspection cost?",
+            "answer": "Our initial storm inspection and damage report are 100% complimentary with no obligation."
+        }
+    ]
+},
+  "woodlands-plumbing-air": {
+    "slug": "woodlands-plumbing-air",
+    "name": "The Woodlands Plumbing & Air",
+    "legalName": "The Woodlands Plumbing & Air LLC",
+    "domain": "thewoodlandsplumbingandair.com",
+    "url": "https://thewoodlandsplumbingandair.com",
+    "logoIcon": "Wind",
+    "tagline": "The Woodlands's Complete Home Plumbing & AC Comfort Experts",
+    "description": "The Woodlands Plumbing & Air delivers Full-service emergency plumbing, drain cleaning, AC repairs, and seasonal HVAC tune-ups. across The Woodlands, TX.",
+    "niche": "Plumbing & HVAC",
+    "city": "The Woodlands",
+    "state": "TX",
+    "phone": "(281) 363-4822",
+    "formattedPhone": "(281) 363-4822",
+    "phoneRaw": "+12813634822",
+    "email": "info@thewoodlandsplumbingandair.com",
+    "address": {
+        "street": "100 Main St",
+        "city": "The Woodlands",
+        "state": "TX",
+        "zip": "75000",
+        "googleMapsEmbedUrl": ""
+    },
+    "googleAnalyticsId": "G-DEMO999",
+    "web3FormsAccessKey": "YOUR_KEY",
+    "hours": {
+        "days": "Monday - Sunday",
+        "time": "24/7 Emergency Dispatch",
+        "is24_7": true
+    },
+    "colors": {
+        "primary": "#0369a1",
+        "primaryDark": "#075985",
+        "accent": "#f59e0b"
+    },
+    "trustBadges": [
+        {
+            "title": "Licensed & Insured",
+            "subtitle": "Plumbing & HVAC Certified",
+            "icon": "ShieldCheck"
+        },
+        {
+            "title": "Same-Day Dispatch",
+            "subtitle": "Rapid Response",
+            "icon": "Clock"
+        },
+        {
+            "title": "Upfront Flat Rates",
+            "subtitle": "Honest Estimates",
+            "icon": "DollarSign"
+        },
+        {
+            "title": "Top-Rated Techs",
+            "subtitle": "5-Star Customer Care",
+            "icon": "Award"
+        }
+    ],
+    "services": [
+        {
+            "id": "plumbing-dispatch",
+            "name": "Emergency Plumbing & Drain Care",
+            "shortDesc": "Fast repairs for leaks, pipes, and drains.",
+            "fullDesc": "Full home plumbing repairs with diagnostic camera review.",
+            "basePrice": 149,
+            "iconName": "Droplet",
+            "badge": "24/7 Dispatch"
+        },
+        {
+            "id": "ac-tuneup",
+            "name": "Complete AC Repair & Maintenance",
+            "shortDesc": "Rapid cooling diagnostics and seasonal tune-ups.",
+            "fullDesc": "Restores maximum airflow and energy efficiency quickly.",
+            "basePrice": 89,
+            "iconName": "Wind"
+        }
+    ],
+    "reviews": {
+        "googleRating": 4.9,
+        "totalReviews": 182,
+        "items": [
+            {
+                "id": "r1",
+                "author": "Mark R.",
+                "rating": 5,
+                "date": "3 days ago",
+                "comment": "The Woodlands Plumbing & Air did a fantastic job at our home in The Woodlands. Super fast response and transparent pricing!",
+                "serviceUsed": "Emergency Plumbing & Drain Care",
+                "verified": true
+            }
+        ]
+    },
+    "faqs": [
+        {
+            "question": "How quickly can a technician inspect my issue?",
+            "answer": "We offer same-day priority dispatch for urgent plumbing leaks and AC outages."
+        }
+    ]
+},
+  "squadpro-roofing-woodlands": {
+    "slug": "squadpro-roofing-woodlands",
+    "name": "SquadPro Roofing",
+    "legalName": "SquadPro Roofing LLC",
+    "domain": "trustsquadpro.com",
+    "url": "https://trustsquadpro.com",
+    "logoIcon": "Home",
+    "tagline": "The Woodlands's Storm Damage, Leak Repair & Roof Replacement",
+    "description": "SquadPro Roofing delivers Free roof damage inspections, emergency leak tarping, architectural shingle replacement, and insurance claim support. across The Woodlands, TX.",
+    "niche": "Roofing & Restoration",
+    "city": "The Woodlands",
+    "state": "TX",
+    "phone": "(832) 559-2475",
+    "formattedPhone": "(832) 559-2475",
+    "phoneRaw": "+18325592475",
+    "email": "help@trustsquadpro.com",
+    "address": {
+        "street": "100 Main St",
+        "city": "The Woodlands",
+        "state": "TX",
+        "zip": "75000",
+        "googleMapsEmbedUrl": ""
+    },
+    "googleAnalyticsId": "G-DEMO999",
+    "web3FormsAccessKey": "YOUR_KEY",
+    "hours": {
+        "days": "Monday - Sunday",
+        "time": "24/7 Emergency Dispatch",
+        "is24_7": true
+    },
+    "colors": {
+        "primary": "#1e3a8a",
+        "primaryDark": "#172554",
+        "accent": "#d97706"
+    },
+    "trustBadges": [
+        {
+            "title": "GAF Certified",
+            "subtitle": "Factory-Trained Installers",
+            "icon": "ShieldCheck"
+        },
+        {
+            "title": "Free Inspection",
+            "subtitle": "Comprehensive Roof Audit",
+            "icon": "Search"
+        },
+        {
+            "title": "Emergency Tarping",
+            "subtitle": "Fast Storm Dispatch",
+            "icon": "Clock"
+        },
+        {
+            "title": "Warranty Backed",
+            "subtitle": "Up to 50-Year Coverage",
+            "icon": "Award"
+        }
+    ],
+    "services": [
+        {
+            "id": "free-inspection",
+            "name": "Free Roof & Attic Inspection",
+            "shortDesc": "Detailed roof health analysis with photo documentation.",
+            "fullDesc": "Identifies hail, wind, and age-related wear before leaks spread.",
+            "basePrice": 0,
+            "iconName": "Search",
+            "badge": "Free Inspection"
+        },
+        {
+            "id": "leak-repair",
+            "name": "Emergency Roof Leak & Tarp Service",
+            "shortDesc": "Immediate leak stopping and storm damage protection.",
+            "fullDesc": "Weather-proof sealing to prevent drywall, insulation, and timber rot.",
+            "basePrice": 199,
+            "iconName": "Home"
+        }
+    ],
+    "reviews": {
+        "googleRating": 4.9,
+        "totalReviews": 182,
+        "items": [
+            {
+                "id": "r1",
+                "author": "Mark R.",
+                "rating": 5,
+                "date": "3 days ago",
+                "comment": "SquadPro Roofing did a fantastic job at our home in The Woodlands. Super fast response and transparent pricing!",
+                "serviceUsed": "Free Roof & Attic Inspection",
+                "verified": true
+            }
+        ]
+    },
+    "faqs": [
+        {
+            "question": "How much does a roof damage inspection cost?",
+            "answer": "Our initial storm inspection and damage report are 100% complimentary with no obligation."
+        }
+    ]
+},
+  "meyer-heating-air-nb": {
+    "slug": "meyer-heating-air-nb",
+    "name": "Meyer Heating & Air",
+    "legalName": "Meyer Heating & Air LLC",
+    "domain": "meyerac.com",
+    "url": "https://meyerac.com",
+    "logoIcon": "Wind",
+    "tagline": "New Braunfels's High-Efficiency AC Repair & Heating Specialists",
+    "description": "Meyer Heating & Air delivers Emergency cooling repairs, seasonal HVAC system maintenance, and new high-efficiency installations. across New Braunfels, TX.",
+    "niche": "HVAC & Air Conditioning",
+    "city": "New Braunfels",
+    "state": "TX",
+    "phone": "(830) 407-8631",
+    "formattedPhone": "(830) 407-8631",
+    "phoneRaw": "+18304078631",
+    "email": "info@meyerac.com",
+    "address": {
+        "street": "100 Main St",
+        "city": "New Braunfels",
+        "state": "TX",
+        "zip": "75000",
+        "googleMapsEmbedUrl": ""
+    },
+    "googleAnalyticsId": "G-DEMO999",
+    "web3FormsAccessKey": "YOUR_KEY",
+    "hours": {
+        "days": "Monday - Sunday",
+        "time": "24/7 Emergency Dispatch",
+        "is24_7": true
+    },
+    "colors": {
+        "primary": "#0284c7",
+        "primaryDark": "#0369a1",
+        "accent": "#ea580c"
+    },
+    "trustBadges": [
+        {
+            "title": "EPA & NATE Certified",
+            "subtitle": "Master Technicians",
+            "icon": "ShieldCheck"
+        },
+        {
+            "title": "Rapid Dispatch",
+            "subtitle": "Under 60 Min Arrival",
+            "icon": "Clock"
+        },
+        {
+            "title": "Flat-Rate Pricing",
+            "subtitle": "No Overtime Surprises",
+            "icon": "DollarSign"
+        },
+        {
+            "title": "100% Guaranteed",
+            "subtitle": "Complete Peace of Mind",
+            "icon": "Award"
+        }
+    ],
+    "services": [
+        {
+            "id": "ac-repair",
+            "name": "Emergency AC Repair & Diagnostic",
+            "shortDesc": "Rapid cooling diagnostics and refrigerant recharge.",
+            "fullDesc": "Pinpoints component failures to get cool air running fast.",
+            "basePrice": 89,
+            "iconName": "Wind",
+            "badge": "Same Day"
+        },
+        {
+            "id": "system-replacement",
+            "name": "High-Efficiency HVAC Replacement",
+            "shortDesc": "Complete system upgrades with smart thermostat integration.",
+            "fullDesc": "Lowers energy bills while maximizing indoor cooling comfort.",
+            "basePrice": 499,
+            "iconName": "Flame"
+        }
+    ],
+    "reviews": {
+        "googleRating": 4.9,
+        "totalReviews": 182,
+        "items": [
+            {
+                "id": "r1",
+                "author": "Mark R.",
+                "rating": 5,
+                "date": "3 days ago",
+                "comment": "Meyer Heating & Air did a fantastic job at our home in New Braunfels. Super fast response and transparent pricing!",
+                "serviceUsed": "Emergency AC Repair & Diagnostic",
+                "verified": true
+            }
+        ]
+    },
+    "faqs": [
+        {
+            "question": "What is included in an HVAC diagnostic visit?",
+            "answer": "Our multi-point inspection covers electrical contacts, refrigerant levels, compressor health, and airflow."
+        }
+    ]
+},
+  "varni-roofing-nb": {
+    "slug": "varni-roofing-nb",
+    "name": "Varni Roofing",
+    "legalName": "Varni Roofing LLC",
+    "domain": "varniroofinginc.com",
+    "url": "https://varniroofinginc.com",
+    "logoIcon": "Home",
+    "tagline": "New Braunfels's Storm Damage, Leak Repair & Roof Replacement",
+    "description": "Varni Roofing delivers Free roof damage inspections, emergency leak tarping, architectural shingle replacement, and insurance claim support. across New Braunfels, TX.",
+    "niche": "Roofing & Restoration",
+    "city": "New Braunfels",
+    "state": "TX",
+    "phone": "(830) 609-3605",
+    "formattedPhone": "(830) 609-3605",
+    "phoneRaw": "+18306093605",
+    "email": "contact@varniroofinginc.com",
+    "address": {
+        "street": "100 Main St",
+        "city": "New Braunfels",
+        "state": "TX",
+        "zip": "75000",
+        "googleMapsEmbedUrl": ""
+    },
+    "googleAnalyticsId": "G-DEMO999",
+    "web3FormsAccessKey": "YOUR_KEY",
+    "hours": {
+        "days": "Monday - Sunday",
+        "time": "24/7 Emergency Dispatch",
+        "is24_7": true
+    },
+    "colors": {
+        "primary": "#1e3a8a",
+        "primaryDark": "#172554",
+        "accent": "#d97706"
+    },
+    "trustBadges": [
+        {
+            "title": "GAF Certified",
+            "subtitle": "Factory-Trained Installers",
+            "icon": "ShieldCheck"
+        },
+        {
+            "title": "Free Inspection",
+            "subtitle": "Comprehensive Roof Audit",
+            "icon": "Search"
+        },
+        {
+            "title": "Emergency Tarping",
+            "subtitle": "Fast Storm Dispatch",
+            "icon": "Clock"
+        },
+        {
+            "title": "Warranty Backed",
+            "subtitle": "Up to 50-Year Coverage",
+            "icon": "Award"
+        }
+    ],
+    "services": [
+        {
+            "id": "free-inspection",
+            "name": "Free Roof & Attic Inspection",
+            "shortDesc": "Detailed roof health analysis with photo documentation.",
+            "fullDesc": "Identifies hail, wind, and age-related wear before leaks spread.",
+            "basePrice": 0,
+            "iconName": "Search",
+            "badge": "Free Inspection"
+        },
+        {
+            "id": "leak-repair",
+            "name": "Emergency Roof Leak & Tarp Service",
+            "shortDesc": "Immediate leak stopping and storm damage protection.",
+            "fullDesc": "Weather-proof sealing to prevent drywall, insulation, and timber rot.",
+            "basePrice": 199,
+            "iconName": "Home"
+        }
+    ],
+    "reviews": {
+        "googleRating": 4.9,
+        "totalReviews": 182,
+        "items": [
+            {
+                "id": "r1",
+                "author": "Mark R.",
+                "rating": 5,
+                "date": "3 days ago",
+                "comment": "Varni Roofing did a fantastic job at our home in New Braunfels. Super fast response and transparent pricing!",
+                "serviceUsed": "Free Roof & Attic Inspection",
+                "verified": true
+            }
+        ]
+    },
+    "faqs": [
+        {
+            "question": "How much does a roof damage inspection cost?",
+            "answer": "Our initial storm inspection and damage report are 100% complimentary with no obligation."
+        }
+    ]
+},
+  "ace-repair-plumbing-fw": {
+    "slug": "ace-repair-plumbing-fw",
+    "name": "Ace Repair Plumbing",
+    "legalName": "Ace Repair Plumbing LLC",
+    "domain": "acerepairplumbing.com",
+    "url": "https://acerepairplumbing.com",
+    "logoIcon": "Droplet",
+    "tagline": "Fort Worth's Trusted Same-Day Plumbing & Drain Solutions",
+    "description": "Ace Repair Plumbing delivers 24/7 emergency plumbing, hydro-jet drain cleaning, slab leak detection, and water heater service. across Fort Worth, TX.",
+    "niche": "Plumbing & Drain Services",
+    "city": "Fort Worth",
+    "state": "TX",
+    "phone": "(817) 429-1115",
+    "formattedPhone": "(817) 429-1115",
+    "phoneRaw": "+18174291115",
+    "email": "acerepairplumbing@charter.net",
+    "address": {
+        "street": "100 Main St",
+        "city": "Fort Worth",
+        "state": "TX",
+        "zip": "75000",
+        "googleMapsEmbedUrl": ""
+    },
+    "googleAnalyticsId": "G-DEMO999",
+    "web3FormsAccessKey": "YOUR_KEY",
+    "hours": {
+        "days": "Monday - Sunday",
+        "time": "24/7 Emergency Dispatch",
+        "is24_7": true
+    },
+    "colors": {
+        "primary": "#0284c7",
+        "primaryDark": "#0369a1",
+        "accent": "#f59e0b"
+    },
+    "trustBadges": [
+        {
+            "title": "Licensed Master Plumber",
+            "subtitle": "State Certified Pros",
+            "icon": "ShieldCheck"
+        },
+        {
+            "title": "24/7 Emergency Dispatch",
+            "subtitle": "Fast Local Arrival",
+            "icon": "Clock"
+        },
+        {
+            "title": "Upfront Flat Pricing",
+            "subtitle": "No Surprise Fees",
+            "icon": "DollarSign"
+        },
+        {
+            "title": "Satisfaction Guaranteed",
+            "subtitle": "100% Quality Promise",
+            "icon": "Award"
+        }
+    ],
+    "services": [
+        {
+            "id": "emergency-drain",
+            "name": "Emergency Hydro-Jet Drain Cleaning",
+            "shortDesc": "Fast high-pressure root & grease removal.",
+            "fullDesc": "Clears blocked lines with digital video camera confirmation.",
+            "basePrice": 149,
+            "iconName": "Droplet",
+            "badge": "24/7 Service"
+        },
+        {
+            "id": "water-heater",
+            "name": "Water Heater Repair & Replacement",
+            "shortDesc": "Same-day tank & tankless water heater installation.",
+            "fullDesc": "High-efficiency systems for nonstop reliable hot water.",
+            "basePrice": 299,
+            "iconName": "Flame"
+        }
+    ],
+    "reviews": {
+        "googleRating": 4.9,
+        "totalReviews": 182,
+        "items": [
+            {
+                "id": "r1",
+                "author": "Mark R.",
+                "rating": 5,
+                "date": "3 days ago",
+                "comment": "Ace Repair Plumbing did a fantastic job at our home in Fort Worth. Super fast response and transparent pricing!",
+                "serviceUsed": "Emergency Hydro-Jet Drain Cleaning",
+                "verified": true
+            }
+        ]
+    },
+    "faqs": [
+        {
+            "question": "Do you provide emergency plumbing service?",
+            "answer": "Yes, our certified plumbers are on call 24/7 for urgent leaks, backups, and emergency repairs."
+        }
+    ]
+}
 };
