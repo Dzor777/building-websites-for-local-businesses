@@ -251,7 +251,7 @@ roth.dylan777@gmail.com
 
 ### 29. Ajax Plumbing Solutions
 
-* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://ajaxplumbingsolutions.com](https://ajaxplumbingsolutions.com) | **To Email:** `ajaxplumbingsolutions@gmail.com` | **Phone:** (972) 395-3730 | **City:** Carrollton, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://ajaxps.com](https://ajaxps.com) | **To Email:** `ajaxplumbingsolutions@gmail.com` | **Phone:** (972) 395-3730 | **City:** Carrollton, TX | **Status:** ⏳ Ready to Send
 
 **Subject:** Modern quote calculator preview for Ajax Plumbing Solutions / Carrollton
 
@@ -521,7 +521,7 @@ roth.dylan777@gmail.com
 
 ### 38. Meyer Heating & Air
 
-* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://meyerac.com](https://meyerac.com) | **To Email:** `info@meyerac.com` | **Phone:** (830) 407-8631 | **City:** New Braunfels, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://www.meyerac.com/](https://www.meyerac.com/) | **To Email:** `info@meyerac.com` | **Phone:** (830) 407-8631 | **City:** New Braunfels, TX | **Status:** ⏳ Ready to Send
 
 **Subject:** Modern quote calculator preview for Meyer Heating & Air / New Braunfels
 
@@ -551,7 +551,7 @@ roth.dylan777@gmail.com
 
 ### 39. Varni Roofing
 
-* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://varniroofinginc.com](https://varniroofinginc.com) | **To Email:** `contact@varniroofinginc.com` | **Phone:** (830) 609-3605 | **City:** New Braunfels, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://www.varniroofing.com/](https://www.varniroofing.com/) | **To Email:** `contact@varniroofing.com` | **Phone:** (830) 609-3605 | **City:** New Braunfels, TX | **Status:** ⏳ Ready to Send
 
 **Subject:** Quick note regarding Varni Roofing's mobile site / New Braunfels
 
