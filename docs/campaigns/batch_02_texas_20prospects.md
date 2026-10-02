@@ -11,7 +11,7 @@ This document contains 20 personalized, ready-to-send cold email outreach pitche
 
 ### 21. James Plumbing
 
-* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://calljamesplumbing.com](https://calljamesplumbing.com) | **To Email:** `service@calljamesplumbing.com` | **Phone:** (214) 286-6747 | **City:** Allen, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://calljamesplumbing.com](https://calljamesplumbing.com) | **To Email:** `service@calljamesplumbing.com` | **Phone:** (214) 286-6747 | **City:** Allen, TX | **Status:** 📤 Sent / Scheduled
 
 **Subject:** Modern quote calculator preview for James Plumbing / Allen
 
@@ -41,7 +41,7 @@ roth.dylan777@gmail.com
 
 ### 22. Over The Top Roofing
 
-* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://ntxroofs.com](https://ntxroofs.com) | **To Email:** `office@ntxroofs.com` | **Phone:** (940) 391-6773 | **City:** Denton, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://ntxroofs.com](https://ntxroofs.com) | **To Email:** `office@ntxroofs.com` | **Phone:** (940) 391-6773 | **City:** Denton, TX | **Status:** 📤 Sent / Scheduled
 
 **Subject:** Quick note regarding Over The Top Roofing's mobile site / Denton
 
@@ -71,7 +71,7 @@ roth.dylan777@gmail.com
 
 ### 23. Best Air Denton
 
-* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://bestairofdenton.com](https://bestairofdenton.com) | **To Email:** `service@bestairofdenton.com` | **Phone:** (940) 387-9034 | **City:** Denton, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://bestairofdenton.com](https://bestairofdenton.com) | **To Email:** `service@bestairofdenton.com` | **Phone:** (940) 387-9034 | **City:** Denton, TX | **Status:** 📤 Sent / Scheduled
 
 **Subject:** Modern quote calculator preview for Best Air Denton / Denton
 
@@ -101,7 +101,7 @@ roth.dylan777@gmail.com
 
 ### 24. Ryerson Roofing
 
-* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://rroofer.com](https://rroofer.com) | **To Email:** `info@rroofer.com` | **Phone:** (817) 756-7686 | **City:** Grapevine, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://rroofer.com](https://rroofer.com) | **To Email:** `info@rroofer.com` | **Phone:** (817) 756-7686 | **City:** Grapevine, TX | **Status:** 📤 Sent / Scheduled
 
 **Subject:** Quick note regarding Ryerson Roofing's mobile site / Grapevine
 
@@ -131,7 +131,7 @@ roth.dylan777@gmail.com
 
 ### 25. Grapevine Plumbing Co.
 
-* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://grapevineplumbingco.com](https://grapevineplumbingco.com) | **To Email:** `service@grapevineplumbingco.com` | **Phone:** (817) 435-4456 | **City:** Grapevine, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://grapevineplumbingco.com](https://grapevineplumbingco.com) | **To Email:** `service@grapevineplumbingco.com` | **Phone:** (817) 435-4456 | **City:** Grapevine, TX | **Status:** 📤 Sent / Scheduled
 
 **Subject:** Modern quote calculator preview for Grapevine Plumbing Co. / Grapevine
 
@@ -161,7 +161,7 @@ roth.dylan777@gmail.com
 
 ### 26. The Plumbing Service
 
-* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://theplumbingservice.com](https://theplumbingservice.com) | **To Email:** `brent@theplumbingservice.com` | **Phone:** (817) 225-2153 | **City:** Arlington, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://theplumbingservice.com](https://theplumbingservice.com) | **To Email:** `brent@theplumbingservice.com` | **Phone:** (817) 225-2153 | **City:** Arlington, TX | **Status:** 📤 Sent / Scheduled
 
 **Subject:** Quick note regarding The Plumbing Service's mobile site / Arlington
 
@@ -191,7 +191,7 @@ roth.dylan777@gmail.com
 
 ### 27. Comfort Authority
 
-* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://comfortauthoritytexas.com](https://comfortauthoritytexas.com) | **To Email:** `hello@comfortauthoritytexas.com` | **Phone:** (682) 900-7489 | **City:** Arlington, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://comfortauthoritytexas.com](https://comfortauthoritytexas.com) | **To Email:** `hello@comfortauthoritytexas.com` | **Phone:** (682) 900-7489 | **City:** Arlington, TX | **Status:** 📤 Sent / Scheduled
 
 **Subject:** Modern quote calculator preview for Comfort Authority / Arlington
 
@@ -221,7 +221,7 @@ roth.dylan777@gmail.com
 
 ### 28. John Wade Roofing
 
-* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://johnwaderoofing.com](https://johnwaderoofing.com) | **To Email:** `service@johnwaderoofing.com` | **Phone:** (817) 265-5520 | **City:** Arlington, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://johnwaderoofing.com](https://johnwaderoofing.com) | **To Email:** `service@johnwaderoofing.com` | **Phone:** (817) 265-5520 | **City:** Arlington, TX | **Status:** 📤 Sent / Scheduled
 
 **Subject:** Quick note regarding John Wade Roofing's mobile site / Arlington
 
@@ -251,7 +251,7 @@ roth.dylan777@gmail.com
 
 ### 29. Ajax Plumbing Solutions
 
-* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://ajaxps.com](https://ajaxps.com) | **To Email:** `ajaxplumbingsolutions@gmail.com` | **Phone:** (972) 395-3730 | **City:** Carrollton, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://ajaxps.com](https://ajaxps.com) | **To Email:** `ajaxplumbingsolutions@gmail.com` | **Phone:** (972) 395-3730 | **City:** Carrollton, TX | **Status:** 📤 Sent / Scheduled
 
 **Subject:** Modern quote calculator preview for Ajax Plumbing Solutions / Carrollton
 
@@ -281,7 +281,7 @@ roth.dylan777@gmail.com
 
 ### 30. Mama Bear Roofing
 
-* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://mamabearroofing.com](https://mamabearroofing.com) | **To Email:** `info@mamabearroofing.com` | **Phone:** (469) 640-4646 | **City:** Richardson, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://mamabearroofing.com](https://mamabearroofing.com) | **To Email:** `info@mamabearroofing.com` | **Phone:** (469) 640-4646 | **City:** Richardson, TX | **Status:** 📤 Sent / Scheduled
 
 **Subject:** Quick note regarding Mama Bear Roofing's mobile site / Richardson
 
