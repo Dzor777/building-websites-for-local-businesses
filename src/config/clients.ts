@@ -5067,22 +5067,22 @@ export const clientRegistry: Record<string, SiteConfig> = {
         }
     ]
 },
-  "pinnacle-plumbing-temple": {
-    "slug": "pinnacle-plumbing-temple",
-    "name": "Pinnacle Plumbing & Mechanical",
-    "legalName": "Pinnacle Plumbing & Mechanical LLC",
-    "domain": "pinnacleplumbingtx.com",
-    "url": "https://pinnacleplumbingtx.com",
-    "logoIcon": "Wrench",
-    "tagline": "Temple's Licensed Emergency Plumbing & Drain Specialists",
-    "description": "Pinnacle Plumbing & Mechanical provides fast leak detection, emergency drain cleaning, water heater repair, and repiping across Temple, TX.",
-    "niche": "Plumbing & Drain Services",
+  "ellis-air-systems-temple": {
+    "slug": "ellis-air-systems-temple",
+    "name": "Ellis Air Systems",
+    "legalName": "Ellis Air Systems LLC",
+    "domain": "ellisairsystems.com",
+    "url": "https://ellisairsystems.com",
+    "logoIcon": "Wind",
+    "tagline": "Temple's High-Efficiency AC Repair & Heating Specialists",
+    "description": "Ellis Air Systems delivers emergency cooling repairs, seasonal HVAC system maintenance, and new high-efficiency installations across Temple, TX.",
+    "niche": "HVAC & Air Conditioning",
     "city": "Temple",
     "state": "TX",
-    "phone": "(254) 466-8078",
-    "formattedPhone": "(254) 466-8078",
-    "phoneRaw": "+12544668078",
-    "email": "pinnacleplumbingtx@gmail.com",
+    "phone": "(254) 598-2074",
+    "formattedPhone": "(254) 598-2074",
+    "phoneRaw": "+12545982074",
+    "email": "info@ellisairsystems.com",
     "address": {
         "street": "100 Main St",
         "city": "Temple",
@@ -5127,20 +5127,20 @@ export const clientRegistry: Record<string, SiteConfig> = {
     "services": [
         {
             "id": "srv-1",
-            "name": "Emergency Plumbing Repair & Diagnostics",
-            "shortDesc": "Rapid diagnostics and prompt repair for household leaks and line breaks.",
-            "fullDesc": "Rapid diagnostics and prompt repair for household leaks and line breaks.",
+            "name": "Emergency AC Repair & Diagnostic",
+            "shortDesc": "Rapid cooling diagnostics and refrigerant recharge.",
+            "fullDesc": "Rapid cooling diagnostics and refrigerant recharge.",
             "basePrice": 89,
-            "iconName": "Wrench",
+            "iconName": "Wind",
             "badge": "Same Day"
         },
         {
             "id": "srv-2",
-            "name": "Hydro Jetting & Main Sewer Line Clearing",
-            "shortDesc": "High-pressure clearing of deep clogs, tree roots, and sediment buildup.",
-            "fullDesc": "High-pressure clearing of deep clogs, tree roots, and sediment buildup.",
-            "basePrice": 189,
-            "iconName": "Droplet"
+            "name": "High-Efficiency HVAC Replacement",
+            "shortDesc": "Complete system upgrades with smart thermostat integration.",
+            "fullDesc": "Complete system upgrades with smart thermostat integration.",
+            "basePrice": 499,
+            "iconName": "Flame"
         }
     ],
     "reviews": {
@@ -5152,16 +5152,16 @@ export const clientRegistry: Record<string, SiteConfig> = {
                 "author": "David M.",
                 "rating": 5,
                 "date": "2 days ago",
-                "comment": "Pinnacle Plumbing & Mechanical did an amazing job for us in Temple. Super communicative and fast!",
-                "serviceUsed": "Emergency Plumbing Repair & Diagnostics",
+                "comment": "Ellis Air Systems did an amazing job for us in Temple. Super communicative and fast!",
+                "serviceUsed": "Emergency AC Repair & Diagnostic",
                 "verified": true
             }
         ]
     },
     "faqs": [
         {
-            "question": "How quickly can a technician reach my home in an emergency?",
-            "answer": "Our dispatch trucks operate across Temple with rapid emergency response times to protect your property."
+            "question": "What is included in an HVAC diagnostic visit?",
+            "answer": "Our multi-point inspection covers electrical contacts, refrigerant levels, compressor health, and airflow."
         }
     ]
 },

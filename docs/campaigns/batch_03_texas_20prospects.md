@@ -369,24 +369,24 @@ roth.dylan777@gmail.com
 
 ---
 
-### 53. Pinnacle Plumbing & Mechanical
+### 53. Ellis Air Systems
 
-* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://pinnacleplumbingtx.com](https://pinnacleplumbingtx.com) | **To Email:** `pinnacleplumbingtx@gmail.com` | **Phone:** (254) 466-8078 | **City:** Temple, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://ellisairsystems.com](https://ellisairsystems.com) | **To Email:** `info@ellisairsystems.com` | **Phone:** (254) 598-2074 | **City:** Temple, TX | **Status:** ⏳ Ready to Send
 
-**Subject:** Modern quote calculator preview for Pinnacle Plumbing & Mechanical / Temple
+**Subject:** Modern quote calculator preview for Ellis Air Systems / Temple
 
 ```text
-Hi Pinnacle Plumbing & Mechanical Team,
+Hi Ellis Air Systems Team,
 
-I'm a local Texas web developer, and while reviewing top-rated Plumbing & Drain Services specialists in Temple, I ran across Pinnacle Plumbing & Mechanical.
+I'm a local Texas web developer, and while reviewing top-rated HVAC & Air Conditioning specialists in Temple, I ran across Ellis Air Systems.
 
-Your current site provides great information, but mobile visitors looking for fast service estimates have to hunt around to submit a request.
+Your current site provides great information, but mobile visitors looking for fast heating & AC service estimates have to hunt around to submit a request.
 
-I put together a fast, mobile-friendly live mockup for Pinnacle Plumbing & Mechanical:
+I put together a fast, mobile-friendly live mockup for Ellis Air Systems:
 
-👉 Live GitHub Mobile Preview: https://dzor777.github.io/building-websites-for-local-businesses/?client=pinnacle-plumbing-temple
+👉 Live GitHub Mobile Preview: https://dzor777.github.io/building-websites-for-local-businesses/?client=ellis-air-systems-temple
 
-It features an interactive quote calculator customized for Plumbing & Drain Services, instant 1-tap call buttons, and fast 24/7 quote request forms (Note: The quote calculator, colors, and layout are customizable sample templates. Project photos can also be added upon request for your final site).
+It features an interactive quote calculator customized for HVAC & Air Conditioning services, instant 1-tap call buttons, and fast 24/7 quote request forms (Note: The quote calculator, colors, and layout are customizable sample templates. Project photos can also be added upon request for your final site).
 
 Click the live preview link above to test out your personalized example website on your phone! If you'd like to chat about quick setup options to put it live under your domain, just reply to this email!
 
