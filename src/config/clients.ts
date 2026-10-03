@@ -3890,5 +3890,1965 @@ export const clientRegistry: Record<string, SiteConfig> = {
             "answer": "Yes, our certified plumbers are on call 24/7 for urgent leaks, backups, and emergency repairs."
         }
     ]
+},
+  "the-plumbinator-round-rock": {
+    "slug": "the-plumbinator-round-rock",
+    "name": "The Plumbinator",
+    "legalName": "The Plumbinator LLC",
+    "domain": "plumbinatoraustin.com",
+    "url": "https://plumbinatoraustin.com",
+    "logoIcon": "Wrench",
+    "tagline": "Round Rock's Licensed Emergency Plumbing & Drain Specialists",
+    "description": "The Plumbinator provides fast leak detection, emergency drain cleaning, water heater repair, and repiping across Round Rock, TX.",
+    "niche": "Plumbing & Drain Services",
+    "city": "Round Rock",
+    "state": "TX",
+    "phone": "(512) 786-1771",
+    "formattedPhone": "(512) 786-1771",
+    "phoneRaw": "+15127861771",
+    "email": "mickeytheplumber@yahoo.com",
+    "address": {
+        "street": "100 Main St",
+        "city": "Round Rock",
+        "state": "TX",
+        "zip": "75000",
+        "googleMapsEmbedUrl": ""
+    },
+    "googleAnalyticsId": "G-DEMO999",
+    "web3FormsAccessKey": "YOUR_KEY",
+    "hours": {
+        "days": "Monday - Sunday",
+        "time": "24/7 Emergency Dispatch",
+        "is24_7": true
+    },
+    "colors": {
+        "primary": "#0284c7",
+        "primaryDark": "#0369a1",
+        "accent": "#ea580c"
+    },
+    "trustBadges": [
+        {
+            "title": "State Licensed & Insured",
+            "subtitle": "Master Technicians",
+            "icon": "ShieldCheck"
+        },
+        {
+            "title": "Rapid Dispatch",
+            "subtitle": "Under 60 Min Arrival",
+            "icon": "Clock"
+        },
+        {
+            "title": "Flat-Rate Pricing",
+            "subtitle": "No Overtime Surprises",
+            "icon": "DollarSign"
+        },
+        {
+            "title": "100% Guaranteed",
+            "subtitle": "Complete Peace of Mind",
+            "icon": "Award"
+        }
+    ],
+    "services": [
+        {
+            "id": "srv-1",
+            "name": "Emergency Plumbing Repair & Diagnostics",
+            "shortDesc": "Rapid diagnostics and prompt repair for household leaks and line breaks.",
+            "fullDesc": "Rapid diagnostics and prompt repair for household leaks and line breaks.",
+            "basePrice": 89,
+            "iconName": "Wrench",
+            "badge": "Same Day"
+        },
+        {
+            "id": "srv-2",
+            "name": "Hydro Jetting & Main Sewer Line Clearing",
+            "shortDesc": "High-pressure clearing of deep clogs, tree roots, and sediment buildup.",
+            "fullDesc": "High-pressure clearing of deep clogs, tree roots, and sediment buildup.",
+            "basePrice": 189,
+            "iconName": "Droplet"
+        }
+    ],
+    "reviews": {
+        "googleRating": 4.9,
+        "totalReviews": 165,
+        "items": [
+            {
+                "id": "r1",
+                "author": "David M.",
+                "rating": 5,
+                "date": "2 days ago",
+                "comment": "The Plumbinator did an amazing job for us in Round Rock. Super communicative and fast!",
+                "serviceUsed": "Emergency Plumbing Repair & Diagnostics",
+                "verified": true
+            }
+        ]
+    },
+    "faqs": [
+        {
+            "question": "How quickly can a technician reach my home in an emergency?",
+            "answer": "Our dispatch trucks operate across Round Rock with rapid emergency response times to protect your property."
+        }
+    ]
+},
+  "spot-on-plumbing-round-rock": {
+    "slug": "spot-on-plumbing-round-rock",
+    "name": "Spot-On Plumbing",
+    "legalName": "Spot-On Plumbing LLC",
+    "domain": "spot-onplumbing.com",
+    "url": "https://spot-onplumbing.com",
+    "logoIcon": "Wrench",
+    "tagline": "Round Rock's Licensed Emergency Plumbing & Drain Specialists",
+    "description": "Spot-On Plumbing provides fast leak detection, emergency drain cleaning, water heater repair, and repiping across Round Rock, TX.",
+    "niche": "Plumbing & Drain Services",
+    "city": "Round Rock",
+    "state": "TX",
+    "phone": "(512) 777-1599",
+    "formattedPhone": "(512) 777-1599",
+    "phoneRaw": "+15127771599",
+    "email": "info@spot-onplumbing.com",
+    "address": {
+        "street": "100 Main St",
+        "city": "Round Rock",
+        "state": "TX",
+        "zip": "75000",
+        "googleMapsEmbedUrl": ""
+    },
+    "googleAnalyticsId": "G-DEMO999",
+    "web3FormsAccessKey": "YOUR_KEY",
+    "hours": {
+        "days": "Monday - Sunday",
+        "time": "24/7 Emergency Dispatch",
+        "is24_7": true
+    },
+    "colors": {
+        "primary": "#0284c7",
+        "primaryDark": "#0369a1",
+        "accent": "#ea580c"
+    },
+    "trustBadges": [
+        {
+            "title": "State Licensed & Insured",
+            "subtitle": "Master Technicians",
+            "icon": "ShieldCheck"
+        },
+        {
+            "title": "Rapid Dispatch",
+            "subtitle": "Under 60 Min Arrival",
+            "icon": "Clock"
+        },
+        {
+            "title": "Flat-Rate Pricing",
+            "subtitle": "No Overtime Surprises",
+            "icon": "DollarSign"
+        },
+        {
+            "title": "100% Guaranteed",
+            "subtitle": "Complete Peace of Mind",
+            "icon": "Award"
+        }
+    ],
+    "services": [
+        {
+            "id": "srv-1",
+            "name": "Emergency Plumbing Repair & Diagnostics",
+            "shortDesc": "Rapid diagnostics and prompt repair for household leaks and line breaks.",
+            "fullDesc": "Rapid diagnostics and prompt repair for household leaks and line breaks.",
+            "basePrice": 89,
+            "iconName": "Wrench",
+            "badge": "Same Day"
+        },
+        {
+            "id": "srv-2",
+            "name": "Hydro Jetting & Main Sewer Line Clearing",
+            "shortDesc": "High-pressure clearing of deep clogs, tree roots, and sediment buildup.",
+            "fullDesc": "High-pressure clearing of deep clogs, tree roots, and sediment buildup.",
+            "basePrice": 189,
+            "iconName": "Droplet"
+        }
+    ],
+    "reviews": {
+        "googleRating": 4.9,
+        "totalReviews": 165,
+        "items": [
+            {
+                "id": "r1",
+                "author": "David M.",
+                "rating": 5,
+                "date": "2 days ago",
+                "comment": "Spot-On Plumbing did an amazing job for us in Round Rock. Super communicative and fast!",
+                "serviceUsed": "Emergency Plumbing Repair & Diagnostics",
+                "verified": true
+            }
+        ]
+    },
+    "faqs": [
+        {
+            "question": "How quickly can a technician reach my home in an emergency?",
+            "answer": "Our dispatch trucks operate across Round Rock with rapid emergency response times to protect your property."
+        }
+    ]
+},
+  "aire-geeks-round-rock": {
+    "slug": "aire-geeks-round-rock",
+    "name": "Aire Geeks Inc.",
+    "legalName": "Aire Geeks Inc. LLC",
+    "domain": "airegeeks.com",
+    "url": "https://airegeeks.com",
+    "logoIcon": "Wind",
+    "tagline": "Round Rock's High-Efficiency AC Repair & Heating Specialists",
+    "description": "Aire Geeks Inc. delivers emergency cooling repairs, seasonal HVAC system maintenance, and new high-efficiency installations across Round Rock, TX.",
+    "niche": "HVAC & Air Conditioning",
+    "city": "Round Rock",
+    "state": "TX",
+    "phone": "(737) 708-8008",
+    "formattedPhone": "(737) 708-8008",
+    "phoneRaw": "+17377088008",
+    "email": "info@airegeeks.com",
+    "address": {
+        "street": "100 Main St",
+        "city": "Round Rock",
+        "state": "TX",
+        "zip": "75000",
+        "googleMapsEmbedUrl": ""
+    },
+    "googleAnalyticsId": "G-DEMO999",
+    "web3FormsAccessKey": "YOUR_KEY",
+    "hours": {
+        "days": "Monday - Sunday",
+        "time": "24/7 Emergency Dispatch",
+        "is24_7": true
+    },
+    "colors": {
+        "primary": "#0284c7",
+        "primaryDark": "#0369a1",
+        "accent": "#ea580c"
+    },
+    "trustBadges": [
+        {
+            "title": "State Licensed & Insured",
+            "subtitle": "Master Technicians",
+            "icon": "ShieldCheck"
+        },
+        {
+            "title": "Rapid Dispatch",
+            "subtitle": "Under 60 Min Arrival",
+            "icon": "Clock"
+        },
+        {
+            "title": "Flat-Rate Pricing",
+            "subtitle": "No Overtime Surprises",
+            "icon": "DollarSign"
+        },
+        {
+            "title": "100% Guaranteed",
+            "subtitle": "Complete Peace of Mind",
+            "icon": "Award"
+        }
+    ],
+    "services": [
+        {
+            "id": "srv-1",
+            "name": "Emergency AC Repair & Diagnostic",
+            "shortDesc": "Rapid cooling diagnostics and refrigerant recharge.",
+            "fullDesc": "Rapid cooling diagnostics and refrigerant recharge.",
+            "basePrice": 89,
+            "iconName": "Wind",
+            "badge": "Same Day"
+        },
+        {
+            "id": "srv-2",
+            "name": "High-Efficiency HVAC Replacement",
+            "shortDesc": "Complete system upgrades with smart thermostat integration.",
+            "fullDesc": "Complete system upgrades with smart thermostat integration.",
+            "basePrice": 499,
+            "iconName": "Flame"
+        }
+    ],
+    "reviews": {
+        "googleRating": 4.9,
+        "totalReviews": 165,
+        "items": [
+            {
+                "id": "r1",
+                "author": "David M.",
+                "rating": 5,
+                "date": "2 days ago",
+                "comment": "Aire Geeks Inc. did an amazing job for us in Round Rock. Super communicative and fast!",
+                "serviceUsed": "Emergency AC Repair & Diagnostic",
+                "verified": true
+            }
+        ]
+    },
+    "faqs": [
+        {
+            "question": "What is included in an HVAC diagnostic visit?",
+            "answer": "Our multi-point inspection covers electrical contacts, refrigerant levels, compressor health, and airflow."
+        }
+    ]
+},
+  "ark-roofer-georgetown": {
+    "slug": "ark-roofer-georgetown",
+    "name": "Ark Roofer",
+    "legalName": "Ark Roofer LLC",
+    "domain": "arkroofer.com",
+    "url": "https://arkroofer.com",
+    "logoIcon": "Home",
+    "tagline": "Georgetown's Storm Damage, Leak Repair & Roof Replacement",
+    "description": "Ark Roofer delivers free roof damage inspections, emergency leak tarping, architectural shingle replacement, and insurance claim support across Georgetown, TX.",
+    "niche": "Roofing & Restoration",
+    "city": "Georgetown",
+    "state": "TX",
+    "phone": "(512) 862-1921",
+    "formattedPhone": "(512) 862-1921",
+    "phoneRaw": "+15128621921",
+    "email": "office@arkroofer.com",
+    "address": {
+        "street": "100 Main St",
+        "city": "Georgetown",
+        "state": "TX",
+        "zip": "75000",
+        "googleMapsEmbedUrl": ""
+    },
+    "googleAnalyticsId": "G-DEMO999",
+    "web3FormsAccessKey": "YOUR_KEY",
+    "hours": {
+        "days": "Monday - Sunday",
+        "time": "24/7 Emergency Dispatch",
+        "is24_7": true
+    },
+    "colors": {
+        "primary": "#1e3a8a",
+        "primaryDark": "#172554",
+        "accent": "#ea580c"
+    },
+    "trustBadges": [
+        {
+            "title": "State Licensed & Insured",
+            "subtitle": "Master Technicians",
+            "icon": "ShieldCheck"
+        },
+        {
+            "title": "Rapid Dispatch",
+            "subtitle": "Under 60 Min Arrival",
+            "icon": "Clock"
+        },
+        {
+            "title": "Flat-Rate Pricing",
+            "subtitle": "No Overtime Surprises",
+            "icon": "DollarSign"
+        },
+        {
+            "title": "100% Guaranteed",
+            "subtitle": "Complete Peace of Mind",
+            "icon": "Award"
+        }
+    ],
+    "services": [
+        {
+            "id": "srv-1",
+            "name": "Complimentary Storm & Leak Inspection",
+            "shortDesc": "Thorough drone & physical inspection of shingle integrity and flashing.",
+            "fullDesc": "Thorough drone & physical inspection of shingle integrity and flashing.",
+            "basePrice": 0,
+            "iconName": "Home",
+            "badge": "Free Inspection"
+        },
+        {
+            "id": "srv-2",
+            "name": "Complete Architectural Shingle Replacement",
+            "shortDesc": "Premium Class-4 impact-resistant shingle installations with lifetime warranty.",
+            "fullDesc": "Premium Class-4 impact-resistant shingle installations with lifetime warranty.",
+            "basePrice": 1200,
+            "iconName": "Shield"
+        }
+    ],
+    "reviews": {
+        "googleRating": 4.9,
+        "totalReviews": 165,
+        "items": [
+            {
+                "id": "r1",
+                "author": "David M.",
+                "rating": 5,
+                "date": "2 days ago",
+                "comment": "Ark Roofer did an amazing job for us in Georgetown. Super communicative and fast!",
+                "serviceUsed": "Complimentary Storm & Leak Inspection",
+                "verified": true
+            }
+        ]
+    },
+    "faqs": [
+        {
+            "question": "How much does a roof damage inspection cost?",
+            "answer": "Our initial storm inspection and damage report are 100% complimentary with no obligation."
+        }
+    ]
+},
+  "cool-tex-roofing-georgetown": {
+    "slug": "cool-tex-roofing-georgetown",
+    "name": "Cool Tex Roofing",
+    "legalName": "Cool Tex Roofing LLC",
+    "domain": "cooltexroofingtx.com",
+    "url": "https://cooltexroofingtx.com",
+    "logoIcon": "Home",
+    "tagline": "Georgetown's Storm Damage, Leak Repair & Roof Replacement",
+    "description": "Cool Tex Roofing delivers free roof damage inspections, emergency leak tarping, architectural shingle replacement, and insurance claim support across Georgetown, TX.",
+    "niche": "Roofing & Restoration",
+    "city": "Georgetown",
+    "state": "TX",
+    "phone": "(512) 948-2665",
+    "formattedPhone": "(512) 948-2665",
+    "phoneRaw": "+15129482665",
+    "email": "chris@cooltexroofing.net",
+    "address": {
+        "street": "100 Main St",
+        "city": "Georgetown",
+        "state": "TX",
+        "zip": "75000",
+        "googleMapsEmbedUrl": ""
+    },
+    "googleAnalyticsId": "G-DEMO999",
+    "web3FormsAccessKey": "YOUR_KEY",
+    "hours": {
+        "days": "Monday - Sunday",
+        "time": "24/7 Emergency Dispatch",
+        "is24_7": true
+    },
+    "colors": {
+        "primary": "#1e3a8a",
+        "primaryDark": "#172554",
+        "accent": "#ea580c"
+    },
+    "trustBadges": [
+        {
+            "title": "State Licensed & Insured",
+            "subtitle": "Master Technicians",
+            "icon": "ShieldCheck"
+        },
+        {
+            "title": "Rapid Dispatch",
+            "subtitle": "Under 60 Min Arrival",
+            "icon": "Clock"
+        },
+        {
+            "title": "Flat-Rate Pricing",
+            "subtitle": "No Overtime Surprises",
+            "icon": "DollarSign"
+        },
+        {
+            "title": "100% Guaranteed",
+            "subtitle": "Complete Peace of Mind",
+            "icon": "Award"
+        }
+    ],
+    "services": [
+        {
+            "id": "srv-1",
+            "name": "Complimentary Storm & Leak Inspection",
+            "shortDesc": "Thorough drone & physical inspection of shingle integrity and flashing.",
+            "fullDesc": "Thorough drone & physical inspection of shingle integrity and flashing.",
+            "basePrice": 0,
+            "iconName": "Home",
+            "badge": "Free Inspection"
+        },
+        {
+            "id": "srv-2",
+            "name": "Complete Architectural Shingle Replacement",
+            "shortDesc": "Premium Class-4 impact-resistant shingle installations with lifetime warranty.",
+            "fullDesc": "Premium Class-4 impact-resistant shingle installations with lifetime warranty.",
+            "basePrice": 1200,
+            "iconName": "Shield"
+        }
+    ],
+    "reviews": {
+        "googleRating": 4.9,
+        "totalReviews": 165,
+        "items": [
+            {
+                "id": "r1",
+                "author": "David M.",
+                "rating": 5,
+                "date": "2 days ago",
+                "comment": "Cool Tex Roofing did an amazing job for us in Georgetown. Super communicative and fast!",
+                "serviceUsed": "Complimentary Storm & Leak Inspection",
+                "verified": true
+            }
+        ]
+    },
+    "faqs": [
+        {
+            "question": "How much does a roof damage inspection cost?",
+            "answer": "Our initial storm inspection and damage report are 100% complimentary with no obligation."
+        }
+    ]
+},
+  "texas-home-performance-pflugerville": {
+    "slug": "texas-home-performance-pflugerville",
+    "name": "Texas Home Performance",
+    "legalName": "Texas Home Performance LLC",
+    "domain": "texashomeperformance.com",
+    "url": "https://texashomeperformance.com",
+    "logoIcon": "Wind",
+    "tagline": "Pflugerville's High-Efficiency AC Repair & Heating Specialists",
+    "description": "Texas Home Performance delivers emergency cooling repairs, seasonal HVAC system maintenance, and new high-efficiency installations across Pflugerville, TX.",
+    "niche": "HVAC & Air Conditioning",
+    "city": "Pflugerville",
+    "state": "TX",
+    "phone": "(512) 670-0909",
+    "formattedPhone": "(512) 670-0909",
+    "phoneRaw": "+15126700909",
+    "email": "service@texashomeperformance.com",
+    "address": {
+        "street": "100 Main St",
+        "city": "Pflugerville",
+        "state": "TX",
+        "zip": "75000",
+        "googleMapsEmbedUrl": ""
+    },
+    "googleAnalyticsId": "G-DEMO999",
+    "web3FormsAccessKey": "YOUR_KEY",
+    "hours": {
+        "days": "Monday - Sunday",
+        "time": "24/7 Emergency Dispatch",
+        "is24_7": true
+    },
+    "colors": {
+        "primary": "#0284c7",
+        "primaryDark": "#0369a1",
+        "accent": "#ea580c"
+    },
+    "trustBadges": [
+        {
+            "title": "State Licensed & Insured",
+            "subtitle": "Master Technicians",
+            "icon": "ShieldCheck"
+        },
+        {
+            "title": "Rapid Dispatch",
+            "subtitle": "Under 60 Min Arrival",
+            "icon": "Clock"
+        },
+        {
+            "title": "Flat-Rate Pricing",
+            "subtitle": "No Overtime Surprises",
+            "icon": "DollarSign"
+        },
+        {
+            "title": "100% Guaranteed",
+            "subtitle": "Complete Peace of Mind",
+            "icon": "Award"
+        }
+    ],
+    "services": [
+        {
+            "id": "srv-1",
+            "name": "Emergency AC Repair & Diagnostic",
+            "shortDesc": "Rapid cooling diagnostics and refrigerant recharge.",
+            "fullDesc": "Rapid cooling diagnostics and refrigerant recharge.",
+            "basePrice": 89,
+            "iconName": "Wind",
+            "badge": "Same Day"
+        },
+        {
+            "id": "srv-2",
+            "name": "High-Efficiency HVAC Replacement",
+            "shortDesc": "Complete system upgrades with smart thermostat integration.",
+            "fullDesc": "Complete system upgrades with smart thermostat integration.",
+            "basePrice": 499,
+            "iconName": "Flame"
+        }
+    ],
+    "reviews": {
+        "googleRating": 4.9,
+        "totalReviews": 165,
+        "items": [
+            {
+                "id": "r1",
+                "author": "David M.",
+                "rating": 5,
+                "date": "2 days ago",
+                "comment": "Texas Home Performance did an amazing job for us in Pflugerville. Super communicative and fast!",
+                "serviceUsed": "Emergency AC Repair & Diagnostic",
+                "verified": true
+            }
+        ]
+    },
+    "faqs": [
+        {
+            "question": "What is included in an HVAC diagnostic visit?",
+            "answer": "Our multi-point inspection covers electrical contacts, refrigerant levels, compressor health, and airflow."
+        }
+    ]
+},
+  "cedar-park-air-conditioning": {
+    "slug": "cedar-park-air-conditioning",
+    "name": "Cedar Park Air Conditioning",
+    "legalName": "Cedar Park Air Conditioning LLC",
+    "domain": "cedarparkac.com",
+    "url": "https://cedarparkac.com",
+    "logoIcon": "Wind",
+    "tagline": "Cedar Park's High-Efficiency AC Repair & Heating Specialists",
+    "description": "Cedar Park Air Conditioning delivers emergency cooling repairs, seasonal HVAC system maintenance, and new high-efficiency installations across Cedar Park, TX.",
+    "niche": "HVAC & Air Conditioning",
+    "city": "Cedar Park",
+    "state": "TX",
+    "phone": "(512) 331-5900",
+    "formattedPhone": "(512) 331-5900",
+    "phoneRaw": "+15123315900",
+    "email": "cedarparkair@gmail.com",
+    "address": {
+        "street": "100 Main St",
+        "city": "Cedar Park",
+        "state": "TX",
+        "zip": "75000",
+        "googleMapsEmbedUrl": ""
+    },
+    "googleAnalyticsId": "G-DEMO999",
+    "web3FormsAccessKey": "YOUR_KEY",
+    "hours": {
+        "days": "Monday - Sunday",
+        "time": "24/7 Emergency Dispatch",
+        "is24_7": true
+    },
+    "colors": {
+        "primary": "#0284c7",
+        "primaryDark": "#0369a1",
+        "accent": "#ea580c"
+    },
+    "trustBadges": [
+        {
+            "title": "State Licensed & Insured",
+            "subtitle": "Master Technicians",
+            "icon": "ShieldCheck"
+        },
+        {
+            "title": "Rapid Dispatch",
+            "subtitle": "Under 60 Min Arrival",
+            "icon": "Clock"
+        },
+        {
+            "title": "Flat-Rate Pricing",
+            "subtitle": "No Overtime Surprises",
+            "icon": "DollarSign"
+        },
+        {
+            "title": "100% Guaranteed",
+            "subtitle": "Complete Peace of Mind",
+            "icon": "Award"
+        }
+    ],
+    "services": [
+        {
+            "id": "srv-1",
+            "name": "Emergency AC Repair & Diagnostic",
+            "shortDesc": "Rapid cooling diagnostics and refrigerant recharge.",
+            "fullDesc": "Rapid cooling diagnostics and refrigerant recharge.",
+            "basePrice": 89,
+            "iconName": "Wind",
+            "badge": "Same Day"
+        },
+        {
+            "id": "srv-2",
+            "name": "High-Efficiency HVAC Replacement",
+            "shortDesc": "Complete system upgrades with smart thermostat integration.",
+            "fullDesc": "Complete system upgrades with smart thermostat integration.",
+            "basePrice": 499,
+            "iconName": "Flame"
+        }
+    ],
+    "reviews": {
+        "googleRating": 4.9,
+        "totalReviews": 165,
+        "items": [
+            {
+                "id": "r1",
+                "author": "David M.",
+                "rating": 5,
+                "date": "2 days ago",
+                "comment": "Cedar Park Air Conditioning did an amazing job for us in Cedar Park. Super communicative and fast!",
+                "serviceUsed": "Emergency AC Repair & Diagnostic",
+                "verified": true
+            }
+        ]
+    },
+    "faqs": [
+        {
+            "question": "What is included in an HVAC diagnostic visit?",
+            "answer": "Our multi-point inspection covers electrical contacts, refrigerant levels, compressor health, and airflow."
+        }
+    ]
+},
+  "mansfield-plumbing-tx": {
+    "slug": "mansfield-plumbing-tx",
+    "name": "Mansfield Plumbing, Electrical & Air",
+    "legalName": "Mansfield Plumbing, Electrical & Air LLC",
+    "domain": "mansfieldtxplumbing.com",
+    "url": "https://mansfieldtxplumbing.com",
+    "logoIcon": "Wrench",
+    "tagline": "Mansfield's Licensed Emergency Plumbing & Drain Specialists",
+    "description": "Mansfield Plumbing, Electrical & Air provides fast leak detection, emergency drain cleaning, water heater repair, and repiping across Mansfield, TX.",
+    "niche": "Plumbing & Drain Services",
+    "city": "Mansfield",
+    "state": "TX",
+    "phone": "(817) 823-7239",
+    "formattedPhone": "(817) 823-7239",
+    "phoneRaw": "+18178237239",
+    "email": "service@mansfieldtxplumbing.com",
+    "address": {
+        "street": "100 Main St",
+        "city": "Mansfield",
+        "state": "TX",
+        "zip": "75000",
+        "googleMapsEmbedUrl": ""
+    },
+    "googleAnalyticsId": "G-DEMO999",
+    "web3FormsAccessKey": "YOUR_KEY",
+    "hours": {
+        "days": "Monday - Sunday",
+        "time": "24/7 Emergency Dispatch",
+        "is24_7": true
+    },
+    "colors": {
+        "primary": "#0284c7",
+        "primaryDark": "#0369a1",
+        "accent": "#ea580c"
+    },
+    "trustBadges": [
+        {
+            "title": "State Licensed & Insured",
+            "subtitle": "Master Technicians",
+            "icon": "ShieldCheck"
+        },
+        {
+            "title": "Rapid Dispatch",
+            "subtitle": "Under 60 Min Arrival",
+            "icon": "Clock"
+        },
+        {
+            "title": "Flat-Rate Pricing",
+            "subtitle": "No Overtime Surprises",
+            "icon": "DollarSign"
+        },
+        {
+            "title": "100% Guaranteed",
+            "subtitle": "Complete Peace of Mind",
+            "icon": "Award"
+        }
+    ],
+    "services": [
+        {
+            "id": "srv-1",
+            "name": "Emergency Plumbing Repair & Diagnostics",
+            "shortDesc": "Rapid diagnostics and prompt repair for household leaks and line breaks.",
+            "fullDesc": "Rapid diagnostics and prompt repair for household leaks and line breaks.",
+            "basePrice": 89,
+            "iconName": "Wrench",
+            "badge": "Same Day"
+        },
+        {
+            "id": "srv-2",
+            "name": "Hydro Jetting & Main Sewer Line Clearing",
+            "shortDesc": "High-pressure clearing of deep clogs, tree roots, and sediment buildup.",
+            "fullDesc": "High-pressure clearing of deep clogs, tree roots, and sediment buildup.",
+            "basePrice": 189,
+            "iconName": "Droplet"
+        }
+    ],
+    "reviews": {
+        "googleRating": 4.9,
+        "totalReviews": 165,
+        "items": [
+            {
+                "id": "r1",
+                "author": "David M.",
+                "rating": 5,
+                "date": "2 days ago",
+                "comment": "Mansfield Plumbing, Electrical & Air did an amazing job for us in Mansfield. Super communicative and fast!",
+                "serviceUsed": "Emergency Plumbing Repair & Diagnostics",
+                "verified": true
+            }
+        ]
+    },
+    "faqs": [
+        {
+            "question": "How quickly can a technician reach my home in an emergency?",
+            "answer": "Our dispatch trucks operate across Mansfield with rapid emergency response times to protect your property."
+        }
+    ]
+},
+  "wahooo-plumbers-euless": {
+    "slug": "wahooo-plumbers-euless",
+    "name": "Wahooo Plumbers",
+    "legalName": "Wahooo Plumbers LLC",
+    "domain": "wahoooplumbers.com",
+    "url": "https://wahoooplumbers.com",
+    "logoIcon": "Wrench",
+    "tagline": "Euless's Licensed Emergency Plumbing & Drain Specialists",
+    "description": "Wahooo Plumbers provides fast leak detection, emergency drain cleaning, water heater repair, and repiping across Euless, TX.",
+    "niche": "Plumbing & Drain Services",
+    "city": "Euless",
+    "state": "TX",
+    "phone": "(817) 818-0693",
+    "formattedPhone": "(817) 818-0693",
+    "phoneRaw": "+18178180693",
+    "email": "wahoooplumbers@gmail.com",
+    "address": {
+        "street": "100 Main St",
+        "city": "Euless",
+        "state": "TX",
+        "zip": "75000",
+        "googleMapsEmbedUrl": ""
+    },
+    "googleAnalyticsId": "G-DEMO999",
+    "web3FormsAccessKey": "YOUR_KEY",
+    "hours": {
+        "days": "Monday - Sunday",
+        "time": "24/7 Emergency Dispatch",
+        "is24_7": true
+    },
+    "colors": {
+        "primary": "#0284c7",
+        "primaryDark": "#0369a1",
+        "accent": "#ea580c"
+    },
+    "trustBadges": [
+        {
+            "title": "State Licensed & Insured",
+            "subtitle": "Master Technicians",
+            "icon": "ShieldCheck"
+        },
+        {
+            "title": "Rapid Dispatch",
+            "subtitle": "Under 60 Min Arrival",
+            "icon": "Clock"
+        },
+        {
+            "title": "Flat-Rate Pricing",
+            "subtitle": "No Overtime Surprises",
+            "icon": "DollarSign"
+        },
+        {
+            "title": "100% Guaranteed",
+            "subtitle": "Complete Peace of Mind",
+            "icon": "Award"
+        }
+    ],
+    "services": [
+        {
+            "id": "srv-1",
+            "name": "Emergency Plumbing Repair & Diagnostics",
+            "shortDesc": "Rapid diagnostics and prompt repair for household leaks and line breaks.",
+            "fullDesc": "Rapid diagnostics and prompt repair for household leaks and line breaks.",
+            "basePrice": 89,
+            "iconName": "Wrench",
+            "badge": "Same Day"
+        },
+        {
+            "id": "srv-2",
+            "name": "Hydro Jetting & Main Sewer Line Clearing",
+            "shortDesc": "High-pressure clearing of deep clogs, tree roots, and sediment buildup.",
+            "fullDesc": "High-pressure clearing of deep clogs, tree roots, and sediment buildup.",
+            "basePrice": 189,
+            "iconName": "Droplet"
+        }
+    ],
+    "reviews": {
+        "googleRating": 4.9,
+        "totalReviews": 165,
+        "items": [
+            {
+                "id": "r1",
+                "author": "David M.",
+                "rating": 5,
+                "date": "2 days ago",
+                "comment": "Wahooo Plumbers did an amazing job for us in Euless. Super communicative and fast!",
+                "serviceUsed": "Emergency Plumbing Repair & Diagnostics",
+                "verified": true
+            }
+        ]
+    },
+    "faqs": [
+        {
+            "question": "How quickly can a technician reach my home in an emergency?",
+            "answer": "Our dispatch trucks operate across Euless with rapid emergency response times to protect your property."
+        }
+    ]
+},
+  "plumb-right-solutions-euless": {
+    "slug": "plumb-right-solutions-euless",
+    "name": "Plumb Right Solutions",
+    "legalName": "Plumb Right Solutions LLC",
+    "domain": "plumbrightsolutions.com",
+    "url": "https://plumbrightsolutions.com",
+    "logoIcon": "Wrench",
+    "tagline": "Euless's Licensed Emergency Plumbing & Drain Specialists",
+    "description": "Plumb Right Solutions provides fast leak detection, emergency drain cleaning, water heater repair, and repiping across Euless, TX.",
+    "niche": "Plumbing & Drain Services",
+    "city": "Euless",
+    "state": "TX",
+    "phone": "(682) 286-5436",
+    "formattedPhone": "(682) 286-5436",
+    "phoneRaw": "+16822865436",
+    "email": "info@plumbrightsolutions.com",
+    "address": {
+        "street": "100 Main St",
+        "city": "Euless",
+        "state": "TX",
+        "zip": "75000",
+        "googleMapsEmbedUrl": ""
+    },
+    "googleAnalyticsId": "G-DEMO999",
+    "web3FormsAccessKey": "YOUR_KEY",
+    "hours": {
+        "days": "Monday - Sunday",
+        "time": "24/7 Emergency Dispatch",
+        "is24_7": true
+    },
+    "colors": {
+        "primary": "#0284c7",
+        "primaryDark": "#0369a1",
+        "accent": "#ea580c"
+    },
+    "trustBadges": [
+        {
+            "title": "State Licensed & Insured",
+            "subtitle": "Master Technicians",
+            "icon": "ShieldCheck"
+        },
+        {
+            "title": "Rapid Dispatch",
+            "subtitle": "Under 60 Min Arrival",
+            "icon": "Clock"
+        },
+        {
+            "title": "Flat-Rate Pricing",
+            "subtitle": "No Overtime Surprises",
+            "icon": "DollarSign"
+        },
+        {
+            "title": "100% Guaranteed",
+            "subtitle": "Complete Peace of Mind",
+            "icon": "Award"
+        }
+    ],
+    "services": [
+        {
+            "id": "srv-1",
+            "name": "Emergency Plumbing Repair & Diagnostics",
+            "shortDesc": "Rapid diagnostics and prompt repair for household leaks and line breaks.",
+            "fullDesc": "Rapid diagnostics and prompt repair for household leaks and line breaks.",
+            "basePrice": 89,
+            "iconName": "Wrench",
+            "badge": "Same Day"
+        },
+        {
+            "id": "srv-2",
+            "name": "Hydro Jetting & Main Sewer Line Clearing",
+            "shortDesc": "High-pressure clearing of deep clogs, tree roots, and sediment buildup.",
+            "fullDesc": "High-pressure clearing of deep clogs, tree roots, and sediment buildup.",
+            "basePrice": 189,
+            "iconName": "Droplet"
+        }
+    ],
+    "reviews": {
+        "googleRating": 4.9,
+        "totalReviews": 165,
+        "items": [
+            {
+                "id": "r1",
+                "author": "David M.",
+                "rating": 5,
+                "date": "2 days ago",
+                "comment": "Plumb Right Solutions did an amazing job for us in Euless. Super communicative and fast!",
+                "serviceUsed": "Emergency Plumbing Repair & Diagnostics",
+                "verified": true
+            }
+        ]
+    },
+    "faqs": [
+        {
+            "question": "How quickly can a technician reach my home in an emergency?",
+            "answer": "Our dispatch trucks operate across Euless with rapid emergency response times to protect your property."
+        }
+    ]
+},
+  "verified-roofing-bedford": {
+    "slug": "verified-roofing-bedford",
+    "name": "Verified Roofing LLC",
+    "legalName": "Verified Roofing LLC LLC",
+    "domain": "verified-roofing.com",
+    "url": "https://verified-roofing.com",
+    "logoIcon": "Home",
+    "tagline": "Bedford's Storm Damage, Leak Repair & Roof Replacement",
+    "description": "Verified Roofing LLC delivers free roof damage inspections, emergency leak tarping, architectural shingle replacement, and insurance claim support across Bedford, TX.",
+    "niche": "Roofing & Restoration",
+    "city": "Bedford",
+    "state": "TX",
+    "phone": "(817) 715-6750",
+    "formattedPhone": "(817) 715-6750",
+    "phoneRaw": "+18177156750",
+    "email": "office@verified-roofing.com",
+    "address": {
+        "street": "100 Main St",
+        "city": "Bedford",
+        "state": "TX",
+        "zip": "75000",
+        "googleMapsEmbedUrl": ""
+    },
+    "googleAnalyticsId": "G-DEMO999",
+    "web3FormsAccessKey": "YOUR_KEY",
+    "hours": {
+        "days": "Monday - Sunday",
+        "time": "24/7 Emergency Dispatch",
+        "is24_7": true
+    },
+    "colors": {
+        "primary": "#1e3a8a",
+        "primaryDark": "#172554",
+        "accent": "#ea580c"
+    },
+    "trustBadges": [
+        {
+            "title": "State Licensed & Insured",
+            "subtitle": "Master Technicians",
+            "icon": "ShieldCheck"
+        },
+        {
+            "title": "Rapid Dispatch",
+            "subtitle": "Under 60 Min Arrival",
+            "icon": "Clock"
+        },
+        {
+            "title": "Flat-Rate Pricing",
+            "subtitle": "No Overtime Surprises",
+            "icon": "DollarSign"
+        },
+        {
+            "title": "100% Guaranteed",
+            "subtitle": "Complete Peace of Mind",
+            "icon": "Award"
+        }
+    ],
+    "services": [
+        {
+            "id": "srv-1",
+            "name": "Complimentary Storm & Leak Inspection",
+            "shortDesc": "Thorough drone & physical inspection of shingle integrity and flashing.",
+            "fullDesc": "Thorough drone & physical inspection of shingle integrity and flashing.",
+            "basePrice": 0,
+            "iconName": "Home",
+            "badge": "Free Inspection"
+        },
+        {
+            "id": "srv-2",
+            "name": "Complete Architectural Shingle Replacement",
+            "shortDesc": "Premium Class-4 impact-resistant shingle installations with lifetime warranty.",
+            "fullDesc": "Premium Class-4 impact-resistant shingle installations with lifetime warranty.",
+            "basePrice": 1200,
+            "iconName": "Shield"
+        }
+    ],
+    "reviews": {
+        "googleRating": 4.9,
+        "totalReviews": 165,
+        "items": [
+            {
+                "id": "r1",
+                "author": "David M.",
+                "rating": 5,
+                "date": "2 days ago",
+                "comment": "Verified Roofing LLC did an amazing job for us in Bedford. Super communicative and fast!",
+                "serviceUsed": "Complimentary Storm & Leak Inspection",
+                "verified": true
+            }
+        ]
+    },
+    "faqs": [
+        {
+            "question": "How much does a roof damage inspection cost?",
+            "answer": "Our initial storm inspection and damage report are 100% complimentary with no obligation."
+        }
+    ]
+},
+  "parker-county-cooling-weatherford": {
+    "slug": "parker-county-cooling-weatherford",
+    "name": "Parker County Cooling & Heating",
+    "legalName": "Parker County Cooling & Heating LLC",
+    "domain": "parkercountyac.com",
+    "url": "https://parkercountyac.com",
+    "logoIcon": "Wind",
+    "tagline": "Weatherford's High-Efficiency AC Repair & Heating Specialists",
+    "description": "Parker County Cooling & Heating delivers emergency cooling repairs, seasonal HVAC system maintenance, and new high-efficiency installations across Weatherford, TX.",
+    "niche": "HVAC & Air Conditioning",
+    "city": "Weatherford",
+    "state": "TX",
+    "phone": "(817) 587-4899",
+    "formattedPhone": "(817) 587-4899",
+    "phoneRaw": "+18175874899",
+    "email": "info@parkercountyac.com",
+    "address": {
+        "street": "100 Main St",
+        "city": "Weatherford",
+        "state": "TX",
+        "zip": "75000",
+        "googleMapsEmbedUrl": ""
+    },
+    "googleAnalyticsId": "G-DEMO999",
+    "web3FormsAccessKey": "YOUR_KEY",
+    "hours": {
+        "days": "Monday - Sunday",
+        "time": "24/7 Emergency Dispatch",
+        "is24_7": true
+    },
+    "colors": {
+        "primary": "#0284c7",
+        "primaryDark": "#0369a1",
+        "accent": "#ea580c"
+    },
+    "trustBadges": [
+        {
+            "title": "State Licensed & Insured",
+            "subtitle": "Master Technicians",
+            "icon": "ShieldCheck"
+        },
+        {
+            "title": "Rapid Dispatch",
+            "subtitle": "Under 60 Min Arrival",
+            "icon": "Clock"
+        },
+        {
+            "title": "Flat-Rate Pricing",
+            "subtitle": "No Overtime Surprises",
+            "icon": "DollarSign"
+        },
+        {
+            "title": "100% Guaranteed",
+            "subtitle": "Complete Peace of Mind",
+            "icon": "Award"
+        }
+    ],
+    "services": [
+        {
+            "id": "srv-1",
+            "name": "Emergency AC Repair & Diagnostic",
+            "shortDesc": "Rapid cooling diagnostics and refrigerant recharge.",
+            "fullDesc": "Rapid cooling diagnostics and refrigerant recharge.",
+            "basePrice": 89,
+            "iconName": "Wind",
+            "badge": "Same Day"
+        },
+        {
+            "id": "srv-2",
+            "name": "High-Efficiency HVAC Replacement",
+            "shortDesc": "Complete system upgrades with smart thermostat integration.",
+            "fullDesc": "Complete system upgrades with smart thermostat integration.",
+            "basePrice": 499,
+            "iconName": "Flame"
+        }
+    ],
+    "reviews": {
+        "googleRating": 4.9,
+        "totalReviews": 165,
+        "items": [
+            {
+                "id": "r1",
+                "author": "David M.",
+                "rating": 5,
+                "date": "2 days ago",
+                "comment": "Parker County Cooling & Heating did an amazing job for us in Weatherford. Super communicative and fast!",
+                "serviceUsed": "Emergency AC Repair & Diagnostic",
+                "verified": true
+            }
+        ]
+    },
+    "faqs": [
+        {
+            "question": "What is included in an HVAC diagnostic visit?",
+            "answer": "Our multi-point inspection covers electrical contacts, refrigerant levels, compressor health, and airflow."
+        }
+    ]
+},
+  "pinnacle-plumbing-temple": {
+    "slug": "pinnacle-plumbing-temple",
+    "name": "Pinnacle Plumbing & Mechanical",
+    "legalName": "Pinnacle Plumbing & Mechanical LLC",
+    "domain": "pinnacleplumbingtx.com",
+    "url": "https://pinnacleplumbingtx.com",
+    "logoIcon": "Wrench",
+    "tagline": "Temple's Licensed Emergency Plumbing & Drain Specialists",
+    "description": "Pinnacle Plumbing & Mechanical provides fast leak detection, emergency drain cleaning, water heater repair, and repiping across Temple, TX.",
+    "niche": "Plumbing & Drain Services",
+    "city": "Temple",
+    "state": "TX",
+    "phone": "(254) 466-8078",
+    "formattedPhone": "(254) 466-8078",
+    "phoneRaw": "+12544668078",
+    "email": "pinnacleplumbingtx@gmail.com",
+    "address": {
+        "street": "100 Main St",
+        "city": "Temple",
+        "state": "TX",
+        "zip": "75000",
+        "googleMapsEmbedUrl": ""
+    },
+    "googleAnalyticsId": "G-DEMO999",
+    "web3FormsAccessKey": "YOUR_KEY",
+    "hours": {
+        "days": "Monday - Sunday",
+        "time": "24/7 Emergency Dispatch",
+        "is24_7": true
+    },
+    "colors": {
+        "primary": "#0284c7",
+        "primaryDark": "#0369a1",
+        "accent": "#ea580c"
+    },
+    "trustBadges": [
+        {
+            "title": "State Licensed & Insured",
+            "subtitle": "Master Technicians",
+            "icon": "ShieldCheck"
+        },
+        {
+            "title": "Rapid Dispatch",
+            "subtitle": "Under 60 Min Arrival",
+            "icon": "Clock"
+        },
+        {
+            "title": "Flat-Rate Pricing",
+            "subtitle": "No Overtime Surprises",
+            "icon": "DollarSign"
+        },
+        {
+            "title": "100% Guaranteed",
+            "subtitle": "Complete Peace of Mind",
+            "icon": "Award"
+        }
+    ],
+    "services": [
+        {
+            "id": "srv-1",
+            "name": "Emergency Plumbing Repair & Diagnostics",
+            "shortDesc": "Rapid diagnostics and prompt repair for household leaks and line breaks.",
+            "fullDesc": "Rapid diagnostics and prompt repair for household leaks and line breaks.",
+            "basePrice": 89,
+            "iconName": "Wrench",
+            "badge": "Same Day"
+        },
+        {
+            "id": "srv-2",
+            "name": "Hydro Jetting & Main Sewer Line Clearing",
+            "shortDesc": "High-pressure clearing of deep clogs, tree roots, and sediment buildup.",
+            "fullDesc": "High-pressure clearing of deep clogs, tree roots, and sediment buildup.",
+            "basePrice": 189,
+            "iconName": "Droplet"
+        }
+    ],
+    "reviews": {
+        "googleRating": 4.9,
+        "totalReviews": 165,
+        "items": [
+            {
+                "id": "r1",
+                "author": "David M.",
+                "rating": 5,
+                "date": "2 days ago",
+                "comment": "Pinnacle Plumbing & Mechanical did an amazing job for us in Temple. Super communicative and fast!",
+                "serviceUsed": "Emergency Plumbing Repair & Diagnostics",
+                "verified": true
+            }
+        ]
+    },
+    "faqs": [
+        {
+            "question": "How quickly can a technician reach my home in an emergency?",
+            "answer": "Our dispatch trucks operate across Temple with rapid emergency response times to protect your property."
+        }
+    ]
+},
+  "prince-plumbing-temple": {
+    "slug": "prince-plumbing-temple",
+    "name": "Prince Plumbing & Mechanical",
+    "legalName": "Prince Plumbing & Mechanical LLC",
+    "domain": "princeplumbingco.com",
+    "url": "https://princeplumbingco.com",
+    "logoIcon": "Wrench",
+    "tagline": "Temple's Licensed Emergency Plumbing & Drain Specialists",
+    "description": "Prince Plumbing & Mechanical provides fast leak detection, emergency drain cleaning, water heater repair, and repiping across Temple, TX.",
+    "niche": "Plumbing & Drain Services",
+    "city": "Temple",
+    "state": "TX",
+    "phone": "(254) 298-9994",
+    "formattedPhone": "(254) 298-9994",
+    "phoneRaw": "+12542989994",
+    "email": "service@princeplumbingco.com",
+    "address": {
+        "street": "100 Main St",
+        "city": "Temple",
+        "state": "TX",
+        "zip": "75000",
+        "googleMapsEmbedUrl": ""
+    },
+    "googleAnalyticsId": "G-DEMO999",
+    "web3FormsAccessKey": "YOUR_KEY",
+    "hours": {
+        "days": "Monday - Sunday",
+        "time": "24/7 Emergency Dispatch",
+        "is24_7": true
+    },
+    "colors": {
+        "primary": "#0284c7",
+        "primaryDark": "#0369a1",
+        "accent": "#ea580c"
+    },
+    "trustBadges": [
+        {
+            "title": "State Licensed & Insured",
+            "subtitle": "Master Technicians",
+            "icon": "ShieldCheck"
+        },
+        {
+            "title": "Rapid Dispatch",
+            "subtitle": "Under 60 Min Arrival",
+            "icon": "Clock"
+        },
+        {
+            "title": "Flat-Rate Pricing",
+            "subtitle": "No Overtime Surprises",
+            "icon": "DollarSign"
+        },
+        {
+            "title": "100% Guaranteed",
+            "subtitle": "Complete Peace of Mind",
+            "icon": "Award"
+        }
+    ],
+    "services": [
+        {
+            "id": "srv-1",
+            "name": "Emergency Plumbing Repair & Diagnostics",
+            "shortDesc": "Rapid diagnostics and prompt repair for household leaks and line breaks.",
+            "fullDesc": "Rapid diagnostics and prompt repair for household leaks and line breaks.",
+            "basePrice": 89,
+            "iconName": "Wrench",
+            "badge": "Same Day"
+        },
+        {
+            "id": "srv-2",
+            "name": "Hydro Jetting & Main Sewer Line Clearing",
+            "shortDesc": "High-pressure clearing of deep clogs, tree roots, and sediment buildup.",
+            "fullDesc": "High-pressure clearing of deep clogs, tree roots, and sediment buildup.",
+            "basePrice": 189,
+            "iconName": "Droplet"
+        }
+    ],
+    "reviews": {
+        "googleRating": 4.9,
+        "totalReviews": 165,
+        "items": [
+            {
+                "id": "r1",
+                "author": "David M.",
+                "rating": 5,
+                "date": "2 days ago",
+                "comment": "Prince Plumbing & Mechanical did an amazing job for us in Temple. Super communicative and fast!",
+                "serviceUsed": "Emergency Plumbing Repair & Diagnostics",
+                "verified": true
+            }
+        ]
+    },
+    "faqs": [
+        {
+            "question": "How quickly can a technician reach my home in an emergency?",
+            "answer": "Our dispatch trucks operate across Temple with rapid emergency response times to protect your property."
+        }
+    ]
+},
+  "malek-service-bryan": {
+    "slug": "malek-service-bryan",
+    "name": "Malek Service Company",
+    "legalName": "Malek Service Company LLC",
+    "domain": "malekservice.com",
+    "url": "https://malekservice.com",
+    "logoIcon": "Wind",
+    "tagline": "Bryan's High-Efficiency AC Repair & Heating Specialists",
+    "description": "Malek Service Company delivers emergency cooling repairs, seasonal HVAC system maintenance, and new high-efficiency installations across Bryan, TX.",
+    "niche": "HVAC & Air Conditioning",
+    "city": "Bryan",
+    "state": "TX",
+    "phone": "(979) 446-0296",
+    "formattedPhone": "(979) 446-0296",
+    "phoneRaw": "+19794460296",
+    "email": "info@malekservice.com",
+    "address": {
+        "street": "100 Main St",
+        "city": "Bryan",
+        "state": "TX",
+        "zip": "75000",
+        "googleMapsEmbedUrl": ""
+    },
+    "googleAnalyticsId": "G-DEMO999",
+    "web3FormsAccessKey": "YOUR_KEY",
+    "hours": {
+        "days": "Monday - Sunday",
+        "time": "24/7 Emergency Dispatch",
+        "is24_7": true
+    },
+    "colors": {
+        "primary": "#0284c7",
+        "primaryDark": "#0369a1",
+        "accent": "#ea580c"
+    },
+    "trustBadges": [
+        {
+            "title": "State Licensed & Insured",
+            "subtitle": "Master Technicians",
+            "icon": "ShieldCheck"
+        },
+        {
+            "title": "Rapid Dispatch",
+            "subtitle": "Under 60 Min Arrival",
+            "icon": "Clock"
+        },
+        {
+            "title": "Flat-Rate Pricing",
+            "subtitle": "No Overtime Surprises",
+            "icon": "DollarSign"
+        },
+        {
+            "title": "100% Guaranteed",
+            "subtitle": "Complete Peace of Mind",
+            "icon": "Award"
+        }
+    ],
+    "services": [
+        {
+            "id": "srv-1",
+            "name": "Emergency AC Repair & Diagnostic",
+            "shortDesc": "Rapid cooling diagnostics and refrigerant recharge.",
+            "fullDesc": "Rapid cooling diagnostics and refrigerant recharge.",
+            "basePrice": 89,
+            "iconName": "Wind",
+            "badge": "Same Day"
+        },
+        {
+            "id": "srv-2",
+            "name": "High-Efficiency HVAC Replacement",
+            "shortDesc": "Complete system upgrades with smart thermostat integration.",
+            "fullDesc": "Complete system upgrades with smart thermostat integration.",
+            "basePrice": 499,
+            "iconName": "Flame"
+        }
+    ],
+    "reviews": {
+        "googleRating": 4.9,
+        "totalReviews": 165,
+        "items": [
+            {
+                "id": "r1",
+                "author": "David M.",
+                "rating": 5,
+                "date": "2 days ago",
+                "comment": "Malek Service Company did an amazing job for us in Bryan. Super communicative and fast!",
+                "serviceUsed": "Emergency AC Repair & Diagnostic",
+                "verified": true
+            }
+        ]
+    },
+    "faqs": [
+        {
+            "question": "What is included in an HVAC diagnostic visit?",
+            "answer": "Our multi-point inspection covers electrical contacts, refrigerant levels, compressor health, and airflow."
+        }
+    ]
+},
+  "schulte-roofing-bryan": {
+    "slug": "schulte-roofing-bryan",
+    "name": "Schulte Roofing",
+    "legalName": "Schulte Roofing LLC",
+    "domain": "schulteroofing.com",
+    "url": "https://schulteroofing.com",
+    "logoIcon": "Home",
+    "tagline": "Bryan's Storm Damage, Leak Repair & Roof Replacement",
+    "description": "Schulte Roofing delivers free roof damage inspections, emergency leak tarping, architectural shingle replacement, and insurance claim support across Bryan, TX.",
+    "niche": "Roofing & Restoration",
+    "city": "Bryan",
+    "state": "TX",
+    "phone": "(979) 209-0148",
+    "formattedPhone": "(979) 209-0148",
+    "phoneRaw": "+19792090148",
+    "email": "sales@schulteroofing.com",
+    "address": {
+        "street": "100 Main St",
+        "city": "Bryan",
+        "state": "TX",
+        "zip": "75000",
+        "googleMapsEmbedUrl": ""
+    },
+    "googleAnalyticsId": "G-DEMO999",
+    "web3FormsAccessKey": "YOUR_KEY",
+    "hours": {
+        "days": "Monday - Sunday",
+        "time": "24/7 Emergency Dispatch",
+        "is24_7": true
+    },
+    "colors": {
+        "primary": "#1e3a8a",
+        "primaryDark": "#172554",
+        "accent": "#ea580c"
+    },
+    "trustBadges": [
+        {
+            "title": "State Licensed & Insured",
+            "subtitle": "Master Technicians",
+            "icon": "ShieldCheck"
+        },
+        {
+            "title": "Rapid Dispatch",
+            "subtitle": "Under 60 Min Arrival",
+            "icon": "Clock"
+        },
+        {
+            "title": "Flat-Rate Pricing",
+            "subtitle": "No Overtime Surprises",
+            "icon": "DollarSign"
+        },
+        {
+            "title": "100% Guaranteed",
+            "subtitle": "Complete Peace of Mind",
+            "icon": "Award"
+        }
+    ],
+    "services": [
+        {
+            "id": "srv-1",
+            "name": "Complimentary Storm & Leak Inspection",
+            "shortDesc": "Thorough drone & physical inspection of shingle integrity and flashing.",
+            "fullDesc": "Thorough drone & physical inspection of shingle integrity and flashing.",
+            "basePrice": 0,
+            "iconName": "Home",
+            "badge": "Free Inspection"
+        },
+        {
+            "id": "srv-2",
+            "name": "Complete Architectural Shingle Replacement",
+            "shortDesc": "Premium Class-4 impact-resistant shingle installations with lifetime warranty.",
+            "fullDesc": "Premium Class-4 impact-resistant shingle installations with lifetime warranty.",
+            "basePrice": 1200,
+            "iconName": "Shield"
+        }
+    ],
+    "reviews": {
+        "googleRating": 4.9,
+        "totalReviews": 165,
+        "items": [
+            {
+                "id": "r1",
+                "author": "David M.",
+                "rating": 5,
+                "date": "2 days ago",
+                "comment": "Schulte Roofing did an amazing job for us in Bryan. Super communicative and fast!",
+                "serviceUsed": "Complimentary Storm & Leak Inspection",
+                "verified": true
+            }
+        ]
+    },
+    "faqs": [
+        {
+            "question": "How much does a roof damage inspection cost?",
+            "answer": "Our initial storm inspection and damage report are 100% complimentary with no obligation."
+        }
+    ]
+},
+  "tyler-roofing-company-tyler": {
+    "slug": "tyler-roofing-company-tyler",
+    "name": "Tyler Roofing Company Inc.",
+    "legalName": "Tyler Roofing Company Inc. LLC",
+    "domain": "tylerroofingco.com",
+    "url": "https://tylerroofingco.com",
+    "logoIcon": "Home",
+    "tagline": "Tyler's Storm Damage, Leak Repair & Roof Replacement",
+    "description": "Tyler Roofing Company Inc. delivers free roof damage inspections, emergency leak tarping, architectural shingle replacement, and insurance claim support across Tyler, TX.",
+    "niche": "Roofing & Restoration",
+    "city": "Tyler",
+    "state": "TX",
+    "phone": "(903) 597-4152",
+    "formattedPhone": "(903) 597-4152",
+    "phoneRaw": "+19035974152",
+    "email": "tylerroofingco@gmail.com",
+    "address": {
+        "street": "100 Main St",
+        "city": "Tyler",
+        "state": "TX",
+        "zip": "75000",
+        "googleMapsEmbedUrl": ""
+    },
+    "googleAnalyticsId": "G-DEMO999",
+    "web3FormsAccessKey": "YOUR_KEY",
+    "hours": {
+        "days": "Monday - Sunday",
+        "time": "24/7 Emergency Dispatch",
+        "is24_7": true
+    },
+    "colors": {
+        "primary": "#1e3a8a",
+        "primaryDark": "#172554",
+        "accent": "#ea580c"
+    },
+    "trustBadges": [
+        {
+            "title": "State Licensed & Insured",
+            "subtitle": "Master Technicians",
+            "icon": "ShieldCheck"
+        },
+        {
+            "title": "Rapid Dispatch",
+            "subtitle": "Under 60 Min Arrival",
+            "icon": "Clock"
+        },
+        {
+            "title": "Flat-Rate Pricing",
+            "subtitle": "No Overtime Surprises",
+            "icon": "DollarSign"
+        },
+        {
+            "title": "100% Guaranteed",
+            "subtitle": "Complete Peace of Mind",
+            "icon": "Award"
+        }
+    ],
+    "services": [
+        {
+            "id": "srv-1",
+            "name": "Complimentary Storm & Leak Inspection",
+            "shortDesc": "Thorough drone & physical inspection of shingle integrity and flashing.",
+            "fullDesc": "Thorough drone & physical inspection of shingle integrity and flashing.",
+            "basePrice": 0,
+            "iconName": "Home",
+            "badge": "Free Inspection"
+        },
+        {
+            "id": "srv-2",
+            "name": "Complete Architectural Shingle Replacement",
+            "shortDesc": "Premium Class-4 impact-resistant shingle installations with lifetime warranty.",
+            "fullDesc": "Premium Class-4 impact-resistant shingle installations with lifetime warranty.",
+            "basePrice": 1200,
+            "iconName": "Shield"
+        }
+    ],
+    "reviews": {
+        "googleRating": 4.9,
+        "totalReviews": 165,
+        "items": [
+            {
+                "id": "r1",
+                "author": "David M.",
+                "rating": 5,
+                "date": "2 days ago",
+                "comment": "Tyler Roofing Company Inc. did an amazing job for us in Tyler. Super communicative and fast!",
+                "serviceUsed": "Complimentary Storm & Leak Inspection",
+                "verified": true
+            }
+        ]
+    },
+    "faqs": [
+        {
+            "question": "How much does a roof damage inspection cost?",
+            "answer": "Our initial storm inspection and damage report are 100% complimentary with no obligation."
+        }
+    ]
+},
+  "eschberger-plumbing-tyler": {
+    "slug": "eschberger-plumbing-tyler",
+    "name": "Eschberger Plumbing",
+    "legalName": "Eschberger Plumbing LLC",
+    "domain": "eschbergerplumbing.com",
+    "url": "https://eschbergerplumbing.com",
+    "logoIcon": "Wrench",
+    "tagline": "Tyler's Licensed Emergency Plumbing & Drain Specialists",
+    "description": "Eschberger Plumbing provides fast leak detection, emergency drain cleaning, water heater repair, and repiping across Tyler, TX.",
+    "niche": "Plumbing & Drain Services",
+    "city": "Tyler",
+    "state": "TX",
+    "phone": "(903) 581-1200",
+    "formattedPhone": "(903) 581-1200",
+    "phoneRaw": "+19035811200",
+    "email": "eschbergerplumbing@gmail.com",
+    "address": {
+        "street": "100 Main St",
+        "city": "Tyler",
+        "state": "TX",
+        "zip": "75000",
+        "googleMapsEmbedUrl": ""
+    },
+    "googleAnalyticsId": "G-DEMO999",
+    "web3FormsAccessKey": "YOUR_KEY",
+    "hours": {
+        "days": "Monday - Sunday",
+        "time": "24/7 Emergency Dispatch",
+        "is24_7": true
+    },
+    "colors": {
+        "primary": "#0284c7",
+        "primaryDark": "#0369a1",
+        "accent": "#ea580c"
+    },
+    "trustBadges": [
+        {
+            "title": "State Licensed & Insured",
+            "subtitle": "Master Technicians",
+            "icon": "ShieldCheck"
+        },
+        {
+            "title": "Rapid Dispatch",
+            "subtitle": "Under 60 Min Arrival",
+            "icon": "Clock"
+        },
+        {
+            "title": "Flat-Rate Pricing",
+            "subtitle": "No Overtime Surprises",
+            "icon": "DollarSign"
+        },
+        {
+            "title": "100% Guaranteed",
+            "subtitle": "Complete Peace of Mind",
+            "icon": "Award"
+        }
+    ],
+    "services": [
+        {
+            "id": "srv-1",
+            "name": "Emergency Plumbing Repair & Diagnostics",
+            "shortDesc": "Rapid diagnostics and prompt repair for household leaks and line breaks.",
+            "fullDesc": "Rapid diagnostics and prompt repair for household leaks and line breaks.",
+            "basePrice": 89,
+            "iconName": "Wrench",
+            "badge": "Same Day"
+        },
+        {
+            "id": "srv-2",
+            "name": "Hydro Jetting & Main Sewer Line Clearing",
+            "shortDesc": "High-pressure clearing of deep clogs, tree roots, and sediment buildup.",
+            "fullDesc": "High-pressure clearing of deep clogs, tree roots, and sediment buildup.",
+            "basePrice": 189,
+            "iconName": "Droplet"
+        }
+    ],
+    "reviews": {
+        "googleRating": 4.9,
+        "totalReviews": 165,
+        "items": [
+            {
+                "id": "r1",
+                "author": "David M.",
+                "rating": 5,
+                "date": "2 days ago",
+                "comment": "Eschberger Plumbing did an amazing job for us in Tyler. Super communicative and fast!",
+                "serviceUsed": "Emergency Plumbing Repair & Diagnostics",
+                "verified": true
+            }
+        ]
+    },
+    "faqs": [
+        {
+            "question": "How quickly can a technician reach my home in an emergency?",
+            "answer": "Our dispatch trucks operate across Tyler with rapid emergency response times to protect your property."
+        }
+    ]
+},
+  "armstrong-plumbing-pearland": {
+    "slug": "armstrong-plumbing-pearland",
+    "name": "Armstrong Plumbing Company",
+    "legalName": "Armstrong Plumbing Company LLC",
+    "domain": "armstrongplumbingcompany.com",
+    "url": "https://armstrongplumbingcompany.com",
+    "logoIcon": "Wrench",
+    "tagline": "Pearland's Licensed Emergency Plumbing & Drain Specialists",
+    "description": "Armstrong Plumbing Company provides fast leak detection, emergency drain cleaning, water heater repair, and repiping across Pearland, TX.",
+    "niche": "Plumbing & Drain Services",
+    "city": "Pearland",
+    "state": "TX",
+    "phone": "(281) 485-3838",
+    "formattedPhone": "(281) 485-3838",
+    "phoneRaw": "+12814853838",
+    "email": "admin@armstrongplumbingcompany.com",
+    "address": {
+        "street": "100 Main St",
+        "city": "Pearland",
+        "state": "TX",
+        "zip": "75000",
+        "googleMapsEmbedUrl": ""
+    },
+    "googleAnalyticsId": "G-DEMO999",
+    "web3FormsAccessKey": "YOUR_KEY",
+    "hours": {
+        "days": "Monday - Sunday",
+        "time": "24/7 Emergency Dispatch",
+        "is24_7": true
+    },
+    "colors": {
+        "primary": "#0284c7",
+        "primaryDark": "#0369a1",
+        "accent": "#ea580c"
+    },
+    "trustBadges": [
+        {
+            "title": "State Licensed & Insured",
+            "subtitle": "Master Technicians",
+            "icon": "ShieldCheck"
+        },
+        {
+            "title": "Rapid Dispatch",
+            "subtitle": "Under 60 Min Arrival",
+            "icon": "Clock"
+        },
+        {
+            "title": "Flat-Rate Pricing",
+            "subtitle": "No Overtime Surprises",
+            "icon": "DollarSign"
+        },
+        {
+            "title": "100% Guaranteed",
+            "subtitle": "Complete Peace of Mind",
+            "icon": "Award"
+        }
+    ],
+    "services": [
+        {
+            "id": "srv-1",
+            "name": "Emergency Plumbing Repair & Diagnostics",
+            "shortDesc": "Rapid diagnostics and prompt repair for household leaks and line breaks.",
+            "fullDesc": "Rapid diagnostics and prompt repair for household leaks and line breaks.",
+            "basePrice": 89,
+            "iconName": "Wrench",
+            "badge": "Same Day"
+        },
+        {
+            "id": "srv-2",
+            "name": "Hydro Jetting & Main Sewer Line Clearing",
+            "shortDesc": "High-pressure clearing of deep clogs, tree roots, and sediment buildup.",
+            "fullDesc": "High-pressure clearing of deep clogs, tree roots, and sediment buildup.",
+            "basePrice": 189,
+            "iconName": "Droplet"
+        }
+    ],
+    "reviews": {
+        "googleRating": 4.9,
+        "totalReviews": 165,
+        "items": [
+            {
+                "id": "r1",
+                "author": "David M.",
+                "rating": 5,
+                "date": "2 days ago",
+                "comment": "Armstrong Plumbing Company did an amazing job for us in Pearland. Super communicative and fast!",
+                "serviceUsed": "Emergency Plumbing Repair & Diagnostics",
+                "verified": true
+            }
+        ]
+    },
+    "faqs": [
+        {
+            "question": "How quickly can a technician reach my home in an emergency?",
+            "answer": "Our dispatch trucks operate across Pearland with rapid emergency response times to protect your property."
+        }
+    ]
+},
+  "texas-premier-plumbing-sugar-land": {
+    "slug": "texas-premier-plumbing-sugar-land",
+    "name": "Texas Premier Plumbing",
+    "legalName": "Texas Premier Plumbing LLC",
+    "domain": "texaspremierplumbing.com",
+    "url": "https://texaspremierplumbing.com",
+    "logoIcon": "Wrench",
+    "tagline": "Sugar Land's Licensed Emergency Plumbing & Drain Specialists",
+    "description": "Texas Premier Plumbing provides fast leak detection, emergency drain cleaning, water heater repair, and repiping across Sugar Land, TX.",
+    "niche": "Plumbing & Drain Services",
+    "city": "Sugar Land",
+    "state": "TX",
+    "phone": "(713) 955-1919",
+    "formattedPhone": "(713) 955-1919",
+    "phoneRaw": "+17139551919",
+    "email": "info@texaspremierplumbing.com",
+    "address": {
+        "street": "100 Main St",
+        "city": "Sugar Land",
+        "state": "TX",
+        "zip": "75000",
+        "googleMapsEmbedUrl": ""
+    },
+    "googleAnalyticsId": "G-DEMO999",
+    "web3FormsAccessKey": "YOUR_KEY",
+    "hours": {
+        "days": "Monday - Sunday",
+        "time": "24/7 Emergency Dispatch",
+        "is24_7": true
+    },
+    "colors": {
+        "primary": "#0284c7",
+        "primaryDark": "#0369a1",
+        "accent": "#ea580c"
+    },
+    "trustBadges": [
+        {
+            "title": "State Licensed & Insured",
+            "subtitle": "Master Technicians",
+            "icon": "ShieldCheck"
+        },
+        {
+            "title": "Rapid Dispatch",
+            "subtitle": "Under 60 Min Arrival",
+            "icon": "Clock"
+        },
+        {
+            "title": "Flat-Rate Pricing",
+            "subtitle": "No Overtime Surprises",
+            "icon": "DollarSign"
+        },
+        {
+            "title": "100% Guaranteed",
+            "subtitle": "Complete Peace of Mind",
+            "icon": "Award"
+        }
+    ],
+    "services": [
+        {
+            "id": "srv-1",
+            "name": "Emergency Plumbing Repair & Diagnostics",
+            "shortDesc": "Rapid diagnostics and prompt repair for household leaks and line breaks.",
+            "fullDesc": "Rapid diagnostics and prompt repair for household leaks and line breaks.",
+            "basePrice": 89,
+            "iconName": "Wrench",
+            "badge": "Same Day"
+        },
+        {
+            "id": "srv-2",
+            "name": "Hydro Jetting & Main Sewer Line Clearing",
+            "shortDesc": "High-pressure clearing of deep clogs, tree roots, and sediment buildup.",
+            "fullDesc": "High-pressure clearing of deep clogs, tree roots, and sediment buildup.",
+            "basePrice": 189,
+            "iconName": "Droplet"
+        }
+    ],
+    "reviews": {
+        "googleRating": 4.9,
+        "totalReviews": 165,
+        "items": [
+            {
+                "id": "r1",
+                "author": "David M.",
+                "rating": 5,
+                "date": "2 days ago",
+                "comment": "Texas Premier Plumbing did an amazing job for us in Sugar Land. Super communicative and fast!",
+                "serviceUsed": "Emergency Plumbing Repair & Diagnostics",
+                "verified": true
+            }
+        ]
+    },
+    "faqs": [
+        {
+            "question": "How quickly can a technician reach my home in an emergency?",
+            "answer": "Our dispatch trucks operate across Sugar Land with rapid emergency response times to protect your property."
+        }
+    ]
 }
 };
