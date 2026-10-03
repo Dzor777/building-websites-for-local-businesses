@@ -191,7 +191,7 @@ roth.dylan777@gmail.com
 
 ### 47. Cedar Park Air Conditioning
 
-* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://cedarparkac.com](https://cedarparkac.com) | **To Email:** `cedarparkair@gmail.com` | **Phone:** (512) 331-5900 | **City:** Cedar Park, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://cedarparkac.com](https://cedarparkac.com) | **To Email:** `cedarparkair@gmail.com` | **Phone:** (512) 500-7250 | **City:** Cedar Park, TX | **Status:** ⏳ Ready to Send
 
 **Subject:** Quick note regarding Cedar Park Air Conditioning's mobile site / Cedar Park
 
@@ -461,7 +461,7 @@ roth.dylan777@gmail.com
 
 ### 56. Schulte Roofing
 
-* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://schulteroofing.com](https://schulteroofing.com) | **To Email:** `sales@schulteroofing.com` | **Phone:** (979) 209-0148 | **City:** Bryan, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://schulteroofing.com](https://schulteroofing.com) | **To Email:** `sales@schulteroofing.com` | **Phone:** (800) 367-7663 | **City:** Bryan, TX | **Status:** ⏳ Ready to Send
 
 **Subject:** Quick note regarding Schulte Roofing's mobile site / Bryan
 
@@ -551,7 +551,7 @@ roth.dylan777@gmail.com
 
 ### 59. Armstrong Plumbing Company
 
-* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://armstrongplumbingcompany.com](https://armstrongplumbingcompany.com) | **To Email:** `admin@armstrongplumbingcompany.com` | **Phone:** (281) 485-3838 | **City:** Pearland, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://armstrongplumbingcompany.com](https://armstrongplumbingcompany.com) | **To Email:** `admin@armstrongplumbingcompany.com` | **Phone:** (281) 899-8462 | **City:** Pearland, TX | **Status:** ⏳ Ready to Send
 
 **Subject:** Modern quote calculator preview for Armstrong Plumbing Company / Pearland
 
