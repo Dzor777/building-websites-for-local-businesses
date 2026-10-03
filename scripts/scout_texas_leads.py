@@ -141,6 +141,13 @@ roth.dylan777@gmail.com"""
         'body': f"```text\n{body}\n```"
     }
 
+def enrich_and_verify_lead(lead):
+    """
+    Enriches candidate lead by crawling website for genuine email and verifying MX records.
+    """
+    from verify_email_deliverability import verify_lead_email
+    return verify_lead_email(lead)
 
 if __name__ == "__main__":
-    print("Scouting script initialized!")
+    print("Scouting script with deep email deliverability verifier initialized!")
+
