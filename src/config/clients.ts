@@ -5850,5 +5850,1966 @@ export const clientRegistry: Record<string, SiteConfig> = {
             "answer": "Our dispatch trucks operate across Sugar Land with rapid emergency response times to protect your property."
         }
     ]
-}
+    },
+
+    "dna-plumbing-frisco": {
+    "slug": "dna-plumbing-frisco",
+    "name": "DNA Plumbing",
+    "legalName": "DNA Plumbing LLC",
+    "domain": "dnaplumbing.com",
+    "url": "https://dnaplumbing.com",
+    "logoIcon": "Droplet",
+    "tagline": "Frisco & North Texas Master Plumbing Specialists",
+    "description": "24/7 emergency leak repair, hydro jetting, tankless water heater installation, and drain clearing in Frisco, TX.",
+    "niche": "Plumbing & Drain Services",
+    "city": "Frisco",
+    "state": "TX",
+    "phone": "(860) 515-9565",
+    "formattedPhone": "(860) 515-9565",
+    "phoneRaw": "+18605159565",
+    "email": "info@dnaplumbing.com",
+    "address": {
+        "street": "Main Service Hub",
+        "city": "Frisco",
+        "state": "TX",
+        "zip": "75000",
+        "googleMapsEmbedUrl": ""
+    },
+    "googleAnalyticsId": "G-DEMO999",
+    "web3FormsAccessKey": "YOUR_KEY",
+    "hours": {
+        "days": "Monday - Sunday",
+        "time": "24/7 Emergency Service",
+        "is24_7": true
+    },
+    "colors": {
+        "primary": "#0284c7",
+        "primaryDark": "#0369a1",
+        "accent": "#f59e0b"
+    },
+    "trustBadges": [
+        {
+            "title": "Frisco Verified",
+            "subtitle": "Licensed & Insured",
+            "icon": "ShieldCheck"
+        },
+        {
+            "title": "24/7 Rapid Response",
+            "subtitle": "Local Dispatch Vans",
+            "icon": "Clock"
+        },
+        {
+            "title": "Upfront Pricing",
+            "subtitle": "Zero Hidden Surcharges",
+            "icon": "DollarSign"
+        },
+        {
+            "title": "5-Star Craftsmanship",
+            "subtitle": "100% Satisfaction Guarantee",
+            "icon": "Award"
+        }
+    ],
+    "services": [
+        {
+            "id": "srv-1",
+            "name": "Emergency Frisco Plumbing Repair & Diagnostics",
+            "shortDesc": "Rapid diagnostics and prompt repair for household leaks and line breaks.",
+            "fullDesc": "Rapid diagnostics and prompt repair for household leaks and line breaks.",
+            "basePrice": 89,
+            "iconName": "Wrench",
+            "badge": "Same Day"
+        },
+        {
+            "id": "srv-2",
+            "name": "Hydro Jetting & Main Line Clearing",
+            "shortDesc": "High-pressure clearing of deep clogs, tree roots, and sediment buildup.",
+            "fullDesc": "High-pressure clearing of deep clogs, tree roots, and sediment buildup.",
+            "basePrice": 189,
+            "iconName": "Droplet"
+        }
+    ],
+    "reviews": {
+        "googleRating": 4.9,
+        "totalReviews": 320,
+        "items": [
+            {
+                "id": "r1",
+                "author": "Mark S.",
+                "rating": 5,
+                "date": "2 days ago",
+                "comment": "DNA Plumbing provided incredible service in Frisco. Timely, honest, and high quality!",
+                "serviceUsed": "Emergency Frisco Plumbing Repair & Diagnostics",
+                "verified": true
+            }
+        ]
+    },
+    "faqs": [
+        {
+            "question": "How quickly can a technician respond in Frisco?",
+            "answer": "Our fleet is locally dispatched throughout Frisco and North Texas for prompt, dependable service."
+        }
+    ]
+},
+    "lex-air-conditioning-carrollton": {
+    "slug": "lex-air-conditioning-carrollton",
+    "name": "Lex Air Conditioning & Heating",
+    "legalName": "Lex Air Conditioning & Heating LLC",
+    "domain": "lexairconditioning.com",
+    "url": "https://lexairconditioning.com",
+    "logoIcon": "Wind",
+    "tagline": "Carrollton High-Efficiency HVAC & Emergency Cooling",
+    "description": "Emergency AC repair, seasonal tune-ups, heat pump replacement, and air duct sanitation across Carrollton, TX.",
+    "niche": "HVAC & Air Conditioning",
+    "city": "Carrollton",
+    "state": "TX",
+    "phone": "(469) 890-0668",
+    "formattedPhone": "(469) 890-0668",
+    "phoneRaw": "+14698900668",
+    "email": "info@lexairconditioning.com",
+    "address": {
+        "street": "Main Service Hub",
+        "city": "Carrollton",
+        "state": "TX",
+        "zip": "75000",
+        "googleMapsEmbedUrl": ""
+    },
+    "googleAnalyticsId": "G-DEMO999",
+    "web3FormsAccessKey": "YOUR_KEY",
+    "hours": {
+        "days": "Monday - Sunday",
+        "time": "24/7 Emergency Service",
+        "is24_7": true
+    },
+    "colors": {
+        "primary": "#0284c7",
+        "primaryDark": "#0369a1",
+        "accent": "#f59e0b"
+    },
+    "trustBadges": [
+        {
+            "title": "Carrollton Verified",
+            "subtitle": "Licensed & Insured",
+            "icon": "ShieldCheck"
+        },
+        {
+            "title": "24/7 Rapid Response",
+            "subtitle": "Local Dispatch Vans",
+            "icon": "Clock"
+        },
+        {
+            "title": "Upfront Pricing",
+            "subtitle": "Zero Hidden Surcharges",
+            "icon": "DollarSign"
+        },
+        {
+            "title": "5-Star Craftsmanship",
+            "subtitle": "100% Satisfaction Guarantee",
+            "icon": "Award"
+        }
+    ],
+    "services": [
+        {
+            "id": "srv-1",
+            "name": "High-SEER AC Repair & Diagnostic Tune-Up",
+            "shortDesc": "Same-day troubleshooting, refrigerant balance, and electrical check.",
+            "fullDesc": "Same-day troubleshooting, refrigerant balance, and electrical check.",
+            "basePrice": 89,
+            "iconName": "Wind",
+            "badge": "24/7 Available"
+        },
+        {
+            "id": "srv-2",
+            "name": "Full AC System Replacement & Heat Pump Install",
+            "shortDesc": "Energy-efficient replacement systems with multi-year warranties.",
+            "fullDesc": "Energy-efficient replacement systems with multi-year warranties.",
+            "basePrice": 3800,
+            "iconName": "ShieldCheck"
+        }
+    ],
+    "reviews": {
+        "googleRating": 4.9,
+        "totalReviews": 480,
+        "items": [
+            {
+                "id": "r1",
+                "author": "Mark S.",
+                "rating": 5,
+                "date": "2 days ago",
+                "comment": "Lex Air Conditioning & Heating provided incredible service in Carrollton. Timely, honest, and high quality!",
+                "serviceUsed": "High-SEER AC Repair & Diagnostic Tune-Up",
+                "verified": true
+            }
+        ]
+    },
+    "faqs": [
+        {
+            "question": "How quickly can a technician respond in Carrollton?",
+            "answer": "Our fleet is locally dispatched throughout Carrollton and North Texas for prompt, dependable service."
+        }
+    ]
+},
+    "jk-air-conditioning-mckinney": {
+    "slug": "jk-air-conditioning-mckinney",
+    "name": "J&K Air Conditioning & Heating",
+    "legalName": "J&K Air Conditioning & Heating LLC",
+    "domain": "jkairconditioning.com",
+    "url": "https://jkairconditioning.com",
+    "logoIcon": "Wind",
+    "tagline": "McKinney & Collin County Trusted AC Solutions",
+    "description": "Fast AC repair, 21-point system tune-ups, furnace service, and ductless mini-split installation in McKinney, TX.",
+    "niche": "HVAC & Air Conditioning",
+    "city": "McKinney",
+    "state": "TX",
+    "phone": "(972) 542-8888",
+    "formattedPhone": "(972) 542-8888",
+    "phoneRaw": "+19725428888",
+    "email": "service@jkairconditioning.com",
+    "address": {
+        "street": "Main Service Hub",
+        "city": "McKinney",
+        "state": "TX",
+        "zip": "75000",
+        "googleMapsEmbedUrl": ""
+    },
+    "googleAnalyticsId": "G-DEMO999",
+    "web3FormsAccessKey": "YOUR_KEY",
+    "hours": {
+        "days": "Monday - Sunday",
+        "time": "24/7 Emergency Service",
+        "is24_7": true
+    },
+    "colors": {
+        "primary": "#0284c7",
+        "primaryDark": "#0369a1",
+        "accent": "#f59e0b"
+    },
+    "trustBadges": [
+        {
+            "title": "McKinney Verified",
+            "subtitle": "Licensed & Insured",
+            "icon": "ShieldCheck"
+        },
+        {
+            "title": "24/7 Rapid Response",
+            "subtitle": "Local Dispatch Vans",
+            "icon": "Clock"
+        },
+        {
+            "title": "Upfront Pricing",
+            "subtitle": "Zero Hidden Surcharges",
+            "icon": "DollarSign"
+        },
+        {
+            "title": "5-Star Craftsmanship",
+            "subtitle": "100% Satisfaction Guarantee",
+            "icon": "Award"
+        }
+    ],
+    "services": [
+        {
+            "id": "srv-1",
+            "name": "High-SEER AC Repair & Diagnostic Tune-Up",
+            "shortDesc": "Same-day troubleshooting, refrigerant balance, and electrical check.",
+            "fullDesc": "Same-day troubleshooting, refrigerant balance, and electrical check.",
+            "basePrice": 89,
+            "iconName": "Wind",
+            "badge": "24/7 Available"
+        },
+        {
+            "id": "srv-2",
+            "name": "Full AC System Replacement & Heat Pump Install",
+            "shortDesc": "Energy-efficient replacement systems with multi-year warranties.",
+            "fullDesc": "Energy-efficient replacement systems with multi-year warranties.",
+            "basePrice": 3800,
+            "iconName": "ShieldCheck"
+        }
+    ],
+    "reviews": {
+        "googleRating": 4.8,
+        "totalReviews": 210,
+        "items": [
+            {
+                "id": "r1",
+                "author": "Mark S.",
+                "rating": 5,
+                "date": "2 days ago",
+                "comment": "J&K Air Conditioning & Heating provided incredible service in McKinney. Timely, honest, and high quality!",
+                "serviceUsed": "High-SEER AC Repair & Diagnostic Tune-Up",
+                "verified": true
+            }
+        ]
+    },
+    "faqs": [
+        {
+            "question": "How quickly can a technician respond in McKinney?",
+            "answer": "Our fleet is locally dispatched throughout McKinney and North Texas for prompt, dependable service."
+        }
+    ]
+},
+    "strittmatter-plumbing-denton": {
+    "slug": "strittmatter-plumbing-denton",
+    "name": "Strittmatter Plumbing, Heating & AC",
+    "legalName": "Strittmatter Plumbing, Heating & AC LLC",
+    "domain": "strittmatters.com",
+    "url": "https://strittmatters.com",
+    "logoIcon": "Wrench",
+    "tagline": "Denton's Master Plumbers & Comfort Specialists Since 1980",
+    "description": "Comprehensive residential plumbing, emergency leak repair, HVAC replacement, and drain cleaning in Denton, TX.",
+    "niche": "Plumbing & HVAC",
+    "city": "Denton",
+    "state": "TX",
+    "phone": "(940) 246-2075",
+    "formattedPhone": "(940) 246-2075",
+    "phoneRaw": "+19402462075",
+    "email": "info@strittmatters.com",
+    "address": {
+        "street": "Main Service Hub",
+        "city": "Denton",
+        "state": "TX",
+        "zip": "75000",
+        "googleMapsEmbedUrl": ""
+    },
+    "googleAnalyticsId": "G-DEMO999",
+    "web3FormsAccessKey": "YOUR_KEY",
+    "hours": {
+        "days": "Monday - Sunday",
+        "time": "24/7 Emergency Service",
+        "is24_7": true
+    },
+    "colors": {
+        "primary": "#0284c7",
+        "primaryDark": "#0369a1",
+        "accent": "#f59e0b"
+    },
+    "trustBadges": [
+        {
+            "title": "Denton Verified",
+            "subtitle": "Licensed & Insured",
+            "icon": "ShieldCheck"
+        },
+        {
+            "title": "24/7 Rapid Response",
+            "subtitle": "Local Dispatch Vans",
+            "icon": "Clock"
+        },
+        {
+            "title": "Upfront Pricing",
+            "subtitle": "Zero Hidden Surcharges",
+            "icon": "DollarSign"
+        },
+        {
+            "title": "5-Star Craftsmanship",
+            "subtitle": "100% Satisfaction Guarantee",
+            "icon": "Award"
+        }
+    ],
+    "services": [
+        {
+            "id": "srv-1",
+            "name": "Emergency Denton Plumbing Repair & Diagnostics",
+            "shortDesc": "Rapid diagnostics and prompt repair for household leaks and line breaks.",
+            "fullDesc": "Rapid diagnostics and prompt repair for household leaks and line breaks.",
+            "basePrice": 89,
+            "iconName": "Wrench",
+            "badge": "Same Day"
+        },
+        {
+            "id": "srv-2",
+            "name": "Hydro Jetting & Main Line Clearing",
+            "shortDesc": "High-pressure clearing of deep clogs, tree roots, and sediment buildup.",
+            "fullDesc": "High-pressure clearing of deep clogs, tree roots, and sediment buildup.",
+            "basePrice": 189,
+            "iconName": "Droplet"
+        }
+    ],
+    "reviews": {
+        "googleRating": 4.9,
+        "totalReviews": 850,
+        "items": [
+            {
+                "id": "r1",
+                "author": "Mark S.",
+                "rating": 5,
+                "date": "2 days ago",
+                "comment": "Strittmatter Plumbing, Heating & AC provided incredible service in Denton. Timely, honest, and high quality!",
+                "serviceUsed": "Emergency Denton Plumbing Repair & Diagnostics",
+                "verified": true
+            }
+        ]
+    },
+    "faqs": [
+        {
+            "question": "How quickly can a technician respond in Denton?",
+            "answer": "Our fleet is locally dispatched throughout Denton and North Texas for prompt, dependable service."
+        }
+    ]
+},
+    "cody-and-sons-dallas": {
+    "slug": "cody-and-sons-dallas",
+    "name": "Cody & Sons Plumbing, Heating & Air",
+    "legalName": "Cody & Sons Plumbing, Heating & Air LLC",
+    "domain": "codyandsons.com",
+    "url": "https://codyandsons.com",
+    "logoIcon": "Droplet",
+    "tagline": "3 Generations of Trusted Plumbing & HVAC in Dallas",
+    "description": "Family-owned plumbing repairs, slab leak detection, drain clearing, and AC installations in Dallas, TX.",
+    "niche": "Plumbing & Drain Services",
+    "city": "Dallas",
+    "state": "TX",
+    "phone": "(214) 339-3401",
+    "formattedPhone": "(214) 339-3401",
+    "phoneRaw": "+12143393401",
+    "email": "info@codyandsons.com",
+    "address": {
+        "street": "Main Service Hub",
+        "city": "Dallas",
+        "state": "TX",
+        "zip": "75000",
+        "googleMapsEmbedUrl": ""
+    },
+    "googleAnalyticsId": "G-DEMO999",
+    "web3FormsAccessKey": "YOUR_KEY",
+    "hours": {
+        "days": "Monday - Sunday",
+        "time": "24/7 Emergency Service",
+        "is24_7": true
+    },
+    "colors": {
+        "primary": "#0284c7",
+        "primaryDark": "#0369a1",
+        "accent": "#f59e0b"
+    },
+    "trustBadges": [
+        {
+            "title": "Dallas Verified",
+            "subtitle": "Licensed & Insured",
+            "icon": "ShieldCheck"
+        },
+        {
+            "title": "24/7 Rapid Response",
+            "subtitle": "Local Dispatch Vans",
+            "icon": "Clock"
+        },
+        {
+            "title": "Upfront Pricing",
+            "subtitle": "Zero Hidden Surcharges",
+            "icon": "DollarSign"
+        },
+        {
+            "title": "5-Star Craftsmanship",
+            "subtitle": "100% Satisfaction Guarantee",
+            "icon": "Award"
+        }
+    ],
+    "services": [
+        {
+            "id": "srv-1",
+            "name": "Emergency Dallas Plumbing Repair & Diagnostics",
+            "shortDesc": "Rapid diagnostics and prompt repair for household leaks and line breaks.",
+            "fullDesc": "Rapid diagnostics and prompt repair for household leaks and line breaks.",
+            "basePrice": 89,
+            "iconName": "Wrench",
+            "badge": "Same Day"
+        },
+        {
+            "id": "srv-2",
+            "name": "Hydro Jetting & Main Line Clearing",
+            "shortDesc": "High-pressure clearing of deep clogs, tree roots, and sediment buildup.",
+            "fullDesc": "High-pressure clearing of deep clogs, tree roots, and sediment buildup.",
+            "basePrice": 189,
+            "iconName": "Droplet"
+        }
+    ],
+    "reviews": {
+        "googleRating": 4.9,
+        "totalReviews": 720,
+        "items": [
+            {
+                "id": "r1",
+                "author": "Mark S.",
+                "rating": 5,
+                "date": "2 days ago",
+                "comment": "Cody & Sons Plumbing, Heating & Air provided incredible service in Dallas. Timely, honest, and high quality!",
+                "serviceUsed": "Emergency Dallas Plumbing Repair & Diagnostics",
+                "verified": true
+            }
+        ]
+    },
+    "faqs": [
+        {
+            "question": "How quickly can a technician respond in Dallas?",
+            "answer": "Our fleet is locally dispatched throughout Dallas and North Texas for prompt, dependable service."
+        }
+    ]
+},
+    "cold-factor-hvac-lewisville": {
+    "slug": "cold-factor-hvac-lewisville",
+    "name": "Cold Factor Heating & Air",
+    "legalName": "Cold Factor Heating & Air LLC",
+    "domain": "coldfactor.com",
+    "url": "https://coldfactor.com",
+    "logoIcon": "Wind",
+    "tagline": "Lewisville Precision Climate & AC Maintenance",
+    "description": "Emergency cooling repairs, high-SEER system installation, heat pump service, and air quality audits in Lewisville, TX.",
+    "niche": "HVAC & Air Conditioning",
+    "city": "Lewisville",
+    "state": "TX",
+    "phone": "(469) 200-0982",
+    "formattedPhone": "(469) 200-0982",
+    "phoneRaw": "+14692000982",
+    "email": "service@coldfactor.com",
+    "address": {
+        "street": "Main Service Hub",
+        "city": "Lewisville",
+        "state": "TX",
+        "zip": "75000",
+        "googleMapsEmbedUrl": ""
+    },
+    "googleAnalyticsId": "G-DEMO999",
+    "web3FormsAccessKey": "YOUR_KEY",
+    "hours": {
+        "days": "Monday - Sunday",
+        "time": "24/7 Emergency Service",
+        "is24_7": true
+    },
+    "colors": {
+        "primary": "#0284c7",
+        "primaryDark": "#0369a1",
+        "accent": "#f59e0b"
+    },
+    "trustBadges": [
+        {
+            "title": "Lewisville Verified",
+            "subtitle": "Licensed & Insured",
+            "icon": "ShieldCheck"
+        },
+        {
+            "title": "24/7 Rapid Response",
+            "subtitle": "Local Dispatch Vans",
+            "icon": "Clock"
+        },
+        {
+            "title": "Upfront Pricing",
+            "subtitle": "Zero Hidden Surcharges",
+            "icon": "DollarSign"
+        },
+        {
+            "title": "5-Star Craftsmanship",
+            "subtitle": "100% Satisfaction Guarantee",
+            "icon": "Award"
+        }
+    ],
+    "services": [
+        {
+            "id": "srv-1",
+            "name": "High-SEER AC Repair & Diagnostic Tune-Up",
+            "shortDesc": "Same-day troubleshooting, refrigerant balance, and electrical check.",
+            "fullDesc": "Same-day troubleshooting, refrigerant balance, and electrical check.",
+            "basePrice": 89,
+            "iconName": "Wind",
+            "badge": "24/7 Available"
+        },
+        {
+            "id": "srv-2",
+            "name": "Full AC System Replacement & Heat Pump Install",
+            "shortDesc": "Energy-efficient replacement systems with multi-year warranties.",
+            "fullDesc": "Energy-efficient replacement systems with multi-year warranties.",
+            "basePrice": 3800,
+            "iconName": "ShieldCheck"
+        }
+    ],
+    "reviews": {
+        "googleRating": 4.9,
+        "totalReviews": 310,
+        "items": [
+            {
+                "id": "r1",
+                "author": "Mark S.",
+                "rating": 5,
+                "date": "2 days ago",
+                "comment": "Cold Factor Heating & Air provided incredible service in Lewisville. Timely, honest, and high quality!",
+                "serviceUsed": "High-SEER AC Repair & Diagnostic Tune-Up",
+                "verified": true
+            }
+        ]
+    },
+    "faqs": [
+        {
+            "question": "How quickly can a technician respond in Lewisville?",
+            "answer": "Our fleet is locally dispatched throughout Lewisville and North Texas for prompt, dependable service."
+        }
+    ]
+},
+    "arrow-electric-carrollton": {
+    "slug": "arrow-electric-carrollton",
+    "name": "Arrow Electric Inc.",
+    "legalName": "Arrow Electric Inc.",
+    "domain": "arrowelectric.net",
+    "url": "https://arrowelectric.net",
+    "logoIcon": "Zap",
+    "tagline": "Carrollton & DFW Licensed Master Electricians",
+    "description": "Electrical panel upgrades, EV charger installation, whole-home rewiring, and emergency electrical repair in Carrollton, TX.",
+    "niche": "Electrical Services",
+    "city": "Carrollton",
+    "state": "TX",
+    "phone": "(469) 689-2267",
+    "formattedPhone": "(469) 689-2267",
+    "phoneRaw": "+14696892267",
+    "email": "service@arrowelectric.net",
+    "address": {
+        "street": "Main Service Hub",
+        "city": "Carrollton",
+        "state": "TX",
+        "zip": "75000",
+        "googleMapsEmbedUrl": ""
+    },
+    "googleAnalyticsId": "G-DEMO999",
+    "web3FormsAccessKey": "YOUR_KEY",
+    "hours": {
+        "days": "Monday - Sunday",
+        "time": "24/7 Emergency Service",
+        "is24_7": true
+    },
+    "colors": {
+        "primary": "#d97706",
+        "primaryDark": "#b45309",
+        "accent": "#38bdf8"
+    },
+    "trustBadges": [
+        {
+            "title": "Carrollton Verified",
+            "subtitle": "Licensed & Insured",
+            "icon": "ShieldCheck"
+        },
+        {
+            "title": "24/7 Rapid Response",
+            "subtitle": "Local Dispatch Vans",
+            "icon": "Clock"
+        },
+        {
+            "title": "Upfront Pricing",
+            "subtitle": "Zero Hidden Surcharges",
+            "icon": "DollarSign"
+        },
+        {
+            "title": "5-Star Craftsmanship",
+            "subtitle": "100% Satisfaction Guarantee",
+            "icon": "Award"
+        }
+    ],
+    "services": [
+        {
+            "id": "srv-1",
+            "name": "Licensed Carrollton Electrical Diagnostic & Repair",
+            "shortDesc": "Fast troubleshooting for tripping breakers, flickering lights, and outlets.",
+            "fullDesc": "Fast troubleshooting for tripping breakers, flickering lights, and outlets.",
+            "basePrice": 99,
+            "iconName": "Zap",
+            "badge": "Licensed Masters"
+        },
+        {
+            "id": "srv-2",
+            "name": "Electrical Panel Upgrade & EV Charger Installation",
+            "shortDesc": "200A modern panel swaps and dedicated EV charging stations.",
+            "fullDesc": "200A modern panel swaps and dedicated EV charging stations.",
+            "basePrice": 750,
+            "iconName": "ShieldCheck"
+        }
+    ],
+    "reviews": {
+        "googleRating": 4.9,
+        "totalReviews": 640,
+        "items": [
+            {
+                "id": "r1",
+                "author": "Mark S.",
+                "rating": 5,
+                "date": "2 days ago",
+                "comment": "Arrow Electric Inc. provided incredible service in Carrollton. Timely, honest, and high quality!",
+                "serviceUsed": "Licensed Carrollton Electrical Diagnostic & Repair",
+                "verified": true
+            }
+        ]
+    },
+    "faqs": [
+        {
+            "question": "How quickly can a technician respond in Carrollton?",
+            "answer": "Our fleet is locally dispatched throughout Carrollton and North Texas for prompt, dependable service."
+        }
+    ]
+},
+    "rowley-roofing-frisco": {
+    "slug": "rowley-roofing-frisco",
+    "name": "Rowley Roofing & Construction",
+    "legalName": "Rowley Roofing & Construction LLC",
+    "domain": "rowleyroofing.com",
+    "url": "https://rowleyroofing.com",
+    "logoIcon": "Home",
+    "tagline": "Frisco Architectural Shingle & Storm Damage Experts",
+    "description": "Drone hail damage inspections, architectural shingle replacements, leak repairs, and gutter systems in Frisco, TX.",
+    "niche": "Roofing & Restoration",
+    "city": "Frisco",
+    "state": "TX",
+    "phone": "(972) 668-0919",
+    "formattedPhone": "(972) 668-0919",
+    "phoneRaw": "+19726680919",
+    "email": "info@rowleyroofing.com",
+    "address": {
+        "street": "Main Service Hub",
+        "city": "Frisco",
+        "state": "TX",
+        "zip": "75000",
+        "googleMapsEmbedUrl": ""
+    },
+    "googleAnalyticsId": "G-DEMO999",
+    "web3FormsAccessKey": "YOUR_KEY",
+    "hours": {
+        "days": "Monday - Sunday",
+        "time": "24/7 Emergency Service",
+        "is24_7": true
+    },
+    "colors": {
+        "primary": "#ea580c",
+        "primaryDark": "#c2410c",
+        "accent": "#f59e0b"
+    },
+    "trustBadges": [
+        {
+            "title": "Frisco Verified",
+            "subtitle": "Licensed & Insured",
+            "icon": "ShieldCheck"
+        },
+        {
+            "title": "24/7 Rapid Response",
+            "subtitle": "Local Dispatch Vans",
+            "icon": "Clock"
+        },
+        {
+            "title": "Upfront Pricing",
+            "subtitle": "Zero Hidden Surcharges",
+            "icon": "DollarSign"
+        },
+        {
+            "title": "5-Star Craftsmanship",
+            "subtitle": "100% Satisfaction Guarantee",
+            "icon": "Award"
+        }
+    ],
+    "services": [
+        {
+            "id": "srv-1",
+            "name": "Free Frisco Storm & Hail Damage Audit",
+            "shortDesc": "Comprehensive shingle & flashing evaluation with photo report.",
+            "fullDesc": "Comprehensive shingle & flashing evaluation with photo report.",
+            "basePrice": 0,
+            "iconName": "Search",
+            "badge": "Free Inspection"
+        },
+        {
+            "id": "srv-2",
+            "name": "Architectural Shingle Roof Replacement",
+            "shortDesc": "Complete tear-off and installation with 30-year warranty materials.",
+            "fullDesc": "Complete tear-off and installation with 30-year warranty materials.",
+            "basePrice": 4900,
+            "iconName": "Home"
+        }
+    ],
+    "reviews": {
+        "googleRating": 4.9,
+        "totalReviews": 290,
+        "items": [
+            {
+                "id": "r1",
+                "author": "Mark S.",
+                "rating": 5,
+                "date": "2 days ago",
+                "comment": "Rowley Roofing & Construction provided incredible service in Frisco. Timely, honest, and high quality!",
+                "serviceUsed": "Free Frisco Storm & Hail Damage Audit",
+                "verified": true
+            }
+        ]
+    },
+    "faqs": [
+        {
+            "question": "How quickly can a technician respond in Frisco?",
+            "answer": "Our fleet is locally dispatched throughout Frisco and North Texas for prompt, dependable service."
+        }
+    ]
+},
+    "accurate-leak-line-plano": {
+    "slug": "accurate-leak-line-plano",
+    "name": "Accurate Leak and Line",
+    "legalName": "Accurate Leak and Line LLC",
+    "domain": "accurateleak.com",
+    "url": "https://accurateleak.com",
+    "logoIcon": "Droplet",
+    "tagline": "Non-Destructive Slab Leak Detection & Pipe Restoration",
+    "description": "Slab leak detection, trenchless pipe lining, camera sewer evaluations, and water line repair in Plano & DFW.",
+    "niche": "Plumbing & Drain Services",
+    "city": "Plano",
+    "state": "TX",
+    "phone": "(817) 203-2440",
+    "formattedPhone": "(817) 203-2440",
+    "phoneRaw": "+18172032440",
+    "email": "info@accurateleak.com",
+    "address": {
+        "street": "Main Service Hub",
+        "city": "Plano",
+        "state": "TX",
+        "zip": "75000",
+        "googleMapsEmbedUrl": ""
+    },
+    "googleAnalyticsId": "G-DEMO999",
+    "web3FormsAccessKey": "YOUR_KEY",
+    "hours": {
+        "days": "Monday - Sunday",
+        "time": "24/7 Emergency Service",
+        "is24_7": true
+    },
+    "colors": {
+        "primary": "#0284c7",
+        "primaryDark": "#0369a1",
+        "accent": "#f59e0b"
+    },
+    "trustBadges": [
+        {
+            "title": "Plano Verified",
+            "subtitle": "Licensed & Insured",
+            "icon": "ShieldCheck"
+        },
+        {
+            "title": "24/7 Rapid Response",
+            "subtitle": "Local Dispatch Vans",
+            "icon": "Clock"
+        },
+        {
+            "title": "Upfront Pricing",
+            "subtitle": "Zero Hidden Surcharges",
+            "icon": "DollarSign"
+        },
+        {
+            "title": "5-Star Craftsmanship",
+            "subtitle": "100% Satisfaction Guarantee",
+            "icon": "Award"
+        }
+    ],
+    "services": [
+        {
+            "id": "srv-1",
+            "name": "Emergency Plano Plumbing Repair & Diagnostics",
+            "shortDesc": "Rapid diagnostics and prompt repair for household leaks and line breaks.",
+            "fullDesc": "Rapid diagnostics and prompt repair for household leaks and line breaks.",
+            "basePrice": 89,
+            "iconName": "Wrench",
+            "badge": "Same Day"
+        },
+        {
+            "id": "srv-2",
+            "name": "Hydro Jetting & Main Line Clearing",
+            "shortDesc": "High-pressure clearing of deep clogs, tree roots, and sediment buildup.",
+            "fullDesc": "High-pressure clearing of deep clogs, tree roots, and sediment buildup.",
+            "basePrice": 189,
+            "iconName": "Droplet"
+        }
+    ],
+    "reviews": {
+        "googleRating": 4.8,
+        "totalReviews": 410,
+        "items": [
+            {
+                "id": "r1",
+                "author": "Mark S.",
+                "rating": 5,
+                "date": "2 days ago",
+                "comment": "Accurate Leak and Line provided incredible service in Plano. Timely, honest, and high quality!",
+                "serviceUsed": "Emergency Plano Plumbing Repair & Diagnostics",
+                "verified": true
+            }
+        ]
+    },
+    "faqs": [
+        {
+            "question": "How quickly can a technician respond in Plano?",
+            "answer": "Our fleet is locally dispatched throughout Plano and North Texas for prompt, dependable service."
+        }
+    ]
+},
+    "total-air-heat-plano": {
+    "slug": "total-air-heat-plano",
+    "name": "Total Air & Heat",
+    "legalName": "Total Air & Heat LLC",
+    "domain": "totalair.com",
+    "url": "https://totalair.com",
+    "logoIcon": "Wind",
+    "tagline": "Over 60 Years of Premium Comfort in Plano & Dallas",
+    "description": "Rapid AC repair, heat pump maintenance, zoning system installations, and indoor air purification in Plano, TX.",
+    "niche": "HVAC & Air Conditioning",
+    "city": "Plano",
+    "state": "TX",
+    "phone": "(972) 845-9073",
+    "formattedPhone": "(972) 845-9073",
+    "phoneRaw": "+19728459073",
+    "email": "info@totalair.com",
+    "address": {
+        "street": "Main Service Hub",
+        "city": "Plano",
+        "state": "TX",
+        "zip": "75000",
+        "googleMapsEmbedUrl": ""
+    },
+    "googleAnalyticsId": "G-DEMO999",
+    "web3FormsAccessKey": "YOUR_KEY",
+    "hours": {
+        "days": "Monday - Sunday",
+        "time": "24/7 Emergency Service",
+        "is24_7": true
+    },
+    "colors": {
+        "primary": "#0284c7",
+        "primaryDark": "#0369a1",
+        "accent": "#f59e0b"
+    },
+    "trustBadges": [
+        {
+            "title": "Plano Verified",
+            "subtitle": "Licensed & Insured",
+            "icon": "ShieldCheck"
+        },
+        {
+            "title": "24/7 Rapid Response",
+            "subtitle": "Local Dispatch Vans",
+            "icon": "Clock"
+        },
+        {
+            "title": "Upfront Pricing",
+            "subtitle": "Zero Hidden Surcharges",
+            "icon": "DollarSign"
+        },
+        {
+            "title": "5-Star Craftsmanship",
+            "subtitle": "100% Satisfaction Guarantee",
+            "icon": "Award"
+        }
+    ],
+    "services": [
+        {
+            "id": "srv-1",
+            "name": "High-SEER AC Repair & Diagnostic Tune-Up",
+            "shortDesc": "Same-day troubleshooting, refrigerant balance, and electrical check.",
+            "fullDesc": "Same-day troubleshooting, refrigerant balance, and electrical check.",
+            "basePrice": 89,
+            "iconName": "Wind",
+            "badge": "24/7 Available"
+        },
+        {
+            "id": "srv-2",
+            "name": "Full AC System Replacement & Heat Pump Install",
+            "shortDesc": "Energy-efficient replacement systems with multi-year warranties.",
+            "fullDesc": "Energy-efficient replacement systems with multi-year warranties.",
+            "basePrice": 3800,
+            "iconName": "ShieldCheck"
+        }
+    ],
+    "reviews": {
+        "googleRating": 4.9,
+        "totalReviews": 530,
+        "items": [
+            {
+                "id": "r1",
+                "author": "Mark S.",
+                "rating": 5,
+                "date": "2 days ago",
+                "comment": "Total Air & Heat provided incredible service in Plano. Timely, honest, and high quality!",
+                "serviceUsed": "High-SEER AC Repair & Diagnostic Tune-Up",
+                "verified": true
+            }
+        ]
+    },
+    "faqs": [
+        {
+            "question": "How quickly can a technician respond in Plano?",
+            "answer": "Our fleet is locally dispatched throughout Plano and North Texas for prompt, dependable service."
+        }
+    ]
+},
+    "anderson-roofing-denton": {
+    "slug": "anderson-roofing-denton",
+    "name": "Anderson Roofing & Construction",
+    "legalName": "Anderson Roofing & Construction LLC",
+    "domain": "andersonroofingtx.com",
+    "url": "https://andersonroofingtx.com",
+    "logoIcon": "Home",
+    "tagline": "Denton County Hail Claims & Roofing Restorations",
+    "description": "Comprehensive roof replacements, storm inspections, leak diagnostics, and commercial coatings in Denton, TX.",
+    "niche": "Roofing & Restoration",
+    "city": "Denton",
+    "state": "TX",
+    "phone": "(210) 972-5682",
+    "formattedPhone": "(210) 972-5682",
+    "phoneRaw": "+12109725682",
+    "email": "info@andersonroofingtx.com",
+    "address": {
+        "street": "Main Service Hub",
+        "city": "Denton",
+        "state": "TX",
+        "zip": "75000",
+        "googleMapsEmbedUrl": ""
+    },
+    "googleAnalyticsId": "G-DEMO999",
+    "web3FormsAccessKey": "YOUR_KEY",
+    "hours": {
+        "days": "Monday - Sunday",
+        "time": "24/7 Emergency Service",
+        "is24_7": true
+    },
+    "colors": {
+        "primary": "#ea580c",
+        "primaryDark": "#c2410c",
+        "accent": "#f59e0b"
+    },
+    "trustBadges": [
+        {
+            "title": "Denton Verified",
+            "subtitle": "Licensed & Insured",
+            "icon": "ShieldCheck"
+        },
+        {
+            "title": "24/7 Rapid Response",
+            "subtitle": "Local Dispatch Vans",
+            "icon": "Clock"
+        },
+        {
+            "title": "Upfront Pricing",
+            "subtitle": "Zero Hidden Surcharges",
+            "icon": "DollarSign"
+        },
+        {
+            "title": "5-Star Craftsmanship",
+            "subtitle": "100% Satisfaction Guarantee",
+            "icon": "Award"
+        }
+    ],
+    "services": [
+        {
+            "id": "srv-1",
+            "name": "Free Denton Storm & Hail Damage Audit",
+            "shortDesc": "Comprehensive shingle & flashing evaluation with photo report.",
+            "fullDesc": "Comprehensive shingle & flashing evaluation with photo report.",
+            "basePrice": 0,
+            "iconName": "Search",
+            "badge": "Free Inspection"
+        },
+        {
+            "id": "srv-2",
+            "name": "Architectural Shingle Roof Replacement",
+            "shortDesc": "Complete tear-off and installation with 30-year warranty materials.",
+            "fullDesc": "Complete tear-off and installation with 30-year warranty materials.",
+            "basePrice": 4900,
+            "iconName": "Home"
+        }
+    ],
+    "reviews": {
+        "googleRating": 4.9,
+        "totalReviews": 180,
+        "items": [
+            {
+                "id": "r1",
+                "author": "Mark S.",
+                "rating": 5,
+                "date": "2 days ago",
+                "comment": "Anderson Roofing & Construction provided incredible service in Denton. Timely, honest, and high quality!",
+                "serviceUsed": "Free Denton Storm & Hail Damage Audit",
+                "verified": true
+            }
+        ]
+    },
+    "faqs": [
+        {
+            "question": "How quickly can a technician respond in Denton?",
+            "answer": "Our fleet is locally dispatched throughout Denton and North Texas for prompt, dependable service."
+        }
+    ]
+},
+    "titus-electrical-services-mckinney": {
+    "slug": "titus-electrical-services-mckinney",
+    "name": "Titus Electrical Services",
+    "legalName": "Titus Electrical Services LLC",
+    "domain": "tituselectric.com",
+    "url": "https://tituselectric.com",
+    "logoIcon": "Zap",
+    "tagline": "Licensed McKinney Electricians Dedicated to Excellence",
+    "description": "Generator installation, electrical safety inspections, lighting design, and circuit breaker repairs in McKinney, TX.",
+    "niche": "Electrical Services",
+    "city": "McKinney",
+    "state": "TX",
+    "phone": "(903) 759-4083",
+    "formattedPhone": "(903) 759-4083",
+    "phoneRaw": "+19037594083",
+    "email": "service@tituselectric.com",
+    "address": {
+        "street": "Main Service Hub",
+        "city": "McKinney",
+        "state": "TX",
+        "zip": "75000",
+        "googleMapsEmbedUrl": ""
+    },
+    "googleAnalyticsId": "G-DEMO999",
+    "web3FormsAccessKey": "YOUR_KEY",
+    "hours": {
+        "days": "Monday - Sunday",
+        "time": "24/7 Emergency Service",
+        "is24_7": true
+    },
+    "colors": {
+        "primary": "#d97706",
+        "primaryDark": "#b45309",
+        "accent": "#38bdf8"
+    },
+    "trustBadges": [
+        {
+            "title": "McKinney Verified",
+            "subtitle": "Licensed & Insured",
+            "icon": "ShieldCheck"
+        },
+        {
+            "title": "24/7 Rapid Response",
+            "subtitle": "Local Dispatch Vans",
+            "icon": "Clock"
+        },
+        {
+            "title": "Upfront Pricing",
+            "subtitle": "Zero Hidden Surcharges",
+            "icon": "DollarSign"
+        },
+        {
+            "title": "5-Star Craftsmanship",
+            "subtitle": "100% Satisfaction Guarantee",
+            "icon": "Award"
+        }
+    ],
+    "services": [
+        {
+            "id": "srv-1",
+            "name": "Licensed McKinney Electrical Diagnostic & Repair",
+            "shortDesc": "Fast troubleshooting for tripping breakers, flickering lights, and outlets.",
+            "fullDesc": "Fast troubleshooting for tripping breakers, flickering lights, and outlets.",
+            "basePrice": 99,
+            "iconName": "Zap",
+            "badge": "Licensed Masters"
+        },
+        {
+            "id": "srv-2",
+            "name": "Electrical Panel Upgrade & EV Charger Installation",
+            "shortDesc": "200A modern panel swaps and dedicated EV charging stations.",
+            "fullDesc": "200A modern panel swaps and dedicated EV charging stations.",
+            "basePrice": 750,
+            "iconName": "ShieldCheck"
+        }
+    ],
+    "reviews": {
+        "googleRating": 4.9,
+        "totalReviews": 220,
+        "items": [
+            {
+                "id": "r1",
+                "author": "Mark S.",
+                "rating": 5,
+                "date": "2 days ago",
+                "comment": "Titus Electrical Services provided incredible service in McKinney. Timely, honest, and high quality!",
+                "serviceUsed": "Licensed McKinney Electrical Diagnostic & Repair",
+                "verified": true
+            }
+        ]
+    },
+    "faqs": [
+        {
+            "question": "How quickly can a technician respond in McKinney?",
+            "answer": "Our fleet is locally dispatched throughout McKinney and North Texas for prompt, dependable service."
+        }
+    ]
+},
+    "white-rock-roofing-richardson": {
+    "slug": "white-rock-roofing-richardson",
+    "name": "White Rock Roofing",
+    "legalName": "White Rock Roofing LLC",
+    "domain": "whiterockroofing.com",
+    "url": "https://whiterockroofing.com",
+    "logoIcon": "Home",
+    "tagline": "Richardson & DFW Storm Shield Roofing Solutions",
+    "description": "Roof replacement, emergency leak tarping, shingle maintenance, and insurance restoration in Richardson, TX.",
+    "niche": "Roofing & Restoration",
+    "city": "Richardson",
+    "state": "TX",
+    "phone": "(972) 898-2863",
+    "formattedPhone": "(972) 898-2863",
+    "phoneRaw": "+19728982863",
+    "email": "info@whiterockroofing.com",
+    "address": {
+        "street": "Main Service Hub",
+        "city": "Richardson",
+        "state": "TX",
+        "zip": "75000",
+        "googleMapsEmbedUrl": ""
+    },
+    "googleAnalyticsId": "G-DEMO999",
+    "web3FormsAccessKey": "YOUR_KEY",
+    "hours": {
+        "days": "Monday - Sunday",
+        "time": "24/7 Emergency Service",
+        "is24_7": true
+    },
+    "colors": {
+        "primary": "#ea580c",
+        "primaryDark": "#c2410c",
+        "accent": "#f59e0b"
+    },
+    "trustBadges": [
+        {
+            "title": "Richardson Verified",
+            "subtitle": "Licensed & Insured",
+            "icon": "ShieldCheck"
+        },
+        {
+            "title": "24/7 Rapid Response",
+            "subtitle": "Local Dispatch Vans",
+            "icon": "Clock"
+        },
+        {
+            "title": "Upfront Pricing",
+            "subtitle": "Zero Hidden Surcharges",
+            "icon": "DollarSign"
+        },
+        {
+            "title": "5-Star Craftsmanship",
+            "subtitle": "100% Satisfaction Guarantee",
+            "icon": "Award"
+        }
+    ],
+    "services": [
+        {
+            "id": "srv-1",
+            "name": "Free Richardson Storm & Hail Damage Audit",
+            "shortDesc": "Comprehensive shingle & flashing evaluation with photo report.",
+            "fullDesc": "Comprehensive shingle & flashing evaluation with photo report.",
+            "basePrice": 0,
+            "iconName": "Search",
+            "badge": "Free Inspection"
+        },
+        {
+            "id": "srv-2",
+            "name": "Architectural Shingle Roof Replacement",
+            "shortDesc": "Complete tear-off and installation with 30-year warranty materials.",
+            "fullDesc": "Complete tear-off and installation with 30-year warranty materials.",
+            "basePrice": 4900,
+            "iconName": "Home"
+        }
+    ],
+    "reviews": {
+        "googleRating": 4.9,
+        "totalReviews": 140,
+        "items": [
+            {
+                "id": "r1",
+                "author": "Mark S.",
+                "rating": 5,
+                "date": "2 days ago",
+                "comment": "White Rock Roofing provided incredible service in Richardson. Timely, honest, and high quality!",
+                "serviceUsed": "Free Richardson Storm & Hail Damage Audit",
+                "verified": true
+            }
+        ]
+    },
+    "faqs": [
+        {
+            "question": "How quickly can a technician respond in Richardson?",
+            "answer": "Our fleet is locally dispatched throughout Richardson and North Texas for prompt, dependable service."
+        }
+    ]
+},
+    "classic-heating-air-garland": {
+    "slug": "classic-heating-air-garland",
+    "name": "Classic Heating & Air",
+    "legalName": "Classic Heating & Air LLC",
+    "domain": "classicheatandair.com",
+    "url": "https://classicheatandair.com",
+    "logoIcon": "Wind",
+    "tagline": "Garland & Dallas 24/7 HVAC Service Specialists",
+    "description": "Fast emergency AC repair, furnace installations, seasonal maintenance tune-ups, and heat pump repairs in Garland, TX.",
+    "niche": "HVAC & Air Conditioning",
+    "city": "Garland",
+    "state": "TX",
+    "phone": "(214) 310-2665",
+    "formattedPhone": "(214) 310-2665",
+    "phoneRaw": "+12143102665",
+    "email": "info@classicheatandair.com",
+    "address": {
+        "street": "Main Service Hub",
+        "city": "Garland",
+        "state": "TX",
+        "zip": "75000",
+        "googleMapsEmbedUrl": ""
+    },
+    "googleAnalyticsId": "G-DEMO999",
+    "web3FormsAccessKey": "YOUR_KEY",
+    "hours": {
+        "days": "Monday - Sunday",
+        "time": "24/7 Emergency Service",
+        "is24_7": true
+    },
+    "colors": {
+        "primary": "#0284c7",
+        "primaryDark": "#0369a1",
+        "accent": "#f59e0b"
+    },
+    "trustBadges": [
+        {
+            "title": "Garland Verified",
+            "subtitle": "Licensed & Insured",
+            "icon": "ShieldCheck"
+        },
+        {
+            "title": "24/7 Rapid Response",
+            "subtitle": "Local Dispatch Vans",
+            "icon": "Clock"
+        },
+        {
+            "title": "Upfront Pricing",
+            "subtitle": "Zero Hidden Surcharges",
+            "icon": "DollarSign"
+        },
+        {
+            "title": "5-Star Craftsmanship",
+            "subtitle": "100% Satisfaction Guarantee",
+            "icon": "Award"
+        }
+    ],
+    "services": [
+        {
+            "id": "srv-1",
+            "name": "High-SEER AC Repair & Diagnostic Tune-Up",
+            "shortDesc": "Same-day troubleshooting, refrigerant balance, and electrical check.",
+            "fullDesc": "Same-day troubleshooting, refrigerant balance, and electrical check.",
+            "basePrice": 89,
+            "iconName": "Wind",
+            "badge": "24/7 Available"
+        },
+        {
+            "id": "srv-2",
+            "name": "Full AC System Replacement & Heat Pump Install",
+            "shortDesc": "Energy-efficient replacement systems with multi-year warranties.",
+            "fullDesc": "Energy-efficient replacement systems with multi-year warranties.",
+            "basePrice": 3800,
+            "iconName": "ShieldCheck"
+        }
+    ],
+    "reviews": {
+        "googleRating": 4.9,
+        "totalReviews": 360,
+        "items": [
+            {
+                "id": "r1",
+                "author": "Mark S.",
+                "rating": 5,
+                "date": "2 days ago",
+                "comment": "Classic Heating & Air provided incredible service in Garland. Timely, honest, and high quality!",
+                "serviceUsed": "High-SEER AC Repair & Diagnostic Tune-Up",
+                "verified": true
+            }
+        ]
+    },
+    "faqs": [
+        {
+            "question": "How quickly can a technician respond in Garland?",
+            "answer": "Our fleet is locally dispatched throughout Garland and North Texas for prompt, dependable service."
+        }
+    ]
+},
+    "old-pro-roofing-grapevine": {
+    "slug": "old-pro-roofing-grapevine",
+    "name": "Old Pro Roofing",
+    "legalName": "Old Pro Roofing LLC",
+    "domain": "oldproroofing.com",
+    "url": "https://oldproroofing.com",
+    "logoIcon": "Home",
+    "tagline": "Grapevine Shingle & Hail Storm Restoration Leaders",
+    "description": "Free roof inspections, wind & hail damage repair, insurance claims, and shingle installations in Grapevine, TX.",
+    "niche": "Roofing & Restoration",
+    "city": "Grapevine",
+    "state": "TX",
+    "phone": "(817) 929-7663",
+    "formattedPhone": "(817) 929-7663",
+    "phoneRaw": "+18179297663",
+    "email": "service@oldproroofing.com",
+    "address": {
+        "street": "Main Service Hub",
+        "city": "Grapevine",
+        "state": "TX",
+        "zip": "75000",
+        "googleMapsEmbedUrl": ""
+    },
+    "googleAnalyticsId": "G-DEMO999",
+    "web3FormsAccessKey": "YOUR_KEY",
+    "hours": {
+        "days": "Monday - Sunday",
+        "time": "24/7 Emergency Service",
+        "is24_7": true
+    },
+    "colors": {
+        "primary": "#ea580c",
+        "primaryDark": "#c2410c",
+        "accent": "#f59e0b"
+    },
+    "trustBadges": [
+        {
+            "title": "Grapevine Verified",
+            "subtitle": "Licensed & Insured",
+            "icon": "ShieldCheck"
+        },
+        {
+            "title": "24/7 Rapid Response",
+            "subtitle": "Local Dispatch Vans",
+            "icon": "Clock"
+        },
+        {
+            "title": "Upfront Pricing",
+            "subtitle": "Zero Hidden Surcharges",
+            "icon": "DollarSign"
+        },
+        {
+            "title": "5-Star Craftsmanship",
+            "subtitle": "100% Satisfaction Guarantee",
+            "icon": "Award"
+        }
+    ],
+    "services": [
+        {
+            "id": "srv-1",
+            "name": "Free Grapevine Storm & Hail Damage Audit",
+            "shortDesc": "Comprehensive shingle & flashing evaluation with photo report.",
+            "fullDesc": "Comprehensive shingle & flashing evaluation with photo report.",
+            "basePrice": 0,
+            "iconName": "Search",
+            "badge": "Free Inspection"
+        },
+        {
+            "id": "srv-2",
+            "name": "Architectural Shingle Roof Replacement",
+            "shortDesc": "Complete tear-off and installation with 30-year warranty materials.",
+            "fullDesc": "Complete tear-off and installation with 30-year warranty materials.",
+            "basePrice": 4900,
+            "iconName": "Home"
+        }
+    ],
+    "reviews": {
+        "googleRating": 4.9,
+        "totalReviews": 270,
+        "items": [
+            {
+                "id": "r1",
+                "author": "Mark S.",
+                "rating": 5,
+                "date": "2 days ago",
+                "comment": "Old Pro Roofing provided incredible service in Grapevine. Timely, honest, and high quality!",
+                "serviceUsed": "Free Grapevine Storm & Hail Damage Audit",
+                "verified": true
+            }
+        ]
+    },
+    "faqs": [
+        {
+            "question": "How quickly can a technician respond in Grapevine?",
+            "answer": "Our fleet is locally dispatched throughout Grapevine and North Texas for prompt, dependable service."
+        }
+    ]
+},
+    "cpr-plumbing-services-the-colony": {
+    "slug": "cpr-plumbing-services-the-colony",
+    "name": "CPR Plumbing Services",
+    "legalName": "CPR Plumbing Services LLC",
+    "domain": "cprplumbing.com",
+    "url": "https://cprplumbing.com",
+    "logoIcon": "Droplet",
+    "tagline": "The Colony 24/7 Emergency Plumbing & Water Heaters",
+    "description": "Fast leak detection, clogged drain cleaning, tankless water heater flush, and sewer repairs in The Colony, TX.",
+    "niche": "Plumbing & Drain Services",
+    "city": "The Colony",
+    "state": "TX",
+    "phone": "(469) 515-8868",
+    "formattedPhone": "(469) 515-8868",
+    "phoneRaw": "+14695158868",
+    "email": "info@cprplumbing.com",
+    "address": {
+        "street": "Main Service Hub",
+        "city": "The Colony",
+        "state": "TX",
+        "zip": "75000",
+        "googleMapsEmbedUrl": ""
+    },
+    "googleAnalyticsId": "G-DEMO999",
+    "web3FormsAccessKey": "YOUR_KEY",
+    "hours": {
+        "days": "Monday - Sunday",
+        "time": "24/7 Emergency Service",
+        "is24_7": true
+    },
+    "colors": {
+        "primary": "#0284c7",
+        "primaryDark": "#0369a1",
+        "accent": "#f59e0b"
+    },
+    "trustBadges": [
+        {
+            "title": "The Colony Verified",
+            "subtitle": "Licensed & Insured",
+            "icon": "ShieldCheck"
+        },
+        {
+            "title": "24/7 Rapid Response",
+            "subtitle": "Local Dispatch Vans",
+            "icon": "Clock"
+        },
+        {
+            "title": "Upfront Pricing",
+            "subtitle": "Zero Hidden Surcharges",
+            "icon": "DollarSign"
+        },
+        {
+            "title": "5-Star Craftsmanship",
+            "subtitle": "100% Satisfaction Guarantee",
+            "icon": "Award"
+        }
+    ],
+    "services": [
+        {
+            "id": "srv-1",
+            "name": "Emergency The Colony Plumbing Repair & Diagnostics",
+            "shortDesc": "Rapid diagnostics and prompt repair for household leaks and line breaks.",
+            "fullDesc": "Rapid diagnostics and prompt repair for household leaks and line breaks.",
+            "basePrice": 89,
+            "iconName": "Wrench",
+            "badge": "Same Day"
+        },
+        {
+            "id": "srv-2",
+            "name": "Hydro Jetting & Main Line Clearing",
+            "shortDesc": "High-pressure clearing of deep clogs, tree roots, and sediment buildup.",
+            "fullDesc": "High-pressure clearing of deep clogs, tree roots, and sediment buildup.",
+            "basePrice": 189,
+            "iconName": "Droplet"
+        }
+    ],
+    "reviews": {
+        "googleRating": 4.9,
+        "totalReviews": 310,
+        "items": [
+            {
+                "id": "r1",
+                "author": "Mark S.",
+                "rating": 5,
+                "date": "2 days ago",
+                "comment": "CPR Plumbing Services provided incredible service in The Colony. Timely, honest, and high quality!",
+                "serviceUsed": "Emergency The Colony Plumbing Repair & Diagnostics",
+                "verified": true
+            }
+        ]
+    },
+    "faqs": [
+        {
+            "question": "How quickly can a technician respond in The Colony?",
+            "answer": "Our fleet is locally dispatched throughout The Colony and North Texas for prompt, dependable service."
+        }
+    ]
+},
+    "electrician-on-call-plano": {
+    "slug": "electrician-on-call-plano",
+    "name": "Electrician On Call",
+    "legalName": "Electrician On Call LLC",
+    "domain": "electricianoncall.com",
+    "url": "https://electricianoncall.com",
+    "logoIcon": "Zap",
+    "tagline": "Plano & North Dallas 24/7 Electrical Masters",
+    "description": "Emergency circuit troubleshooting, panel replacements, smart home wiring, and EV chargers in Plano, TX.",
+    "niche": "Electrical Services",
+    "city": "Plano",
+    "state": "TX",
+    "phone": "(214) 235-7251",
+    "formattedPhone": "(214) 235-7251",
+    "phoneRaw": "+12142357251",
+    "email": "info@electricianoncall.com",
+    "address": {
+        "street": "Main Service Hub",
+        "city": "Plano",
+        "state": "TX",
+        "zip": "75000",
+        "googleMapsEmbedUrl": ""
+    },
+    "googleAnalyticsId": "G-DEMO999",
+    "web3FormsAccessKey": "YOUR_KEY",
+    "hours": {
+        "days": "Monday - Sunday",
+        "time": "24/7 Emergency Service",
+        "is24_7": true
+    },
+    "colors": {
+        "primary": "#d97706",
+        "primaryDark": "#b45309",
+        "accent": "#38bdf8"
+    },
+    "trustBadges": [
+        {
+            "title": "Plano Verified",
+            "subtitle": "Licensed & Insured",
+            "icon": "ShieldCheck"
+        },
+        {
+            "title": "24/7 Rapid Response",
+            "subtitle": "Local Dispatch Vans",
+            "icon": "Clock"
+        },
+        {
+            "title": "Upfront Pricing",
+            "subtitle": "Zero Hidden Surcharges",
+            "icon": "DollarSign"
+        },
+        {
+            "title": "5-Star Craftsmanship",
+            "subtitle": "100% Satisfaction Guarantee",
+            "icon": "Award"
+        }
+    ],
+    "services": [
+        {
+            "id": "srv-1",
+            "name": "Licensed Plano Electrical Diagnostic & Repair",
+            "shortDesc": "Fast troubleshooting for tripping breakers, flickering lights, and outlets.",
+            "fullDesc": "Fast troubleshooting for tripping breakers, flickering lights, and outlets.",
+            "basePrice": 99,
+            "iconName": "Zap",
+            "badge": "Licensed Masters"
+        },
+        {
+            "id": "srv-2",
+            "name": "Electrical Panel Upgrade & EV Charger Installation",
+            "shortDesc": "200A modern panel swaps and dedicated EV charging stations.",
+            "fullDesc": "200A modern panel swaps and dedicated EV charging stations.",
+            "basePrice": 750,
+            "iconName": "ShieldCheck"
+        }
+    ],
+    "reviews": {
+        "googleRating": 4.9,
+        "totalReviews": 430,
+        "items": [
+            {
+                "id": "r1",
+                "author": "Mark S.",
+                "rating": 5,
+                "date": "2 days ago",
+                "comment": "Electrician On Call provided incredible service in Plano. Timely, honest, and high quality!",
+                "serviceUsed": "Licensed Plano Electrical Diagnostic & Repair",
+                "verified": true
+            }
+        ]
+    },
+    "faqs": [
+        {
+            "question": "How quickly can a technician respond in Plano?",
+            "answer": "Our fleet is locally dispatched throughout Plano and North Texas for prompt, dependable service."
+        }
+    ]
+},
+    "texas-star-roofing-plano": {
+    "slug": "texas-star-roofing-plano",
+    "name": "Texas Star Roofing",
+    "legalName": "Texas Star Roofing LLC",
+    "domain": "texasstarroofing.com",
+    "url": "https://texasstarroofing.com",
+    "logoIcon": "Home",
+    "tagline": "Plano & Collin County Roofing Experts Since 1997",
+    "description": "Residential roof replacements, commercial flat roofing, storm damage repairs, and ventilation in Plano, TX.",
+    "niche": "Roofing & Restoration",
+    "city": "Plano",
+    "state": "TX",
+    "phone": "(972) 509-7570",
+    "formattedPhone": "(972) 509-7570",
+    "phoneRaw": "+19725097570",
+    "email": "info@texasstarroofing.com",
+    "address": {
+        "street": "Main Service Hub",
+        "city": "Plano",
+        "state": "TX",
+        "zip": "75000",
+        "googleMapsEmbedUrl": ""
+    },
+    "googleAnalyticsId": "G-DEMO999",
+    "web3FormsAccessKey": "YOUR_KEY",
+    "hours": {
+        "days": "Monday - Sunday",
+        "time": "24/7 Emergency Service",
+        "is24_7": true
+    },
+    "colors": {
+        "primary": "#ea580c",
+        "primaryDark": "#c2410c",
+        "accent": "#f59e0b"
+    },
+    "trustBadges": [
+        {
+            "title": "Plano Verified",
+            "subtitle": "Licensed & Insured",
+            "icon": "ShieldCheck"
+        },
+        {
+            "title": "24/7 Rapid Response",
+            "subtitle": "Local Dispatch Vans",
+            "icon": "Clock"
+        },
+        {
+            "title": "Upfront Pricing",
+            "subtitle": "Zero Hidden Surcharges",
+            "icon": "DollarSign"
+        },
+        {
+            "title": "5-Star Craftsmanship",
+            "subtitle": "100% Satisfaction Guarantee",
+            "icon": "Award"
+        }
+    ],
+    "services": [
+        {
+            "id": "srv-1",
+            "name": "Free Plano Storm & Hail Damage Audit",
+            "shortDesc": "Comprehensive shingle & flashing evaluation with photo report.",
+            "fullDesc": "Comprehensive shingle & flashing evaluation with photo report.",
+            "basePrice": 0,
+            "iconName": "Search",
+            "badge": "Free Inspection"
+        },
+        {
+            "id": "srv-2",
+            "name": "Architectural Shingle Roof Replacement",
+            "shortDesc": "Complete tear-off and installation with 30-year warranty materials.",
+            "fullDesc": "Complete tear-off and installation with 30-year warranty materials.",
+            "basePrice": 4900,
+            "iconName": "Home"
+        }
+    ],
+    "reviews": {
+        "googleRating": 4.9,
+        "totalReviews": 380,
+        "items": [
+            {
+                "id": "r1",
+                "author": "Mark S.",
+                "rating": 5,
+                "date": "2 days ago",
+                "comment": "Texas Star Roofing provided incredible service in Plano. Timely, honest, and high quality!",
+                "serviceUsed": "Free Plano Storm & Hail Damage Audit",
+                "verified": true
+            }
+        ]
+    },
+    "faqs": [
+        {
+            "question": "How quickly can a technician respond in Plano?",
+            "answer": "Our fleet is locally dispatched throughout Plano and North Texas for prompt, dependable service."
+        }
+    ]
+},
+    "peak-roofing-construction-frisco": {
+    "slug": "peak-roofing-construction-frisco",
+    "name": "Peak Roofing & Construction",
+    "legalName": "Peak Roofing & Construction LLC",
+    "domain": "peakroofingconstruction.com",
+    "url": "https://peakroofingconstruction.com",
+    "logoIcon": "Home",
+    "tagline": "Frisco Family-Owned Roofing & Exterior Solutions",
+    "description": "Architectural shingle installations, tile roofing, gutter systems, and hail restoration in Frisco, TX.",
+    "niche": "Roofing & Restoration",
+    "city": "Frisco",
+    "state": "TX",
+    "phone": "(972) 335-7325",
+    "formattedPhone": "(972) 335-7325",
+    "phoneRaw": "+19723357325",
+    "email": "info@peakroofingconstruction.com",
+    "address": {
+        "street": "Main Service Hub",
+        "city": "Frisco",
+        "state": "TX",
+        "zip": "75000",
+        "googleMapsEmbedUrl": ""
+    },
+    "googleAnalyticsId": "G-DEMO999",
+    "web3FormsAccessKey": "YOUR_KEY",
+    "hours": {
+        "days": "Monday - Sunday",
+        "time": "24/7 Emergency Service",
+        "is24_7": true
+    },
+    "colors": {
+        "primary": "#ea580c",
+        "primaryDark": "#c2410c",
+        "accent": "#f59e0b"
+    },
+    "trustBadges": [
+        {
+            "title": "Frisco Verified",
+            "subtitle": "Licensed & Insured",
+            "icon": "ShieldCheck"
+        },
+        {
+            "title": "24/7 Rapid Response",
+            "subtitle": "Local Dispatch Vans",
+            "icon": "Clock"
+        },
+        {
+            "title": "Upfront Pricing",
+            "subtitle": "Zero Hidden Surcharges",
+            "icon": "DollarSign"
+        },
+        {
+            "title": "5-Star Craftsmanship",
+            "subtitle": "100% Satisfaction Guarantee",
+            "icon": "Award"
+        }
+    ],
+    "services": [
+        {
+            "id": "srv-1",
+            "name": "Free Frisco Storm & Hail Damage Audit",
+            "shortDesc": "Comprehensive shingle & flashing evaluation with photo report.",
+            "fullDesc": "Comprehensive shingle & flashing evaluation with photo report.",
+            "basePrice": 0,
+            "iconName": "Search",
+            "badge": "Free Inspection"
+        },
+        {
+            "id": "srv-2",
+            "name": "Architectural Shingle Roof Replacement",
+            "shortDesc": "Complete tear-off and installation with 30-year warranty materials.",
+            "fullDesc": "Complete tear-off and installation with 30-year warranty materials.",
+            "basePrice": 4900,
+            "iconName": "Home"
+        }
+    ],
+    "reviews": {
+        "googleRating": 4.9,
+        "totalReviews": 510,
+        "items": [
+            {
+                "id": "r1",
+                "author": "Mark S.",
+                "rating": 5,
+                "date": "2 days ago",
+                "comment": "Peak Roofing & Construction provided incredible service in Frisco. Timely, honest, and high quality!",
+                "serviceUsed": "Free Frisco Storm & Hail Damage Audit",
+                "verified": true
+            }
+        ]
+    },
+    "faqs": [
+        {
+            "question": "How quickly can a technician respond in Frisco?",
+            "answer": "Our fleet is locally dispatched throughout Frisco and North Texas for prompt, dependable service."
+        }
+    ]
+},
+    "town-country-roofing-frisco": {
+    "slug": "town-country-roofing-frisco",
+    "name": "Town & Country Roofing",
+    "legalName": "Town & Country Roofing LLC",
+    "domain": "townandcountryroofingdfw.com",
+    "url": "https://townandcountryroofingdfw.com",
+    "logoIcon": "Home",
+    "tagline": "Frisco & North Texas Premier Roofing & Restoration",
+    "description": "Storm damage claim inspections, lifetime shingle installations, gutter guards, and leak repairs in Frisco, TX.",
+    "niche": "Roofing & Restoration",
+    "city": "Frisco",
+    "state": "TX",
+    "phone": "(972) 377-8188",
+    "formattedPhone": "(972) 377-8188",
+    "phoneRaw": "+19723778188",
+    "email": "info@townandcountryroofingdfw.com",
+    "address": {
+        "street": "Main Service Hub",
+        "city": "Frisco",
+        "state": "TX",
+        "zip": "75000",
+        "googleMapsEmbedUrl": ""
+    },
+    "googleAnalyticsId": "G-DEMO999",
+    "web3FormsAccessKey": "YOUR_KEY",
+    "hours": {
+        "days": "Monday - Sunday",
+        "time": "24/7 Emergency Service",
+        "is24_7": true
+    },
+    "colors": {
+        "primary": "#ea580c",
+        "primaryDark": "#c2410c",
+        "accent": "#f59e0b"
+    },
+    "trustBadges": [
+        {
+            "title": "Frisco Verified",
+            "subtitle": "Licensed & Insured",
+            "icon": "ShieldCheck"
+        },
+        {
+            "title": "24/7 Rapid Response",
+            "subtitle": "Local Dispatch Vans",
+            "icon": "Clock"
+        },
+        {
+            "title": "Upfront Pricing",
+            "subtitle": "Zero Hidden Surcharges",
+            "icon": "DollarSign"
+        },
+        {
+            "title": "5-Star Craftsmanship",
+            "subtitle": "100% Satisfaction Guarantee",
+            "icon": "Award"
+        }
+    ],
+    "services": [
+        {
+            "id": "srv-1",
+            "name": "Free Frisco Storm & Hail Damage Audit",
+            "shortDesc": "Comprehensive shingle & flashing evaluation with photo report.",
+            "fullDesc": "Comprehensive shingle & flashing evaluation with photo report.",
+            "basePrice": 0,
+            "iconName": "Search",
+            "badge": "Free Inspection"
+        },
+        {
+            "id": "srv-2",
+            "name": "Architectural Shingle Roof Replacement",
+            "shortDesc": "Complete tear-off and installation with 30-year warranty materials.",
+            "fullDesc": "Complete tear-off and installation with 30-year warranty materials.",
+            "basePrice": 4900,
+            "iconName": "Home"
+        }
+    ],
+    "reviews": {
+        "googleRating": 4.9,
+        "totalReviews": 290,
+        "items": [
+            {
+                "id": "r1",
+                "author": "Mark S.",
+                "rating": 5,
+                "date": "2 days ago",
+                "comment": "Town & Country Roofing provided incredible service in Frisco. Timely, honest, and high quality!",
+                "serviceUsed": "Free Frisco Storm & Hail Damage Audit",
+                "verified": true
+            }
+        ]
+    },
+    "faqs": [
+        {
+            "question": "How quickly can a technician respond in Frisco?",
+            "answer": "Our fleet is locally dispatched throughout Frisco and North Texas for prompt, dependable service."
+        }
+    ]
+},
 };
