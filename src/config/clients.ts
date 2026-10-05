@@ -6452,9 +6452,9 @@ export const clientRegistry: Record<string, SiteConfig> = {
     "niche": "Electrical Services",
     "city": "Carrollton",
     "state": "TX",
-    "phone": "(469) 689-2267",
-    "formattedPhone": "(469) 689-2267",
-    "phoneRaw": "+14696892267",
+    "phone": "(469) 218-9915",
+    "formattedPhone": "(469) 218-9915",
+    "phoneRaw": "+14692189915",
     "email": "service@arrowelectric.net",
     "address": {
         "street": "Main Service Hub",
@@ -6648,9 +6648,9 @@ export const clientRegistry: Record<string, SiteConfig> = {
     "niche": "Plumbing & Drain Services",
     "city": "Plano",
     "state": "TX",
-    "phone": "(817) 203-2440",
-    "formattedPhone": "(817) 203-2440",
-    "phoneRaw": "+18172032440",
+    "phone": "(888) 908-5325",
+    "formattedPhone": "(888) 908-5325",
+    "phoneRaw": "+18889085325",
     "email": "info@accurateleak.com",
     "address": {
         "street": "Main Service Hub",
@@ -6930,25 +6930,25 @@ export const clientRegistry: Record<string, SiteConfig> = {
         }
     ]
 },
-    "titus-electrical-services-mckinney": {
-    "slug": "titus-electrical-services-mckinney",
-    "name": "Titus Electrical Services",
-    "legalName": "Titus Electrical Services LLC",
-    "domain": "tituselectric.com",
-    "url": "https://tituselectric.com",
+    "white-electric-lewisville": {
+    "slug": "white-electric-lewisville",
+    "name": "White Electric",
+    "legalName": "White Electric LLC",
+    "domain": "white-electric.com",
+    "url": "https://white-electric.com",
     "logoIcon": "Zap",
-    "tagline": "Licensed McKinney Electricians Dedicated to Excellence",
-    "description": "Generator installation, electrical safety inspections, lighting design, and circuit breaker repairs in McKinney, TX.",
+    "tagline": "Lewisville Commercial & Residential Electricians Since 1991",
+    "description": "Electrical panel upgrades, EV chargers, commercial troubleshooting, and residential wiring across Lewisville, TX.",
     "niche": "Electrical Services",
-    "city": "McKinney",
+    "city": "Lewisville",
     "state": "TX",
-    "phone": "(903) 759-4083",
-    "formattedPhone": "(903) 759-4083",
-    "phoneRaw": "+19037594083",
-    "email": "service@tituselectric.com",
+    "phone": "(972) 436-5020",
+    "formattedPhone": "(972) 436-5020",
+    "phoneRaw": "+19724365020",
+    "email": "office@white-electric.com",
     "address": {
         "street": "Main Service Hub",
-        "city": "McKinney",
+        "city": "Lewisville",
         "state": "TX",
         "zip": "75000",
         "googleMapsEmbedUrl": ""
@@ -6967,7 +6967,7 @@ export const clientRegistry: Record<string, SiteConfig> = {
     },
     "trustBadges": [
         {
-            "title": "McKinney Verified",
+            "title": "Lewisville Verified",
             "subtitle": "Licensed & Insured",
             "icon": "ShieldCheck"
         },
@@ -6990,7 +6990,7 @@ export const clientRegistry: Record<string, SiteConfig> = {
     "services": [
         {
             "id": "srv-1",
-            "name": "Licensed McKinney Electrical Diagnostic & Repair",
+            "name": "Licensed Lewisville Electrical Diagnostic & Repair",
             "shortDesc": "Fast troubleshooting for tripping breakers, flickering lights, and outlets.",
             "fullDesc": "Fast troubleshooting for tripping breakers, flickering lights, and outlets.",
             "basePrice": 99,
@@ -7008,45 +7008,45 @@ export const clientRegistry: Record<string, SiteConfig> = {
     ],
     "reviews": {
         "googleRating": 4.9,
-        "totalReviews": 220,
+        "totalReviews": 340,
         "items": [
             {
                 "id": "r1",
                 "author": "Mark S.",
                 "rating": 5,
                 "date": "2 days ago",
-                "comment": "Titus Electrical Services provided incredible service in McKinney. Timely, honest, and high quality!",
-                "serviceUsed": "Licensed McKinney Electrical Diagnostic & Repair",
+                "comment": "White Electric provided incredible service in Lewisville. Timely, honest, and high quality!",
+                "serviceUsed": "Licensed Lewisville Electrical Diagnostic & Repair",
                 "verified": true
             }
         ]
     },
     "faqs": [
         {
-            "question": "How quickly can a technician respond in McKinney?",
-            "answer": "Our fleet is locally dispatched throughout McKinney and North Texas for prompt, dependable service."
+            "question": "How quickly can a technician respond in Lewisville?",
+            "answer": "Our fleet is locally dispatched throughout Lewisville and North Texas for prompt, dependable service."
         }
     ]
 },
-    "white-rock-roofing-richardson": {
-    "slug": "white-rock-roofing-richardson",
-    "name": "White Rock Roofing",
-    "legalName": "White Rock Roofing LLC",
-    "domain": "whiterockroofing.com",
-    "url": "https://whiterockroofing.com",
+    "armor-roofing-plano": {
+    "slug": "armor-roofing-plano",
+    "name": "Armor Roofing | Exteriors",
+    "legalName": "Armor Roofing & Exteriors LLC",
+    "domain": "armorroofco.com",
+    "url": "https://armorroofco.com",
     "logoIcon": "Home",
-    "tagline": "Richardson & DFW Storm Shield Roofing Solutions",
-    "description": "Roof replacement, emergency leak tarping, shingle maintenance, and insurance restoration in Richardson, TX.",
+    "tagline": "Plano Storm Damage & Architectural Roofing Experts",
+    "description": "Free drone hail damage inspections, architectural shingle replacements, leak repairs, and gutter systems in Plano, TX.",
     "niche": "Roofing & Restoration",
-    "city": "Richardson",
+    "city": "Plano",
     "state": "TX",
-    "phone": "(972) 898-2863",
-    "formattedPhone": "(972) 898-2863",
-    "phoneRaw": "+19728982863",
-    "email": "info@whiterockroofing.com",
+    "phone": "(972) 863-1047",
+    "formattedPhone": "(972) 863-1047",
+    "phoneRaw": "+19728631047",
+    "email": "info@armorroofco.com",
     "address": {
         "street": "Main Service Hub",
-        "city": "Richardson",
+        "city": "Plano",
         "state": "TX",
         "zip": "75000",
         "googleMapsEmbedUrl": ""
@@ -7065,7 +7065,7 @@ export const clientRegistry: Record<string, SiteConfig> = {
     },
     "trustBadges": [
         {
-            "title": "Richardson Verified",
+            "title": "Plano Verified",
             "subtitle": "Licensed & Insured",
             "icon": "ShieldCheck"
         },
@@ -7088,7 +7088,7 @@ export const clientRegistry: Record<string, SiteConfig> = {
     "services": [
         {
             "id": "srv-1",
-            "name": "Free Richardson Storm & Hail Damage Audit",
+            "name": "Free Plano Storm & Hail Damage Audit",
             "shortDesc": "Comprehensive shingle & flashing evaluation with photo report.",
             "fullDesc": "Comprehensive shingle & flashing evaluation with photo report.",
             "basePrice": 0,
@@ -7106,23 +7106,23 @@ export const clientRegistry: Record<string, SiteConfig> = {
     ],
     "reviews": {
         "googleRating": 4.9,
-        "totalReviews": 140,
+        "totalReviews": 420,
         "items": [
             {
                 "id": "r1",
                 "author": "Mark S.",
                 "rating": 5,
                 "date": "2 days ago",
-                "comment": "White Rock Roofing provided incredible service in Richardson. Timely, honest, and high quality!",
-                "serviceUsed": "Free Richardson Storm & Hail Damage Audit",
+                "comment": "Armor Roofing | Exteriors provided incredible service in Plano. Timely, honest, and high quality!",
+                "serviceUsed": "Free Plano Storm & Hail Damage Audit",
                 "verified": true
             }
         ]
     },
     "faqs": [
         {
-            "question": "How quickly can a technician respond in Richardson?",
-            "answer": "Our fleet is locally dispatched throughout Richardson and North Texas for prompt, dependable service."
+            "question": "How quickly can a technician respond in Plano?",
+            "answer": "Our fleet is locally dispatched throughout Plano and North Texas for prompt, dependable service."
         }
     ]
 },
@@ -7322,25 +7322,25 @@ export const clientRegistry: Record<string, SiteConfig> = {
         }
     ]
 },
-    "cpr-plumbing-services-the-colony": {
-    "slug": "cpr-plumbing-services-the-colony",
-    "name": "CPR Plumbing Services",
-    "legalName": "CPR Plumbing Services LLC",
-    "domain": "cprplumbing.com",
-    "url": "https://cprplumbing.com",
+    "brown-and-sons-plumbing-denton": {
+    "slug": "brown-and-sons-plumbing-denton",
+    "name": "Brown & Sons Plumbing",
+    "legalName": "Brown & Sons Plumbing LLC",
+    "domain": "brownandsonsplumbing.com",
+    "url": "https://brownandsonsplumbing.com",
     "logoIcon": "Droplet",
-    "tagline": "The Colony 24/7 Emergency Plumbing & Water Heaters",
-    "description": "Fast leak detection, clogged drain cleaning, tankless water heater flush, and sewer repairs in The Colony, TX.",
+    "tagline": "30+ Years Serving Denton & North Texas Homeowners",
+    "description": "Same-day plumbing repair, slab leak detection, water heater replacement, and drain cleaning in Denton, TX.",
     "niche": "Plumbing & Drain Services",
-    "city": "The Colony",
+    "city": "Denton",
     "state": "TX",
-    "phone": "(469) 515-8868",
-    "formattedPhone": "(469) 515-8868",
-    "phoneRaw": "+14695158868",
-    "email": "info@cprplumbing.com",
+    "phone": "(940) 435-2532",
+    "formattedPhone": "(940) 435-2532",
+    "phoneRaw": "+19404352532",
+    "email": "ken@brownandsons.com",
     "address": {
         "street": "Main Service Hub",
-        "city": "The Colony",
+        "city": "Denton",
         "state": "TX",
         "zip": "75000",
         "googleMapsEmbedUrl": ""
@@ -7359,7 +7359,7 @@ export const clientRegistry: Record<string, SiteConfig> = {
     },
     "trustBadges": [
         {
-            "title": "The Colony Verified",
+            "title": "Denton Verified",
             "subtitle": "Licensed & Insured",
             "icon": "ShieldCheck"
         },
@@ -7382,7 +7382,7 @@ export const clientRegistry: Record<string, SiteConfig> = {
     "services": [
         {
             "id": "srv-1",
-            "name": "Emergency The Colony Plumbing Repair & Diagnostics",
+            "name": "Emergency Denton Plumbing Repair & Diagnostics",
             "shortDesc": "Rapid diagnostics and prompt repair for household leaks and line breaks.",
             "fullDesc": "Rapid diagnostics and prompt repair for household leaks and line breaks.",
             "basePrice": 89,
@@ -7400,23 +7400,23 @@ export const clientRegistry: Record<string, SiteConfig> = {
     ],
     "reviews": {
         "googleRating": 4.9,
-        "totalReviews": 310,
+        "totalReviews": 480,
         "items": [
             {
                 "id": "r1",
                 "author": "Mark S.",
                 "rating": 5,
                 "date": "2 days ago",
-                "comment": "CPR Plumbing Services provided incredible service in The Colony. Timely, honest, and high quality!",
-                "serviceUsed": "Emergency The Colony Plumbing Repair & Diagnostics",
+                "comment": "Brown & Sons Plumbing provided incredible service in Denton. Timely, honest, and high quality!",
+                "serviceUsed": "Emergency Denton Plumbing Repair & Diagnostics",
                 "verified": true
             }
         ]
     },
     "faqs": [
         {
-            "question": "How quickly can a technician respond in The Colony?",
-            "answer": "Our fleet is locally dispatched throughout The Colony and North Texas for prompt, dependable service."
+            "question": "How quickly can a technician respond in Denton?",
+            "answer": "Our fleet is locally dispatched throughout Denton and North Texas for prompt, dependable service."
         }
     ]
 },

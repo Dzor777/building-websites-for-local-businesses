@@ -191,7 +191,7 @@ roth.dylan777@gmail.com
 
 ### 67. Arrow Electric Inc.
 
-* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://arrowelectric.net](https://arrowelectric.net) | **To Email:** `service@arrowelectric.net` | **Phone:** (469) 689-2267 | **City:** Carrollton, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://arrowelectric.net](https://arrowelectric.net) | **To Email:** `service@arrowelectric.net` | **Phone:** (469) 218-9915 | **City:** Carrollton, TX | **Status:** ⏳ Ready to Send
 
 **Subject:** Modern quote calculator preview for Arrow Electric Inc. / Carrollton
 
@@ -251,7 +251,7 @@ roth.dylan777@gmail.com
 
 ### 69. Accurate Leak and Line
 
-* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://accurateleak.com](https://accurateleak.com) | **To Email:** `info@accurateleak.com` | **Phone:** (817) 203-2440 | **City:** Plano, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://accurateleak.com](https://accurateleak.com) | **To Email:** `info@accurateleak.com` | **Phone:** (888) 908-5325 | **City:** Plano, TX | **Status:** ⏳ Ready to Send
 
 **Subject:** Quick note regarding Accurate Leak and Line's mobile site / Plano
 
@@ -339,22 +339,22 @@ roth.dylan777@gmail.com
 
 ---
 
-### 72. Titus Electrical Services
+### 72. White Electric
 
-* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://tituselectric.com](https://tituselectric.com) | **To Email:** `service@tituselectric.com` | **Phone:** (903) 759-4083 | **City:** McKinney, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://white-electric.com](https://white-electric.com) | **To Email:** `office@white-electric.com` | **Phone:** (972) 436-5020 | **City:** Lewisville, TX | **Status:** ⏳ Ready to Send
 
-**Subject:** Modern quote calculator preview for Titus Electrical Services / McKinney
+**Subject:** Modern quote calculator preview for White Electric / Lewisville
 
 ```text
-Hi Titus Electrical Services Team,
+Hi White Electric Team,
 
-I'm a local Texas web developer, and while reviewing top-rated Electrical Services specialists in McKinney, I ran across Titus Electrical Services.
+I'm a local Texas web developer, and while reviewing top-rated Electrical Services specialists in Lewisville, I ran across White Electric.
 
 Your current site provides great information, but mobile visitors looking for fast service estimates have to hunt around to submit a request.
 
-I put together a fast, mobile-friendly live mockup for Titus Electrical Services:
+I put together a fast, mobile-friendly live mockup for White Electric:
 
-👉 Live GitHub Mobile Preview: https://dzor777.github.io/building-websites-for-local-businesses/?client=titus-electrical-services-mckinney
+👉 Live GitHub Mobile Preview: https://dzor777.github.io/building-websites-for-local-businesses/?client=white-electric-lewisville
 
 It features an interactive quote calculator customized for Electrical Services, instant 1-tap call buttons, and fast 24/7 quote request forms (Note: The quote calculator, colors, and layout are customizable sample templates. Project photos can also be added upon request for your final site).
 
@@ -369,22 +369,22 @@ roth.dylan777@gmail.com
 
 ---
 
-### 73. White Rock Roofing
+### 73. Armor Roofing | Exteriors
 
-* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://whiterockroofing.com](https://whiterockroofing.com) | **To Email:** `info@whiterockroofing.com` | **Phone:** (972) 898-2863 | **City:** Richardson, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://armorroofco.com](https://armorroofco.com) | **To Email:** `info@armorroofco.com` | **Phone:** (972) 863-1047 | **City:** Plano, TX | **Status:** ⏳ Ready to Send
 
-**Subject:** Quick note regarding White Rock Roofing's mobile site / Richardson
+**Subject:** Quick note regarding Armor Roofing | Exteriors's mobile site / Plano
 
 ```text
-Hi White Rock Roofing Team,
+Hi Armor Roofing | Exteriors Team,
 
-I'm a local Texas web developer, and while running mobile technical checks on local Roofing & Restoration contractors in Richardson, I came across White Rock Roofing.
+I'm a local Texas web developer, and while running mobile technical checks on local Roofing & Restoration contractors in Plano, I came across Armor Roofing | Exteriors.
 
 I noticed your site appears to have mobile responsiveness and layout constraints, making it difficult for prospective clients to browse replacement and repair options on smartphones.
 
-I put together a fast mobile-first preview for White Rock Roofing:
+I put together a fast mobile-first preview for Armor Roofing | Exteriors:
 
-👉 Live GitHub Mobile Preview: https://dzor777.github.io/building-websites-for-local-businesses/?client=white-rock-roofing-richardson
+👉 Live GitHub Mobile Preview: https://dzor777.github.io/building-websites-for-local-businesses/?client=armor-roofing-plano
 
 It includes a 1-tap call button, 24/7 dispatch forms, and an instant price estimate calculator (Note: The quote calculator, colors, and layout are customizable sample templates. Project photos can also be added upon request for your final site).
 
@@ -459,22 +459,22 @@ roth.dylan777@gmail.com
 
 ---
 
-### 76. CPR Plumbing Services
+### 76. Brown & Sons Plumbing
 
-* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://cprplumbing.com](https://cprplumbing.com) | **To Email:** `info@cprplumbing.com` | **Phone:** (469) 515-8868 | **City:** The Colony, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://brownandsonsplumbing.com](https://brownandsonsplumbing.com) | **To Email:** `ken@brownandsons.com` | **Phone:** (940) 435-2532 | **City:** Denton, TX | **Status:** ⏳ Ready to Send
 
-**Subject:** Modern quote calculator preview for CPR Plumbing Services / The Colony
+**Subject:** Modern quote calculator preview for Brown & Sons Plumbing / Denton
 
 ```text
-Hi CPR Plumbing Services Team,
+Hi Brown & Sons Plumbing Team,
 
-I'm a local Texas web developer, and while reviewing top-rated Plumbing & Drain Services specialists in The Colony, I ran across CPR Plumbing Services.
+I'm a local Texas web developer, and while reviewing top-rated Plumbing & Drain Services specialists in Denton, I ran across Brown & Sons Plumbing.
 
 Your current site provides great information, but mobile visitors looking for fast service estimates have to hunt around to submit a request.
 
-I put together a fast, mobile-friendly live mockup for CPR Plumbing Services:
+I put together a fast, mobile-friendly live mockup for Brown & Sons Plumbing:
 
-👉 Live GitHub Mobile Preview: https://dzor777.github.io/building-websites-for-local-businesses/?client=cpr-plumbing-services-the-colony
+👉 Live GitHub Mobile Preview: https://dzor777.github.io/building-websites-for-local-businesses/?client=brown-and-sons-plumbing-denton
 
 It features an interactive quote calculator customized for Plumbing & Drain Services, instant 1-tap call buttons, and fast 24/7 quote request forms (Note: The quote calculator, colors, and layout are customizable sample templates. Project photos can also be added upon request for your final site).
 
@@ -619,16 +619,16 @@ roth.dylan777@gmail.com
 | 64 | Strittmatter Plumbing, Heating & AC | Denton, TX | Plumbing & HVAC | Cat #1 | `info@strittmatters.com` | (940) 246-2075 | [Demo Link](https://dzor777.github.io/building-websites-for-local-businesses/?client=strittmatter-plumbing-denton) |
 | 65 | Cody & Sons Plumbing, Heating & Air | Dallas, TX | Plumbing & Drain Services | Cat #2 | `info@codyandsons.com` | (214) 339-3401 | [Demo Link](https://dzor777.github.io/building-websites-for-local-businesses/?client=cody-and-sons-dallas) |
 | 66 | Cold Factor Heating & Air | Lewisville, TX | HVAC & Air Conditioning | Cat #1 | `service@coldfactor.com` | (469) 200-0982 | [Demo Link](https://dzor777.github.io/building-websites-for-local-businesses/?client=cold-factor-hvac-lewisville) |
-| 67 | Arrow Electric Inc. | Carrollton, TX | Electrical Services | Cat #2 | `service@arrowelectric.net` | (469) 689-2267 | [Demo Link](https://dzor777.github.io/building-websites-for-local-businesses/?client=arrow-electric-carrollton) |
+| 67 | Arrow Electric Inc. | Carrollton, TX | Electrical Services | Cat #2 | `service@arrowelectric.net` | (469) 218-9915 | [Demo Link](https://dzor777.github.io/building-websites-for-local-businesses/?client=arrow-electric-carrollton) |
 | 68 | Rowley Roofing & Construction | Frisco, TX | Roofing & Restoration | Cat #2 | `info@rowleyroofing.com` | (972) 668-0919 | [Demo Link](https://dzor777.github.io/building-websites-for-local-businesses/?client=rowley-roofing-frisco) |
-| 69 | Accurate Leak and Line | Plano, TX | Plumbing & Drain Services | Cat #1 | `info@accurateleak.com` | (817) 203-2440 | [Demo Link](https://dzor777.github.io/building-websites-for-local-businesses/?client=accurate-leak-line-plano) |
+| 69 | Accurate Leak and Line | Plano, TX | Plumbing & Drain Services | Cat #1 | `info@accurateleak.com` | (888) 908-5325 | [Demo Link](https://dzor777.github.io/building-websites-for-local-businesses/?client=accurate-leak-line-plano) |
 | 70 | Total Air & Heat | Plano, TX | HVAC & Air Conditioning | Cat #2 | `info@totalair.com` | (972) 845-9073 | [Demo Link](https://dzor777.github.io/building-websites-for-local-businesses/?client=total-air-heat-plano) |
 | 71 | Anderson Roofing & Construction | Denton, TX | Roofing & Restoration | Cat #1 | `info@andersonroofingtx.com` | (210) 972-5682 | [Demo Link](https://dzor777.github.io/building-websites-for-local-businesses/?client=anderson-roofing-denton) |
-| 72 | Titus Electrical Services | McKinney, TX | Electrical Services | Cat #2 | `service@tituselectric.com` | (903) 759-4083 | [Demo Link](https://dzor777.github.io/building-websites-for-local-businesses/?client=titus-electrical-services-mckinney) |
-| 73 | White Rock Roofing | Richardson, TX | Roofing & Restoration | Cat #1 | `info@whiterockroofing.com` | (972) 898-2863 | [Demo Link](https://dzor777.github.io/building-websites-for-local-businesses/?client=white-rock-roofing-richardson) |
+| 72 | White Electric | Lewisville, TX | Electrical Services | Cat #2 | `office@white-electric.com` | (972) 436-5020 | [Demo Link](https://dzor777.github.io/building-websites-for-local-businesses/?client=white-electric-lewisville) |
+| 73 | Armor Roofing | Exteriors | Plano, TX | Roofing & Restoration | Cat #1 | `info@armorroofco.com` | (972) 863-1047 | [Demo Link](https://dzor777.github.io/building-websites-for-local-businesses/?client=armor-roofing-plano) |
 | 74 | Classic Heating & Air | Garland, TX | HVAC & Air Conditioning | Cat #2 | `info@classicheatandair.com` | (214) 310-2665 | [Demo Link](https://dzor777.github.io/building-websites-for-local-businesses/?client=classic-heating-air-garland) |
 | 75 | Old Pro Roofing | Grapevine, TX | Roofing & Restoration | Cat #1 | `service@oldproroofing.com` | (817) 929-7663 | [Demo Link](https://dzor777.github.io/building-websites-for-local-businesses/?client=old-pro-roofing-grapevine) |
-| 76 | CPR Plumbing Services | The Colony, TX | Plumbing & Drain Services | Cat #2 | `info@cprplumbing.com` | (469) 515-8868 | [Demo Link](https://dzor777.github.io/building-websites-for-local-businesses/?client=cpr-plumbing-services-the-colony) |
+| 76 | Brown & Sons Plumbing | Denton, TX | Plumbing & Drain Services | Cat #2 | `ken@brownandsons.com` | (940) 435-2532 | [Demo Link](https://dzor777.github.io/building-websites-for-local-businesses/?client=brown-and-sons-plumbing-denton) |
 | 77 | Electrician On Call | Plano, TX | Electrical Services | Cat #1 | `info@electricianoncall.com` | (214) 235-7251 | [Demo Link](https://dzor777.github.io/building-websites-for-local-businesses/?client=electrician-on-call-plano) |
 | 78 | Texas Star Roofing | Plano, TX | Roofing & Restoration | Cat #2 | `info@texasstarroofing.com` | (972) 509-7570 | [Demo Link](https://dzor777.github.io/building-websites-for-local-businesses/?client=texas-star-roofing-plano) |
 | 79 | Peak Roofing & Construction | Frisco, TX | Roofing & Restoration | Cat #1 | `info@peakroofingconstruction.com` | (972) 335-7325 | [Demo Link](https://dzor777.github.io/building-websites-for-local-businesses/?client=peak-roofing-construction-frisco) |

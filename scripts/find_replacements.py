@@ -1,85 +1,82 @@
-import sys
 import urllib.request
-import urllib.parse
 import json
-import ssl
+import re
+from playwright.sync_api import sync_playwright
 
-if sys.platform == "win32":
-    sys.stdout.reconfigure(encoding="utf-8")
+prospects = [
+    # Electrical candidates
+    {'trade': 'Electrical Services', 'name': 'Benchmark Electrical Services', 'city': 'Frisco', 'url': 'https://benchmarkelectricalservices.com', 'domain': 'benchmarkelectricalservices.com', 'cat': 2},
+    {'trade': 'Electrical Services', 'name': 'Adon Complete Air Conditioning & Electrical', 'city': 'McKinney', 'url': 'https://adoncomplete.com', 'domain': 'adoncomplete.com', 'cat': 2},
+    {'trade': 'Electrical Services', 'name': 'Denton Electric, Inc.', 'city': 'Denton', 'url': 'https://dentonelectricinc.com', 'domain': 'dentonelectricinc.com', 'cat': 2},
+    {'trade': 'Electrical Services', 'name': 'Bacon Plumbing, Heating, Air & Electric', 'city': 'Rockwall', 'url': 'https://baconhvac.com', 'domain': 'baconhvac.com', 'cat': 2},
+    
+    # Roofing candidates
+    {'trade': 'Roofing & Restoration', 'name': 'Concord Roofing & Construction', 'city': 'Plano', 'url': 'https://concordroofingservices.com', 'domain': 'concordroofingservices.com', 'cat': 1},
+    {'trade': 'Roofing & Restoration', 'name': 'T-Rock Roofing & Construction', 'city': 'Dallas', 'url': 'https://trockroofing.com', 'domain': 'trockroofing.com', 'cat': 1},
+    {'trade': 'Roofing & Restoration', 'name': 'Stonewater Roofing', 'city': 'Plano', 'url': 'https://stonewaterroofing.com', 'domain': 'stonewaterroofing.com', 'cat': 1},
+    {'trade': 'Roofing & Restoration', 'name': 'Bert Roofing Inc.', 'city': 'Dallas', 'url': 'https://bertroofing.com', 'domain': 'bertroofing.com', 'cat': 1},
 
-ctx = ssl.create_default_context()
-ctx.check_hostname = False
-ctx.verify_mode = ssl.CERT_NONE
-
-HEADERS = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36'
-}
-
-def check_lead(url, email):
-    web_ok = False
-    try:
-        req = urllib.request.Request(url, headers=HEADERS)
-        with urllib.request.urlopen(req, timeout=6, context=ctx) as resp:
-            if resp.status in (200, 301, 302):
-                web_ok = True
-    except Exception as e:
-        pass
-
-    mx_ok = False
-    if email and '@' in email:
-        domain = email.split('@')[-1].strip().lower()
-        try:
-            doh_url = f"https://dns.google/resolve?name={domain}&type=MX"
-            req = urllib.request.Request(doh_url, headers=HEADERS)
-            with urllib.request.urlopen(req, timeout=4) as resp:
-                data = json.loads(resp.read().decode('utf-8'))
-                if data.get("Status") == 0 and "Answer" in data:
-                    mx_ok = True
-        except Exception:
-            pass
-
-    return web_ok, mx_ok
-
-# Candidates to test
-test_list = [
-    # Plano / Frisco / McKinney / Allen / Denton / Lewisville / Garland / Carrollton
-    ("Milestone Electric, A/C & Plumbing", "https://callmilestone.com", "customercare@callmilestone.com"),
-    ("Lex Air Conditioning & Heating", "https://lexairconditioning.com", "info@lexairconditioning.com"),
-    ("K&S Heating & Air", "https://kandsair.com", "info@kandsair.com"),
-    ("Force Home Services", "https://forcehomeservices.com", "info@forcehomeservices.com"),
-    ("J&K Air Conditioning & Heating", "https://jkairconditioning.com", "service@jkairconditioning.com"),
-    ("Strittmatter Plumbing, Heating & AC", "https://strittmatters.com", "info@strittmatters.com"),
-    ("Cody & Sons Plumbing, Heating & Air", "https://codyandsons.com", "info@codyandsons.com"),
-    ("Bacon Plumbing Heating Air Electric", "https://baconhvac.com", "info@baconhvac.com"),
-    ("Baker Brothers Plumbing", "https://bakerbrothersplumbing.com", "info@bakerbrothersplumbing.com"),
-    ("Berkeys Plumbing, Air Conditioning & Electrical", "https://berkeys.com", "info@berkeys.com"),
-    ("Classic Heating & Air", "https://classicheatandair.com", "info@classicheatandair.com"),
-    ("Air Patrol Air Conditioning", "https://airpatrolairconditioning.com", "info@airpatrolairconditioning.com"),
-    ("Titus Electrical Services", "https://tituselectric.com", "service@tituselectric.com"),
-    ("White Rock Roofing", "https://whiterockroofing.com", "info@whiterockroofing.com"),
-    ("Texas Star Roofing", "https://texasstarroofing.com", "info@texasstarroofing.com"),
-    ("Peak Roofing & Construction", "https://peakroofingconstruction.com", "info@peakroofingconstruction.com"),
-    ("KPost Roofing & Waterproofing", "https://kpostcompany.com", "info@kpostcompany.com"),
-    ("Starr Roofing & Gutters", "https://starrroofing.com", "service@starrroofing.com"),
-    ("Town & Country Roofing", "https://townandcountryroofingdfw.com", "info@townandcountryroofingdfw.com"),
-    ("Accurate Leak and Line", "https://accurateleak.com", "info@accurateleak.com"),
-    ("Cathey's Plumbing", "https://catheysplumbing.com", "service@catheysplumbing.com"),
-    ("CPR Plumbing Services", "https://cprplumbing.com", "info@cprplumbing.com"),
-    ("Goose Green Energy Electric", "https://gooseelectric.com", "service@gooseelectric.com"),
-    ("Electrician On Call", "https://electricianoncall.com", "info@electricianoncall.com"),
-    ("Arrow Electric", "https://arrowelectric.net", "service@arrowelectric.net"),
-    ("Mister Sparky DFW", "https://mistersparky.com", "info@mistersparky.com"),
-    ("Texas Electrical", "https://texaselectrical.com", "info@texaselectrical.com"),
+    # Plumbing candidates
+    {'trade': 'Plumbing & Drain Services', 'name': 'O\'Bryan Plumbing Services', 'city': 'Allen', 'url': 'https://obryanplumbing.com', 'domain': 'obryanplumbing.com', 'cat': 2},
+    {'trade': 'Plumbing & Drain Services', 'name': 'Goose Plumbing', 'city': 'Frisco', 'url': 'https://gooseplumbing.com', 'domain': 'gooseplumbing.com', 'cat': 2},
+    {'trade': 'Plumbing & Drain Services', 'name': 'Staggs Plumbing', 'city': 'Plano', 'url': 'https://staggsplumbing.info', 'domain': 'staggsplumbing.info', 'cat': 2},
+    {'trade': 'Plumbing & Drain Services', 'name': 'Legacy Plumbing', 'city': 'Frisco', 'url': 'https://legacyplumbing.net', 'domain': 'legacyplumbing.net', 'cat': 2}
 ]
 
-print("Testing replacements...")
-passed = []
-for name, url, email in test_list:
-    w, m = check_lead(url, email)
-    if w and m:
-        passed.append((name, url, email))
-        print(f"  [PASS] {name} | {url} | {email}")
-    else:
-        print(f"  [FAIL] {name} (web={w}, mx={m})")
+with open('docs/data/texas_leads.json', 'r', encoding='utf-8') as f:
+    existing = json.load(f)
+existing_domains = {x.get('url', '').lower().strip('/') for x in existing}
+existing_names = {x.get('business_name', '').lower() for x in existing}
 
-print(f"\nTotal passed: {len(passed)}")
+print(f"Total existing leads: {len(existing)}")
+
+with sync_playwright() as p:
+    browser = p.chromium.launch(headless=True)
+    page = browser.new_page(viewport={'width': 390, 'height': 844})
+    
+    for pr in prospects:
+        domain = pr['domain']
+        url = pr['url'].strip('/')
+        if url in existing_domains or pr['name'].lower() in existing_names:
+            print(f"SKIP (Already in db): {pr['name']}")
+            continue
+
+        # Check DNS MX
+        doh = f'https://dns.google/resolve?name={domain}&type=MX'
+        try:
+            req = urllib.request.Request(doh, headers={'User-Agent': 'Mozilla/5.0'})
+            res = json.loads(urllib.request.urlopen(req, timeout=4).read().decode('utf-8'))
+            mx_records = [ans.get('data') for ans in res.get('Answer', []) if ans.get('type') == 15]
+            if not mx_records:
+                print(f"NO MX: {domain}")
+                continue
+        except Exception as e:
+            print(f"MX Error: {domain} -> {e}")
+            continue
+
+        try:
+            resp = page.goto(url, timeout=15000, wait_until='domcontentloaded')
+            page.wait_for_timeout(2000)
+            if not resp or resp.status != 200:
+                print(f"HTTP Status {resp.status if resp else 'None'}: {url}")
+                continue
+
+            content = page.content()
+            tels = [a.get_attribute('href').replace('tel:', '').strip() for a in page.query_selector_all('a[href^="tel:"]')]
+            
+            # Find emails
+            emails = re.findall(r'[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+', content)
+            valid_emails = [
+                e for e in emails 
+                if not any(x in e.lower() for x in ['png', 'jpg', 'sentry', 'wix', 'schema', 'example', 'domain', 'bootstrap', 'google'])
+            ]
+
+            print(f"\nSUCCESS: [{pr['trade']}] {pr['name']} ({pr['city']})")
+            print(f"  URL: {url}")
+            print(f"  MX: {mx_records[0]}")
+            print(f"  Tels: {tels[:3]}")
+            print(f"  Emails: {list(dict.fromkeys(valid_emails))[:3]}")
+        except Exception as e:
+            print(f"Playwright error on {url}: {e}")
+
+    browser.close()
