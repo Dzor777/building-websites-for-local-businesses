@@ -18,101 +18,69 @@ This master playbook contains cold outreach scripts, 4-step sequence schedules, 
 
 ---
 
-## 📧 1. Cold Email Pitch Templates (Touch 1)
+## 📧 1. Cold Email Pitch Template (Touch 1)
 
-### Category #1: Technical & Mobile Bug Fixes (SSL, Non-responsive, Broken Navigation)
-**Subject:** Quick note regarding {Business Name}'s mobile site / {City}
-
-```text
-Hi {Business Name} Team,
-
-I'm a local Texas web developer, and while running mobile technical checks on local {Niche} contractors in {City}, I came across {Business Name}.
-
-I noticed your site appears to have an SSL/security issue on mobile, making it difficult for prospective clients to contact you directly on their smartphones.
-
-I put together a fast mobile-first preview and attached two side-by-side screenshots:
-
-📷 [Attached: Before_vs_After_Mobile.png]
-👉 Live GitHub Mobile Preview: https://dzor777.github.io/building-websites-for-local-businesses/?client={slug}
-
-It includes a 1-tap call button, 24/7 dispatch forms, and an instant price estimate calculator (Note: The quote calculator, colors, and layout are customizable sample templates. Project photos can also be added upon request for your final site).
-
-Click the live preview link above to test out your personalized example website on your phone! If you'd like to chat about quick setup options to put it live under your domain, just reply to this email!
-
-Best regards,
-
-Dylan Roth
-Local Web Specialist & Developer
-roth.dylan777@gmail.com
-```
-
-### Category #2: Conversion & Instant Quote Calculator Upgrade
-**Subject:** Modern quote calculator preview for {Business Name} / {City}
+**Subject:** quick note re: {Business Name} mobile site
 
 ```text
-Hi {Business Name} Team,
+Hi {Business Name} team,
 
-I'm a local Texas web developer, and while reviewing top-rated {Niche} specialists in {City}, I ran across {Business Name}.
+I was looking up local {trade} in {City} on my phone and noticed your current website is pretty tough to navigate on a smartphone, the call button and text get cut off.
 
-Your current site provides great information, but mobile visitors looking for fast service estimates have to hunt around to submit a request.
+I put together a quick mobile-optimized version for {Business Name} so customers can call you in 1 tap or get a quote:
 
-I put together a fast, mobile-friendly live mockup for {Business Name}:
+[Click here to view the mobile preview for {Business Name}](https://dzor777.github.io/building-websites-for-local-businesses/?client={slug})
 
-📷 [Attached: Mobile_Calculator_Preview.png]
-👉 Live GitHub Mobile Preview: https://dzor777.github.io/building-websites-for-local-businesses/?client={slug}
+Take a look on your phone whenever you have a second. The basic package is $450 to get started ($300 setup fee and $150/month for hosting, updates, and maintenance), and I also have higher tiers if you need extra features like custom calculators or booking integrations.
 
-It features an interactive quote calculator customized for {Niche} services, instant 1-tap call buttons, and fast 24/7 quote request forms (Note: The quote calculator, colors, and layout are customizable sample templates. Project photos can also be added upon request for your final site).
+If you want me to get this set up on your domain today, just reply "YES" to this email.
 
-Click the live preview link above to test out your personalized example website on your phone! If you'd like to chat about quick setup options to put it live under your domain, just reply to this email!
+Thank you,
 
-Best regards,
-
-Dylan Roth
-Local Web Specialist & Developer
-roth.dylan777@gmail.com
+Dylan
+Local Web Developer
 ```
-
 
 ---
 
 ## 📬 2. Follow-Up Email Sequences (Touch 2 & Touch 3)
 
 ### Touch 2 (Day 4: Quick 1-Line Bump)
-**Subject:** re: Quick note regarding {Business Name}'s mobile site
+**Subject:** Re: quick note re: {Business Name} mobile site
 
 ```text
-Hi {First Name},
+Hi {Business Name} team,
 
-Wanted to make sure you saw the custom mobile preview I built for {Business Name} earlier this week:
+Wanted to make sure you saw the mobile preview I put together for {Business Name} earlier:
 
-👉 Your Custom Live Preview: https://dzor777.github.io/building-websites-for-local-businesses/?client={slug}
+[Click here to view the mobile preview for {Business Name}](https://dzor777.github.io/building-websites-for-local-businesses/?client={slug})
 
-Did you get a chance to take a look? We styled this around your primary brand colors, but can customize all colors, fonts, and layouts to match your exact preference during setup.
+Happy to get this set up on your domain today for the basic $450 package ($300 setup + $150/month), or discuss higher tier packages if you need custom booking forms. Just reply "YES" if you want me to get started.
 
-Best,
-Dylan Roth
-Local Web Specialist & Developer
-roth.dylan777@gmail.com
+Thank you,
+
+Dylan
+Local Web Developer
 ```
 
-### Touch 3 (Day 8: Soft Break-Up / "Closing Out Your File")
-**Subject:** Closing out {Business Name}'s demo preview file
+### Touch 3 (Day 8: Soft Break-Up)
+**Subject:** Closing out {Business Name}'s mobile preview
 
 ```text
-Hi {First Name},
+Hi {Business Name} team,
 
-I haven't heard back, so I assume upgrading {Business Name}'s website isn't a top priority right now—totally understand! 
+I haven't heard back, so I assume updating {Business Name}'s mobile site isn't a priority right now, totally understand.
 
-I’ll be archiving the custom live mobile preview link below at the end of the week:
+I'll be archiving the custom live mobile preview link below at the end of the week:
 
-👉 Live Preview Link: https://dzor777.github.io/building-websites-for-local-businesses/?client={slug}
+[Click here to view the mobile preview for {Business Name}](https://dzor777.github.io/building-websites-for-local-businesses/?client={slug})
 
-If you ever want to see how we can help {Business Name} capture 2x more mobile service calls with 0 upfront risk, just shoot me a reply.
+If you ever want to get it live on your domain, feel free to reach out anytime.
 
-Best regards,
-Dylan Roth
-Local Web Specialist & Developer
-roth.dylan777@gmail.com
+Thank you,
+
+Dylan
+Local Web Developer
 ```
 
 ---

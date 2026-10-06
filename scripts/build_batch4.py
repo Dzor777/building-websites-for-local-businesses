@@ -700,48 +700,36 @@ def generate_campaign_doc():
         lines.append(f"* **Category:** {cat} | **Current Website:** [{url}]({url}) | **To Email:** `{email}` | **Phone:** {phone} | **City:** {city} | **Status:** ⏳ Ready to Send")
         lines.append("")
 
-        if l["cat_num"] == 1:
-            subject = f"Quick note regarding {name}'s mobile site / {l['city']}"
-            body = f"""Hi {name} Team,
+        natural_trade = "contractors"
+        n_lower = l["niche"].lower()
+        if "plumb" in n_lower and "hvac" in n_lower:
+            natural_trade = "plumbers and HVAC techs"
+        elif "plumb" in n_lower:
+            natural_trade = "plumbers"
+        elif "hvac" in n_lower or "air conditioning" in n_lower:
+            natural_trade = "HVAC techs"
+        elif "roof" in n_lower:
+            natural_trade = "roofers"
+        elif "electr" in n_lower:
+            natural_trade = "electricians"
 
-I'm a local Texas web developer, and while running mobile technical checks on local {trade} contractors in {l['city']}, I came across {name}.
+        subject = f"quick note re: {name} mobile site"
+        body = f"""Hi {name} team,
 
-I noticed your site appears to have mobile responsiveness and layout constraints, making it difficult for prospective clients to browse replacement and repair options on smartphones.
+I was looking up local {natural_trade} in {l['city']} on my phone and noticed your current website is pretty tough to navigate on a smartphone, the call button and text get cut off.
 
-I put together a fast mobile-first preview for {name}:
+I put together a quick mobile-optimized version for {name} so customers can call you in 1 tap or get a quote:
 
-👉 Live GitHub Mobile Preview: {preview}
+[Click here to view the mobile preview for {name}]({preview})
 
-It includes a 1-tap call button, 24/7 dispatch forms, and an instant price estimate calculator (Note: The quote calculator, colors, and layout are customizable sample templates. Project photos can also be added upon request for your final site).
+Take a look on your phone whenever you have a second. The basic package is $450 to get started ($300 setup fee and $150/month for hosting, updates, and maintenance), and I also have higher tiers if you need extra features like custom calculators or booking integrations.
 
-Click the live preview link above to test out your personalized example website on your phone! If you'd like to chat about quick setup options to put it live under your domain, just reply to this email!
+If you want me to get this set up on your domain today, just reply "YES" to this email.
 
-Best regards,
+Thank you,
 
-Dylan Roth
-Local Web Specialist & Developer
-roth.dylan777@gmail.com"""
-        else:
-            subject = f"Modern quote calculator preview for {name} / {l['city']}"
-            body = f"""Hi {name} Team,
-
-I'm a local Texas web developer, and while reviewing top-rated {trade} specialists in {l['city']}, I ran across {name}.
-
-Your current site provides great information, but mobile visitors looking for fast service estimates have to hunt around to submit a request.
-
-I put together a fast, mobile-friendly live mockup for {name}:
-
-👉 Live GitHub Mobile Preview: {preview}
-
-It features an interactive quote calculator customized for {trade}, instant 1-tap call buttons, and fast 24/7 quote request forms (Note: The quote calculator, colors, and layout are customizable sample templates. Project photos can also be added upon request for your final site).
-
-Click the live preview link above to test out your personalized example website on your phone! If you'd like to chat about quick setup options to put it live under your domain, just reply to this email!
-
-Best regards,
-
-Dylan Roth
-Local Web Specialist & Developer
-roth.dylan777@gmail.com"""
+Dylan
+Local Web Developer"""
 
         lines.append(f"**Subject:** {subject}")
         lines.append("")
