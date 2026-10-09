@@ -19,19 +19,55 @@ export const Hero: React.FC<HeroProps> = ({ onOpenQuoteModal }) => {
   });
 
   const isAgencyRoot = siteConfig.slug === 'dylan-roth-web-services';
-  const isRoofing = siteConfig.niche.toLowerCase().includes('roof');
-  const isHVAC = siteConfig.niche.toLowerCase().includes('hvac') || siteConfig.niche.toLowerCase().includes('air conditioning');
-  const isPlumbing = siteConfig.niche.toLowerCase().includes('plumb') || siteConfig.niche.toLowerCase().includes('drain');
+  const nicheLower = siteConfig.niche.toLowerCase();
+  const isRoofing = nicheLower.includes('roof');
+  const isHVAC = nicheLower.includes('hvac') || nicheLower.includes('air conditioning') || nicheLower.includes('cooling');
+  const isPlumbing = nicheLower.includes('plumb') || nicheLower.includes('drain');
+  const isElectrical = nicheLower.includes('electr');
+  const isPainting = nicheLower.includes('paint');
+  const isLawnCare = nicheLower.includes('lawn') || nicheLower.includes('landscape') || nicheLower.includes('mow');
+  const isTree = nicheLower.includes('tree');
+  const isPressureWash = nicheLower.includes('pressure') || nicheLower.includes('wash');
 
   const tradeNoun = isAgencyRoot
     ? 'LOCAL CONTRACTORS & SERVICE TRADES'
     : isRoofing 
-    ? 'ROOFERS' 
+    ? 'ROOFING SPECIALISTS' 
     : isHVAC 
     ? 'HVAC TECHNICIANS' 
     : isPlumbing
-    ? 'PLUMBERS'
-    : 'CONTRACTORS';
+    ? 'MASTER PLUMBERS'
+    : isElectrical
+    ? 'LICENSED ELECTRICIANS'
+    : isPainting
+    ? 'PRO PAINTERS'
+    : isLawnCare
+    ? 'TURF & LAWN SPECIALISTS'
+    : isTree
+    ? 'CERTIFIED ARBORISTS'
+    : isPressureWash
+    ? 'SURFACE RESTORATION PROS'
+    : 'LOCAL CONTRACTORS';
+
+  const defaultHeroImg = isRoofing 
+    ? 'https://images.unsplash.com/photo-1632759145351-1d592919f522?auto=format&fit=crop&q=80&w=1600'
+    : isHVAC
+    ? 'https://images.unsplash.com/photo-1621905251189-08b45d6a269e?auto=format&fit=crop&q=80&w=1600'
+    : isPlumbing
+    ? 'https://images.unsplash.com/photo-1581578731548-c64695cc6952?auto=format&fit=crop&q=80&w=1600'
+    : isElectrical
+    ? 'https://images.unsplash.com/photo-1621905252507-b35492cc74b4?auto=format&fit=crop&q=80&w=1600'
+    : isPainting
+    ? 'https://images.unsplash.com/photo-1589939705384-5185137a7f0f?auto=format&fit=crop&q=80&w=1600'
+    : isLawnCare
+    ? 'https://images.unsplash.com/photo-1592417817098-8f3d6eb2252a?auto=format&fit=crop&q=80&w=1600'
+    : isTree
+    ? 'https://images.unsplash.com/photo-1542273917363-3b1817f69a2d?auto=format&fit=crop&q=80&w=1600'
+    : 'https://images.unsplash.com/photo-1581578731548-c64695cc6952?auto=format&fit=crop&q=80&w=1600';
+
+  const heroImgUrl = siteConfig.heroImageUrl || (isAgencyRoot 
+    ? 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&q=80&w=1600' 
+    : defaultHeroImg);
 
   const eyebrowText = isAgencyRoot
     ? 'MODERN WEBSITES FOR LOCAL TEXAS CONTRACTORS & TRADES'
@@ -68,22 +104,15 @@ export const Hero: React.FC<HeroProps> = ({ onOpenQuoteModal }) => {
 
   return (
     <section className="relative pt-36 pb-20 md:pt-44 md:pb-28 overflow-hidden bg-slate-950">
-      {/* Background Image / Ambient Overlay (PainterBros Full Bleed) */}
+      {/* Background Image / Ambient Overlay */}
       <div 
-        className="absolute inset-0 z-0 bg-cover bg-center bg-no-repeat opacity-20 filter brightness-75 scale-105 transition-transform duration-1000"
+        className="absolute inset-0 z-0 bg-cover bg-center bg-no-repeat opacity-35 filter brightness-90 scale-100 transition-transform duration-1000"
         style={{
-          backgroundImage: `url('${
-            isAgencyRoot
-              ? 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&q=80&w=1600'
-              : isRoofing 
-              ? 'https://images.unsplash.com/photo-1632759145351-1d592919f522?auto=format&fit=crop&q=80&w=1600'
-              : isHVAC
-              ? 'https://images.unsplash.com/photo-1621905251189-08b45d6a269e?auto=format&fit=crop&q=80&w=1600'
-              : 'https://images.unsplash.com/photo-1581578731548-c64695cc6952?auto=format&fit=crop&q=80&w=1600'
-          }')`
+          backgroundImage: `url('${heroImgUrl}')`
         }}
       />
-      <div className="absolute inset-0 bg-gradient-to-r from-slate-950 via-slate-950/90 to-slate-950/70 z-0" />
+      <div className="absolute inset-0 bg-gradient-to-r from-slate-950 via-slate-950/85 to-slate-950/50 z-0" />
+      <div className="absolute inset-0 bg-radial-at-c from-transparent via-slate-950/30 to-slate-950/80 z-0" />
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 items-center">
@@ -173,6 +202,26 @@ export const Hero: React.FC<HeroProps> = ({ onOpenQuoteModal }) => {
           <div className="lg:col-span-5">
             <div className="glass-card rounded-2xl p-6 sm:p-8 border border-slate-800 shadow-2xl bg-slate-900/90 backdrop-blur-md">
               
+              {!isAgencyRoot && (
+                <div className="relative mb-5 rounded-xl overflow-hidden border border-slate-700/80 shadow-lg group">
+                  <img 
+                    src={heroImgUrl} 
+                    alt={siteConfig.name} 
+                    className="w-full h-36 sm:h-44 object-cover object-center group-hover:scale-105 transition-transform duration-500" 
+                  />
+                  <div className="absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-950/20 to-transparent" />
+                  <div className="absolute bottom-2.5 left-2.5 right-2.5 flex items-center justify-between text-xs">
+                    <span className="bg-slate-900/90 text-white font-bold px-2.5 py-1 rounded-md border border-slate-700 backdrop-blur-sm flex items-center gap-1.5">
+                      <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse" />
+                      Verified {tradeNoun}
+                    </span>
+                    <span className="bg-amber-400 text-slate-950 font-black px-2 py-0.5 rounded shadow">
+                      ★ {siteConfig.reviews.googleRating} Local Pro
+                    </span>
+                  </div>
+                </div>
+              )}
+
               {submitted ? (
                 <div className="py-10 text-center space-y-4">
                   <div className="w-14 h-14 bg-emerald-500/20 border border-emerald-500/40 rounded-full flex items-center justify-center mx-auto text-emerald-400">

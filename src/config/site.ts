@@ -1,4 +1,5 @@
 import { clientRegistry } from './clients';
+import { tradeDemosConfigs, tradeDemosList } from './tradeDemos';
 
 export interface ServiceItem {
   id: string;
@@ -26,6 +27,7 @@ export interface SiteConfig {
   legalName: string;
   logoUrl?: string;
   logoIcon?: string;
+  heroImageUrl?: string;
 
 
 
@@ -198,19 +200,51 @@ const genericAgencyConfig: SiteConfig = {
 export function getActiveSiteConfig(): SiteConfig {
   if (typeof window !== 'undefined') {
     const params = new URLSearchParams(window.location.search);
-    const clientParam = params.get('client');
-    if (clientParam && clientRegistry[clientParam]) {
-      return clientRegistry[clientParam];
+    const demoParam = (params.get('demo') || params.get('trade') || '').toLowerCase().trim();
+    const clientParam = (params.get('client') || '').toLowerCase().trim();
+
+    // 1. Check direct trade demo query (?demo=hvac, ?demo=tree-cutting, etc.)
+    if (demoParam) {
+      if (tradeDemosConfigs[demoParam]) {
+        return tradeDemosConfigs[demoParam];
+      }
+      // Check aliases in tradeDemosList
+      const matchedByAlias = tradeDemosList.find(d => 
+        d.id === demoParam || 
+        d.previewSlug === demoParam || 
+        d.aliases.includes(demoParam)
+      );
+      if (matchedByAlias && tradeDemosConfigs[matchedByAlias.previewSlug]) {
+        return tradeDemosConfigs[matchedByAlias.previewSlug];
+      }
     }
-    if (clientParam === 'mckinney-pro-plumbing' && clientRegistry['mckinney-plumbing-pro']) {
-      return clientRegistry['mckinney-plumbing-pro'];
+
+    // 2. Check ?client= parameter (first in trade demos, then in clientRegistry)
+    if (clientParam) {
+      if (tradeDemosConfigs[clientParam]) {
+        return tradeDemosConfigs[clientParam];
+      }
+      const matchedByDemoAlias = tradeDemosList.find(d => 
+        d.id === clientParam || 
+        d.previewSlug === clientParam || 
+        d.aliases.includes(clientParam)
+      );
+      if (matchedByDemoAlias && tradeDemosConfigs[matchedByDemoAlias.previewSlug]) {
+        return tradeDemosConfigs[matchedByDemoAlias.previewSlug];
+      }
+      if (clientRegistry[clientParam]) {
+        return clientRegistry[clientParam];
+      }
+      if (clientParam === 'mckinney-pro-plumbing' && clientRegistry['mckinney-plumbing-pro']) {
+        return clientRegistry['mckinney-plumbing-pro'];
+      }
     }
   }
   
-  // Default to generic agency portfolio if no ?client= param supplied
+  // Default to generic agency portfolio if no ?client= or ?demo= param supplied
   return genericAgencyConfig;
 }
 
-
-// Export initial siteConfig reference
+// Export initial siteConfig reference and trade demo registries
 export const siteConfig: SiteConfig = getActiveSiteConfig();
+export { tradeDemosList, tradeDemosConfigs };
