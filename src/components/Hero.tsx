@@ -60,10 +60,12 @@ export const Hero: React.FC<HeroProps> = ({ onOpenQuoteModal }) => {
     : isPainting
     ? 'https://images.unsplash.com/photo-1589939705384-5185137a7f0f?auto=format&fit=crop&q=80&w=1600'
     : isLawnCare
-    ? 'https://images.unsplash.com/photo-1592417817098-8f3d6eb2252a?auto=format&fit=crop&q=80&w=1600'
+    ? './images/lawn-care.jpg'
     : isTree
-    ? 'https://images.unsplash.com/photo-1542273917363-3b1817f69a2d?auto=format&fit=crop&q=80&w=1600'
-    : 'https://images.unsplash.com/photo-1581578731548-c64695cc6952?auto=format&fit=crop&q=80&w=1600';
+    ? './images/tree-service.jpg'
+    : isPressureWash
+    ? './images/pressure-washing.jpg'
+    : 'https://images.unsplash.com/photo-1621905251189-08b45d6a269e?auto=format&fit=crop&q=80&w=1600';
 
   const heroImgUrl = siteConfig.heroImageUrl || (isAgencyRoot 
     ? 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&q=80&w=1600' 

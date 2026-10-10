@@ -16,7 +16,7 @@ export function getTradeVisualDetails(niche: string, clientName?: string, heroIm
       tradeTitle: 'Certified Tree Care & Arborist Specialists',
       tradeName: 'Tree Service & Removal',
       watermark: 'CERTIFIED ARBORISTS',
-      panoramicImage: 'https://images.unsplash.com/photo-1542273917363-3b1817f69a2d?auto=format&fit=crop&q=80&w=1600',
+      panoramicImage: './images/tree-service.jpg',
       residentialImage: 'https://images.unsplash.com/photo-1502082553048-f009c37129b9?auto=format&fit=crop&q=80&w=1000',
       commercialImage: 'https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&q=80&w=1000',
     };
@@ -28,7 +28,7 @@ export function getTradeVisualDetails(niche: string, clientName?: string, heroIm
       tradeTitle: 'Lawn Care & Landscaping Specialists',
       tradeName: 'Lawn & Landscaping',
       watermark: 'LAWN & LANDSCAPE',
-      panoramicImage: 'https://images.unsplash.com/photo-1557429287-b2e26467fc2b?auto=format&fit=crop&q=80&w=1600',
+      panoramicImage: './images/lawn-care.jpg',
       residentialImage: 'https://images.unsplash.com/photo-1592150621744-aca64f48394a?auto=format&fit=crop&q=80&w=1000',
       commercialImage: 'https://images.unsplash.com/photo-1584467735871-8e85353a8413?auto=format&fit=crop&q=80&w=1000',
     };
@@ -52,9 +52,9 @@ export function getTradeVisualDetails(niche: string, clientName?: string, heroIm
       tradeTitle: 'Exterior Cleaning & Pressure Wash Specialists',
       tradeName: 'Pressure Washing & SoftWash',
       watermark: 'PRESSURE WASHING',
-      panoramicImage: 'https://images.unsplash.com/photo-1527515637462-cff94eecc1ac?auto=format&fit=crop&q=80&w=1600',
-      residentialImage: 'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&q=80&w=1000',
-      commercialImage: 'https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&q=80&w=1000',
+      panoramicImage: './images/pressure-washing.jpg',
+      residentialImage: './images/pressure-washing.jpg',
+      commercialImage: './images/commercial-pressure-washing.jpg',
     };
   }
 
