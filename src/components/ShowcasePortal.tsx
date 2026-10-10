@@ -40,7 +40,7 @@ export const ShowcasePortal: React.FC = () => {
     <div className="bg-[#0f172a] text-slate-100 min-h-screen">
       
       {/* Hero Header Section */}
-      <section className="relative overflow-hidden pt-12 pb-20 sm:pt-20 sm:pb-28 border-b border-slate-800">
+      <section className="relative overflow-hidden pt-36 pb-20 sm:pt-44 sm:pb-28 border-b border-slate-800">
         {/* Glow Effects */}
         <div className="absolute top-1/4 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[600px] h-[350px] bg-sky-500/15 rounded-full blur-[120px] pointer-events-none" />
         <div className="absolute top-1/3 right-10 w-96 h-96 bg-amber-500/10 rounded-full blur-[100px] pointer-events-none" />

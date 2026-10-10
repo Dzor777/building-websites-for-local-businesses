@@ -1,15 +1,14 @@
 import React from 'react';
 import { Star, Quote, ArrowRight, Phone } from 'lucide-react';
 import { siteConfig } from '../config/site';
+import { getTradeVisualDetails } from '../lib/tradeVisuals';
 
 interface QualityCommitmentProps {
   onOpenQuoteModal: () => void;
 }
 
 export const QualityCommitment: React.FC<QualityCommitmentProps> = ({ onOpenQuoteModal }) => {
-  const isRoofing = siteConfig.niche.toLowerCase().includes('roof');
-  const isHVAC = siteConfig.niche.toLowerCase().includes('hvac') || siteConfig.niche.toLowerCase().includes('air conditioning');
-  const tradeTitle = isRoofing ? 'Roofing & Restoration Contractors' : isHVAC ? 'HVAC & Climate Contractors' : 'Plumbing & Drain Contractors';
+  const tradeVisuals = getTradeVisualDetails(siteConfig.niche, siteConfig.name, siteConfig.heroImageUrl);
 
   return (
     <section className="py-24 relative bg-slate-950 overflow-hidden border-t border-slate-900">
@@ -19,25 +18,19 @@ export const QualityCommitment: React.FC<QualityCommitmentProps> = ({ onOpenQuot
         <div className="relative text-center mb-16 select-none">
           {/* Faint Background Watermark Text */}
           <div className="text-4xl sm:text-6xl lg:text-7xl font-black text-slate-900 uppercase tracking-widest leading-none pointer-events-none opacity-40">
-            PROFESSIONAL CONTRACTORS
+            {tradeVisuals.watermark}
           </div>
           {/* Overlay Section Title */}
           <h2 className="-mt-6 sm:-mt-10 text-3xl sm:text-4xl lg:text-5xl font-black text-white tracking-tight relative z-10">
-            Professional {tradeTitle}
+            Professional {tradeVisuals.tradeTitle}
           </h2>
         </div>
 
         {/* Panoramic Banner Image Block with Accent Overlay (PainterBros Style) */}
         <div className="relative rounded-3xl overflow-hidden border border-slate-800 shadow-2xl mb-16 h-64 sm:h-80 md:h-96 group">
           <img
-            src={
-              isRoofing
-                ? "https://images.unsplash.com/photo-1632759145351-1d592919f522?auto=format&fit=crop&q=80&w=1600"
-                : isHVAC
-                ? "https://images.unsplash.com/photo-1621905251189-08b45d6a269e?auto=format&fit=crop&q=80&w=1600"
-                : "https://images.unsplash.com/photo-1581578731548-c64695cc6952?auto=format&fit=crop&q=80&w=1600"
-            }
-            alt={tradeTitle}
+            src={tradeVisuals.panoramicImage}
+            alt={tradeVisuals.tradeTitle}
             className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
           />
           <div className="absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-950/40 to-transparent" />

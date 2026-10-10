@@ -1,6 +1,7 @@
 import React from 'react';
 import { Droplets, Flame, Search, Wrench, Pipette, Building2, ArrowRight, CheckCircle, ShieldCheck } from 'lucide-react';
 import { siteConfig } from '../config/site';
+import { getTradeVisualDetails } from '../lib/tradeVisuals';
 import type { ServiceItem } from '../config/site';
 
 interface ServicesProps {
@@ -21,9 +22,8 @@ const getServiceIcon = (iconName: string) => {
 };
 
 export const Services: React.FC<ServicesProps> = ({ onSelectService }) => {
-  const isRoofing = siteConfig.niche.toLowerCase().includes('roof');
-  const isHVAC = siteConfig.niche.toLowerCase().includes('hvac') || siteConfig.niche.toLowerCase().includes('air conditioning');
-  const tradeName = isRoofing ? 'Roofing' : isHVAC ? 'HVAC & Cooling' : 'Plumbing & Drain';
+  const tradeVisuals = getTradeVisualDetails(siteConfig.niche, siteConfig.name, siteConfig.heroImageUrl);
+  const tradeName = tradeVisuals.tradeName;
 
   return (
     <section id="services" className="py-24 relative bg-slate-950 border-t border-b border-slate-900">
@@ -51,13 +51,7 @@ export const Services: React.FC<ServicesProps> = ({ onSelectService }) => {
               {/* Full-Width Image Container */}
               <div className="h-64 sm:h-72 overflow-hidden relative">
                 <img
-                  src={
-                    isRoofing
-                      ? "https://images.unsplash.com/photo-1632759145351-1d592919f522?auto=format&fit=crop&q=80&w=1000"
-                      : isHVAC
-                      ? "https://images.unsplash.com/photo-1621905251189-08b45d6a269e?auto=format&fit=crop&q=80&w=1000"
-                      : "https://images.unsplash.com/photo-1585704032915-c3400ca199e7?auto=format&fit=crop&q=80&w=1000"
-                  }
+                  src={tradeVisuals.residentialImage}
                   alt={`Residential ${tradeName}`}
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
                 />
@@ -105,19 +99,7 @@ export const Services: React.FC<ServicesProps> = ({ onSelectService }) => {
               {/* Full-Width Image Container */}
               <div className="h-64 sm:h-72 overflow-hidden relative">
                 <img
-                  src={
-                    isRoofing
-                      ? "./images/commercial-roofing.png"
-                      : isHVAC
-                      ? "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&q=80&w=1000"
-                      : "./images/commercial-plumbing.png"
-                  }
-                  onError={(e) => {
-                    // Fallback to verified commercial office building Unsplash URL if local path fails
-                    (e.target as HTMLImageElement).src = isRoofing
-                      ? "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&q=80&w=1000"
-                      : "https://images.unsplash.com/photo-1581094794329-c8112a89af12?auto=format&fit=crop&q=80&w=1000";
-                  }}
+                  src={tradeVisuals.commercialImage}
                   alt={`Commercial ${tradeName}`}
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
                 />
