@@ -7,15 +7,16 @@ interface PricingTiersProps {
   onClose?: () => void;
 }
 
+export const STRIPE_CHECKOUT_URLS = {
+  basic: 'https://buy.stripe.com/6oU00l2U8glSasFcFA3ZK00',
+  standard: 'https://buy.stripe.com/7sY3cxcuIc5C1W9eNI3ZK01',
+  enterprise: 'https://buy.stripe.com/cNicN77ao4Da44heNI3ZK02',
+};
+
 export const PricingTiers: React.FC<PricingTiersProps> = ({ onSelectTier, isModal = false, onClose }) => {
-  const handleChoose = (tierName: string) => {
+  const handleClickCheckout = (tierName: string) => {
     if (onSelectTier) {
       onSelectTier(tierName);
-    } else {
-      const contactEl = document.getElementById('contact') || document.getElementById('calculator');
-      if (contactEl) {
-        contactEl.scrollIntoView({ behavior: 'smooth' });
-      }
     }
     if (onClose) {
       onClose();
@@ -128,12 +129,21 @@ export const PricingTiers: React.FC<PricingTiersProps> = ({ onSelectTier, isModa
               </ul>
             </div>
 
-            <button
-              onClick={() => handleChoose('Basic Web Package')}
-              className="w-full py-3 px-4 rounded-xl text-xs font-bold text-slate-200 bg-slate-800 hover:bg-slate-700 border border-slate-700 hover:border-slate-600 transition-all text-center"
+            <a
+              href={STRIPE_CHECKOUT_URLS.basic}
+              target="_blank"
+              rel="noopener noreferrer"
+              onClick={() => handleClickCheckout('Basic Web Package')}
+              className="w-full py-3 px-4 rounded-xl text-xs font-bold text-slate-200 bg-slate-800 hover:bg-slate-700 border border-slate-700 hover:border-slate-600 transition-all text-center flex flex-col items-center justify-center gap-0.5 group hover:scale-[1.02] shadow-md"
             >
-              Start With Basic ($450 Total)
-            </button>
+              <div className="flex items-center gap-1.5 font-bold text-xs sm:text-sm text-white">
+                <span>Start With Basic</span>
+                <ArrowRight className="w-3.5 h-3.5 text-slate-400 group-hover:translate-x-0.5 transition-transform" />
+              </div>
+              <div className="text-[11px] text-slate-400 font-medium">
+                $450 Total ($300 Upfront + $150/mo)
+              </div>
+            </a>
           </div>
 
           {/* TIER 2: STANDARD (MOST POPULAR - BEST VALUE) */}
@@ -163,7 +173,7 @@ export const PricingTiers: React.FC<PricingTiersProps> = ({ onSelectTier, isModa
                 </div>
                 <p className="text-xs text-slate-400 mt-2">
                   <span className="text-sky-400 font-semibold">$500 one-time setup fee</span>
-                  <span className="text-slate-400 block text-[11px] mt-0.5">Just $5/day more than basic for 2x more calls</span>
+                  <span className="text-slate-400 block text-[11px] mt-0.5">Initial 6-month term, then month-to-month</span>
                 </p>
               </div>
 
@@ -205,13 +215,21 @@ export const PricingTiers: React.FC<PricingTiersProps> = ({ onSelectTier, isModa
               </ul>
             </div>
 
-            <button
-              onClick={() => handleChoose('Standard Web Package')}
-              className="w-full py-3.5 px-4 rounded-xl text-xs font-black text-slate-950 bg-gradient-to-r from-sky-400 via-sky-300 to-amber-300 hover:from-sky-300 hover:to-amber-200 transition-all shadow-lg shadow-sky-500/25 text-center flex items-center justify-center gap-2"
+            <a
+              href={STRIPE_CHECKOUT_URLS.standard}
+              target="_blank"
+              rel="noopener noreferrer"
+              onClick={() => handleClickCheckout('Standard Web Package')}
+              className="w-full py-3.5 px-4 rounded-xl text-xs font-black text-slate-950 bg-gradient-to-r from-sky-400 via-sky-300 to-amber-300 hover:from-sky-300 hover:to-amber-200 transition-all shadow-lg shadow-sky-500/25 text-center flex flex-col items-center justify-center gap-0.5 group hover:scale-[1.02]"
             >
-              <span>Get Standard (Most Popular)</span>
-              <ArrowRight className="w-4 h-4" />
-            </button>
+              <div className="flex items-center gap-1.5 font-black text-xs sm:text-sm">
+                <span>Get Standard (Most Popular)</span>
+                <ArrowRight className="w-4 h-4 group-hover:translate-x-0.5 transition-transform" />
+              </div>
+              <div className="text-[11px] font-bold text-slate-900 tracking-tight">
+                $800 Total ($500 Upfront + $300/mo)
+              </div>
+            </a>
           </div>
 
           {/* TIER 3: ENTERPRISE / PREMIUM (HIGH ANCHOR) */}
@@ -273,12 +291,21 @@ export const PricingTiers: React.FC<PricingTiersProps> = ({ onSelectTier, isModa
               </ul>
             </div>
 
-            <button
-              onClick={() => handleChoose('Enterprise Pipeline')}
-              className="w-full py-3 px-4 rounded-xl text-xs font-bold text-slate-200 bg-slate-800 hover:bg-slate-700 border border-slate-700 hover:border-slate-600 transition-all text-center"
+            <a
+              href={STRIPE_CHECKOUT_URLS.enterprise}
+              target="_blank"
+              rel="noopener noreferrer"
+              onClick={() => handleClickCheckout('Enterprise Pipeline')}
+              className="w-full py-3 px-4 rounded-xl text-xs font-bold text-slate-200 bg-slate-800 hover:bg-slate-700 border border-slate-700 hover:border-slate-600 transition-all text-center flex flex-col items-center justify-center gap-0.5 group hover:scale-[1.02] shadow-md"
             >
-              Select Enterprise ($1,600 Total)
-            </button>
+              <div className="flex items-center gap-1.5 font-bold text-xs sm:text-sm text-white">
+                <span>Select Enterprise</span>
+                <ArrowRight className="w-3.5 h-3.5 text-slate-400 group-hover:translate-x-0.5 transition-transform" />
+              </div>
+              <div className="text-[11px] text-amber-400/90 font-medium">
+                $1,600 Total ($1,000 Upfront + $600/mo)
+              </div>
+            </a>
           </div>
 
         </div>
