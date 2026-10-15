@@ -82,6 +82,7 @@ By removing **all links** from Message #1:
 > We keep pricing flat with zero long-term contracts:
 > - **Basic Plan**: $300 setup fee and $150/mo. Clean mobile website, fast hosting, and ongoing updates.
 > - **Standard Plan (Most Popular)**: $500 setup fee and $300/mo. Includes the interactive quote calculator and instant SMS lead alerts straight to your cell.
+> - **Enterprise Plan**: $1,000 setup fee and $600/mo. Full lead acquisition system for multi-crew companies, including custom CRM/booking integrations, multi-city service pages, and priority monthly updates.
 > 
 > *Out of scope updates are available for a discussed and negotiated additional fee.*
 > 
