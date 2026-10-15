@@ -104,15 +104,40 @@ for file_path in batch_files:
         clean_web = website.rstrip('/')
         contact_url = f"{clean_web}/contact" if clean_web else ""
 
-        # Build Linkless Message 1
-        msg1 = (
-            f"Hi {name} team,\n\n"
-            f"I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.\n\n"
-            f"I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.\n\n"
-            f"Would it be alright if I emailed you a quick link so you can take a look on your phone?\n\n"
-            f"Thank you,\n"
-            f"Dylan Roth"
-        )
+        # Build Linkless Message 1 Variations (A, B, C)
+        variations = {
+            "A": (
+                f"Hi {name} team,\n\n"
+                f"I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.\n\n"
+                f"I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.\n\n"
+                f"Would it be alright if I emailed you a quick link so you can take a look on your phone?\n\n"
+                f"Thank you,\n"
+                f"Dylan Roth"
+            ),
+            "B": (
+                f"Hi {name} team,\n\n"
+                f"I came across your business while looking up local {trade} contractors in {city}. I pulled up your site on my iPhone and noticed it takes a while to load and the phone button is tough to tap on mobile.\n\n"
+                f"I put together an interactive mobile preview for your trade with an instant quote calculator.\n\n"
+                f"Would you be open to checking out a quick preview link?\n\n"
+                f"Thank you,\n"
+                f"Dylan Roth"
+            ),
+            "C": (
+                f"Hi {name} team,\n\n"
+                f"Quick question for you. I build high-converting mobile sites for Texas trade contractors, and I put together an interactive mobile demo customized for {trade} with a built-in estimate calculator for homeowners.\n\n"
+                f"Mind if I email over a quick link so you can see how it looks on a phone?\n\n"
+                f"Thank you,\n"
+                f"Dylan Roth"
+            )
+        }
+
+        # Keep existing 80 on Variation A; cycle future batches (>80) through A, B, C
+        pid = int(num_str)
+        if pid <= 80:
+            msg1 = variations["A"]
+        else:
+            cycle_key = ["A", "B", "C"][(pid - 81) % 3]
+            msg1 = variations[cycle_key]
         
         # Build Value Delivery Message 2 (when they reply)
         msg2 = (
@@ -130,8 +155,8 @@ for file_path in batch_files:
         )
 
         prospects.append({
-            "id": int(num_str),
-            "batch": (int(num_str) - 1) // 20 + 1,
+            "id": pid,
+            "batch": (pid - 1) // 20 + 1,
             "name": name,
             "website": website,
             "contact_url": contact_url,
@@ -144,6 +169,7 @@ for file_path in batch_files:
             "client_slug": client_slug,
             "preview_url": preview_url,
             "message_1": msg1,
+            "variations": variations,
             "message_2": msg2
         })
 

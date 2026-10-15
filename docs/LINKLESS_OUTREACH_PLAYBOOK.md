@@ -29,16 +29,39 @@ By removing **all links** from Message #1:
 
 ### Channel A: Direct Email Outreach
 
-#### Message 1 (0 Links, Hand-Raise Only)
+#### Message 1 (0 Links, Hand-Raise Only — 3 Rotating Variations)
 *Subject:* Quick question about your website / [Business Name]
 
+**Variation A (Mobile Layout & Broken Call Button Focus):**
 > Hey [First Name or Team],
 > 
 > I was looking at local [Trade] contractors in [City] and noticed your website layout gets cut off on mobile phones. 
 > 
-> I build mobile-first websites specifically for Texas trade contractors, and I put together an interactive mobile demo for [Trade] that includes a 1-tap call button and an instant quote calculator.
+> I build mobile-first websites specifically for Texas trade contractors, and I put together an interactive mobile demo for your trade that includes a 1-tap call button and an instant quote calculator.
 > 
 > Would it be alright if I sent over a quick link so you can check it out on your phone?
+> 
+> Thank you,  
+> Dylan Roth
+
+**Variation B (Mobile Speed & Friction Focus):**
+> Hey [First Name or Team],
+> 
+> I came across your company while looking up local [Trade] specialists in [City]. I pulled up your site on my iPhone and noticed it takes a while to load and the phone button is tough to tap on mobile. 
+> 
+> I put together an interactive mobile preview for your trade with a fast 1-tap call button and an instant quote calculator.
+> 
+> Would you be open to checking out a quick preview link?
+> 
+> Thank you,  
+> Dylan Roth
+
+**Variation C (Instant Estimator & Lead Qualification Focus):**
+> Hey [First Name or Team],
+> 
+> Quick question for you. I build high-converting mobile sites for local Texas trade contractors, and I put together an interactive mobile demo customized for [Trade] with a built-in quote calculator for homeowners.
+> 
+> Mind if I send over a quick link so you can see how it looks on a phone?
 > 
 > Thank you,  
 > Dylan Roth
