@@ -28,7 +28,7 @@ export const DemoSwitcherBar: React.FC<DemoSwitcherBarProps> = ({ onOpenPricing 
 
   if (isMinimized) {
     return (
-      <aside aria-label="Demo site controls" className="fixed top-24 right-3 sm:right-6 z-40 animate-in fade-in slide-in-from-top-2">
+      <aside aria-label="Demo site controls" className="fixed bottom-20 md:bottom-6 right-3 sm:right-6 z-40 animate-in fade-in slide-in-from-bottom-2">
         <button
           onClick={() => setIsMinimized(false)}
           className="flex items-center gap-2 px-3.5 py-2 rounded-full bg-slate-900/95 text-sky-400 border border-sky-500/50 shadow-2xl backdrop-blur-xl text-xs font-bold hover:bg-slate-800 hover:text-sky-300 transition-all hover:scale-105"
@@ -43,7 +43,7 @@ export const DemoSwitcherBar: React.FC<DemoSwitcherBarProps> = ({ onOpenPricing 
   }
 
   return (
-    <aside aria-label="Demo site controls" className="fixed top-20 sm:top-24 left-1/2 -translate-x-1/2 z-40 w-[95%] max-w-3xl animate-in fade-in slide-in-from-top-3">
+    <aside aria-label="Demo site controls" className="fixed bottom-20 md:bottom-6 left-1/2 -translate-x-1/2 z-40 w-[95%] max-w-3xl animate-in fade-in slide-in-from-bottom-4">
       <div className="bg-slate-950/95 border border-sky-500/40 backdrop-blur-xl rounded-2xl shadow-2xl p-2 sm:px-4 sm:py-2.5 text-white transition-all">
         <div className="flex items-center justify-between gap-2 sm:gap-4">
           
@@ -71,10 +71,10 @@ export const DemoSwitcherBar: React.FC<DemoSwitcherBarProps> = ({ onOpenPricing 
                 <ChevronDown className={`w-3.5 h-3.5 text-slate-400 transition-transform ${isOpen ? 'rotate-180 text-sky-400' : ''}`} />
               </button>
 
-              {/* Dropdown Menu */}
+              {/* Dropdown Menu (Opens Upward from Bottom Bar) */}
               {isOpen && (
                 <div 
-                  className="absolute left-0 mt-2 w-72 sm:w-80 rounded-xl bg-slate-900/98 border border-slate-700 shadow-2xl backdrop-blur-xl p-2 z-50 animate-in fade-in zoom-in-95 duration-150"
+                  className="absolute left-0 bottom-full mb-3 w-72 sm:w-80 rounded-xl bg-slate-900/98 border border-slate-700 shadow-2xl backdrop-blur-xl p-2 z-50 animate-in fade-in zoom-in-95 duration-150"
                   onMouseLeave={() => setIsOpen(false)}
                 >
                   <div className="px-2 py-1.5 text-[11px] font-bold uppercase tracking-wider text-slate-400 border-b border-slate-800 mb-1 flex justify-between items-center">

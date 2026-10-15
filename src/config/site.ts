@@ -203,41 +203,67 @@ export function getActiveSiteConfig(): SiteConfig {
     const demoParam = (params.get('demo') || params.get('trade') || '').toLowerCase().trim();
     const clientParam = (params.get('client') || '').toLowerCase().trim();
 
+    let resolvedConfig: SiteConfig | null = null;
+
     // 1. Check direct trade demo query (?demo=hvac, ?demo=tree-cutting, etc.)
     if (demoParam) {
       if (tradeDemosConfigs[demoParam]) {
-        return tradeDemosConfigs[demoParam];
-      }
-      // Check aliases in tradeDemosList
-      const matchedByAlias = tradeDemosList.find(d => 
-        d.id === demoParam || 
-        d.previewSlug === demoParam || 
-        d.aliases.includes(demoParam)
-      );
-      if (matchedByAlias && tradeDemosConfigs[matchedByAlias.previewSlug]) {
-        return tradeDemosConfigs[matchedByAlias.previewSlug];
+        resolvedConfig = { ...tradeDemosConfigs[demoParam] };
+      } else {
+        const matchedByAlias = tradeDemosList.find(d => 
+          d.id === demoParam || 
+          d.previewSlug === demoParam || 
+          d.aliases.includes(demoParam)
+        );
+        if (matchedByAlias && tradeDemosConfigs[matchedByAlias.previewSlug]) {
+          resolvedConfig = { ...tradeDemosConfigs[matchedByAlias.previewSlug] };
+        }
       }
     }
 
     // 2. Check ?client= parameter (first in trade demos, then in clientRegistry)
-    if (clientParam) {
+    if (!resolvedConfig && clientParam) {
       if (tradeDemosConfigs[clientParam]) {
-        return tradeDemosConfigs[clientParam];
+        resolvedConfig = { ...tradeDemosConfigs[clientParam] };
+      } else {
+        const matchedByDemoAlias = tradeDemosList.find(d => 
+          d.id === clientParam || 
+          d.previewSlug === clientParam || 
+          d.aliases.includes(clientParam)
+        );
+        if (matchedByDemoAlias && tradeDemosConfigs[matchedByDemoAlias.previewSlug]) {
+          resolvedConfig = { ...tradeDemosConfigs[matchedByDemoAlias.previewSlug] };
+        } else if (clientRegistry[clientParam]) {
+          resolvedConfig = { ...clientRegistry[clientParam] };
+        } else if (clientParam === 'mckinney-pro-plumbing' && clientRegistry['mckinney-plumbing-pro']) {
+          resolvedConfig = { ...clientRegistry['mckinney-plumbing-pro'] };
+        }
       }
-      const matchedByDemoAlias = tradeDemosList.find(d => 
-        d.id === clientParam || 
-        d.previewSlug === clientParam || 
-        d.aliases.includes(clientParam)
-      );
-      if (matchedByDemoAlias && tradeDemosConfigs[matchedByDemoAlias.previewSlug]) {
-        return tradeDemosConfigs[matchedByDemoAlias.previewSlug];
+    }
+
+    // Dynamic URL personalization override (?name=...&city=...&phone=...)
+    if (resolvedConfig) {
+      const customName = params.get('name')?.trim();
+      const customCity = params.get('city')?.trim();
+      const customPhone = params.get('phone')?.trim();
+
+      if (customName || customCity || customPhone) {
+        resolvedConfig = {
+          ...resolvedConfig,
+          name: customName || resolvedConfig.name,
+          legalName: customName ? `${customName} LLC` : resolvedConfig.legalName,
+          city: customCity || resolvedConfig.city,
+          phone: customPhone || resolvedConfig.phone,
+          formattedPhone: customPhone || resolvedConfig.formattedPhone,
+          phoneRaw: customPhone ? customPhone.replace(/[^0-9]/g, '') : resolvedConfig.phoneRaw,
+          address: {
+            ...resolvedConfig.address,
+            city: customCity || resolvedConfig.address.city,
+          }
+        };
       }
-      if (clientRegistry[clientParam]) {
-        return clientRegistry[clientParam];
-      }
-      if (clientParam === 'mckinney-pro-plumbing' && clientRegistry['mckinney-plumbing-pro']) {
-        return clientRegistry['mckinney-plumbing-pro'];
-      }
+
+      return resolvedConfig;
     }
   }
   
