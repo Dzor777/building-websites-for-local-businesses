@@ -107,25 +107,25 @@ for file_path in batch_files:
         # Build Linkless Message 1 Variations (A, B, C)
         variations = {
             "A": (
-                f"Hi {name} team,\n\n"
+                f"Hi {name},\n\n"
                 f"I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.\n\n"
                 f"I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.\n\n"
-                f"Would it be alright if I emailed you a quick link so you can take a look on your phone?\n\n"
+                f"Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.\n\n"
                 f"Thank you,\n"
                 f"Dylan Roth"
             ),
             "B": (
-                f"Hi {name} team,\n\n"
+                f"Hi {name},\n\n"
                 f"I came across your business while looking up local {trade} contractors in {city}. I pulled up your site on my iPhone and noticed it takes a while to load and the phone button is tough to tap on mobile.\n\n"
                 f"I put together an interactive mobile preview for your trade with an instant quote calculator.\n\n"
-                f"Would you be open to checking out a quick preview link?\n\n"
+                f"Would you be open to checking out a quick preview link? You can email roth.dylan777@gmail.com or text me at (903) 287-0299.\n\n"
                 f"Thank you,\n"
                 f"Dylan Roth"
             ),
             "C": (
-                f"Hi {name} team,\n\n"
+                f"Hi {name},\n\n"
                 f"Quick question for you. I build high-converting mobile sites for Texas trade contractors, and I put together an interactive mobile demo customized for {trade} with a built-in estimate calculator for homeowners.\n\n"
-                f"Mind if I email over a quick link so you can see how it looks on a phone?\n\n"
+                f"Mind if I email over a quick link so you can see how it looks on a phone? Feel free to email roth.dylan777@gmail.com or shoot me a text at (903) 287-0299.\n\n"
                 f"Thank you,\n"
                 f"Dylan Roth"
             )
@@ -141,7 +141,7 @@ for file_path in batch_files:
         
         # Build Value Delivery Message 2 (when they reply)
         msg2 = (
-            f"Hi {name} team,\n\n"
+            f"Hi {name},\n\n"
             f"Appreciate you getting back to me. Here is the interactive mobile preview I put together for {name}:\n\n"
             f"[Click to view {name} Mobile Preview]({preview_url})\n\n"
             f"Take a look on your phone if you can. The biggest feature is the interactive quote calculator halfway down the page. Instead of homeowners leaving your site when you don't answer right away, they can estimate their project and submit their details directly to your phone.\n\n"
@@ -150,7 +150,7 @@ for file_path in batch_files:
             f"- Standard Plan (Most Popular): $500 setup fee and $300/mo. Includes the interactive quote calculator and instant SMS lead alerts straight to your cell.\n"
             f"- Enterprise Plan: $1,000 setup fee and $600/mo. Full lead acquisition system for multi-crew companies, including custom CRM/booking integrations, multi-city service pages, and priority monthly updates.\n\n"
             f"*Out of scope updates are available for a discussed and negotiated additional fee.*\n\n"
-            f"If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!\n\n"
+            f"If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.\n\n"
             f"Thank you,\n"
             f"Dylan"
         )
@@ -303,6 +303,7 @@ html_content = f"""<!DOCTYPE html>
         <span class="text-amber-400 font-bold">Fast Fill Credentials:</span>
         <button onclick="copyText('Dylan Roth', 'Name copied!')" class="px-2 py-0.5 rounded bg-slate-800 hover:bg-slate-700 text-white font-medium border border-slate-700">Copy Name: Dylan Roth</button>
         <button onclick="copyText('roth.dylan777@gmail.com', 'Email copied!')" class="px-2 py-0.5 rounded bg-slate-800 hover:bg-slate-700 text-sky-400 font-medium border border-slate-700">Copy Email: roth.dylan777@gmail.com</button>
+        <button onclick="copyText('(903) 287-0299', 'Phone copied!')" class="px-2 py-0.5 rounded bg-slate-800 hover:bg-slate-700 text-emerald-400 font-medium border border-slate-700">Copy Phone: (903) 287-0299</button>
       </div>
       <div class="text-slate-400 text-[11px]">
         💡 Click <strong>"Open Form"</strong>, paste Message 1, check the box, and move to the next.

@@ -33,35 +33,35 @@ By removing **all links** from Message #1:
 *Subject:* Quick question about your website / [Business Name]
 
 **Variation A (Mobile Layout & Broken Call Button Focus):**
-> Hey [First Name or Team],
+> Hi [Business Name],
 > 
 > I was looking at local [Trade] contractors in [City] and noticed your website layout gets cut off on mobile phones. 
 > 
 > I build mobile-first websites specifically for Texas trade contractors, and I put together an interactive mobile demo for your trade that includes a 1-tap call button and an instant quote calculator.
 > 
-> Would it be alright if I sent over a quick link so you can check it out on your phone?
+> Would it be alright if I sent over a quick link so you can check it out on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 > 
 > Thank you,  
 > Dylan Roth
 
 **Variation B (Mobile Speed & Friction Focus):**
-> Hey [First Name or Team],
+> Hi [Business Name],
 > 
 > I came across your company while looking up local [Trade] specialists in [City]. I pulled up your site on my iPhone and noticed it takes a while to load and the phone button is tough to tap on mobile. 
 > 
 > I put together an interactive mobile preview for your trade with a fast 1-tap call button and an instant quote calculator.
 > 
-> Would you be open to checking out a quick preview link?
+> Would you be open to checking out a quick preview link? You can email me at roth.dylan777@gmail.com or text me at (903) 287-0299.
 > 
 > Thank you,  
 > Dylan Roth
 
 **Variation C (Instant Estimator & Lead Qualification Focus):**
-> Hey [First Name or Team],
+> Hi [Business Name],
 > 
 > Quick question for you. I build high-converting mobile sites for local Texas trade contractors, and I put together an interactive mobile demo customized for [Trade] with a built-in quote calculator for homeowners.
 > 
-> Mind if I send over a quick link so you can see how it looks on a phone?
+> Mind if I send over a quick link so you can see how it looks on a phone? Feel free to email roth.dylan777@gmail.com or shoot me a text at (903) 287-0299.
 > 
 > Thank you,  
 > Dylan Roth
@@ -71,7 +71,7 @@ By removing **all links** from Message #1:
 #### Message 2 (Sent ONLY After They Reply "Sure" / "Send it over")
 *Subject:* Re: Quick question about your website / [Business Name]
 
-> Hey [First Name],
+> Hi [Business Name],
 > 
 > Appreciate you getting back to me. Here is the interactive mobile preview:
 > 
@@ -86,7 +86,7 @@ By removing **all links** from Message #1:
 > 
 > *Out of scope updates are available for a discussed and negotiated additional fee.*
 > 
-> If you like the layout, I can drop your company name, logo, and phone number in to set up a preview for [Business Name]. Let me know what you think.
+> If you like the layout, I can drop your company name, logo, and phone number in to set up a preview for [Business Name]. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 > 
 > Thank you,  
 > Dylan
@@ -100,9 +100,9 @@ Many contractors have old sites with broken mobile layouts, but their contact fo
 #### Form Message (0 Links):
 > **Name**: Dylan Roth  
 > **Email**: roth.dylan777@gmail.com  
-> **Phone**: (Your Phone Number)  
+> **Phone**: (903) 287-0299  
 > **Message**:  
-> "Hey [Business Name], I checked your website on my phone and noticed the call button and layout get cut off on mobile viewports. I'm a local Texas web specialist and built an interactive mobile demo for [Trade] contractors with an instant estimate tool. Mind if I email you a quick preview to check out on your phone? Thank you, Dylan"
+> "Hi [Business Name], I checked your website on my phone and noticed the call button and layout get cut off on mobile viewports. I'm a local Texas web specialist and built an interactive mobile demo for [Trade] contractors with an instant estimate tool. Mind if I email you a quick preview to check out on your phone? Feel free to email roth.dylan777@gmail.com or text me directly at (903) 287-0299. Thank you, Dylan"
 
 ---
 
@@ -119,7 +119,7 @@ Many contractors have old sites with broken mobile layouts, but their contact fo
 > "Awesome, here is the link to test on your phone: 
 > https://dzor777.github.io/building-websites-for-local-businesses/?demo=[TRADE_SLUG]
 > 
-> Test out the quote calculator halfway down. If you like the setup, I can customize one with your company branding and photos in 24–48 hours. Let me know what you think!"
+> Test out the quote calculator halfway down. If you like the setup, I can customize one with your company branding and photos in 24–48 hours. Feel free to text me at (903) 287-0299 or email roth.dylan777@gmail.com if you want to chat!"
 
 ---
 
@@ -130,13 +130,13 @@ Contractors posting ads in `Dallas/Fort Worth -> Services -> Skilled Trades` hav
 #### Relay Email (0 Links):
 *Subject:* Regarding your [Trade] listing on Craigslist
 
-> Hey [Name or Team],
+> Hi [Business Name],
 > 
 > Saw your listing for [Trade] services in [City]. 
 > 
 > I build mobile websites for local Texas contractors. I put together an interactive mobile demo site for [Trade] with a 1-tap call button and an instant quote calculator. 
 > 
-> Would you like me to send over a link so you can take a look on your phone?
+> Would you like me to send over a link so you can take a look on your phone? Feel free to email roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 > 
 > Thank you,  
 > Dylan Roth

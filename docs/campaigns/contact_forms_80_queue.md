@@ -13,13 +13,13 @@ This document contains all 80 verified Texas contractor prospects formatted spec
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi Bewley Plumbing, LLC team,
+Hi Bewley Plumbing, LLC,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -27,7 +27,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi Bewley Plumbing, LLC team,
+Hi Bewley Plumbing, LLC,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for Bewley Plumbing, LLC:
 
@@ -42,7 +42,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -59,13 +59,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi Performance Roofing of DFW team,
+Hi Performance Roofing of DFW,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -73,7 +73,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi Performance Roofing of DFW team,
+Hi Performance Roofing of DFW,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for Performance Roofing of DFW:
 
@@ -88,7 +88,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -105,13 +105,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi Cross Air Heating & Cooling team,
+Hi Cross Air Heating & Cooling,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -119,7 +119,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi Cross Air Heating & Cooling team,
+Hi Cross Air Heating & Cooling,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for Cross Air Heating & Cooling:
 
@@ -134,7 +134,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -151,13 +151,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi Banner Roofing & Construction team,
+Hi Banner Roofing & Construction,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -165,7 +165,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi Banner Roofing & Construction team,
+Hi Banner Roofing & Construction,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for Banner Roofing & Construction:
 
@@ -180,7 +180,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -197,13 +197,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi Murley Plumbing team,
+Hi Murley Plumbing,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -211,7 +211,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi Murley Plumbing team,
+Hi Murley Plumbing,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for Murley Plumbing:
 
@@ -226,7 +226,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -243,13 +243,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi Sirius Plumbing & Air Conditioning team,
+Hi Sirius Plumbing & Air Conditioning,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -257,7 +257,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi Sirius Plumbing & Air Conditioning team,
+Hi Sirius Plumbing & Air Conditioning,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for Sirius Plumbing & Air Conditioning:
 
@@ -272,7 +272,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -289,13 +289,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi DNA Plumbing Heating & Air team,
+Hi DNA Plumbing Heating & Air,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -303,7 +303,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi DNA Plumbing Heating & Air team,
+Hi DNA Plumbing Heating & Air,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for DNA Plumbing Heating & Air:
 
@@ -318,7 +318,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -335,13 +335,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi Dallas Plumbing & AC Co. team,
+Hi Dallas Plumbing & AC Co.,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -349,7 +349,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi Dallas Plumbing & AC Co. team,
+Hi Dallas Plumbing & AC Co.,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for Dallas Plumbing & AC Co.:
 
@@ -364,7 +364,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -381,13 +381,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi Baker Brothers Plumbing team,
+Hi Baker Brothers Plumbing,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -395,7 +395,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi Baker Brothers Plumbing team,
+Hi Baker Brothers Plumbing,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for Baker Brothers Plumbing:
 
@@ -410,7 +410,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -427,13 +427,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi ABC Home & Commercial Services team,
+Hi ABC Home & Commercial Services,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -441,7 +441,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi ABC Home & Commercial Services team,
+Hi ABC Home & Commercial Services,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for ABC Home & Commercial Services:
 
@@ -456,7 +456,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -473,13 +473,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi Braun Roofing & Construction team,
+Hi Braun Roofing & Construction,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -487,7 +487,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi Braun Roofing & Construction team,
+Hi Braun Roofing & Construction,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for Braun Roofing & Construction:
 
@@ -502,7 +502,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -519,13 +519,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi Kidd Roofing San Antonio team,
+Hi Kidd Roofing San Antonio,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -533,7 +533,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi Kidd Roofing San Antonio team,
+Hi Kidd Roofing San Antonio,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for Kidd Roofing San Antonio:
 
@@ -548,7 +548,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -565,13 +565,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi BlackRock Plumbing Company team,
+Hi BlackRock Plumbing Company,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -579,7 +579,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi BlackRock Plumbing Company team,
+Hi BlackRock Plumbing Company,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for BlackRock Plumbing Company:
 
@@ -594,7 +594,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -611,13 +611,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi Jason Airtex HVAC team,
+Hi Jason Airtex HVAC,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -625,7 +625,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi Jason Airtex HVAC team,
+Hi Jason Airtex HVAC,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for Jason Airtex HVAC:
 
@@ -640,7 +640,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -657,13 +657,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi AugerPros Plumbing team,
+Hi AugerPros Plumbing,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -671,7 +671,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi AugerPros Plumbing team,
+Hi AugerPros Plumbing,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for AugerPros Plumbing:
 
@@ -686,7 +686,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -703,13 +703,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi Smith and Son Plumbing team,
+Hi Smith and Son Plumbing,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -717,7 +717,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi Smith and Son Plumbing team,
+Hi Smith and Son Plumbing,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for Smith and Son Plumbing:
 
@@ -732,7 +732,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -749,13 +749,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi OneSource Roofing team,
+Hi OneSource Roofing,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -763,7 +763,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi OneSource Roofing team,
+Hi OneSource Roofing,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for OneSource Roofing:
 
@@ -778,7 +778,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -795,13 +795,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi Colony Air Conditioning & Heating team,
+Hi Colony Air Conditioning & Heating,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -809,7 +809,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi Colony Air Conditioning & Heating team,
+Hi Colony Air Conditioning & Heating,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for Colony Air Conditioning & Heating:
 
@@ -824,7 +824,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -841,13 +841,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi Hargrove Roofing Austin team,
+Hi Hargrove Roofing Austin,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -855,7 +855,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi Hargrove Roofing Austin team,
+Hi Hargrove Roofing Austin,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for Hargrove Roofing Austin:
 
@@ -870,7 +870,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -887,13 +887,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi Blue Sky Roofing team,
+Hi Blue Sky Roofing,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -901,7 +901,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi Blue Sky Roofing team,
+Hi Blue Sky Roofing,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for Blue Sky Roofing:
 
@@ -916,7 +916,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -933,13 +933,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi James Plumbing team,
+Hi James Plumbing,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -947,7 +947,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi James Plumbing team,
+Hi James Plumbing,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for James Plumbing:
 
@@ -962,7 +962,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -979,13 +979,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi Over The Top Roofing team,
+Hi Over The Top Roofing,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -993,7 +993,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi Over The Top Roofing team,
+Hi Over The Top Roofing,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for Over The Top Roofing:
 
@@ -1008,7 +1008,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -1025,13 +1025,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi Best Air Denton team,
+Hi Best Air Denton,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -1039,7 +1039,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi Best Air Denton team,
+Hi Best Air Denton,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for Best Air Denton:
 
@@ -1054,7 +1054,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -1071,13 +1071,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi Ryerson Roofing team,
+Hi Ryerson Roofing,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -1085,7 +1085,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi Ryerson Roofing team,
+Hi Ryerson Roofing,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for Ryerson Roofing:
 
@@ -1100,7 +1100,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -1117,13 +1117,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi Grapevine Plumbing Co. team,
+Hi Grapevine Plumbing Co.,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -1131,7 +1131,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi Grapevine Plumbing Co. team,
+Hi Grapevine Plumbing Co.,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for Grapevine Plumbing Co.:
 
@@ -1146,7 +1146,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -1163,13 +1163,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi The Plumbing Service team,
+Hi The Plumbing Service,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -1177,7 +1177,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi The Plumbing Service team,
+Hi The Plumbing Service,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for The Plumbing Service:
 
@@ -1192,7 +1192,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -1209,13 +1209,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi Comfort Authority team,
+Hi Comfort Authority,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -1223,7 +1223,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi Comfort Authority team,
+Hi Comfort Authority,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for Comfort Authority:
 
@@ -1238,7 +1238,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -1255,13 +1255,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi John Wade Roofing team,
+Hi John Wade Roofing,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -1269,7 +1269,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi John Wade Roofing team,
+Hi John Wade Roofing,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for John Wade Roofing:
 
@@ -1284,7 +1284,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -1301,13 +1301,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi Ajax Plumbing Solutions team,
+Hi Ajax Plumbing Solutions,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -1315,7 +1315,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi Ajax Plumbing Solutions team,
+Hi Ajax Plumbing Solutions,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for Ajax Plumbing Solutions:
 
@@ -1330,7 +1330,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -1347,13 +1347,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi Mama Bear Roofing team,
+Hi Mama Bear Roofing,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -1361,7 +1361,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi Mama Bear Roofing team,
+Hi Mama Bear Roofing,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for Mama Bear Roofing:
 
@@ -1376,7 +1376,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -1393,13 +1393,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi AC Pros Heating & Air team,
+Hi AC Pros Heating & Air,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -1407,7 +1407,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi AC Pros Heating & Air team,
+Hi AC Pros Heating & Air,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for AC Pros Heating & Air:
 
@@ -1422,7 +1422,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -1439,13 +1439,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi Mend Services team,
+Hi Mend Services,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -1453,7 +1453,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi Mend Services team,
+Hi Mend Services,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for Mend Services:
 
@@ -1468,7 +1468,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -1485,13 +1485,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi Alpha Roofing Industries team,
+Hi Alpha Roofing Industries,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -1499,7 +1499,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi Alpha Roofing Industries team,
+Hi Alpha Roofing Industries,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for Alpha Roofing Industries:
 
@@ -1514,7 +1514,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -1531,13 +1531,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi The Katy Plumbing Company team,
+Hi The Katy Plumbing Company,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -1545,7 +1545,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi The Katy Plumbing Company team,
+Hi The Katy Plumbing Company,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for The Katy Plumbing Company:
 
@@ -1560,7 +1560,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -1577,13 +1577,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi Jerry's Roofing team,
+Hi Jerry's Roofing,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -1591,7 +1591,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi Jerry's Roofing team,
+Hi Jerry's Roofing,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for Jerry's Roofing:
 
@@ -1606,7 +1606,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -1623,13 +1623,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi The Woodlands Plumbing & Air team,
+Hi The Woodlands Plumbing & Air,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -1637,7 +1637,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi The Woodlands Plumbing & Air team,
+Hi The Woodlands Plumbing & Air,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for The Woodlands Plumbing & Air:
 
@@ -1652,7 +1652,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -1669,13 +1669,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi SquadPro Roofing team,
+Hi SquadPro Roofing,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -1683,7 +1683,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi SquadPro Roofing team,
+Hi SquadPro Roofing,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for SquadPro Roofing:
 
@@ -1698,7 +1698,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -1715,13 +1715,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi Meyer Heating & Air team,
+Hi Meyer Heating & Air,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -1729,7 +1729,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi Meyer Heating & Air team,
+Hi Meyer Heating & Air,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for Meyer Heating & Air:
 
@@ -1744,7 +1744,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -1761,13 +1761,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi Varni Roofing team,
+Hi Varni Roofing,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -1775,7 +1775,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi Varni Roofing team,
+Hi Varni Roofing,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for Varni Roofing:
 
@@ -1790,7 +1790,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -1807,13 +1807,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi Ace Repair Plumbing team,
+Hi Ace Repair Plumbing,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -1821,7 +1821,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi Ace Repair Plumbing team,
+Hi Ace Repair Plumbing,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for Ace Repair Plumbing:
 
@@ -1836,7 +1836,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -1853,13 +1853,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi The Plumbinator team,
+Hi The Plumbinator,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -1867,7 +1867,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi The Plumbinator team,
+Hi The Plumbinator,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for The Plumbinator:
 
@@ -1882,7 +1882,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -1899,13 +1899,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi Spot-On Plumbing team,
+Hi Spot-On Plumbing,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -1913,7 +1913,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi Spot-On Plumbing team,
+Hi Spot-On Plumbing,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for Spot-On Plumbing:
 
@@ -1928,7 +1928,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -1945,13 +1945,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi Aire Geeks Inc. team,
+Hi Aire Geeks Inc.,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -1959,7 +1959,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi Aire Geeks Inc. team,
+Hi Aire Geeks Inc.,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for Aire Geeks Inc.:
 
@@ -1974,7 +1974,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -1991,13 +1991,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi Ark Roofer team,
+Hi Ark Roofer,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -2005,7 +2005,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi Ark Roofer team,
+Hi Ark Roofer,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for Ark Roofer:
 
@@ -2020,7 +2020,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -2037,13 +2037,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi Cool Tex Roofing team,
+Hi Cool Tex Roofing,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -2051,7 +2051,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi Cool Tex Roofing team,
+Hi Cool Tex Roofing,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for Cool Tex Roofing:
 
@@ -2066,7 +2066,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -2083,13 +2083,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi Texas Home Performance team,
+Hi Texas Home Performance,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -2097,7 +2097,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi Texas Home Performance team,
+Hi Texas Home Performance,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for Texas Home Performance:
 
@@ -2112,7 +2112,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -2129,13 +2129,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi Cedar Park Air Conditioning team,
+Hi Cedar Park Air Conditioning,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -2143,7 +2143,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi Cedar Park Air Conditioning team,
+Hi Cedar Park Air Conditioning,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for Cedar Park Air Conditioning:
 
@@ -2158,7 +2158,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -2175,13 +2175,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi Mansfield Plumbing, Electrical & Air team,
+Hi Mansfield Plumbing, Electrical & Air,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -2189,7 +2189,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi Mansfield Plumbing, Electrical & Air team,
+Hi Mansfield Plumbing, Electrical & Air,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for Mansfield Plumbing, Electrical & Air:
 
@@ -2204,7 +2204,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -2221,13 +2221,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi Wahooo Plumbers team,
+Hi Wahooo Plumbers,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -2235,7 +2235,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi Wahooo Plumbers team,
+Hi Wahooo Plumbers,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for Wahooo Plumbers:
 
@@ -2250,7 +2250,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -2267,13 +2267,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi Plumb Right Solutions team,
+Hi Plumb Right Solutions,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -2281,7 +2281,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi Plumb Right Solutions team,
+Hi Plumb Right Solutions,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for Plumb Right Solutions:
 
@@ -2296,7 +2296,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -2313,13 +2313,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi Verified Roofing LLC team,
+Hi Verified Roofing LLC,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -2327,7 +2327,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi Verified Roofing LLC team,
+Hi Verified Roofing LLC,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for Verified Roofing LLC:
 
@@ -2342,7 +2342,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -2359,13 +2359,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi Parker County Cooling & Heating team,
+Hi Parker County Cooling & Heating,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -2373,7 +2373,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi Parker County Cooling & Heating team,
+Hi Parker County Cooling & Heating,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for Parker County Cooling & Heating:
 
@@ -2388,7 +2388,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -2405,13 +2405,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi Ellis Air Systems team,
+Hi Ellis Air Systems,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -2419,7 +2419,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi Ellis Air Systems team,
+Hi Ellis Air Systems,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for Ellis Air Systems:
 
@@ -2434,7 +2434,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -2451,13 +2451,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi Prince Plumbing & Mechanical team,
+Hi Prince Plumbing & Mechanical,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -2465,7 +2465,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi Prince Plumbing & Mechanical team,
+Hi Prince Plumbing & Mechanical,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for Prince Plumbing & Mechanical:
 
@@ -2480,7 +2480,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -2497,13 +2497,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi Malek Service Company team,
+Hi Malek Service Company,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -2511,7 +2511,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi Malek Service Company team,
+Hi Malek Service Company,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for Malek Service Company:
 
@@ -2526,7 +2526,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -2543,13 +2543,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi Schulte Roofing team,
+Hi Schulte Roofing,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -2557,7 +2557,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi Schulte Roofing team,
+Hi Schulte Roofing,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for Schulte Roofing:
 
@@ -2572,7 +2572,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -2589,13 +2589,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi Tyler Roofing Company Inc. team,
+Hi Tyler Roofing Company Inc.,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -2603,7 +2603,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi Tyler Roofing Company Inc. team,
+Hi Tyler Roofing Company Inc.,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for Tyler Roofing Company Inc.:
 
@@ -2618,7 +2618,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -2635,13 +2635,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi Eschberger Plumbing team,
+Hi Eschberger Plumbing,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -2649,7 +2649,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi Eschberger Plumbing team,
+Hi Eschberger Plumbing,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for Eschberger Plumbing:
 
@@ -2664,7 +2664,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -2681,13 +2681,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi Armstrong Plumbing Company team,
+Hi Armstrong Plumbing Company,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -2695,7 +2695,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi Armstrong Plumbing Company team,
+Hi Armstrong Plumbing Company,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for Armstrong Plumbing Company:
 
@@ -2710,7 +2710,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -2727,13 +2727,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi Texas Premier Plumbing team,
+Hi Texas Premier Plumbing,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -2741,7 +2741,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi Texas Premier Plumbing team,
+Hi Texas Premier Plumbing,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for Texas Premier Plumbing:
 
@@ -2756,7 +2756,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -2773,13 +2773,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi DNA Plumbing team,
+Hi DNA Plumbing,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -2787,7 +2787,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi DNA Plumbing team,
+Hi DNA Plumbing,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for DNA Plumbing:
 
@@ -2802,7 +2802,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -2819,13 +2819,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi Lex Air Conditioning & Heating team,
+Hi Lex Air Conditioning & Heating,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -2833,7 +2833,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi Lex Air Conditioning & Heating team,
+Hi Lex Air Conditioning & Heating,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for Lex Air Conditioning & Heating:
 
@@ -2848,7 +2848,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -2865,13 +2865,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi J&K Air Conditioning & Heating team,
+Hi J&K Air Conditioning & Heating,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -2879,7 +2879,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi J&K Air Conditioning & Heating team,
+Hi J&K Air Conditioning & Heating,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for J&K Air Conditioning & Heating:
 
@@ -2894,7 +2894,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -2911,13 +2911,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi Strittmatter Plumbing, Heating & AC team,
+Hi Strittmatter Plumbing, Heating & AC,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -2925,7 +2925,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi Strittmatter Plumbing, Heating & AC team,
+Hi Strittmatter Plumbing, Heating & AC,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for Strittmatter Plumbing, Heating & AC:
 
@@ -2940,7 +2940,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -2957,13 +2957,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi Cody & Sons Plumbing, Heating & Air team,
+Hi Cody & Sons Plumbing, Heating & Air,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -2971,7 +2971,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi Cody & Sons Plumbing, Heating & Air team,
+Hi Cody & Sons Plumbing, Heating & Air,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for Cody & Sons Plumbing, Heating & Air:
 
@@ -2986,7 +2986,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -3003,13 +3003,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi Cold Factor Heating & Air team,
+Hi Cold Factor Heating & Air,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -3017,7 +3017,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi Cold Factor Heating & Air team,
+Hi Cold Factor Heating & Air,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for Cold Factor Heating & Air:
 
@@ -3032,7 +3032,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -3049,13 +3049,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi Arrow Electric Inc. team,
+Hi Arrow Electric Inc.,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -3063,7 +3063,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi Arrow Electric Inc. team,
+Hi Arrow Electric Inc.,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for Arrow Electric Inc.:
 
@@ -3078,7 +3078,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -3095,13 +3095,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi Rowley Roofing & Construction team,
+Hi Rowley Roofing & Construction,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -3109,7 +3109,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi Rowley Roofing & Construction team,
+Hi Rowley Roofing & Construction,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for Rowley Roofing & Construction:
 
@@ -3124,7 +3124,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -3141,13 +3141,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi Accurate Leak and Line team,
+Hi Accurate Leak and Line,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -3155,7 +3155,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi Accurate Leak and Line team,
+Hi Accurate Leak and Line,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for Accurate Leak and Line:
 
@@ -3170,7 +3170,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -3187,13 +3187,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi Total Air & Heat team,
+Hi Total Air & Heat,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -3201,7 +3201,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi Total Air & Heat team,
+Hi Total Air & Heat,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for Total Air & Heat:
 
@@ -3216,7 +3216,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -3233,13 +3233,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi Anderson Roofing & Construction team,
+Hi Anderson Roofing & Construction,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -3247,7 +3247,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi Anderson Roofing & Construction team,
+Hi Anderson Roofing & Construction,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for Anderson Roofing & Construction:
 
@@ -3262,7 +3262,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -3279,13 +3279,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi White Electric team,
+Hi White Electric,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -3293,7 +3293,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi White Electric team,
+Hi White Electric,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for White Electric:
 
@@ -3308,7 +3308,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -3325,13 +3325,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi Armor Roofing | Exteriors team,
+Hi Armor Roofing | Exteriors,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -3339,7 +3339,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi Armor Roofing | Exteriors team,
+Hi Armor Roofing | Exteriors,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for Armor Roofing | Exteriors:
 
@@ -3354,7 +3354,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -3371,13 +3371,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi Classic Heating & Air team,
+Hi Classic Heating & Air,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -3385,7 +3385,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi Classic Heating & Air team,
+Hi Classic Heating & Air,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for Classic Heating & Air:
 
@@ -3400,7 +3400,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -3417,13 +3417,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi Old Pro Roofing team,
+Hi Old Pro Roofing,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -3431,7 +3431,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi Old Pro Roofing team,
+Hi Old Pro Roofing,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for Old Pro Roofing:
 
@@ -3446,7 +3446,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -3463,13 +3463,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi Brown & Sons Plumbing team,
+Hi Brown & Sons Plumbing,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -3477,7 +3477,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi Brown & Sons Plumbing team,
+Hi Brown & Sons Plumbing,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for Brown & Sons Plumbing:
 
@@ -3492,7 +3492,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -3509,13 +3509,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi Electrician On Call team,
+Hi Electrician On Call,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -3523,7 +3523,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi Electrician On Call team,
+Hi Electrician On Call,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for Electrician On Call:
 
@@ -3538,7 +3538,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -3555,13 +3555,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi Texas Star Roofing team,
+Hi Texas Star Roofing,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -3569,7 +3569,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi Texas Star Roofing team,
+Hi Texas Star Roofing,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for Texas Star Roofing:
 
@@ -3584,7 +3584,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -3601,13 +3601,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi Peak Roofing & Construction team,
+Hi Peak Roofing & Construction,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -3615,7 +3615,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi Peak Roofing & Construction team,
+Hi Peak Roofing & Construction,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for Peak Roofing & Construction:
 
@@ -3630,7 +3630,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
@@ -3647,13 +3647,13 @@ Dylan
 
 **Message #1 (Copy & Submit in Form — 0 Links):**
 ```text
-Hi Town & Country Roofing team,
+Hi Town & Country Roofing,
 
 I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
 I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-Would it be alright if I emailed you a quick link so you can take a look on your phone?
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan Roth
@@ -3661,7 +3661,7 @@ Dylan Roth
 
 **Message #2 (Reply via Email when they respond 'Sure'):**
 ```text
-Hi Town & Country Roofing team,
+Hi Town & Country Roofing,
 
 Appreciate you getting back to me. Here is the interactive mobile preview I put together for Town & Country Roofing:
 
@@ -3676,7 +3676,7 @@ We keep pricing completely flat with zero contracts:
 
 *Out of scope updates are available for a discussed and negotiated additional fee.*
 
-If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Let me know what you think!
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
 Dylan
