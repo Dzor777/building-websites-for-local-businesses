@@ -3684,3 +3684,1817 @@ Dylan
 
 ---
 
+### 81. Clear Choice Pool & Pressure Wash
+
+- **Trade:** Pressure Washing & Exterior Cleaning | **City:** Arlington, TX | **Phone:** (817) 600-0833
+- **Website:** [https://clearchoicedfw.com](https://clearchoicedfw.com)
+- **Contact Form:** [https://clearchoicedfw.com/contact](https://clearchoicedfw.com/contact)
+- **Pre-built Preview Link (Message #2):** [https://dzor777.github.io/building-websites-for-local-businesses/?demo=pressure-washing&name=Clear+Choice+Pool+%26+Pressure+Wash&city=Arlington&phone=%28817%29+600-0833](https://dzor777.github.io/building-websites-for-local-businesses/?demo=pressure-washing&name=Clear+Choice+Pool+%26+Pressure+Wash&city=Arlington&phone=%28817%29+600-0833)
+
+**Message #1 (Copy & Submit in Form — 0 Links):**
+```text
+Hi Clear Choice Pool & Pressure Wash,
+
+I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
+
+I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
+
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
+
+Thank you,
+Dylan Roth
+```
+
+**Message #2 (Reply via Email when they respond 'Sure'):**
+```text
+Hi Clear Choice Pool & Pressure Wash,
+
+Appreciate you getting back to me. Here is the interactive mobile preview I put together for Clear Choice Pool & Pressure Wash:
+
+[Click to view Clear Choice Pool & Pressure Wash Mobile Preview](https://dzor777.github.io/building-websites-for-local-businesses/?demo=pressure-washing&name=Clear+Choice+Pool+%26+Pressure+Wash&city=Arlington&phone=%28817%29+600-0833)
+
+Take a look on your phone if you can. The biggest feature is the interactive quote calculator halfway down the page. Instead of homeowners leaving your site when you don't answer right away, they can estimate their project and submit their details directly to your phone.
+
+We keep pricing completely flat with zero contracts:
+- Basic Plan: $300 setup fee and $150/mo. Clean mobile website, fast hosting, and ongoing updates.
+- Standard Plan (Most Popular): $500 setup fee and $300/mo. Includes the interactive quote calculator and instant SMS lead alerts straight to your cell.
+- Enterprise Plan: $1,000 setup fee and $600/mo. Full lead acquisition system for multi-crew companies, including custom CRM/booking integrations, multi-city service pages, and priority monthly updates.
+
+*Out of scope updates are available for a discussed and negotiated additional fee.*
+
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
+
+Thank you,
+Dylan
+```
+
+---
+
+### 82. Texas Tree Elite
+
+- **Trade:** Tree Service & Removal | **City:** Fort Worth, TX | **Phone:** (817) 805-4422
+- **Website:** [https://texastreeelite.com](https://texastreeelite.com)
+- **Contact Form:** [https://texastreeelite.com/contact](https://texastreeelite.com/contact)
+- **Pre-built Preview Link (Message #2):** [https://dzor777.github.io/building-websites-for-local-businesses/?demo=tree-cutting&name=Texas+Tree+Elite&city=Fort+Worth&phone=%28817%29+805-4422](https://dzor777.github.io/building-websites-for-local-businesses/?demo=tree-cutting&name=Texas+Tree+Elite&city=Fort+Worth&phone=%28817%29+805-4422)
+
+**Message #1 (Copy & Submit in Form — 0 Links):**
+```text
+Hi Texas Tree Elite,
+
+I came across your business while looking up local Tree Service & Removal contractors in Fort Worth. I pulled up your site on my iPhone and noticed it takes a while to load and the phone button is tough to tap on mobile.
+
+I put together an interactive mobile preview for your trade with an instant quote calculator.
+
+Would you be open to checking out a quick preview link? You can email roth.dylan777@gmail.com or text me at (903) 287-0299.
+
+Thank you,
+Dylan Roth
+```
+
+**Message #2 (Reply via Email when they respond 'Sure'):**
+```text
+Hi Texas Tree Elite,
+
+Appreciate you getting back to me. Here is the interactive mobile preview I put together for Texas Tree Elite:
+
+[Click to view Texas Tree Elite Mobile Preview](https://dzor777.github.io/building-websites-for-local-businesses/?demo=tree-cutting&name=Texas+Tree+Elite&city=Fort+Worth&phone=%28817%29+805-4422)
+
+Take a look on your phone if you can. The biggest feature is the interactive quote calculator halfway down the page. Instead of homeowners leaving your site when you don't answer right away, they can estimate their project and submit their details directly to your phone.
+
+We keep pricing completely flat with zero contracts:
+- Basic Plan: $300 setup fee and $150/mo. Clean mobile website, fast hosting, and ongoing updates.
+- Standard Plan (Most Popular): $500 setup fee and $300/mo. Includes the interactive quote calculator and instant SMS lead alerts straight to your cell.
+- Enterprise Plan: $1,000 setup fee and $600/mo. Full lead acquisition system for multi-crew companies, including custom CRM/booking integrations, multi-city service pages, and priority monthly updates.
+
+*Out of scope updates are available for a discussed and negotiated additional fee.*
+
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
+
+Thank you,
+Dylan
+```
+
+---
+
+### 83. GreenSource Lawn Care & Landscapes
+
+- **Trade:** Lawn Care & Landscaping | **City:** Fort Worth, TX | **Phone:** (817) 400-5296
+- **Website:** [https://greensourcedfw.com](https://greensourcedfw.com)
+- **Contact Form:** [https://greensourcedfw.com/contact](https://greensourcedfw.com/contact)
+- **Pre-built Preview Link (Message #2):** [https://dzor777.github.io/building-websites-for-local-businesses/?demo=lawncare&name=GreenSource+Lawn+Care+%26+Landscapes&city=Fort+Worth&phone=%28817%29+400-5296](https://dzor777.github.io/building-websites-for-local-businesses/?demo=lawncare&name=GreenSource+Lawn+Care+%26+Landscapes&city=Fort+Worth&phone=%28817%29+400-5296)
+
+**Message #1 (Copy & Submit in Form — 0 Links):**
+```text
+Hi GreenSource Lawn Care & Landscapes,
+
+Quick question for you. I build high-converting mobile sites for Texas trade contractors, and I put together an interactive mobile demo customized for Lawn Care & Landscaping with a built-in estimate calculator for homeowners.
+
+Mind if I email over a quick link so you can see how it looks on a phone? Feel free to email roth.dylan777@gmail.com or shoot me a text at (903) 287-0299.
+
+Thank you,
+Dylan Roth
+```
+
+**Message #2 (Reply via Email when they respond 'Sure'):**
+```text
+Hi GreenSource Lawn Care & Landscapes,
+
+Appreciate you getting back to me. Here is the interactive mobile preview I put together for GreenSource Lawn Care & Landscapes:
+
+[Click to view GreenSource Lawn Care & Landscapes Mobile Preview](https://dzor777.github.io/building-websites-for-local-businesses/?demo=lawncare&name=GreenSource+Lawn+Care+%26+Landscapes&city=Fort+Worth&phone=%28817%29+400-5296)
+
+Take a look on your phone if you can. The biggest feature is the interactive quote calculator halfway down the page. Instead of homeowners leaving your site when you don't answer right away, they can estimate their project and submit their details directly to your phone.
+
+We keep pricing completely flat with zero contracts:
+- Basic Plan: $300 setup fee and $150/mo. Clean mobile website, fast hosting, and ongoing updates.
+- Standard Plan (Most Popular): $500 setup fee and $300/mo. Includes the interactive quote calculator and instant SMS lead alerts straight to your cell.
+- Enterprise Plan: $1,000 setup fee and $600/mo. Full lead acquisition system for multi-crew companies, including custom CRM/booking integrations, multi-city service pages, and priority monthly updates.
+
+*Out of scope updates are available for a discussed and negotiated additional fee.*
+
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
+
+Thank you,
+Dylan
+```
+
+---
+
+### 84. Cowtown Painting Co.
+
+- **Trade:** Painting & Finishes | **City:** Fort Worth, TX | **Phone:** (817) 727-4637
+- **Website:** [https://cowtownpainting.com](https://cowtownpainting.com)
+- **Contact Form:** [https://cowtownpainting.com/contact](https://cowtownpainting.com/contact)
+- **Pre-built Preview Link (Message #2):** [https://dzor777.github.io/building-websites-for-local-businesses/?demo=painting&name=Cowtown+Painting+Co.&city=Fort+Worth&phone=%28817%29+727-4637](https://dzor777.github.io/building-websites-for-local-businesses/?demo=painting&name=Cowtown+Painting+Co.&city=Fort+Worth&phone=%28817%29+727-4637)
+
+**Message #1 (Copy & Submit in Form — 0 Links):**
+```text
+Hi Cowtown Painting Co.,
+
+I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
+
+I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
+
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
+
+Thank you,
+Dylan Roth
+```
+
+**Message #2 (Reply via Email when they respond 'Sure'):**
+```text
+Hi Cowtown Painting Co.,
+
+Appreciate you getting back to me. Here is the interactive mobile preview I put together for Cowtown Painting Co.:
+
+[Click to view Cowtown Painting Co. Mobile Preview](https://dzor777.github.io/building-websites-for-local-businesses/?demo=painting&name=Cowtown+Painting+Co.&city=Fort+Worth&phone=%28817%29+727-4637)
+
+Take a look on your phone if you can. The biggest feature is the interactive quote calculator halfway down the page. Instead of homeowners leaving your site when you don't answer right away, they can estimate their project and submit their details directly to your phone.
+
+We keep pricing completely flat with zero contracts:
+- Basic Plan: $300 setup fee and $150/mo. Clean mobile website, fast hosting, and ongoing updates.
+- Standard Plan (Most Popular): $500 setup fee and $300/mo. Includes the interactive quote calculator and instant SMS lead alerts straight to your cell.
+- Enterprise Plan: $1,000 setup fee and $600/mo. Full lead acquisition system for multi-crew companies, including custom CRM/booking integrations, multi-city service pages, and priority monthly updates.
+
+*Out of scope updates are available for a discussed and negotiated additional fee.*
+
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
+
+Thank you,
+Dylan
+```
+
+---
+
+### 85. Metroplex Pro Electrical
+
+- **Trade:** Electrical Services | **City:** Arlington, TX | **Phone:** (817) 538-8924
+- **Website:** [https://metroplexelectric.com](https://metroplexelectric.com)
+- **Contact Form:** [https://metroplexelectric.com/contact](https://metroplexelectric.com/contact)
+- **Pre-built Preview Link (Message #2):** [https://dzor777.github.io/building-websites-for-local-businesses/?demo=electrical&name=Metroplex+Pro+Electrical&city=Arlington&phone=%28817%29+538-8924](https://dzor777.github.io/building-websites-for-local-businesses/?demo=electrical&name=Metroplex+Pro+Electrical&city=Arlington&phone=%28817%29+538-8924)
+
+**Message #1 (Copy & Submit in Form — 0 Links):**
+```text
+Hi Metroplex Pro Electrical,
+
+I came across your business while looking up local Electrical Services contractors in Arlington. I pulled up your site on my iPhone and noticed it takes a while to load and the phone button is tough to tap on mobile.
+
+I put together an interactive mobile preview for your trade with an instant quote calculator.
+
+Would you be open to checking out a quick preview link? You can email roth.dylan777@gmail.com or text me at (903) 287-0299.
+
+Thank you,
+Dylan Roth
+```
+
+**Message #2 (Reply via Email when they respond 'Sure'):**
+```text
+Hi Metroplex Pro Electrical,
+
+Appreciate you getting back to me. Here is the interactive mobile preview I put together for Metroplex Pro Electrical:
+
+[Click to view Metroplex Pro Electrical Mobile Preview](https://dzor777.github.io/building-websites-for-local-businesses/?demo=electrical&name=Metroplex+Pro+Electrical&city=Arlington&phone=%28817%29+538-8924)
+
+Take a look on your phone if you can. The biggest feature is the interactive quote calculator halfway down the page. Instead of homeowners leaving your site when you don't answer right away, they can estimate their project and submit their details directly to your phone.
+
+We keep pricing completely flat with zero contracts:
+- Basic Plan: $300 setup fee and $150/mo. Clean mobile website, fast hosting, and ongoing updates.
+- Standard Plan (Most Popular): $500 setup fee and $300/mo. Includes the interactive quote calculator and instant SMS lead alerts straight to your cell.
+- Enterprise Plan: $1,000 setup fee and $600/mo. Full lead acquisition system for multi-crew companies, including custom CRM/booking integrations, multi-city service pages, and priority monthly updates.
+
+*Out of scope updates are available for a discussed and negotiated additional fee.*
+
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
+
+Thank you,
+Dylan
+```
+
+---
+
+### 86. Tom's Mechanical HVAC
+
+- **Trade:** HVAC & Air Conditioning | **City:** Arlington, TX | **Phone:** (817) 277-2434
+- **Website:** [https://tomsmechanical.com](https://tomsmechanical.com)
+- **Contact Form:** [https://tomsmechanical.com/contact](https://tomsmechanical.com/contact)
+- **Pre-built Preview Link (Message #2):** [https://dzor777.github.io/building-websites-for-local-businesses/?demo=hvac&name=Tom%27s+Mechanical+HVAC&city=Arlington&phone=%28817%29+277-2434](https://dzor777.github.io/building-websites-for-local-businesses/?demo=hvac&name=Tom%27s+Mechanical+HVAC&city=Arlington&phone=%28817%29+277-2434)
+
+**Message #1 (Copy & Submit in Form — 0 Links):**
+```text
+Hi Tom's Mechanical HVAC,
+
+Quick question for you. I build high-converting mobile sites for Texas trade contractors, and I put together an interactive mobile demo customized for HVAC & Air Conditioning with a built-in estimate calculator for homeowners.
+
+Mind if I email over a quick link so you can see how it looks on a phone? Feel free to email roth.dylan777@gmail.com or shoot me a text at (903) 287-0299.
+
+Thank you,
+Dylan Roth
+```
+
+**Message #2 (Reply via Email when they respond 'Sure'):**
+```text
+Hi Tom's Mechanical HVAC,
+
+Appreciate you getting back to me. Here is the interactive mobile preview I put together for Tom's Mechanical HVAC:
+
+[Click to view Tom's Mechanical HVAC Mobile Preview](https://dzor777.github.io/building-websites-for-local-businesses/?demo=hvac&name=Tom%27s+Mechanical+HVAC&city=Arlington&phone=%28817%29+277-2434)
+
+Take a look on your phone if you can. The biggest feature is the interactive quote calculator halfway down the page. Instead of homeowners leaving your site when you don't answer right away, they can estimate their project and submit their details directly to your phone.
+
+We keep pricing completely flat with zero contracts:
+- Basic Plan: $300 setup fee and $150/mo. Clean mobile website, fast hosting, and ongoing updates.
+- Standard Plan (Most Popular): $500 setup fee and $300/mo. Includes the interactive quote calculator and instant SMS lead alerts straight to your cell.
+- Enterprise Plan: $1,000 setup fee and $600/mo. Full lead acquisition system for multi-crew companies, including custom CRM/booking integrations, multi-city service pages, and priority monthly updates.
+
+*Out of scope updates are available for a discussed and negotiated additional fee.*
+
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
+
+Thank you,
+Dylan
+```
+
+---
+
+### 87. Hildebrant's Plumbing Repair
+
+- **Trade:** Plumbing & Drain Services | **City:** Fort Worth, TX | **Phone:** (817) 695-1840
+- **Website:** [https://hildebrantsplumbing.com](https://hildebrantsplumbing.com)
+- **Contact Form:** [https://hildebrantsplumbing.com/contact](https://hildebrantsplumbing.com/contact)
+- **Pre-built Preview Link (Message #2):** [https://dzor777.github.io/building-websites-for-local-businesses/?demo=plumbing&name=Hildebrant%27s+Plumbing+Repair&city=Fort+Worth&phone=%28817%29+695-1840](https://dzor777.github.io/building-websites-for-local-businesses/?demo=plumbing&name=Hildebrant%27s+Plumbing+Repair&city=Fort+Worth&phone=%28817%29+695-1840)
+
+**Message #1 (Copy & Submit in Form — 0 Links):**
+```text
+Hi Hildebrant's Plumbing Repair,
+
+I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
+
+I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
+
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
+
+Thank you,
+Dylan Roth
+```
+
+**Message #2 (Reply via Email when they respond 'Sure'):**
+```text
+Hi Hildebrant's Plumbing Repair,
+
+Appreciate you getting back to me. Here is the interactive mobile preview I put together for Hildebrant's Plumbing Repair:
+
+[Click to view Hildebrant's Plumbing Repair Mobile Preview](https://dzor777.github.io/building-websites-for-local-businesses/?demo=plumbing&name=Hildebrant%27s+Plumbing+Repair&city=Fort+Worth&phone=%28817%29+695-1840)
+
+Take a look on your phone if you can. The biggest feature is the interactive quote calculator halfway down the page. Instead of homeowners leaving your site when you don't answer right away, they can estimate their project and submit their details directly to your phone.
+
+We keep pricing completely flat with zero contracts:
+- Basic Plan: $300 setup fee and $150/mo. Clean mobile website, fast hosting, and ongoing updates.
+- Standard Plan (Most Popular): $500 setup fee and $300/mo. Includes the interactive quote calculator and instant SMS lead alerts straight to your cell.
+- Enterprise Plan: $1,000 setup fee and $600/mo. Full lead acquisition system for multi-crew companies, including custom CRM/booking integrations, multi-city service pages, and priority monthly updates.
+
+*Out of scope updates are available for a discussed and negotiated additional fee.*
+
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
+
+Thank you,
+Dylan
+```
+
+---
+
+### 88. First Texas Roofing
+
+- **Trade:** Roofing & Restoration | **City:** Fort Worth, TX | **Phone:** (817) 821-0323
+- **Website:** [https://firsttexasroofing.com](https://firsttexasroofing.com)
+- **Contact Form:** [https://firsttexasroofing.com/contact](https://firsttexasroofing.com/contact)
+- **Pre-built Preview Link (Message #2):** [https://dzor777.github.io/building-websites-for-local-businesses/?demo=roofing&name=First+Texas+Roofing&city=Fort+Worth&phone=%28817%29+821-0323](https://dzor777.github.io/building-websites-for-local-businesses/?demo=roofing&name=First+Texas+Roofing&city=Fort+Worth&phone=%28817%29+821-0323)
+
+**Message #1 (Copy & Submit in Form — 0 Links):**
+```text
+Hi First Texas Roofing,
+
+I came across your business while looking up local Roofing & Restoration contractors in Fort Worth. I pulled up your site on my iPhone and noticed it takes a while to load and the phone button is tough to tap on mobile.
+
+I put together an interactive mobile preview for your trade with an instant quote calculator.
+
+Would you be open to checking out a quick preview link? You can email roth.dylan777@gmail.com or text me at (903) 287-0299.
+
+Thank you,
+Dylan Roth
+```
+
+**Message #2 (Reply via Email when they respond 'Sure'):**
+```text
+Hi First Texas Roofing,
+
+Appreciate you getting back to me. Here is the interactive mobile preview I put together for First Texas Roofing:
+
+[Click to view First Texas Roofing Mobile Preview](https://dzor777.github.io/building-websites-for-local-businesses/?demo=roofing&name=First+Texas+Roofing&city=Fort+Worth&phone=%28817%29+821-0323)
+
+Take a look on your phone if you can. The biggest feature is the interactive quote calculator halfway down the page. Instead of homeowners leaving your site when you don't answer right away, they can estimate their project and submit their details directly to your phone.
+
+We keep pricing completely flat with zero contracts:
+- Basic Plan: $300 setup fee and $150/mo. Clean mobile website, fast hosting, and ongoing updates.
+- Standard Plan (Most Popular): $500 setup fee and $300/mo. Includes the interactive quote calculator and instant SMS lead alerts straight to your cell.
+- Enterprise Plan: $1,000 setup fee and $600/mo. Full lead acquisition system for multi-crew companies, including custom CRM/booking integrations, multi-city service pages, and priority monthly updates.
+
+*Out of scope updates are available for a discussed and negotiated additional fee.*
+
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
+
+Thank you,
+Dylan
+```
+
+---
+
+### 89. Hydro Pro Exterior Wash
+
+- **Trade:** Pressure Washing & Exterior Cleaning | **City:** Grand Prairie, TX | **Phone:** (214) 799-6330
+- **Website:** [https://hydroprodfw.com](https://hydroprodfw.com)
+- **Contact Form:** [https://hydroprodfw.com/contact](https://hydroprodfw.com/contact)
+- **Pre-built Preview Link (Message #2):** [https://dzor777.github.io/building-websites-for-local-businesses/?demo=pressure-washing&name=Hydro+Pro+Exterior+Wash&city=Grand+Prairie&phone=%28214%29+799-6330](https://dzor777.github.io/building-websites-for-local-businesses/?demo=pressure-washing&name=Hydro+Pro+Exterior+Wash&city=Grand+Prairie&phone=%28214%29+799-6330)
+
+**Message #1 (Copy & Submit in Form — 0 Links):**
+```text
+Hi Hydro Pro Exterior Wash,
+
+Quick question for you. I build high-converting mobile sites for Texas trade contractors, and I put together an interactive mobile demo customized for Pressure Washing & Exterior Cleaning with a built-in estimate calculator for homeowners.
+
+Mind if I email over a quick link so you can see how it looks on a phone? Feel free to email roth.dylan777@gmail.com or shoot me a text at (903) 287-0299.
+
+Thank you,
+Dylan Roth
+```
+
+**Message #2 (Reply via Email when they respond 'Sure'):**
+```text
+Hi Hydro Pro Exterior Wash,
+
+Appreciate you getting back to me. Here is the interactive mobile preview I put together for Hydro Pro Exterior Wash:
+
+[Click to view Hydro Pro Exterior Wash Mobile Preview](https://dzor777.github.io/building-websites-for-local-businesses/?demo=pressure-washing&name=Hydro+Pro+Exterior+Wash&city=Grand+Prairie&phone=%28214%29+799-6330)
+
+Take a look on your phone if you can. The biggest feature is the interactive quote calculator halfway down the page. Instead of homeowners leaving your site when you don't answer right away, they can estimate their project and submit their details directly to your phone.
+
+We keep pricing completely flat with zero contracts:
+- Basic Plan: $300 setup fee and $150/mo. Clean mobile website, fast hosting, and ongoing updates.
+- Standard Plan (Most Popular): $500 setup fee and $300/mo. Includes the interactive quote calculator and instant SMS lead alerts straight to your cell.
+- Enterprise Plan: $1,000 setup fee and $600/mo. Full lead acquisition system for multi-crew companies, including custom CRM/booking integrations, multi-city service pages, and priority monthly updates.
+
+*Out of scope updates are available for a discussed and negotiated additional fee.*
+
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
+
+Thank you,
+Dylan
+```
+
+---
+
+### 90. Arbor Sense Tree Care
+
+- **Trade:** Tree Service & Removal | **City:** Denton, TX | **Phone:** (940) 220-9114
+- **Website:** [https://arborsensedfw.com](https://arborsensedfw.com)
+- **Contact Form:** [https://arborsensedfw.com/contact](https://arborsensedfw.com/contact)
+- **Pre-built Preview Link (Message #2):** [https://dzor777.github.io/building-websites-for-local-businesses/?demo=tree-cutting&name=Arbor+Sense+Tree+Care&city=Denton&phone=%28940%29+220-9114](https://dzor777.github.io/building-websites-for-local-businesses/?demo=tree-cutting&name=Arbor+Sense+Tree+Care&city=Denton&phone=%28940%29+220-9114)
+
+**Message #1 (Copy & Submit in Form — 0 Links):**
+```text
+Hi Arbor Sense Tree Care,
+
+I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
+
+I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
+
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
+
+Thank you,
+Dylan Roth
+```
+
+**Message #2 (Reply via Email when they respond 'Sure'):**
+```text
+Hi Arbor Sense Tree Care,
+
+Appreciate you getting back to me. Here is the interactive mobile preview I put together for Arbor Sense Tree Care:
+
+[Click to view Arbor Sense Tree Care Mobile Preview](https://dzor777.github.io/building-websites-for-local-businesses/?demo=tree-cutting&name=Arbor+Sense+Tree+Care&city=Denton&phone=%28940%29+220-9114)
+
+Take a look on your phone if you can. The biggest feature is the interactive quote calculator halfway down the page. Instead of homeowners leaving your site when you don't answer right away, they can estimate their project and submit their details directly to your phone.
+
+We keep pricing completely flat with zero contracts:
+- Basic Plan: $300 setup fee and $150/mo. Clean mobile website, fast hosting, and ongoing updates.
+- Standard Plan (Most Popular): $500 setup fee and $300/mo. Includes the interactive quote calculator and instant SMS lead alerts straight to your cell.
+- Enterprise Plan: $1,000 setup fee and $600/mo. Full lead acquisition system for multi-crew companies, including custom CRM/booking integrations, multi-city service pages, and priority monthly updates.
+
+*Out of scope updates are available for a discussed and negotiated additional fee.*
+
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
+
+Thank you,
+Dylan
+```
+
+---
+
+### 91. Purple Care Lawn & Tree
+
+- **Trade:** Lawn Care & Landscaping | **City:** Fort Worth, TX | **Phone:** (817) 880-6052
+- **Website:** [https://purplecare.com](https://purplecare.com)
+- **Contact Form:** [https://purplecare.com/contact](https://purplecare.com/contact)
+- **Pre-built Preview Link (Message #2):** [https://dzor777.github.io/building-websites-for-local-businesses/?demo=lawncare&name=Purple+Care+Lawn+%26+Tree&city=Fort+Worth&phone=%28817%29+880-6052](https://dzor777.github.io/building-websites-for-local-businesses/?demo=lawncare&name=Purple+Care+Lawn+%26+Tree&city=Fort+Worth&phone=%28817%29+880-6052)
+
+**Message #1 (Copy & Submit in Form — 0 Links):**
+```text
+Hi Purple Care Lawn & Tree,
+
+I came across your business while looking up local Lawn Care & Landscaping contractors in Fort Worth. I pulled up your site on my iPhone and noticed it takes a while to load and the phone button is tough to tap on mobile.
+
+I put together an interactive mobile preview for your trade with an instant quote calculator.
+
+Would you be open to checking out a quick preview link? You can email roth.dylan777@gmail.com or text me at (903) 287-0299.
+
+Thank you,
+Dylan Roth
+```
+
+**Message #2 (Reply via Email when they respond 'Sure'):**
+```text
+Hi Purple Care Lawn & Tree,
+
+Appreciate you getting back to me. Here is the interactive mobile preview I put together for Purple Care Lawn & Tree:
+
+[Click to view Purple Care Lawn & Tree Mobile Preview](https://dzor777.github.io/building-websites-for-local-businesses/?demo=lawncare&name=Purple+Care+Lawn+%26+Tree&city=Fort+Worth&phone=%28817%29+880-6052)
+
+Take a look on your phone if you can. The biggest feature is the interactive quote calculator halfway down the page. Instead of homeowners leaving your site when you don't answer right away, they can estimate their project and submit their details directly to your phone.
+
+We keep pricing completely flat with zero contracts:
+- Basic Plan: $300 setup fee and $150/mo. Clean mobile website, fast hosting, and ongoing updates.
+- Standard Plan (Most Popular): $500 setup fee and $300/mo. Includes the interactive quote calculator and instant SMS lead alerts straight to your cell.
+- Enterprise Plan: $1,000 setup fee and $600/mo. Full lead acquisition system for multi-crew companies, including custom CRM/booking integrations, multi-city service pages, and priority monthly updates.
+
+*Out of scope updates are available for a discussed and negotiated additional fee.*
+
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
+
+Thank you,
+Dylan
+```
+
+---
+
+### 92. Trinity Valley Painting
+
+- **Trade:** Painting & Finishes | **City:** Irving, TX | **Phone:** (214) 850-9382
+- **Website:** [https://trinityvalleypainting.com](https://trinityvalleypainting.com)
+- **Contact Form:** [https://trinityvalleypainting.com/contact](https://trinityvalleypainting.com/contact)
+- **Pre-built Preview Link (Message #2):** [https://dzor777.github.io/building-websites-for-local-businesses/?demo=painting&name=Trinity+Valley+Painting&city=Irving&phone=%28214%29+850-9382](https://dzor777.github.io/building-websites-for-local-businesses/?demo=painting&name=Trinity+Valley+Painting&city=Irving&phone=%28214%29+850-9382)
+
+**Message #1 (Copy & Submit in Form — 0 Links):**
+```text
+Hi Trinity Valley Painting,
+
+Quick question for you. I build high-converting mobile sites for Texas trade contractors, and I put together an interactive mobile demo customized for Painting & Finishes with a built-in estimate calculator for homeowners.
+
+Mind if I email over a quick link so you can see how it looks on a phone? Feel free to email roth.dylan777@gmail.com or shoot me a text at (903) 287-0299.
+
+Thank you,
+Dylan Roth
+```
+
+**Message #2 (Reply via Email when they respond 'Sure'):**
+```text
+Hi Trinity Valley Painting,
+
+Appreciate you getting back to me. Here is the interactive mobile preview I put together for Trinity Valley Painting:
+
+[Click to view Trinity Valley Painting Mobile Preview](https://dzor777.github.io/building-websites-for-local-businesses/?demo=painting&name=Trinity+Valley+Painting&city=Irving&phone=%28214%29+850-9382)
+
+Take a look on your phone if you can. The biggest feature is the interactive quote calculator halfway down the page. Instead of homeowners leaving your site when you don't answer right away, they can estimate their project and submit their details directly to your phone.
+
+We keep pricing completely flat with zero contracts:
+- Basic Plan: $300 setup fee and $150/mo. Clean mobile website, fast hosting, and ongoing updates.
+- Standard Plan (Most Popular): $500 setup fee and $300/mo. Includes the interactive quote calculator and instant SMS lead alerts straight to your cell.
+- Enterprise Plan: $1,000 setup fee and $600/mo. Full lead acquisition system for multi-crew companies, including custom CRM/booking integrations, multi-city service pages, and priority monthly updates.
+
+*Out of scope updates are available for a discussed and negotiated additional fee.*
+
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
+
+Thank you,
+Dylan
+```
+
+---
+
+### 93. Bacon Plumbing Heating Air Electric
+
+- **Trade:** Plumbing & Drain Services | **City:** Rockwall, TX | **Phone:** (972) 771-4600
+- **Website:** [https://everyonelovesbacon.com](https://everyonelovesbacon.com)
+- **Contact Form:** [https://everyonelovesbacon.com/contact](https://everyonelovesbacon.com/contact)
+- **Pre-built Preview Link (Message #2):** [https://dzor777.github.io/building-websites-for-local-businesses/?demo=electrical&name=Bacon+Plumbing+Heating+Air+Electric&city=Rockwall&phone=%28972%29+771-4600](https://dzor777.github.io/building-websites-for-local-businesses/?demo=electrical&name=Bacon+Plumbing+Heating+Air+Electric&city=Rockwall&phone=%28972%29+771-4600)
+
+**Message #1 (Copy & Submit in Form — 0 Links):**
+```text
+Hi Bacon Plumbing Heating Air Electric,
+
+I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
+
+I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
+
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
+
+Thank you,
+Dylan Roth
+```
+
+**Message #2 (Reply via Email when they respond 'Sure'):**
+```text
+Hi Bacon Plumbing Heating Air Electric,
+
+Appreciate you getting back to me. Here is the interactive mobile preview I put together for Bacon Plumbing Heating Air Electric:
+
+[Click to view Bacon Plumbing Heating Air Electric Mobile Preview](https://dzor777.github.io/building-websites-for-local-businesses/?demo=electrical&name=Bacon+Plumbing+Heating+Air+Electric&city=Rockwall&phone=%28972%29+771-4600)
+
+Take a look on your phone if you can. The biggest feature is the interactive quote calculator halfway down the page. Instead of homeowners leaving your site when you don't answer right away, they can estimate their project and submit their details directly to your phone.
+
+We keep pricing completely flat with zero contracts:
+- Basic Plan: $300 setup fee and $150/mo. Clean mobile website, fast hosting, and ongoing updates.
+- Standard Plan (Most Popular): $500 setup fee and $300/mo. Includes the interactive quote calculator and instant SMS lead alerts straight to your cell.
+- Enterprise Plan: $1,000 setup fee and $600/mo. Full lead acquisition system for multi-crew companies, including custom CRM/booking integrations, multi-city service pages, and priority monthly updates.
+
+*Out of scope updates are available for a discussed and negotiated additional fee.*
+
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
+
+Thank you,
+Dylan
+```
+
+---
+
+### 94. Max Mechanical Air Conditioning
+
+- **Trade:** HVAC & Air Conditioning | **City:** Arlington, TX | **Phone:** (817) 459-4100
+- **Website:** [https://maxairdfw.com](https://maxairdfw.com)
+- **Contact Form:** [https://maxairdfw.com/contact](https://maxairdfw.com/contact)
+- **Pre-built Preview Link (Message #2):** [https://dzor777.github.io/building-websites-for-local-businesses/?demo=hvac&name=Max+Mechanical+Air+Conditioning&city=Arlington&phone=%28817%29+459-4100](https://dzor777.github.io/building-websites-for-local-businesses/?demo=hvac&name=Max+Mechanical+Air+Conditioning&city=Arlington&phone=%28817%29+459-4100)
+
+**Message #1 (Copy & Submit in Form — 0 Links):**
+```text
+Hi Max Mechanical Air Conditioning,
+
+I came across your business while looking up local HVAC & Air Conditioning contractors in Arlington. I pulled up your site on my iPhone and noticed it takes a while to load and the phone button is tough to tap on mobile.
+
+I put together an interactive mobile preview for your trade with an instant quote calculator.
+
+Would you be open to checking out a quick preview link? You can email roth.dylan777@gmail.com or text me at (903) 287-0299.
+
+Thank you,
+Dylan Roth
+```
+
+**Message #2 (Reply via Email when they respond 'Sure'):**
+```text
+Hi Max Mechanical Air Conditioning,
+
+Appreciate you getting back to me. Here is the interactive mobile preview I put together for Max Mechanical Air Conditioning:
+
+[Click to view Max Mechanical Air Conditioning Mobile Preview](https://dzor777.github.io/building-websites-for-local-businesses/?demo=hvac&name=Max+Mechanical+Air+Conditioning&city=Arlington&phone=%28817%29+459-4100)
+
+Take a look on your phone if you can. The biggest feature is the interactive quote calculator halfway down the page. Instead of homeowners leaving your site when you don't answer right away, they can estimate their project and submit their details directly to your phone.
+
+We keep pricing completely flat with zero contracts:
+- Basic Plan: $300 setup fee and $150/mo. Clean mobile website, fast hosting, and ongoing updates.
+- Standard Plan (Most Popular): $500 setup fee and $300/mo. Includes the interactive quote calculator and instant SMS lead alerts straight to your cell.
+- Enterprise Plan: $1,000 setup fee and $600/mo. Full lead acquisition system for multi-crew companies, including custom CRM/booking integrations, multi-city service pages, and priority monthly updates.
+
+*Out of scope updates are available for a discussed and negotiated additional fee.*
+
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
+
+Thank you,
+Dylan
+```
+
+---
+
+### 95. Benchmark Plumbing DFW
+
+- **Trade:** Plumbing & Drain Services | **City:** Grand Prairie, TX | **Phone:** (972) 998-8440
+- **Website:** [https://benchmarkplumbingdfw.com](https://benchmarkplumbingdfw.com)
+- **Contact Form:** [https://benchmarkplumbingdfw.com/contact](https://benchmarkplumbingdfw.com/contact)
+- **Pre-built Preview Link (Message #2):** [https://dzor777.github.io/building-websites-for-local-businesses/?demo=plumbing&name=Benchmark+Plumbing+DFW&city=Grand+Prairie&phone=%28972%29+998-8440](https://dzor777.github.io/building-websites-for-local-businesses/?demo=plumbing&name=Benchmark+Plumbing+DFW&city=Grand+Prairie&phone=%28972%29+998-8440)
+
+**Message #1 (Copy & Submit in Form — 0 Links):**
+```text
+Hi Benchmark Plumbing DFW,
+
+Quick question for you. I build high-converting mobile sites for Texas trade contractors, and I put together an interactive mobile demo customized for Plumbing & Drain Services with a built-in estimate calculator for homeowners.
+
+Mind if I email over a quick link so you can see how it looks on a phone? Feel free to email roth.dylan777@gmail.com or shoot me a text at (903) 287-0299.
+
+Thank you,
+Dylan Roth
+```
+
+**Message #2 (Reply via Email when they respond 'Sure'):**
+```text
+Hi Benchmark Plumbing DFW,
+
+Appreciate you getting back to me. Here is the interactive mobile preview I put together for Benchmark Plumbing DFW:
+
+[Click to view Benchmark Plumbing DFW Mobile Preview](https://dzor777.github.io/building-websites-for-local-businesses/?demo=plumbing&name=Benchmark+Plumbing+DFW&city=Grand+Prairie&phone=%28972%29+998-8440)
+
+Take a look on your phone if you can. The biggest feature is the interactive quote calculator halfway down the page. Instead of homeowners leaving your site when you don't answer right away, they can estimate their project and submit their details directly to your phone.
+
+We keep pricing completely flat with zero contracts:
+- Basic Plan: $300 setup fee and $150/mo. Clean mobile website, fast hosting, and ongoing updates.
+- Standard Plan (Most Popular): $500 setup fee and $300/mo. Includes the interactive quote calculator and instant SMS lead alerts straight to your cell.
+- Enterprise Plan: $1,000 setup fee and $600/mo. Full lead acquisition system for multi-crew companies, including custom CRM/booking integrations, multi-city service pages, and priority monthly updates.
+
+*Out of scope updates are available for a discussed and negotiated additional fee.*
+
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
+
+Thank you,
+Dylan
+```
+
+---
+
+### 96. Stallion Roofing & Solar
+
+- **Trade:** Roofing & Restoration | **City:** Fort Worth, TX | **Phone:** (817) 676-4355
+- **Website:** [https://stallionroofing.com](https://stallionroofing.com)
+- **Contact Form:** [https://stallionroofing.com/contact](https://stallionroofing.com/contact)
+- **Pre-built Preview Link (Message #2):** [https://dzor777.github.io/building-websites-for-local-businesses/?demo=roofing&name=Stallion+Roofing+%26+Solar&city=Fort+Worth&phone=%28817%29+676-4355](https://dzor777.github.io/building-websites-for-local-businesses/?demo=roofing&name=Stallion+Roofing+%26+Solar&city=Fort+Worth&phone=%28817%29+676-4355)
+
+**Message #1 (Copy & Submit in Form — 0 Links):**
+```text
+Hi Stallion Roofing & Solar,
+
+I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
+
+I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
+
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
+
+Thank you,
+Dylan Roth
+```
+
+**Message #2 (Reply via Email when they respond 'Sure'):**
+```text
+Hi Stallion Roofing & Solar,
+
+Appreciate you getting back to me. Here is the interactive mobile preview I put together for Stallion Roofing & Solar:
+
+[Click to view Stallion Roofing & Solar Mobile Preview](https://dzor777.github.io/building-websites-for-local-businesses/?demo=roofing&name=Stallion+Roofing+%26+Solar&city=Fort+Worth&phone=%28817%29+676-4355)
+
+Take a look on your phone if you can. The biggest feature is the interactive quote calculator halfway down the page. Instead of homeowners leaving your site when you don't answer right away, they can estimate their project and submit their details directly to your phone.
+
+We keep pricing completely flat with zero contracts:
+- Basic Plan: $300 setup fee and $150/mo. Clean mobile website, fast hosting, and ongoing updates.
+- Standard Plan (Most Popular): $500 setup fee and $300/mo. Includes the interactive quote calculator and instant SMS lead alerts straight to your cell.
+- Enterprise Plan: $1,000 setup fee and $600/mo. Full lead acquisition system for multi-crew companies, including custom CRM/booking integrations, multi-city service pages, and priority monthly updates.
+
+*Out of scope updates are available for a discussed and negotiated additional fee.*
+
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
+
+Thank you,
+Dylan
+```
+
+---
+
+### 97. Lone Star Power Wash
+
+- **Trade:** Pressure Washing & Exterior Cleaning | **City:** Mansfield, TX | **Phone:** (817) 948-2831
+- **Website:** [https://lonestarpowerwashdfw.com](https://lonestarpowerwashdfw.com)
+- **Contact Form:** [https://lonestarpowerwashdfw.com/contact](https://lonestarpowerwashdfw.com/contact)
+- **Pre-built Preview Link (Message #2):** [https://dzor777.github.io/building-websites-for-local-businesses/?demo=pressure-washing&name=Lone+Star+Power+Wash&city=Mansfield&phone=%28817%29+948-2831](https://dzor777.github.io/building-websites-for-local-businesses/?demo=pressure-washing&name=Lone+Star+Power+Wash&city=Mansfield&phone=%28817%29+948-2831)
+
+**Message #1 (Copy & Submit in Form — 0 Links):**
+```text
+Hi Lone Star Power Wash,
+
+I came across your business while looking up local Pressure Washing & Exterior Cleaning contractors in Mansfield. I pulled up your site on my iPhone and noticed it takes a while to load and the phone button is tough to tap on mobile.
+
+I put together an interactive mobile preview for your trade with an instant quote calculator.
+
+Would you be open to checking out a quick preview link? You can email roth.dylan777@gmail.com or text me at (903) 287-0299.
+
+Thank you,
+Dylan Roth
+```
+
+**Message #2 (Reply via Email when they respond 'Sure'):**
+```text
+Hi Lone Star Power Wash,
+
+Appreciate you getting back to me. Here is the interactive mobile preview I put together for Lone Star Power Wash:
+
+[Click to view Lone Star Power Wash Mobile Preview](https://dzor777.github.io/building-websites-for-local-businesses/?demo=pressure-washing&name=Lone+Star+Power+Wash&city=Mansfield&phone=%28817%29+948-2831)
+
+Take a look on your phone if you can. The biggest feature is the interactive quote calculator halfway down the page. Instead of homeowners leaving your site when you don't answer right away, they can estimate their project and submit their details directly to your phone.
+
+We keep pricing completely flat with zero contracts:
+- Basic Plan: $300 setup fee and $150/mo. Clean mobile website, fast hosting, and ongoing updates.
+- Standard Plan (Most Popular): $500 setup fee and $300/mo. Includes the interactive quote calculator and instant SMS lead alerts straight to your cell.
+- Enterprise Plan: $1,000 setup fee and $600/mo. Full lead acquisition system for multi-crew companies, including custom CRM/booking integrations, multi-city service pages, and priority monthly updates.
+
+*Out of scope updates are available for a discussed and negotiated additional fee.*
+
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
+
+Thank you,
+Dylan
+```
+
+---
+
+### 98. Tree Shepherds
+
+- **Trade:** Tree Service & Removal | **City:** Denton, TX | **Phone:** (940) 240-2035
+- **Website:** [https://treeshepherds.net](https://treeshepherds.net)
+- **Contact Form:** [https://treeshepherds.net/contact](https://treeshepherds.net/contact)
+- **Pre-built Preview Link (Message #2):** [https://dzor777.github.io/building-websites-for-local-businesses/?demo=tree-cutting&name=Tree+Shepherds&city=Denton&phone=%28940%29+240-2035](https://dzor777.github.io/building-websites-for-local-businesses/?demo=tree-cutting&name=Tree+Shepherds&city=Denton&phone=%28940%29+240-2035)
+
+**Message #1 (Copy & Submit in Form — 0 Links):**
+```text
+Hi Tree Shepherds,
+
+Quick question for you. I build high-converting mobile sites for Texas trade contractors, and I put together an interactive mobile demo customized for Tree Service & Removal with a built-in estimate calculator for homeowners.
+
+Mind if I email over a quick link so you can see how it looks on a phone? Feel free to email roth.dylan777@gmail.com or shoot me a text at (903) 287-0299.
+
+Thank you,
+Dylan Roth
+```
+
+**Message #2 (Reply via Email when they respond 'Sure'):**
+```text
+Hi Tree Shepherds,
+
+Appreciate you getting back to me. Here is the interactive mobile preview I put together for Tree Shepherds:
+
+[Click to view Tree Shepherds Mobile Preview](https://dzor777.github.io/building-websites-for-local-businesses/?demo=tree-cutting&name=Tree+Shepherds&city=Denton&phone=%28940%29+240-2035)
+
+Take a look on your phone if you can. The biggest feature is the interactive quote calculator halfway down the page. Instead of homeowners leaving your site when you don't answer right away, they can estimate their project and submit their details directly to your phone.
+
+We keep pricing completely flat with zero contracts:
+- Basic Plan: $300 setup fee and $150/mo. Clean mobile website, fast hosting, and ongoing updates.
+- Standard Plan (Most Popular): $500 setup fee and $300/mo. Includes the interactive quote calculator and instant SMS lead alerts straight to your cell.
+- Enterprise Plan: $1,000 setup fee and $600/mo. Full lead acquisition system for multi-crew companies, including custom CRM/booking integrations, multi-city service pages, and priority monthly updates.
+
+*Out of scope updates are available for a discussed and negotiated additional fee.*
+
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
+
+Thank you,
+Dylan
+```
+
+---
+
+### 99. Allied Painting Solutions
+
+- **Trade:** Painting & Finishes | **City:** Grapevine, TX | **Phone:** (817) 329-8733
+- **Website:** [https://alliedpaintingsolutions.com](https://alliedpaintingsolutions.com)
+- **Contact Form:** [https://alliedpaintingsolutions.com/contact](https://alliedpaintingsolutions.com/contact)
+- **Pre-built Preview Link (Message #2):** [https://dzor777.github.io/building-websites-for-local-businesses/?demo=painting&name=Allied+Painting+Solutions&city=Grapevine&phone=%28817%29+329-8733](https://dzor777.github.io/building-websites-for-local-businesses/?demo=painting&name=Allied+Painting+Solutions&city=Grapevine&phone=%28817%29+329-8733)
+
+**Message #1 (Copy & Submit in Form — 0 Links):**
+```text
+Hi Allied Painting Solutions,
+
+I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
+
+I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
+
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
+
+Thank you,
+Dylan Roth
+```
+
+**Message #2 (Reply via Email when they respond 'Sure'):**
+```text
+Hi Allied Painting Solutions,
+
+Appreciate you getting back to me. Here is the interactive mobile preview I put together for Allied Painting Solutions:
+
+[Click to view Allied Painting Solutions Mobile Preview](https://dzor777.github.io/building-websites-for-local-businesses/?demo=painting&name=Allied+Painting+Solutions&city=Grapevine&phone=%28817%29+329-8733)
+
+Take a look on your phone if you can. The biggest feature is the interactive quote calculator halfway down the page. Instead of homeowners leaving your site when you don't answer right away, they can estimate their project and submit their details directly to your phone.
+
+We keep pricing completely flat with zero contracts:
+- Basic Plan: $300 setup fee and $150/mo. Clean mobile website, fast hosting, and ongoing updates.
+- Standard Plan (Most Popular): $500 setup fee and $300/mo. Includes the interactive quote calculator and instant SMS lead alerts straight to your cell.
+- Enterprise Plan: $1,000 setup fee and $600/mo. Full lead acquisition system for multi-crew companies, including custom CRM/booking integrations, multi-city service pages, and priority monthly updates.
+
+*Out of scope updates are available for a discussed and negotiated additional fee.*
+
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
+
+Thank you,
+Dylan
+```
+
+---
+
+### 100. Burleson Plumbing & Heating
+
+- **Trade:** Plumbing & Drain Services | **City:** Burleson, TX | **Phone:** (817) 295-2244
+- **Website:** [https://burlesonplumbing.com](https://burlesonplumbing.com)
+- **Contact Form:** [https://burlesonplumbing.com/contact](https://burlesonplumbing.com/contact)
+- **Pre-built Preview Link (Message #2):** [https://dzor777.github.io/building-websites-for-local-businesses/?demo=plumbing&name=Burleson+Plumbing+%26+Heating&city=Burleson&phone=%28817%29+295-2244](https://dzor777.github.io/building-websites-for-local-businesses/?demo=plumbing&name=Burleson+Plumbing+%26+Heating&city=Burleson&phone=%28817%29+295-2244)
+
+**Message #1 (Copy & Submit in Form — 0 Links):**
+```text
+Hi Burleson Plumbing & Heating,
+
+I came across your business while looking up local Plumbing & Drain Services contractors in Burleson. I pulled up your site on my iPhone and noticed it takes a while to load and the phone button is tough to tap on mobile.
+
+I put together an interactive mobile preview for your trade with an instant quote calculator.
+
+Would you be open to checking out a quick preview link? You can email roth.dylan777@gmail.com or text me at (903) 287-0299.
+
+Thank you,
+Dylan Roth
+```
+
+**Message #2 (Reply via Email when they respond 'Sure'):**
+```text
+Hi Burleson Plumbing & Heating,
+
+Appreciate you getting back to me. Here is the interactive mobile preview I put together for Burleson Plumbing & Heating:
+
+[Click to view Burleson Plumbing & Heating Mobile Preview](https://dzor777.github.io/building-websites-for-local-businesses/?demo=plumbing&name=Burleson+Plumbing+%26+Heating&city=Burleson&phone=%28817%29+295-2244)
+
+Take a look on your phone if you can. The biggest feature is the interactive quote calculator halfway down the page. Instead of homeowners leaving your site when you don't answer right away, they can estimate their project and submit their details directly to your phone.
+
+We keep pricing completely flat with zero contracts:
+- Basic Plan: $300 setup fee and $150/mo. Clean mobile website, fast hosting, and ongoing updates.
+- Standard Plan (Most Popular): $500 setup fee and $300/mo. Includes the interactive quote calculator and instant SMS lead alerts straight to your cell.
+- Enterprise Plan: $1,000 setup fee and $600/mo. Full lead acquisition system for multi-crew companies, including custom CRM/booking integrations, multi-city service pages, and priority monthly updates.
+
+*Out of scope updates are available for a discussed and negotiated additional fee.*
+
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
+
+Thank you,
+Dylan
+```
+
+---
+
+### 101. Hill Country SoftWash & Pressure Wash
+
+- **Trade:** Pressure Washing & Exterior Cleaning | **City:** Austin, TX | **Phone:** (512) 808-7244
+- **Website:** [https://hillcountrysoftwash.com](https://hillcountrysoftwash.com)
+- **Contact Form:** [https://hillcountrysoftwash.com/contact](https://hillcountrysoftwash.com/contact)
+- **Pre-built Preview Link (Message #2):** [https://dzor777.github.io/building-websites-for-local-businesses/?demo=pressure-washing&name=Hill+Country+SoftWash+%26+Pressure+Wash&city=Austin&phone=%28512%29+808-7244](https://dzor777.github.io/building-websites-for-local-businesses/?demo=pressure-washing&name=Hill+Country+SoftWash+%26+Pressure+Wash&city=Austin&phone=%28512%29+808-7244)
+
+**Message #1 (Copy & Submit in Form — 0 Links):**
+```text
+Hi Hill Country SoftWash & Pressure Wash,
+
+Quick question for you. I build high-converting mobile sites for Texas trade contractors, and I put together an interactive mobile demo customized for Pressure Washing & Exterior Cleaning with a built-in estimate calculator for homeowners.
+
+Mind if I email over a quick link so you can see how it looks on a phone? Feel free to email roth.dylan777@gmail.com or shoot me a text at (903) 287-0299.
+
+Thank you,
+Dylan Roth
+```
+
+**Message #2 (Reply via Email when they respond 'Sure'):**
+```text
+Hi Hill Country SoftWash & Pressure Wash,
+
+Appreciate you getting back to me. Here is the interactive mobile preview I put together for Hill Country SoftWash & Pressure Wash:
+
+[Click to view Hill Country SoftWash & Pressure Wash Mobile Preview](https://dzor777.github.io/building-websites-for-local-businesses/?demo=pressure-washing&name=Hill+Country+SoftWash+%26+Pressure+Wash&city=Austin&phone=%28512%29+808-7244)
+
+Take a look on your phone if you can. The biggest feature is the interactive quote calculator halfway down the page. Instead of homeowners leaving your site when you don't answer right away, they can estimate their project and submit their details directly to your phone.
+
+We keep pricing completely flat with zero contracts:
+- Basic Plan: $300 setup fee and $150/mo. Clean mobile website, fast hosting, and ongoing updates.
+- Standard Plan (Most Popular): $500 setup fee and $300/mo. Includes the interactive quote calculator and instant SMS lead alerts straight to your cell.
+- Enterprise Plan: $1,000 setup fee and $600/mo. Full lead acquisition system for multi-crew companies, including custom CRM/booking integrations, multi-city service pages, and priority monthly updates.
+
+*Out of scope updates are available for a discussed and negotiated additional fee.*
+
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
+
+Thank you,
+Dylan
+```
+
+---
+
+### 102. Austin Tree Specialists
+
+- **Trade:** Tree Service & Removal | **City:** Austin, TX | **Phone:** (512) 291-8844
+- **Website:** [https://austintreespecialists.com](https://austintreespecialists.com)
+- **Contact Form:** [https://austintreespecialists.com/contact](https://austintreespecialists.com/contact)
+- **Pre-built Preview Link (Message #2):** [https://dzor777.github.io/building-websites-for-local-businesses/?demo=tree-cutting&name=Austin+Tree+Specialists&city=Austin&phone=%28512%29+291-8844](https://dzor777.github.io/building-websites-for-local-businesses/?demo=tree-cutting&name=Austin+Tree+Specialists&city=Austin&phone=%28512%29+291-8844)
+
+**Message #1 (Copy & Submit in Form — 0 Links):**
+```text
+Hi Austin Tree Specialists,
+
+I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
+
+I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
+
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
+
+Thank you,
+Dylan Roth
+```
+
+**Message #2 (Reply via Email when they respond 'Sure'):**
+```text
+Hi Austin Tree Specialists,
+
+Appreciate you getting back to me. Here is the interactive mobile preview I put together for Austin Tree Specialists:
+
+[Click to view Austin Tree Specialists Mobile Preview](https://dzor777.github.io/building-websites-for-local-businesses/?demo=tree-cutting&name=Austin+Tree+Specialists&city=Austin&phone=%28512%29+291-8844)
+
+Take a look on your phone if you can. The biggest feature is the interactive quote calculator halfway down the page. Instead of homeowners leaving your site when you don't answer right away, they can estimate their project and submit their details directly to your phone.
+
+We keep pricing completely flat with zero contracts:
+- Basic Plan: $300 setup fee and $150/mo. Clean mobile website, fast hosting, and ongoing updates.
+- Standard Plan (Most Popular): $500 setup fee and $300/mo. Includes the interactive quote calculator and instant SMS lead alerts straight to your cell.
+- Enterprise Plan: $1,000 setup fee and $600/mo. Full lead acquisition system for multi-crew companies, including custom CRM/booking integrations, multi-city service pages, and priority monthly updates.
+
+*Out of scope updates are available for a discussed and negotiated additional fee.*
+
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
+
+Thank you,
+Dylan
+```
+
+---
+
+### 103. GrassWorks Lawn Care
+
+- **Trade:** Lawn Care & Landscaping | **City:** Austin, TX | **Phone:** (512) 797-1640
+- **Website:** [https://grassworkslawncare.com](https://grassworkslawncare.com)
+- **Contact Form:** [https://grassworkslawncare.com/contact](https://grassworkslawncare.com/contact)
+- **Pre-built Preview Link (Message #2):** [https://dzor777.github.io/building-websites-for-local-businesses/?demo=lawncare&name=GrassWorks+Lawn+Care&city=Austin&phone=%28512%29+797-1640](https://dzor777.github.io/building-websites-for-local-businesses/?demo=lawncare&name=GrassWorks+Lawn+Care&city=Austin&phone=%28512%29+797-1640)
+
+**Message #1 (Copy & Submit in Form — 0 Links):**
+```text
+Hi GrassWorks Lawn Care,
+
+I came across your business while looking up local Lawn Care & Landscaping contractors in Austin. I pulled up your site on my iPhone and noticed it takes a while to load and the phone button is tough to tap on mobile.
+
+I put together an interactive mobile preview for your trade with an instant quote calculator.
+
+Would you be open to checking out a quick preview link? You can email roth.dylan777@gmail.com or text me at (903) 287-0299.
+
+Thank you,
+Dylan Roth
+```
+
+**Message #2 (Reply via Email when they respond 'Sure'):**
+```text
+Hi GrassWorks Lawn Care,
+
+Appreciate you getting back to me. Here is the interactive mobile preview I put together for GrassWorks Lawn Care:
+
+[Click to view GrassWorks Lawn Care Mobile Preview](https://dzor777.github.io/building-websites-for-local-businesses/?demo=lawncare&name=GrassWorks+Lawn+Care&city=Austin&phone=%28512%29+797-1640)
+
+Take a look on your phone if you can. The biggest feature is the interactive quote calculator halfway down the page. Instead of homeowners leaving your site when you don't answer right away, they can estimate their project and submit their details directly to your phone.
+
+We keep pricing completely flat with zero contracts:
+- Basic Plan: $300 setup fee and $150/mo. Clean mobile website, fast hosting, and ongoing updates.
+- Standard Plan (Most Popular): $500 setup fee and $300/mo. Includes the interactive quote calculator and instant SMS lead alerts straight to your cell.
+- Enterprise Plan: $1,000 setup fee and $600/mo. Full lead acquisition system for multi-crew companies, including custom CRM/booking integrations, multi-city service pages, and priority monthly updates.
+
+*Out of scope updates are available for a discussed and negotiated additional fee.*
+
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
+
+Thank you,
+Dylan
+```
+
+---
+
+### 104. Texas Star Painting
+
+- **Trade:** Painting & Finishes | **City:** Round Rock, TX | **Phone:** (512) 900-5022
+- **Website:** [https://texasstarpainting.com](https://texasstarpainting.com)
+- **Contact Form:** [https://texasstarpainting.com/contact](https://texasstarpainting.com/contact)
+- **Pre-built Preview Link (Message #2):** [https://dzor777.github.io/building-websites-for-local-businesses/?demo=painting&name=Texas+Star+Painting&city=Round+Rock&phone=%28512%29+900-5022](https://dzor777.github.io/building-websites-for-local-businesses/?demo=painting&name=Texas+Star+Painting&city=Round+Rock&phone=%28512%29+900-5022)
+
+**Message #1 (Copy & Submit in Form — 0 Links):**
+```text
+Hi Texas Star Painting,
+
+Quick question for you. I build high-converting mobile sites for Texas trade contractors, and I put together an interactive mobile demo customized for Painting & Finishes with a built-in estimate calculator for homeowners.
+
+Mind if I email over a quick link so you can see how it looks on a phone? Feel free to email roth.dylan777@gmail.com or shoot me a text at (903) 287-0299.
+
+Thank you,
+Dylan Roth
+```
+
+**Message #2 (Reply via Email when they respond 'Sure'):**
+```text
+Hi Texas Star Painting,
+
+Appreciate you getting back to me. Here is the interactive mobile preview I put together for Texas Star Painting:
+
+[Click to view Texas Star Painting Mobile Preview](https://dzor777.github.io/building-websites-for-local-businesses/?demo=painting&name=Texas+Star+Painting&city=Round+Rock&phone=%28512%29+900-5022)
+
+Take a look on your phone if you can. The biggest feature is the interactive quote calculator halfway down the page. Instead of homeowners leaving your site when you don't answer right away, they can estimate their project and submit their details directly to your phone.
+
+We keep pricing completely flat with zero contracts:
+- Basic Plan: $300 setup fee and $150/mo. Clean mobile website, fast hosting, and ongoing updates.
+- Standard Plan (Most Popular): $500 setup fee and $300/mo. Includes the interactive quote calculator and instant SMS lead alerts straight to your cell.
+- Enterprise Plan: $1,000 setup fee and $600/mo. Full lead acquisition system for multi-crew companies, including custom CRM/booking integrations, multi-city service pages, and priority monthly updates.
+
+*Out of scope updates are available for a discussed and negotiated additional fee.*
+
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
+
+Thank you,
+Dylan
+```
+
+---
+
+### 105. Dunman Electric
+
+- **Trade:** Electrical Services | **City:** Austin, TX | **Phone:** (512) 523-5007
+- **Website:** [https://dunmanelectric.com](https://dunmanelectric.com)
+- **Contact Form:** [https://dunmanelectric.com/contact](https://dunmanelectric.com/contact)
+- **Pre-built Preview Link (Message #2):** [https://dzor777.github.io/building-websites-for-local-businesses/?demo=electrical&name=Dunman+Electric&city=Austin&phone=%28512%29+523-5007](https://dzor777.github.io/building-websites-for-local-businesses/?demo=electrical&name=Dunman+Electric&city=Austin&phone=%28512%29+523-5007)
+
+**Message #1 (Copy & Submit in Form — 0 Links):**
+```text
+Hi Dunman Electric,
+
+I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
+
+I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
+
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
+
+Thank you,
+Dylan Roth
+```
+
+**Message #2 (Reply via Email when they respond 'Sure'):**
+```text
+Hi Dunman Electric,
+
+Appreciate you getting back to me. Here is the interactive mobile preview I put together for Dunman Electric:
+
+[Click to view Dunman Electric Mobile Preview](https://dzor777.github.io/building-websites-for-local-businesses/?demo=electrical&name=Dunman+Electric&city=Austin&phone=%28512%29+523-5007)
+
+Take a look on your phone if you can. The biggest feature is the interactive quote calculator halfway down the page. Instead of homeowners leaving your site when you don't answer right away, they can estimate their project and submit their details directly to your phone.
+
+We keep pricing completely flat with zero contracts:
+- Basic Plan: $300 setup fee and $150/mo. Clean mobile website, fast hosting, and ongoing updates.
+- Standard Plan (Most Popular): $500 setup fee and $300/mo. Includes the interactive quote calculator and instant SMS lead alerts straight to your cell.
+- Enterprise Plan: $1,000 setup fee and $600/mo. Full lead acquisition system for multi-crew companies, including custom CRM/booking integrations, multi-city service pages, and priority monthly updates.
+
+*Out of scope updates are available for a discussed and negotiated additional fee.*
+
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
+
+Thank you,
+Dylan
+```
+
+---
+
+### 106. Fox Service Company HVAC
+
+- **Trade:** HVAC & Air Conditioning | **City:** Austin, TX | **Phone:** (512) 442-6782
+- **Website:** [https://foxservice.com](https://foxservice.com)
+- **Contact Form:** [https://foxservice.com/contact](https://foxservice.com/contact)
+- **Pre-built Preview Link (Message #2):** [https://dzor777.github.io/building-websites-for-local-businesses/?demo=hvac&name=Fox+Service+Company+HVAC&city=Austin&phone=%28512%29+442-6782](https://dzor777.github.io/building-websites-for-local-businesses/?demo=hvac&name=Fox+Service+Company+HVAC&city=Austin&phone=%28512%29+442-6782)
+
+**Message #1 (Copy & Submit in Form — 0 Links):**
+```text
+Hi Fox Service Company HVAC,
+
+I came across your business while looking up local HVAC & Air Conditioning contractors in Austin. I pulled up your site on my iPhone and noticed it takes a while to load and the phone button is tough to tap on mobile.
+
+I put together an interactive mobile preview for your trade with an instant quote calculator.
+
+Would you be open to checking out a quick preview link? You can email roth.dylan777@gmail.com or text me at (903) 287-0299.
+
+Thank you,
+Dylan Roth
+```
+
+**Message #2 (Reply via Email when they respond 'Sure'):**
+```text
+Hi Fox Service Company HVAC,
+
+Appreciate you getting back to me. Here is the interactive mobile preview I put together for Fox Service Company HVAC:
+
+[Click to view Fox Service Company HVAC Mobile Preview](https://dzor777.github.io/building-websites-for-local-businesses/?demo=hvac&name=Fox+Service+Company+HVAC&city=Austin&phone=%28512%29+442-6782)
+
+Take a look on your phone if you can. The biggest feature is the interactive quote calculator halfway down the page. Instead of homeowners leaving your site when you don't answer right away, they can estimate their project and submit their details directly to your phone.
+
+We keep pricing completely flat with zero contracts:
+- Basic Plan: $300 setup fee and $150/mo. Clean mobile website, fast hosting, and ongoing updates.
+- Standard Plan (Most Popular): $500 setup fee and $300/mo. Includes the interactive quote calculator and instant SMS lead alerts straight to your cell.
+- Enterprise Plan: $1,000 setup fee and $600/mo. Full lead acquisition system for multi-crew companies, including custom CRM/booking integrations, multi-city service pages, and priority monthly updates.
+
+*Out of scope updates are available for a discussed and negotiated additional fee.*
+
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
+
+Thank you,
+Dylan
+```
+
+---
+
+### 107. S&D Plumbing
+
+- **Trade:** Plumbing & Drain Services | **City:** Buda, TX | **Phone:** (512) 598-4274
+- **Website:** [https://sanddplumbing.com](https://sanddplumbing.com)
+- **Contact Form:** [https://sanddplumbing.com/contact](https://sanddplumbing.com/contact)
+- **Pre-built Preview Link (Message #2):** [https://dzor777.github.io/building-websites-for-local-businesses/?demo=plumbing&name=S%26D+Plumbing&city=Buda&phone=%28512%29+598-4274](https://dzor777.github.io/building-websites-for-local-businesses/?demo=plumbing&name=S%26D+Plumbing&city=Buda&phone=%28512%29+598-4274)
+
+**Message #1 (Copy & Submit in Form — 0 Links):**
+```text
+Hi S&D Plumbing,
+
+Quick question for you. I build high-converting mobile sites for Texas trade contractors, and I put together an interactive mobile demo customized for Plumbing & Drain Services with a built-in estimate calculator for homeowners.
+
+Mind if I email over a quick link so you can see how it looks on a phone? Feel free to email roth.dylan777@gmail.com or shoot me a text at (903) 287-0299.
+
+Thank you,
+Dylan Roth
+```
+
+**Message #2 (Reply via Email when they respond 'Sure'):**
+```text
+Hi S&D Plumbing,
+
+Appreciate you getting back to me. Here is the interactive mobile preview I put together for S&D Plumbing:
+
+[Click to view S&D Plumbing Mobile Preview](https://dzor777.github.io/building-websites-for-local-businesses/?demo=plumbing&name=S%26D+Plumbing&city=Buda&phone=%28512%29+598-4274)
+
+Take a look on your phone if you can. The biggest feature is the interactive quote calculator halfway down the page. Instead of homeowners leaving your site when you don't answer right away, they can estimate their project and submit their details directly to your phone.
+
+We keep pricing completely flat with zero contracts:
+- Basic Plan: $300 setup fee and $150/mo. Clean mobile website, fast hosting, and ongoing updates.
+- Standard Plan (Most Popular): $500 setup fee and $300/mo. Includes the interactive quote calculator and instant SMS lead alerts straight to your cell.
+- Enterprise Plan: $1,000 setup fee and $600/mo. Full lead acquisition system for multi-crew companies, including custom CRM/booking integrations, multi-city service pages, and priority monthly updates.
+
+*Out of scope updates are available for a discussed and negotiated additional fee.*
+
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
+
+Thank you,
+Dylan
+```
+
+---
+
+### 108. Ja-Mar Roofing & Sheet Metal
+
+- **Trade:** Roofing & Restoration | **City:** Buda, TX | **Phone:** (512) 441-8437
+- **Website:** [https://jamarroofing.com](https://jamarroofing.com)
+- **Contact Form:** [https://jamarroofing.com/contact](https://jamarroofing.com/contact)
+- **Pre-built Preview Link (Message #2):** [https://dzor777.github.io/building-websites-for-local-businesses/?demo=roofing&name=Ja-Mar+Roofing+%26+Sheet+Metal&city=Buda&phone=%28512%29+441-8437](https://dzor777.github.io/building-websites-for-local-businesses/?demo=roofing&name=Ja-Mar+Roofing+%26+Sheet+Metal&city=Buda&phone=%28512%29+441-8437)
+
+**Message #1 (Copy & Submit in Form — 0 Links):**
+```text
+Hi Ja-Mar Roofing & Sheet Metal,
+
+I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
+
+I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
+
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
+
+Thank you,
+Dylan Roth
+```
+
+**Message #2 (Reply via Email when they respond 'Sure'):**
+```text
+Hi Ja-Mar Roofing & Sheet Metal,
+
+Appreciate you getting back to me. Here is the interactive mobile preview I put together for Ja-Mar Roofing & Sheet Metal:
+
+[Click to view Ja-Mar Roofing & Sheet Metal Mobile Preview](https://dzor777.github.io/building-websites-for-local-businesses/?demo=roofing&name=Ja-Mar+Roofing+%26+Sheet+Metal&city=Buda&phone=%28512%29+441-8437)
+
+Take a look on your phone if you can. The biggest feature is the interactive quote calculator halfway down the page. Instead of homeowners leaving your site when you don't answer right away, they can estimate their project and submit their details directly to your phone.
+
+We keep pricing completely flat with zero contracts:
+- Basic Plan: $300 setup fee and $150/mo. Clean mobile website, fast hosting, and ongoing updates.
+- Standard Plan (Most Popular): $500 setup fee and $300/mo. Includes the interactive quote calculator and instant SMS lead alerts straight to your cell.
+- Enterprise Plan: $1,000 setup fee and $600/mo. Full lead acquisition system for multi-crew companies, including custom CRM/booking integrations, multi-city service pages, and priority monthly updates.
+
+*Out of scope updates are available for a discussed and negotiated additional fee.*
+
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
+
+Thank you,
+Dylan
+```
+
+---
+
+### 109. Alamo SoftWash & Surface Cleaners
+
+- **Trade:** Pressure Washing & Exterior Cleaning | **City:** San Antonio, TX | **Phone:** (210) 939-9274
+- **Website:** [https://alamosoftwash.com](https://alamosoftwash.com)
+- **Contact Form:** [https://alamosoftwash.com/contact](https://alamosoftwash.com/contact)
+- **Pre-built Preview Link (Message #2):** [https://dzor777.github.io/building-websites-for-local-businesses/?demo=pressure-washing&name=Alamo+SoftWash+%26+Surface+Cleaners&city=San+Antonio&phone=%28210%29+939-9274](https://dzor777.github.io/building-websites-for-local-businesses/?demo=pressure-washing&name=Alamo+SoftWash+%26+Surface+Cleaners&city=San+Antonio&phone=%28210%29+939-9274)
+
+**Message #1 (Copy & Submit in Form — 0 Links):**
+```text
+Hi Alamo SoftWash & Surface Cleaners,
+
+I came across your business while looking up local Pressure Washing & Exterior Cleaning contractors in San Antonio. I pulled up your site on my iPhone and noticed it takes a while to load and the phone button is tough to tap on mobile.
+
+I put together an interactive mobile preview for your trade with an instant quote calculator.
+
+Would you be open to checking out a quick preview link? You can email roth.dylan777@gmail.com or text me at (903) 287-0299.
+
+Thank you,
+Dylan Roth
+```
+
+**Message #2 (Reply via Email when they respond 'Sure'):**
+```text
+Hi Alamo SoftWash & Surface Cleaners,
+
+Appreciate you getting back to me. Here is the interactive mobile preview I put together for Alamo SoftWash & Surface Cleaners:
+
+[Click to view Alamo SoftWash & Surface Cleaners Mobile Preview](https://dzor777.github.io/building-websites-for-local-businesses/?demo=pressure-washing&name=Alamo+SoftWash+%26+Surface+Cleaners&city=San+Antonio&phone=%28210%29+939-9274)
+
+Take a look on your phone if you can. The biggest feature is the interactive quote calculator halfway down the page. Instead of homeowners leaving your site when you don't answer right away, they can estimate their project and submit their details directly to your phone.
+
+We keep pricing completely flat with zero contracts:
+- Basic Plan: $300 setup fee and $150/mo. Clean mobile website, fast hosting, and ongoing updates.
+- Standard Plan (Most Popular): $500 setup fee and $300/mo. Includes the interactive quote calculator and instant SMS lead alerts straight to your cell.
+- Enterprise Plan: $1,000 setup fee and $600/mo. Full lead acquisition system for multi-crew companies, including custom CRM/booking integrations, multi-city service pages, and priority monthly updates.
+
+*Out of scope updates are available for a discussed and negotiated additional fee.*
+
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
+
+Thank you,
+Dylan
+```
+
+---
+
+### 110. San Antonio Tree Surgeons
+
+- **Trade:** Tree Service & Removal | **City:** San Antonio, TX | **Phone:** (210) 656-4003
+- **Website:** [https://satreesurgeons.com](https://satreesurgeons.com)
+- **Contact Form:** [https://satreesurgeons.com/contact](https://satreesurgeons.com/contact)
+- **Pre-built Preview Link (Message #2):** [https://dzor777.github.io/building-websites-for-local-businesses/?demo=tree-cutting&name=San+Antonio+Tree+Surgeons&city=San+Antonio&phone=%28210%29+656-4003](https://dzor777.github.io/building-websites-for-local-businesses/?demo=tree-cutting&name=San+Antonio+Tree+Surgeons&city=San+Antonio&phone=%28210%29+656-4003)
+
+**Message #1 (Copy & Submit in Form — 0 Links):**
+```text
+Hi San Antonio Tree Surgeons,
+
+Quick question for you. I build high-converting mobile sites for Texas trade contractors, and I put together an interactive mobile demo customized for Tree Service & Removal with a built-in estimate calculator for homeowners.
+
+Mind if I email over a quick link so you can see how it looks on a phone? Feel free to email roth.dylan777@gmail.com or shoot me a text at (903) 287-0299.
+
+Thank you,
+Dylan Roth
+```
+
+**Message #2 (Reply via Email when they respond 'Sure'):**
+```text
+Hi San Antonio Tree Surgeons,
+
+Appreciate you getting back to me. Here is the interactive mobile preview I put together for San Antonio Tree Surgeons:
+
+[Click to view San Antonio Tree Surgeons Mobile Preview](https://dzor777.github.io/building-websites-for-local-businesses/?demo=tree-cutting&name=San+Antonio+Tree+Surgeons&city=San+Antonio&phone=%28210%29+656-4003)
+
+Take a look on your phone if you can. The biggest feature is the interactive quote calculator halfway down the page. Instead of homeowners leaving your site when you don't answer right away, they can estimate their project and submit their details directly to your phone.
+
+We keep pricing completely flat with zero contracts:
+- Basic Plan: $300 setup fee and $150/mo. Clean mobile website, fast hosting, and ongoing updates.
+- Standard Plan (Most Popular): $500 setup fee and $300/mo. Includes the interactive quote calculator and instant SMS lead alerts straight to your cell.
+- Enterprise Plan: $1,000 setup fee and $600/mo. Full lead acquisition system for multi-crew companies, including custom CRM/booking integrations, multi-city service pages, and priority monthly updates.
+
+*Out of scope updates are available for a discussed and negotiated additional fee.*
+
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
+
+Thank you,
+Dylan
+```
+
+---
+
+### 111. Bob Jenkins Pest & Lawn Care
+
+- **Trade:** Lawn Care & Landscaping | **City:** San Antonio, TX | **Phone:** (210) 979-7378
+- **Website:** [https://bobjenkinspestlawn.com](https://bobjenkinspestlawn.com)
+- **Contact Form:** [https://bobjenkinspestlawn.com/contact](https://bobjenkinspestlawn.com/contact)
+- **Pre-built Preview Link (Message #2):** [https://dzor777.github.io/building-websites-for-local-businesses/?demo=lawncare&name=Bob+Jenkins+Pest+%26+Lawn+Care&city=San+Antonio&phone=%28210%29+979-7378](https://dzor777.github.io/building-websites-for-local-businesses/?demo=lawncare&name=Bob+Jenkins+Pest+%26+Lawn+Care&city=San+Antonio&phone=%28210%29+979-7378)
+
+**Message #1 (Copy & Submit in Form — 0 Links):**
+```text
+Hi Bob Jenkins Pest & Lawn Care,
+
+I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
+
+I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
+
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
+
+Thank you,
+Dylan Roth
+```
+
+**Message #2 (Reply via Email when they respond 'Sure'):**
+```text
+Hi Bob Jenkins Pest & Lawn Care,
+
+Appreciate you getting back to me. Here is the interactive mobile preview I put together for Bob Jenkins Pest & Lawn Care:
+
+[Click to view Bob Jenkins Pest & Lawn Care Mobile Preview](https://dzor777.github.io/building-websites-for-local-businesses/?demo=lawncare&name=Bob+Jenkins+Pest+%26+Lawn+Care&city=San+Antonio&phone=%28210%29+979-7378)
+
+Take a look on your phone if you can. The biggest feature is the interactive quote calculator halfway down the page. Instead of homeowners leaving your site when you don't answer right away, they can estimate their project and submit their details directly to your phone.
+
+We keep pricing completely flat with zero contracts:
+- Basic Plan: $300 setup fee and $150/mo. Clean mobile website, fast hosting, and ongoing updates.
+- Standard Plan (Most Popular): $500 setup fee and $300/mo. Includes the interactive quote calculator and instant SMS lead alerts straight to your cell.
+- Enterprise Plan: $1,000 setup fee and $600/mo. Full lead acquisition system for multi-crew companies, including custom CRM/booking integrations, multi-city service pages, and priority monthly updates.
+
+*Out of scope updates are available for a discussed and negotiated additional fee.*
+
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
+
+Thank you,
+Dylan
+```
+
+---
+
+### 112. Alamo Paint & Remodel
+
+- **Trade:** Painting & Finishes | **City:** San Antonio, TX | **Phone:** (210) 880-4949
+- **Website:** [https://alamopaintingtx.com](https://alamopaintingtx.com)
+- **Contact Form:** [https://alamopaintingtx.com/contact](https://alamopaintingtx.com/contact)
+- **Pre-built Preview Link (Message #2):** [https://dzor777.github.io/building-websites-for-local-businesses/?demo=painting&name=Alamo+Paint+%26+Remodel&city=San+Antonio&phone=%28210%29+880-4949](https://dzor777.github.io/building-websites-for-local-businesses/?demo=painting&name=Alamo+Paint+%26+Remodel&city=San+Antonio&phone=%28210%29+880-4949)
+
+**Message #1 (Copy & Submit in Form — 0 Links):**
+```text
+Hi Alamo Paint & Remodel,
+
+I came across your business while looking up local Painting & Finishes contractors in San Antonio. I pulled up your site on my iPhone and noticed it takes a while to load and the phone button is tough to tap on mobile.
+
+I put together an interactive mobile preview for your trade with an instant quote calculator.
+
+Would you be open to checking out a quick preview link? You can email roth.dylan777@gmail.com or text me at (903) 287-0299.
+
+Thank you,
+Dylan Roth
+```
+
+**Message #2 (Reply via Email when they respond 'Sure'):**
+```text
+Hi Alamo Paint & Remodel,
+
+Appreciate you getting back to me. Here is the interactive mobile preview I put together for Alamo Paint & Remodel:
+
+[Click to view Alamo Paint & Remodel Mobile Preview](https://dzor777.github.io/building-websites-for-local-businesses/?demo=painting&name=Alamo+Paint+%26+Remodel&city=San+Antonio&phone=%28210%29+880-4949)
+
+Take a look on your phone if you can. The biggest feature is the interactive quote calculator halfway down the page. Instead of homeowners leaving your site when you don't answer right away, they can estimate their project and submit their details directly to your phone.
+
+We keep pricing completely flat with zero contracts:
+- Basic Plan: $300 setup fee and $150/mo. Clean mobile website, fast hosting, and ongoing updates.
+- Standard Plan (Most Popular): $500 setup fee and $300/mo. Includes the interactive quote calculator and instant SMS lead alerts straight to your cell.
+- Enterprise Plan: $1,000 setup fee and $600/mo. Full lead acquisition system for multi-crew companies, including custom CRM/booking integrations, multi-city service pages, and priority monthly updates.
+
+*Out of scope updates are available for a discussed and negotiated additional fee.*
+
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
+
+Thank you,
+Dylan
+```
+
+---
+
+### 113. Mister Sparky San Antonio
+
+- **Trade:** Electrical Services | **City:** San Antonio, TX | **Phone:** (210) 899-5525
+- **Website:** [https://mistersparkysatx.com](https://mistersparkysatx.com)
+- **Contact Form:** [https://mistersparkysatx.com/contact](https://mistersparkysatx.com/contact)
+- **Pre-built Preview Link (Message #2):** [https://dzor777.github.io/building-websites-for-local-businesses/?demo=electrical&name=Mister+Sparky+San+Antonio&city=San+Antonio&phone=%28210%29+899-5525](https://dzor777.github.io/building-websites-for-local-businesses/?demo=electrical&name=Mister+Sparky+San+Antonio&city=San+Antonio&phone=%28210%29+899-5525)
+
+**Message #1 (Copy & Submit in Form — 0 Links):**
+```text
+Hi Mister Sparky San Antonio,
+
+Quick question for you. I build high-converting mobile sites for Texas trade contractors, and I put together an interactive mobile demo customized for Electrical Services with a built-in estimate calculator for homeowners.
+
+Mind if I email over a quick link so you can see how it looks on a phone? Feel free to email roth.dylan777@gmail.com or shoot me a text at (903) 287-0299.
+
+Thank you,
+Dylan Roth
+```
+
+**Message #2 (Reply via Email when they respond 'Sure'):**
+```text
+Hi Mister Sparky San Antonio,
+
+Appreciate you getting back to me. Here is the interactive mobile preview I put together for Mister Sparky San Antonio:
+
+[Click to view Mister Sparky San Antonio Mobile Preview](https://dzor777.github.io/building-websites-for-local-businesses/?demo=electrical&name=Mister+Sparky+San+Antonio&city=San+Antonio&phone=%28210%29+899-5525)
+
+Take a look on your phone if you can. The biggest feature is the interactive quote calculator halfway down the page. Instead of homeowners leaving your site when you don't answer right away, they can estimate their project and submit their details directly to your phone.
+
+We keep pricing completely flat with zero contracts:
+- Basic Plan: $300 setup fee and $150/mo. Clean mobile website, fast hosting, and ongoing updates.
+- Standard Plan (Most Popular): $500 setup fee and $300/mo. Includes the interactive quote calculator and instant SMS lead alerts straight to your cell.
+- Enterprise Plan: $1,000 setup fee and $600/mo. Full lead acquisition system for multi-crew companies, including custom CRM/booking integrations, multi-city service pages, and priority monthly updates.
+
+*Out of scope updates are available for a discussed and negotiated additional fee.*
+
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
+
+Thank you,
+Dylan
+```
+
+---
+
+### 114. Champion AC & Heating
+
+- **Trade:** HVAC & Air Conditioning | **City:** San Antonio, TX | **Phone:** (210) 699-0022
+- **Website:** [https://championac.com](https://championac.com)
+- **Contact Form:** [https://championac.com/contact](https://championac.com/contact)
+- **Pre-built Preview Link (Message #2):** [https://dzor777.github.io/building-websites-for-local-businesses/?demo=hvac&name=Champion+AC+%26+Heating&city=San+Antonio&phone=%28210%29+699-0022](https://dzor777.github.io/building-websites-for-local-businesses/?demo=hvac&name=Champion+AC+%26+Heating&city=San+Antonio&phone=%28210%29+699-0022)
+
+**Message #1 (Copy & Submit in Form — 0 Links):**
+```text
+Hi Champion AC & Heating,
+
+I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
+
+I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
+
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
+
+Thank you,
+Dylan Roth
+```
+
+**Message #2 (Reply via Email when they respond 'Sure'):**
+```text
+Hi Champion AC & Heating,
+
+Appreciate you getting back to me. Here is the interactive mobile preview I put together for Champion AC & Heating:
+
+[Click to view Champion AC & Heating Mobile Preview](https://dzor777.github.io/building-websites-for-local-businesses/?demo=hvac&name=Champion+AC+%26+Heating&city=San+Antonio&phone=%28210%29+699-0022)
+
+Take a look on your phone if you can. The biggest feature is the interactive quote calculator halfway down the page. Instead of homeowners leaving your site when you don't answer right away, they can estimate their project and submit their details directly to your phone.
+
+We keep pricing completely flat with zero contracts:
+- Basic Plan: $300 setup fee and $150/mo. Clean mobile website, fast hosting, and ongoing updates.
+- Standard Plan (Most Popular): $500 setup fee and $300/mo. Includes the interactive quote calculator and instant SMS lead alerts straight to your cell.
+- Enterprise Plan: $1,000 setup fee and $600/mo. Full lead acquisition system for multi-crew companies, including custom CRM/booking integrations, multi-city service pages, and priority monthly updates.
+
+*Out of scope updates are available for a discussed and negotiated additional fee.*
+
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
+
+Thank you,
+Dylan
+```
+
+---
+
+### 115. Beyer Plumbing Co.
+
+- **Trade:** Plumbing & Drain Services | **City:** San Antonio, TX | **Phone:** (210) 656-9027
+- **Website:** [https://beyerplumbing.com](https://beyerplumbing.com)
+- **Contact Form:** [https://beyerplumbing.com/contact](https://beyerplumbing.com/contact)
+- **Pre-built Preview Link (Message #2):** [https://dzor777.github.io/building-websites-for-local-businesses/?demo=plumbing&name=Beyer+Plumbing+Co.&city=San+Antonio&phone=%28210%29+656-9027](https://dzor777.github.io/building-websites-for-local-businesses/?demo=plumbing&name=Beyer+Plumbing+Co.&city=San+Antonio&phone=%28210%29+656-9027)
+
+**Message #1 (Copy & Submit in Form — 0 Links):**
+```text
+Hi Beyer Plumbing Co.,
+
+I came across your business while looking up local Plumbing & Drain Services contractors in San Antonio. I pulled up your site on my iPhone and noticed it takes a while to load and the phone button is tough to tap on mobile.
+
+I put together an interactive mobile preview for your trade with an instant quote calculator.
+
+Would you be open to checking out a quick preview link? You can email roth.dylan777@gmail.com or text me at (903) 287-0299.
+
+Thank you,
+Dylan Roth
+```
+
+**Message #2 (Reply via Email when they respond 'Sure'):**
+```text
+Hi Beyer Plumbing Co.,
+
+Appreciate you getting back to me. Here is the interactive mobile preview I put together for Beyer Plumbing Co.:
+
+[Click to view Beyer Plumbing Co. Mobile Preview](https://dzor777.github.io/building-websites-for-local-businesses/?demo=plumbing&name=Beyer+Plumbing+Co.&city=San+Antonio&phone=%28210%29+656-9027)
+
+Take a look on your phone if you can. The biggest feature is the interactive quote calculator halfway down the page. Instead of homeowners leaving your site when you don't answer right away, they can estimate their project and submit their details directly to your phone.
+
+We keep pricing completely flat with zero contracts:
+- Basic Plan: $300 setup fee and $150/mo. Clean mobile website, fast hosting, and ongoing updates.
+- Standard Plan (Most Popular): $500 setup fee and $300/mo. Includes the interactive quote calculator and instant SMS lead alerts straight to your cell.
+- Enterprise Plan: $1,000 setup fee and $600/mo. Full lead acquisition system for multi-crew companies, including custom CRM/booking integrations, multi-city service pages, and priority monthly updates.
+
+*Out of scope updates are available for a discussed and negotiated additional fee.*
+
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
+
+Thank you,
+Dylan
+```
+
+---
+
+### 116. Rhino Roofers
+
+- **Trade:** Roofing & Restoration | **City:** San Antonio, TX | **Phone:** (210) 361-7663
+- **Website:** [https://rhinoroofers.com](https://rhinoroofers.com)
+- **Contact Form:** [https://rhinoroofers.com/contact](https://rhinoroofers.com/contact)
+- **Pre-built Preview Link (Message #2):** [https://dzor777.github.io/building-websites-for-local-businesses/?demo=roofing&name=Rhino+Roofers&city=San+Antonio&phone=%28210%29+361-7663](https://dzor777.github.io/building-websites-for-local-businesses/?demo=roofing&name=Rhino+Roofers&city=San+Antonio&phone=%28210%29+361-7663)
+
+**Message #1 (Copy & Submit in Form — 0 Links):**
+```text
+Hi Rhino Roofers,
+
+Quick question for you. I build high-converting mobile sites for Texas trade contractors, and I put together an interactive mobile demo customized for Roofing & Restoration with a built-in estimate calculator for homeowners.
+
+Mind if I email over a quick link so you can see how it looks on a phone? Feel free to email roth.dylan777@gmail.com or shoot me a text at (903) 287-0299.
+
+Thank you,
+Dylan Roth
+```
+
+**Message #2 (Reply via Email when they respond 'Sure'):**
+```text
+Hi Rhino Roofers,
+
+Appreciate you getting back to me. Here is the interactive mobile preview I put together for Rhino Roofers:
+
+[Click to view Rhino Roofers Mobile Preview](https://dzor777.github.io/building-websites-for-local-businesses/?demo=roofing&name=Rhino+Roofers&city=San+Antonio&phone=%28210%29+361-7663)
+
+Take a look on your phone if you can. The biggest feature is the interactive quote calculator halfway down the page. Instead of homeowners leaving your site when you don't answer right away, they can estimate their project and submit their details directly to your phone.
+
+We keep pricing completely flat with zero contracts:
+- Basic Plan: $300 setup fee and $150/mo. Clean mobile website, fast hosting, and ongoing updates.
+- Standard Plan (Most Popular): $500 setup fee and $300/mo. Includes the interactive quote calculator and instant SMS lead alerts straight to your cell.
+- Enterprise Plan: $1,000 setup fee and $600/mo. Full lead acquisition system for multi-crew companies, including custom CRM/booking integrations, multi-city service pages, and priority monthly updates.
+
+*Out of scope updates are available for a discussed and negotiated additional fee.*
+
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
+
+Thank you,
+Dylan
+```
+
+---
+
+### 117. Canyon Lake Pressure Washing
+
+- **Trade:** Pressure Washing & Exterior Cleaning | **City:** New Braunfels, TX | **Phone:** (830) 214-4112
+- **Website:** [https://canyonlakepressurewash.com](https://canyonlakepressurewash.com)
+- **Contact Form:** [https://canyonlakepressurewash.com/contact](https://canyonlakepressurewash.com/contact)
+- **Pre-built Preview Link (Message #2):** [https://dzor777.github.io/building-websites-for-local-businesses/?demo=pressure-washing&name=Canyon+Lake+Pressure+Washing&city=New+Braunfels&phone=%28830%29+214-4112](https://dzor777.github.io/building-websites-for-local-businesses/?demo=pressure-washing&name=Canyon+Lake+Pressure+Washing&city=New+Braunfels&phone=%28830%29+214-4112)
+
+**Message #1 (Copy & Submit in Form — 0 Links):**
+```text
+Hi Canyon Lake Pressure Washing,
+
+I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
+
+I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
+
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
+
+Thank you,
+Dylan Roth
+```
+
+**Message #2 (Reply via Email when they respond 'Sure'):**
+```text
+Hi Canyon Lake Pressure Washing,
+
+Appreciate you getting back to me. Here is the interactive mobile preview I put together for Canyon Lake Pressure Washing:
+
+[Click to view Canyon Lake Pressure Washing Mobile Preview](https://dzor777.github.io/building-websites-for-local-businesses/?demo=pressure-washing&name=Canyon+Lake+Pressure+Washing&city=New+Braunfels&phone=%28830%29+214-4112)
+
+Take a look on your phone if you can. The biggest feature is the interactive quote calculator halfway down the page. Instead of homeowners leaving your site when you don't answer right away, they can estimate their project and submit their details directly to your phone.
+
+We keep pricing completely flat with zero contracts:
+- Basic Plan: $300 setup fee and $150/mo. Clean mobile website, fast hosting, and ongoing updates.
+- Standard Plan (Most Popular): $500 setup fee and $300/mo. Includes the interactive quote calculator and instant SMS lead alerts straight to your cell.
+- Enterprise Plan: $1,000 setup fee and $600/mo. Full lead acquisition system for multi-crew companies, including custom CRM/booking integrations, multi-city service pages, and priority monthly updates.
+
+*Out of scope updates are available for a discussed and negotiated additional fee.*
+
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
+
+Thank you,
+Dylan
+```
+
+---
+
+### 118. Hill Country Tree Care
+
+- **Trade:** Tree Service & Removal | **City:** Boerne, TX | **Phone:** (830) 249-8733
+- **Website:** [https://hillcountrytreecaretx.com](https://hillcountrytreecaretx.com)
+- **Contact Form:** [https://hillcountrytreecaretx.com/contact](https://hillcountrytreecaretx.com/contact)
+- **Pre-built Preview Link (Message #2):** [https://dzor777.github.io/building-websites-for-local-businesses/?demo=tree-cutting&name=Hill+Country+Tree+Care&city=Boerne&phone=%28830%29+249-8733](https://dzor777.github.io/building-websites-for-local-businesses/?demo=tree-cutting&name=Hill+Country+Tree+Care&city=Boerne&phone=%28830%29+249-8733)
+
+**Message #1 (Copy & Submit in Form — 0 Links):**
+```text
+Hi Hill Country Tree Care,
+
+I came across your business while looking up local Tree Service & Removal contractors in Boerne. I pulled up your site on my iPhone and noticed it takes a while to load and the phone button is tough to tap on mobile.
+
+I put together an interactive mobile preview for your trade with an instant quote calculator.
+
+Would you be open to checking out a quick preview link? You can email roth.dylan777@gmail.com or text me at (903) 287-0299.
+
+Thank you,
+Dylan Roth
+```
+
+**Message #2 (Reply via Email when they respond 'Sure'):**
+```text
+Hi Hill Country Tree Care,
+
+Appreciate you getting back to me. Here is the interactive mobile preview I put together for Hill Country Tree Care:
+
+[Click to view Hill Country Tree Care Mobile Preview](https://dzor777.github.io/building-websites-for-local-businesses/?demo=tree-cutting&name=Hill+Country+Tree+Care&city=Boerne&phone=%28830%29+249-8733)
+
+Take a look on your phone if you can. The biggest feature is the interactive quote calculator halfway down the page. Instead of homeowners leaving your site when you don't answer right away, they can estimate their project and submit their details directly to your phone.
+
+We keep pricing completely flat with zero contracts:
+- Basic Plan: $300 setup fee and $150/mo. Clean mobile website, fast hosting, and ongoing updates.
+- Standard Plan (Most Popular): $500 setup fee and $300/mo. Includes the interactive quote calculator and instant SMS lead alerts straight to your cell.
+- Enterprise Plan: $1,000 setup fee and $600/mo. Full lead acquisition system for multi-crew companies, including custom CRM/booking integrations, multi-city service pages, and priority monthly updates.
+
+*Out of scope updates are available for a discussed and negotiated additional fee.*
+
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
+
+Thank you,
+Dylan
+```
+
+---
+
+### 119. Texas Cool Air Solutions
+
+- **Trade:** HVAC & Air Conditioning | **City:** San Marcos, TX | **Phone:** (512) 805-4328
+- **Website:** [https://texascoolair.com](https://texascoolair.com)
+- **Contact Form:** [https://texascoolair.com/contact](https://texascoolair.com/contact)
+- **Pre-built Preview Link (Message #2):** [https://dzor777.github.io/building-websites-for-local-businesses/?demo=hvac&name=Texas+Cool+Air+Solutions&city=San+Marcos&phone=%28512%29+805-4328](https://dzor777.github.io/building-websites-for-local-businesses/?demo=hvac&name=Texas+Cool+Air+Solutions&city=San+Marcos&phone=%28512%29+805-4328)
+
+**Message #1 (Copy & Submit in Form — 0 Links):**
+```text
+Hi Texas Cool Air Solutions,
+
+Quick question for you. I build high-converting mobile sites for Texas trade contractors, and I put together an interactive mobile demo customized for HVAC & Air Conditioning with a built-in estimate calculator for homeowners.
+
+Mind if I email over a quick link so you can see how it looks on a phone? Feel free to email roth.dylan777@gmail.com or shoot me a text at (903) 287-0299.
+
+Thank you,
+Dylan Roth
+```
+
+**Message #2 (Reply via Email when they respond 'Sure'):**
+```text
+Hi Texas Cool Air Solutions,
+
+Appreciate you getting back to me. Here is the interactive mobile preview I put together for Texas Cool Air Solutions:
+
+[Click to view Texas Cool Air Solutions Mobile Preview](https://dzor777.github.io/building-websites-for-local-businesses/?demo=hvac&name=Texas+Cool+Air+Solutions&city=San+Marcos&phone=%28512%29+805-4328)
+
+Take a look on your phone if you can. The biggest feature is the interactive quote calculator halfway down the page. Instead of homeowners leaving your site when you don't answer right away, they can estimate their project and submit their details directly to your phone.
+
+We keep pricing completely flat with zero contracts:
+- Basic Plan: $300 setup fee and $150/mo. Clean mobile website, fast hosting, and ongoing updates.
+- Standard Plan (Most Popular): $500 setup fee and $300/mo. Includes the interactive quote calculator and instant SMS lead alerts straight to your cell.
+- Enterprise Plan: $1,000 setup fee and $600/mo. Full lead acquisition system for multi-crew companies, including custom CRM/booking integrations, multi-city service pages, and priority monthly updates.
+
+*Out of scope updates are available for a discussed and negotiated additional fee.*
+
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
+
+Thank you,
+Dylan
+```
+
+---
+
+### 120. Hill Country Mechanical Plumbing
+
+- **Trade:** Plumbing & Drain Services | **City:** Georgetown, TX | **Phone:** (512) 869-7770
+- **Website:** [https://hillcountryplumbingtx.com](https://hillcountryplumbingtx.com)
+- **Contact Form:** [https://hillcountryplumbingtx.com/contact](https://hillcountryplumbingtx.com/contact)
+- **Pre-built Preview Link (Message #2):** [https://dzor777.github.io/building-websites-for-local-businesses/?demo=plumbing&name=Hill+Country+Mechanical+Plumbing&city=Georgetown&phone=%28512%29+869-7770](https://dzor777.github.io/building-websites-for-local-businesses/?demo=plumbing&name=Hill+Country+Mechanical+Plumbing&city=Georgetown&phone=%28512%29+869-7770)
+
+**Message #1 (Copy & Submit in Form — 0 Links):**
+```text
+Hi Hill Country Mechanical Plumbing,
+
+I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
+
+I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
+
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
+
+Thank you,
+Dylan Roth
+```
+
+**Message #2 (Reply via Email when they respond 'Sure'):**
+```text
+Hi Hill Country Mechanical Plumbing,
+
+Appreciate you getting back to me. Here is the interactive mobile preview I put together for Hill Country Mechanical Plumbing:
+
+[Click to view Hill Country Mechanical Plumbing Mobile Preview](https://dzor777.github.io/building-websites-for-local-businesses/?demo=plumbing&name=Hill+Country+Mechanical+Plumbing&city=Georgetown&phone=%28512%29+869-7770)
+
+Take a look on your phone if you can. The biggest feature is the interactive quote calculator halfway down the page. Instead of homeowners leaving your site when you don't answer right away, they can estimate their project and submit their details directly to your phone.
+
+We keep pricing completely flat with zero contracts:
+- Basic Plan: $300 setup fee and $150/mo. Clean mobile website, fast hosting, and ongoing updates.
+- Standard Plan (Most Popular): $500 setup fee and $300/mo. Includes the interactive quote calculator and instant SMS lead alerts straight to your cell.
+- Enterprise Plan: $1,000 setup fee and $600/mo. Full lead acquisition system for multi-crew companies, including custom CRM/booking integrations, multi-city service pages, and priority monthly updates.
+
+*Out of scope updates are available for a discussed and negotiated additional fee.*
+
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
+
+Thank you,
+Dylan
+```
+
+---
+

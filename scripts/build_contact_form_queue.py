@@ -10,6 +10,8 @@ batch_files = [
     os.path.join(campaigns_dir, "batch_02_texas_20prospects.md"),
     os.path.join(campaigns_dir, "batch_03_texas_20prospects.md"),
     os.path.join(campaigns_dir, "batch_04_texas_20prospects.md"),
+    os.path.join(campaigns_dir, "batch_05_texas_20prospects.md"),
+    os.path.join(campaigns_dir, "batch_06_texas_20prospects.md"),
 ]
 
 prospects = []
@@ -67,12 +69,11 @@ for file_path in batch_files:
         category = cat_match.group(1).strip() if cat_match else ""
         
         # Preview URL & Client slug
-        preview_match = re.search(r'https://dzor777\.github\.io/building-websites-for-local-businesses/\?client=([a-zA-Z0-9_\-]+)', body)
+        preview_match = re.search(r'(https://dzor777\.github\.io/building-websites-for-local-businesses/\?[^\s\)]+)', body)
         if preview_match:
-            client_slug = preview_match.group(1)
-            preview_url = f"https://dzor777.github.io/building-websites-for-local-businesses/?client={client_slug}"
+            preview_url = preview_match.group(1).rstrip('`*').strip()
+            client_slug = re.sub(r'[^a-z0-9]+', '-', name.lower()).strip('-')
         else:
-            # Fallback to trade demo search or generic
             client_slug = re.sub(r'[^a-z0-9]+', '-', name.lower()).strip('-')
             preview_url = f"https://dzor777.github.io/building-websites-for-local-businesses/?client={client_slug}"
             
@@ -253,7 +254,7 @@ html_content = f"""<!DOCTYPE html>
       <div class="flex items-center gap-6">
         <div class="text-right">
           <div class="text-xs font-bold text-slate-300">
-            <span id="sent-count" class="text-emerald-400 font-extrabold text-base">0</span> / 80 Sent
+            <span id="sent-count" class="text-emerald-400 font-extrabold text-base">0</span> / <span id="total-count">{len(prospects)}</span> Sent
           </div>
           <div class="w-36 h-2 bg-slate-800 rounded-full overflow-hidden mt-1">
             <div id="progress-bar" class="h-full bg-gradient-to-r from-sky-400 to-emerald-400 transition-all duration-300" style="width: 0%"></div>
@@ -268,13 +269,36 @@ html_content = f"""<!DOCTYPE html>
 
     <!-- Filter & Search Controls Bar -->
     <div class="max-w-7xl mx-auto mt-3 pt-3 border-t border-slate-800/80 flex flex-wrap items-center justify-between gap-3">
-      <div class="flex flex-wrap items-center gap-2">
-        <span class="text-xs font-semibold text-slate-400">Filter Batch:</span>
-        <button onclick="setBatchFilter('all')" class="batch-btn px-2.5 py-1 rounded-lg text-xs font-bold bg-sky-500 text-slate-950 transition-all" data-batch="all">All (80)</button>
-        <button onclick="setBatchFilter(1)" class="batch-btn px-2.5 py-1 rounded-lg text-xs font-semibold bg-slate-800 text-slate-300 hover:bg-slate-700 transition-all" data-batch="1">Batch 1 (1–20)</button>
-        <button onclick="setBatchFilter(2)" class="batch-btn px-2.5 py-1 rounded-lg text-xs font-semibold bg-slate-800 text-slate-300 hover:bg-slate-700 transition-all" data-batch="2">Batch 2 (21–40)</button>
-        <button onclick="setBatchFilter(3)" class="batch-btn px-2.5 py-1 rounded-lg text-xs font-semibold bg-slate-800 text-slate-300 hover:bg-slate-700 transition-all" data-batch="3">Batch 3 (41–60)</button>
-        <button onclick="setBatchFilter(4)" class="batch-btn px-2.5 py-1 rounded-lg text-xs font-semibold bg-slate-800 text-slate-300 hover:bg-slate-700 transition-all" data-batch="4">Batch 4 (61–80)</button>
+      <div class="flex flex-wrap items-center gap-3">
+        <!-- Batch Filter Dropdown (Replaces cluttered buttons) -->
+        <div class="flex items-center gap-1.5">
+          <label for="batch-select" class="text-xs font-semibold text-slate-400">Batch:</label>
+          <select id="batch-select" onchange="setBatchFilter(this.value)" class="px-3 py-1.5 rounded-lg bg-slate-900 border border-slate-700 hover:border-sky-500/60 text-xs font-bold text-sky-400 focus:outline-none focus:border-sky-500 transition-all cursor-pointer">
+            <option value="all">All Batches (1–6 · {len(prospects)} Total)</option>
+            <option value="1">Batch 1: #1–20 (McKinney & Austin)</option>
+            <option value="2">Batch 2: #21–40 (Houston & Gulf Coast)</option>
+            <option value="3">Batch 3: #41–60 (Central TX & DFW)</option>
+            <option value="4">Batch 4: #61–80 (North Texas & DFW)</option>
+            <option value="5">Batch 5: #81–100 (DFW Metroplex)</option>
+            <option value="6">Batch 6: #101–120 (Austin & San Antonio)</option>
+          </select>
+        </div>
+
+        <!-- Trade Filter Dropdown -->
+        <div class="flex items-center gap-1.5">
+          <label for="trade-select" class="text-xs font-semibold text-slate-400">Trade:</label>
+          <select id="trade-select" onchange="renderCards()" class="px-3 py-1.5 rounded-lg bg-slate-900 border border-slate-700 hover:border-slate-600 text-xs font-medium text-slate-200 focus:outline-none focus:border-sky-500 transition-all cursor-pointer">
+            <option value="all">All Trades (8 Total)</option>
+            <option value="pressure">Pressure Washing & SoftWash</option>
+            <option value="tree">Tree Service & Removal</option>
+            <option value="lawn">Lawn Care & Landscaping</option>
+            <option value="roof">Roofing & Restoration</option>
+            <option value="hvac">HVAC & Air Conditioning</option>
+            <option value="plumb">Plumbing & Drain Services</option>
+            <option value="electr">Electrical Services</option>
+            <option value="paint">Painting & Finishes</option>
+          </select>
+        </div>
       </div>
 
       <div class="flex items-center gap-3">
@@ -347,13 +371,10 @@ html_content = f"""<!DOCTYPE html>
 
     function setBatchFilter(batch) {{
       currentBatchFilter = batch;
-      document.querySelectorAll('.batch-btn').forEach(btn => {{
-        if (btn.getAttribute('data-batch') === String(batch)) {{
-          btn.className = 'batch-btn px-2.5 py-1 rounded-lg text-xs font-bold bg-sky-500 text-slate-950 transition-all';
-        }} else {{
-          btn.className = 'batch-btn px-2.5 py-1 rounded-lg text-xs font-semibold bg-slate-800 text-slate-300 hover:bg-slate-700 transition-all';
-        }}
-      }});
+      const batchSelect = document.getElementById('batch-select');
+      if (batchSelect && batchSelect.value !== String(batch)) {{
+        batchSelect.value = String(batch);
+      }}
       renderCards();
     }}
 
@@ -379,6 +400,8 @@ html_content = f"""<!DOCTYPE html>
         if (s === 'sent' || s === 'replied') sent++;
       }});
       document.getElementById('sent-count').innerText = sent;
+      const totalEl = document.getElementById('total-count');
+      if (totalEl) totalEl.innerText = prospects.length;
       const pct = Math.round((sent / prospects.length) * 100);
       document.getElementById('progress-bar').style.width = pct + '%';
     }}
@@ -387,6 +410,8 @@ html_content = f"""<!DOCTYPE html>
       const container = document.getElementById('cards-container');
       const searchQuery = (document.getElementById('search-input').value || '').toLowerCase().trim();
       const statusFilter = document.getElementById('status-filter').value;
+      const tradeSelect = document.getElementById('trade-select');
+      const tradeFilter = tradeSelect ? tradeSelect.value : 'all';
 
       container.innerHTML = '';
 
@@ -394,6 +419,7 @@ html_content = f"""<!DOCTYPE html>
         if (currentBatchFilter !== 'all' && p.batch !== Number(currentBatchFilter)) return false;
         const currentStatus = getStatus(p.id);
         if (statusFilter !== 'all' && currentStatus !== statusFilter) return false;
+        if (tradeFilter !== 'all' && !p.trade.toLowerCase().includes(tradeFilter.toLowerCase())) return false;
         if (searchQuery) {{
           const haystack = (p.name + ' ' + p.city + ' ' + p.trade).toLowerCase();
           if (!haystack.includes(searchQuery)) return false;
