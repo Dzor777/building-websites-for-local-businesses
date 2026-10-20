@@ -1,11 +1,13 @@
-# Cold Email Campaign (Batch #4): 20 Verified Texas Trade Prospects
+# Contact Form Outreach (Batch #4): 20 Verified Texas Trade Prospects
 
-This document contains 20 personalized, ready-to-send cold email outreach pitches for verified local trade service contractors across prime North Texas cities (Frisco, Carrollton, McKinney, Denton, Dallas, Lewisville, Plano, Richardson, Garland, Grapevine, The Colony).
+This document contains 20 verified local trade service contractors for **North Texas & DFW Trade Contractors**.
 
-> **Deliverability & Verification Note:**
-> - All 20 email addresses are **100% verified** with live DNS MX server resolution.
-> - Addresses match published direct contacts located directly on each contractor's active website.
-> - Live mobile-first previews are published and clickable for each prospect.
+> **Outreach Protocol Notes:**
+> - **Message #1 (Initial Contact - LINKLESS):** Prevents spam filters from blocking or flagging contact form submissions.
+> - **Message #2 (Day 5 Follow-Up Bump - LINKLESS):** Gentle 1-sentence bump sent 5 days later to re-engage warm leads.
+> - **Message #3 (Reply Ready - WITH LINK):** Delivers the interactive website preview dynamically customized with their name, trade, and phone.
+> - **Personalization:** Each greeting begins directly with the company name (NO 'team').
+> - **Clear Text Signoff:** Directs contractors to text `(903) 287-0299` or email `roth.dylan777@gmail.com`.
 
 ---
 
@@ -13,25 +15,51 @@ This document contains 20 personalized, ready-to-send cold email outreach pitche
 
 * **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://dnaplumbing.com](https://dnaplumbing.com) | **To Email:** `info@dnaplumbing.com` | **Phone:** (860) 515-9565 | **City:** Frisco, TX | **Status:** ⏳ Ready to Send
 
-**Subject:** quick note re: DNA Plumbing mobile site
-
+**Message #1 (Initial Outreach — Linkless):**
 ```text
-Hi DNA Plumbing team,
+Hi DNA Plumbing,
 
-I was looking up local plumbers in Frisco on my phone and noticed your current website is pretty tough to navigate on a smartphone, the call button and text get cut off.
+I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
-I put together a quick mobile-optimized version for DNA Plumbing so customers can call you in 1 tap or get a quote:
+I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-[Click here to view the mobile preview for DNA Plumbing](https://dzor777.github.io/building-websites-for-local-businesses/?client=dna-plumbing-frisco)
-
-Take a look on your phone whenever you have a second. The basic package is $450 to get started ($300 setup fee and $150/month for hosting, updates, and maintenance), and I also have higher tiers if you need extra features like custom calculators or booking integrations.
-
-If you want me to get this set up on your domain today, just reply "YES" to this email.
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
+Dylan Roth
+```
 
+**Message #2 (Day 5 Follow-Up Bump — Linkless):**
+```text
+Hi DNA Plumbing,
+
+Just following up on my note from a few days ago—would it be alright if I sent over that mobile site preview link for you to check out on your phone?
+
+Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
+
+Thanks,
+Dylan Roth
+```
+
+**Message #3 (Value Delivery / Reply With Link):**
+```text
+Hi DNA Plumbing,
+
+Appreciate you getting back to me! Here is the interactive mobile preview I put together for DNA Plumbing:
+
+https://dzor777.github.io/building-websites-for-local-businesses/?client=dna-plumbing
+
+Take a look on your phone if you can. The biggest feature is the interactive quote calculator halfway down the page. Instead of homeowners leaving your site when you don't answer right away, they can estimate their project and submit their details directly to your phone.
+
+We keep pricing completely flat with zero long-term contracts (6-month initial term, then month-to-month):
+- Basic Plan: $450 Total ($300 upfront setup + $150/mo). Clean mobile website, fast hosting, and ongoing updates.
+- Standard Plan (Most Popular): $800 Total ($500 upfront setup + $300/mo). Includes the interactive quote calculator and instant SMS lead alerts straight to your cell.
+- Enterprise Plan: $1,600 Total ($1,000 upfront setup + $600/mo). Full lead acquisition system for multi-crew companies, including custom CRM/booking integrations, multi-city service pages, and priority monthly updates.
+
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
+
+Thank you,
 Dylan
-Local Web Developer
 ```
 
 ---
@@ -40,25 +68,51 @@ Local Web Developer
 
 * **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://lexairconditioning.com](https://lexairconditioning.com) | **To Email:** `info@lexairconditioning.com` | **Phone:** (469) 890-0668 | **City:** Carrollton, TX | **Status:** ⏳ Ready to Send
 
-**Subject:** quick note re: Lex Air Conditioning & Heating mobile site
-
+**Message #1 (Initial Outreach — Linkless):**
 ```text
-Hi Lex Air Conditioning & Heating team,
+Hi Lex Air Conditioning & Heating,
 
-I was looking up local HVAC techs in Carrollton on my phone and noticed your current website is pretty tough to navigate on a smartphone, the call button and text get cut off.
+I came across your business while looking up local hvac & air conditioning in Carrollton. I pulled up your site on my iPhone and noticed it takes several steps to navigate on mobile.
 
-I put together a quick mobile-optimized version for Lex Air Conditioning & Heating so customers can call you in 1 tap or get a quote:
+I put together an interactive mobile prototype customized for Lex Air Conditioning & Heating with a built-in instant price estimator for homeowners.
 
-[Click here to view the mobile preview for Lex Air Conditioning & Heating](https://dzor777.github.io/building-websites-for-local-businesses/?client=lex-air-conditioning-carrollton)
+Would you be open to checking out a quick preview link on your phone? You can email roth.dylan777@gmail.com or text (903) 287-0299.
 
-Take a look on your phone whenever you have a second. The basic package is $450 to get started ($300 setup fee and $150/month for hosting, updates, and maintenance), and I also have higher tiers if you need extra features like custom calculators or booking integrations.
+Best regards,
+Dylan Roth
+```
 
-If you want me to get this set up on your domain today, just reply "YES" to this email.
+**Message #2 (Day 5 Follow-Up Bump — Linkless):**
+```text
+Hi Lex Air Conditioning & Heating,
+
+Quick check-in—wanted to see if you had a moment to check out the mobile site preview with the instant quote calculator I put together for Lex Air Conditioning & Heating?
+
+Happy to send over the link if you'd like to take a look. You can email roth.dylan777@gmail.com or text (903) 287-0299.
+
+Best,
+Dylan Roth
+```
+
+**Message #3 (Value Delivery / Reply With Link):**
+```text
+Hi Lex Air Conditioning & Heating,
+
+Appreciate you getting back to me! Here is the interactive mobile preview I put together for Lex Air Conditioning & Heating:
+
+https://dzor777.github.io/building-websites-for-local-businesses/?client=lex-air-conditioning-heating
+
+Take a look on your phone if you can. The biggest feature is the interactive quote calculator halfway down the page. Instead of homeowners leaving your site when you don't answer right away, they can estimate their project and submit their details directly to your phone.
+
+We keep pricing completely flat with zero long-term contracts (6-month initial term, then month-to-month):
+- Basic Plan: $450 Total ($300 upfront setup + $150/mo). Clean mobile website, fast hosting, and ongoing updates.
+- Standard Plan (Most Popular): $800 Total ($500 upfront setup + $300/mo). Includes the interactive quote calculator and instant SMS lead alerts straight to your cell.
+- Enterprise Plan: $1,600 Total ($1,000 upfront setup + $600/mo). Full lead acquisition system for multi-crew companies, including custom CRM/booking integrations, multi-city service pages, and priority monthly updates.
+
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
-
 Dylan
-Local Web Developer
 ```
 
 ---
@@ -67,25 +121,51 @@ Local Web Developer
 
 * **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://jkairconditioning.com](https://jkairconditioning.com) | **To Email:** `service@jkairconditioning.com` | **Phone:** (972) 542-8888 | **City:** McKinney, TX | **Status:** ⏳ Ready to Send
 
-**Subject:** quick note re: J&K Air Conditioning & Heating mobile site
-
+**Message #1 (Initial Outreach — Linkless):**
 ```text
-Hi J&K Air Conditioning & Heating team,
+Hi J&K Air Conditioning & Heating,
 
-I was looking up local HVAC techs in McKinney on my phone and noticed your current website is pretty tough to navigate on a smartphone, the call button and text get cut off.
+I specialize in high-converting mobile sites for Texas trade contractors and put together a modern redesign concept specifically for J&K Air Conditioning & Heating.
 
-I put together a quick mobile-optimized version for J&K Air Conditioning & Heating so customers can call you in 1 tap or get a quote:
+It features upfront emergency pricing, service area highlights for McKinney, and a 1-tap emergency dispatch button.
 
-[Click here to view the mobile preview for J&K Air Conditioning & Heating](https://dzor777.github.io/building-websites-for-local-businesses/?client=jk-air-conditioning-mckinney)
+Let me know if you'd like me to send the demo link over to take a look. You can text me at (903) 287-0299 or email roth.dylan777@gmail.com.
 
-Take a look on your phone whenever you have a second. The basic package is $450 to get started ($300 setup fee and $150/month for hosting, updates, and maintenance), and I also have higher tiers if you need extra features like custom calculators or booking integrations.
+Thanks,
+Dylan Roth
+```
 
-If you want me to get this set up on your domain today, just reply "YES" to this email.
+**Message #2 (Day 5 Follow-Up Bump — Linkless):**
+```text
+Hi J&K Air Conditioning & Heating,
+
+I know you're busy running jobs, so I wanted to make sure my previous note didn't get buried.
+
+Would it be alright if I sent over the mobile redesign demo I put together for J&K Air Conditioning & Heating? Feel free to text me at (903) 287-0299 or email roth.dylan777@gmail.com.
+
+Thanks,
+Dylan Roth
+```
+
+**Message #3 (Value Delivery / Reply With Link):**
+```text
+Hi J&K Air Conditioning & Heating,
+
+Appreciate you getting back to me! Here is the interactive mobile preview I put together for J&K Air Conditioning & Heating:
+
+https://dzor777.github.io/building-websites-for-local-businesses/?client=j-k-air-conditioning-heating
+
+Take a look on your phone if you can. The biggest feature is the interactive quote calculator halfway down the page. Instead of homeowners leaving your site when you don't answer right away, they can estimate their project and submit their details directly to your phone.
+
+We keep pricing completely flat with zero long-term contracts (6-month initial term, then month-to-month):
+- Basic Plan: $450 Total ($300 upfront setup + $150/mo). Clean mobile website, fast hosting, and ongoing updates.
+- Standard Plan (Most Popular): $800 Total ($500 upfront setup + $300/mo). Includes the interactive quote calculator and instant SMS lead alerts straight to your cell.
+- Enterprise Plan: $1,600 Total ($1,000 upfront setup + $600/mo). Full lead acquisition system for multi-crew companies, including custom CRM/booking integrations, multi-city service pages, and priority monthly updates.
+
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
-
 Dylan
-Local Web Developer
 ```
 
 ---
@@ -94,25 +174,51 @@ Local Web Developer
 
 * **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://strittmatters.com](https://strittmatters.com) | **To Email:** `info@strittmatters.com` | **Phone:** (940) 246-2075 | **City:** Denton, TX | **Status:** ⏳ Ready to Send
 
-**Subject:** quick note re: Strittmatter Plumbing, Heating & AC mobile site
-
+**Message #1 (Initial Outreach — Linkless):**
 ```text
-Hi Strittmatter Plumbing, Heating & AC team,
+Hi Strittmatter Plumbing, Heating & AC,
 
-I was looking up local plumbers and HVAC techs in Denton on my phone and noticed your current website is pretty tough to navigate on a smartphone, the call button and text get cut off.
+I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
-I put together a quick mobile-optimized version for Strittmatter Plumbing, Heating & AC so customers can call you in 1 tap or get a quote:
+I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-[Click here to view the mobile preview for Strittmatter Plumbing, Heating & AC](https://dzor777.github.io/building-websites-for-local-businesses/?client=strittmatter-plumbing-denton)
-
-Take a look on your phone whenever you have a second. The basic package is $450 to get started ($300 setup fee and $150/month for hosting, updates, and maintenance), and I also have higher tiers if you need extra features like custom calculators or booking integrations.
-
-If you want me to get this set up on your domain today, just reply "YES" to this email.
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
+Dylan Roth
+```
 
+**Message #2 (Day 5 Follow-Up Bump — Linkless):**
+```text
+Hi Strittmatter Plumbing, Heating & AC,
+
+Just following up on my note from a few days ago—would it be alright if I sent over that mobile site preview link for you to check out on your phone?
+
+Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
+
+Thanks,
+Dylan Roth
+```
+
+**Message #3 (Value Delivery / Reply With Link):**
+```text
+Hi Strittmatter Plumbing, Heating & AC,
+
+Appreciate you getting back to me! Here is the interactive mobile preview I put together for Strittmatter Plumbing, Heating & AC:
+
+https://dzor777.github.io/building-websites-for-local-businesses/?client=strittmatter-plumbing-heating-ac
+
+Take a look on your phone if you can. The biggest feature is the interactive quote calculator halfway down the page. Instead of homeowners leaving your site when you don't answer right away, they can estimate their project and submit their details directly to your phone.
+
+We keep pricing completely flat with zero long-term contracts (6-month initial term, then month-to-month):
+- Basic Plan: $450 Total ($300 upfront setup + $150/mo). Clean mobile website, fast hosting, and ongoing updates.
+- Standard Plan (Most Popular): $800 Total ($500 upfront setup + $300/mo). Includes the interactive quote calculator and instant SMS lead alerts straight to your cell.
+- Enterprise Plan: $1,600 Total ($1,000 upfront setup + $600/mo). Full lead acquisition system for multi-crew companies, including custom CRM/booking integrations, multi-city service pages, and priority monthly updates.
+
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
+
+Thank you,
 Dylan
-Local Web Developer
 ```
 
 ---
@@ -121,25 +227,51 @@ Local Web Developer
 
 * **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://codyandsons.com](https://codyandsons.com) | **To Email:** `info@codyandsons.com` | **Phone:** (214) 339-3401 | **City:** Dallas, TX | **Status:** ⏳ Ready to Send
 
-**Subject:** quick note re: Cody & Sons Plumbing, Heating & Air mobile site
-
+**Message #1 (Initial Outreach — Linkless):**
 ```text
-Hi Cody & Sons Plumbing, Heating & Air team,
+Hi Cody & Sons Plumbing, Heating & Air,
 
-I was looking up local plumbers in Dallas on my phone and noticed your current website is pretty tough to navigate on a smartphone, the call button and text get cut off.
+I came across your business while looking up local hvac & air conditioning in Dallas. I pulled up your site on my iPhone and noticed it takes several steps to navigate on mobile.
 
-I put together a quick mobile-optimized version for Cody & Sons Plumbing, Heating & Air so customers can call you in 1 tap or get a quote:
+I put together an interactive mobile prototype customized for Cody & Sons Plumbing, Heating & Air with a built-in instant price estimator for homeowners.
 
-[Click here to view the mobile preview for Cody & Sons Plumbing, Heating & Air](https://dzor777.github.io/building-websites-for-local-businesses/?client=cody-and-sons-dallas)
+Would you be open to checking out a quick preview link on your phone? You can email roth.dylan777@gmail.com or text (903) 287-0299.
 
-Take a look on your phone whenever you have a second. The basic package is $450 to get started ($300 setup fee and $150/month for hosting, updates, and maintenance), and I also have higher tiers if you need extra features like custom calculators or booking integrations.
+Best regards,
+Dylan Roth
+```
 
-If you want me to get this set up on your domain today, just reply "YES" to this email.
+**Message #2 (Day 5 Follow-Up Bump — Linkless):**
+```text
+Hi Cody & Sons Plumbing, Heating & Air,
+
+Quick check-in—wanted to see if you had a moment to check out the mobile site preview with the instant quote calculator I put together for Cody & Sons Plumbing, Heating & Air?
+
+Happy to send over the link if you'd like to take a look. You can email roth.dylan777@gmail.com or text (903) 287-0299.
+
+Best,
+Dylan Roth
+```
+
+**Message #3 (Value Delivery / Reply With Link):**
+```text
+Hi Cody & Sons Plumbing, Heating & Air,
+
+Appreciate you getting back to me! Here is the interactive mobile preview I put together for Cody & Sons Plumbing, Heating & Air:
+
+https://dzor777.github.io/building-websites-for-local-businesses/?client=cody-sons-plumbing-heating-air
+
+Take a look on your phone if you can. The biggest feature is the interactive quote calculator halfway down the page. Instead of homeowners leaving your site when you don't answer right away, they can estimate their project and submit their details directly to your phone.
+
+We keep pricing completely flat with zero long-term contracts (6-month initial term, then month-to-month):
+- Basic Plan: $450 Total ($300 upfront setup + $150/mo). Clean mobile website, fast hosting, and ongoing updates.
+- Standard Plan (Most Popular): $800 Total ($500 upfront setup + $300/mo). Includes the interactive quote calculator and instant SMS lead alerts straight to your cell.
+- Enterprise Plan: $1,600 Total ($1,000 upfront setup + $600/mo). Full lead acquisition system for multi-crew companies, including custom CRM/booking integrations, multi-city service pages, and priority monthly updates.
+
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
-
 Dylan
-Local Web Developer
 ```
 
 ---
@@ -148,25 +280,51 @@ Local Web Developer
 
 * **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://coldfactor.com](https://coldfactor.com) | **To Email:** `service@coldfactor.com` | **Phone:** (469) 200-0982 | **City:** Lewisville, TX | **Status:** ⏳ Ready to Send
 
-**Subject:** quick note re: Cold Factor Heating & Air mobile site
-
+**Message #1 (Initial Outreach — Linkless):**
 ```text
-Hi Cold Factor Heating & Air team,
+Hi Cold Factor Heating & Air,
 
-I was looking up local HVAC techs in Lewisville on my phone and noticed your current website is pretty tough to navigate on a smartphone, the call button and text get cut off.
+I specialize in high-converting mobile sites for Texas trade contractors and put together a modern redesign concept specifically for Cold Factor Heating & Air.
 
-I put together a quick mobile-optimized version for Cold Factor Heating & Air so customers can call you in 1 tap or get a quote:
+It features upfront emergency pricing, service area highlights for Lewisville, and a 1-tap emergency dispatch button.
 
-[Click here to view the mobile preview for Cold Factor Heating & Air](https://dzor777.github.io/building-websites-for-local-businesses/?client=cold-factor-hvac-lewisville)
+Let me know if you'd like me to send the demo link over to take a look. You can text me at (903) 287-0299 or email roth.dylan777@gmail.com.
 
-Take a look on your phone whenever you have a second. The basic package is $450 to get started ($300 setup fee and $150/month for hosting, updates, and maintenance), and I also have higher tiers if you need extra features like custom calculators or booking integrations.
+Thanks,
+Dylan Roth
+```
 
-If you want me to get this set up on your domain today, just reply "YES" to this email.
+**Message #2 (Day 5 Follow-Up Bump — Linkless):**
+```text
+Hi Cold Factor Heating & Air,
+
+I know you're busy running jobs, so I wanted to make sure my previous note didn't get buried.
+
+Would it be alright if I sent over the mobile redesign demo I put together for Cold Factor Heating & Air? Feel free to text me at (903) 287-0299 or email roth.dylan777@gmail.com.
+
+Thanks,
+Dylan Roth
+```
+
+**Message #3 (Value Delivery / Reply With Link):**
+```text
+Hi Cold Factor Heating & Air,
+
+Appreciate you getting back to me! Here is the interactive mobile preview I put together for Cold Factor Heating & Air:
+
+https://dzor777.github.io/building-websites-for-local-businesses/?client=cold-factor-heating-air
+
+Take a look on your phone if you can. The biggest feature is the interactive quote calculator halfway down the page. Instead of homeowners leaving your site when you don't answer right away, they can estimate their project and submit their details directly to your phone.
+
+We keep pricing completely flat with zero long-term contracts (6-month initial term, then month-to-month):
+- Basic Plan: $450 Total ($300 upfront setup + $150/mo). Clean mobile website, fast hosting, and ongoing updates.
+- Standard Plan (Most Popular): $800 Total ($500 upfront setup + $300/mo). Includes the interactive quote calculator and instant SMS lead alerts straight to your cell.
+- Enterprise Plan: $1,600 Total ($1,000 upfront setup + $600/mo). Full lead acquisition system for multi-crew companies, including custom CRM/booking integrations, multi-city service pages, and priority monthly updates.
+
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
-
 Dylan
-Local Web Developer
 ```
 
 ---
@@ -175,25 +333,51 @@ Local Web Developer
 
 * **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://arrowelectric.net](https://arrowelectric.net) | **To Email:** `service@arrowelectric.net` | **Phone:** (469) 218-9915 | **City:** Carrollton, TX | **Status:** ⏳ Ready to Send
 
-**Subject:** quick note re: Arrow Electric Inc. mobile site
-
+**Message #1 (Initial Outreach — Linkless):**
 ```text
-Hi Arrow Electric Inc. team,
+Hi Arrow Electric Inc.,
 
-I was looking up local electricians in Carrollton on my phone and noticed your current website is pretty tough to navigate on a smartphone, the call button and text get cut off.
+I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
-I put together a quick mobile-optimized version for Arrow Electric Inc. so customers can call you in 1 tap or get a quote:
+I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-[Click here to view the mobile preview for Arrow Electric Inc.](https://dzor777.github.io/building-websites-for-local-businesses/?client=arrow-electric-carrollton)
-
-Take a look on your phone whenever you have a second. The basic package is $450 to get started ($300 setup fee and $150/month for hosting, updates, and maintenance), and I also have higher tiers if you need extra features like custom calculators or booking integrations.
-
-If you want me to get this set up on your domain today, just reply "YES" to this email.
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
+Dylan Roth
+```
 
+**Message #2 (Day 5 Follow-Up Bump — Linkless):**
+```text
+Hi Arrow Electric Inc.,
+
+Just following up on my note from a few days ago—would it be alright if I sent over that mobile site preview link for you to check out on your phone?
+
+Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
+
+Thanks,
+Dylan Roth
+```
+
+**Message #3 (Value Delivery / Reply With Link):**
+```text
+Hi Arrow Electric Inc.,
+
+Appreciate you getting back to me! Here is the interactive mobile preview I put together for Arrow Electric Inc.:
+
+https://dzor777.github.io/building-websites-for-local-businesses/?client=arrow-electric-inc
+
+Take a look on your phone if you can. The biggest feature is the interactive quote calculator halfway down the page. Instead of homeowners leaving your site when you don't answer right away, they can estimate their project and submit their details directly to your phone.
+
+We keep pricing completely flat with zero long-term contracts (6-month initial term, then month-to-month):
+- Basic Plan: $450 Total ($300 upfront setup + $150/mo). Clean mobile website, fast hosting, and ongoing updates.
+- Standard Plan (Most Popular): $800 Total ($500 upfront setup + $300/mo). Includes the interactive quote calculator and instant SMS lead alerts straight to your cell.
+- Enterprise Plan: $1,600 Total ($1,000 upfront setup + $600/mo). Full lead acquisition system for multi-crew companies, including custom CRM/booking integrations, multi-city service pages, and priority monthly updates.
+
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
+
+Thank you,
 Dylan
-Local Web Developer
 ```
 
 ---
@@ -202,25 +386,51 @@ Local Web Developer
 
 * **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://rowleyroofing.com](https://rowleyroofing.com) | **To Email:** `info@rowleyroofing.com` | **Phone:** (972) 668-0919 | **City:** Frisco, TX | **Status:** ⏳ Ready to Send
 
-**Subject:** quick note re: Rowley Roofing & Construction mobile site
-
+**Message #1 (Initial Outreach — Linkless):**
 ```text
-Hi Rowley Roofing & Construction team,
+Hi Rowley Roofing & Construction,
 
-I was looking up local roofers in Frisco on my phone and noticed your current website is pretty tough to navigate on a smartphone, the call button and text get cut off.
+I came across your business while looking up local roofing & restoration in Frisco. I pulled up your site on my iPhone and noticed it takes several steps to navigate on mobile.
 
-I put together a quick mobile-optimized version for Rowley Roofing & Construction so customers can call you in 1 tap or get a quote:
+I put together an interactive mobile prototype customized for Rowley Roofing & Construction with a built-in instant price estimator for homeowners.
 
-[Click here to view the mobile preview for Rowley Roofing & Construction](https://dzor777.github.io/building-websites-for-local-businesses/?client=rowley-roofing-frisco)
+Would you be open to checking out a quick preview link on your phone? You can email roth.dylan777@gmail.com or text (903) 287-0299.
 
-Take a look on your phone whenever you have a second. The basic package is $450 to get started ($300 setup fee and $150/month for hosting, updates, and maintenance), and I also have higher tiers if you need extra features like custom calculators or booking integrations.
+Best regards,
+Dylan Roth
+```
 
-If you want me to get this set up on your domain today, just reply "YES" to this email.
+**Message #2 (Day 5 Follow-Up Bump — Linkless):**
+```text
+Hi Rowley Roofing & Construction,
+
+Quick check-in—wanted to see if you had a moment to check out the mobile site preview with the instant quote calculator I put together for Rowley Roofing & Construction?
+
+Happy to send over the link if you'd like to take a look. You can email roth.dylan777@gmail.com or text (903) 287-0299.
+
+Best,
+Dylan Roth
+```
+
+**Message #3 (Value Delivery / Reply With Link):**
+```text
+Hi Rowley Roofing & Construction,
+
+Appreciate you getting back to me! Here is the interactive mobile preview I put together for Rowley Roofing & Construction:
+
+https://dzor777.github.io/building-websites-for-local-businesses/?client=rowley-roofing-construction
+
+Take a look on your phone if you can. The biggest feature is the interactive quote calculator halfway down the page. Instead of homeowners leaving your site when you don't answer right away, they can estimate their project and submit their details directly to your phone.
+
+We keep pricing completely flat with zero long-term contracts (6-month initial term, then month-to-month):
+- Basic Plan: $450 Total ($300 upfront setup + $150/mo). Clean mobile website, fast hosting, and ongoing updates.
+- Standard Plan (Most Popular): $800 Total ($500 upfront setup + $300/mo). Includes the interactive quote calculator and instant SMS lead alerts straight to your cell.
+- Enterprise Plan: $1,600 Total ($1,000 upfront setup + $600/mo). Full lead acquisition system for multi-crew companies, including custom CRM/booking integrations, multi-city service pages, and priority monthly updates.
+
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
-
 Dylan
-Local Web Developer
 ```
 
 ---
@@ -229,25 +439,51 @@ Local Web Developer
 
 * **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://accurateleak.com](https://accurateleak.com) | **To Email:** `info@accurateleak.com` | **Phone:** (888) 908-5325 | **City:** Plano, TX | **Status:** ⏳ Ready to Send
 
-**Subject:** quick note re: Accurate Leak and Line mobile site
-
+**Message #1 (Initial Outreach — Linkless):**
 ```text
-Hi Accurate Leak and Line team,
+Hi Accurate Leak and Line,
 
-I was looking up local plumbers in Plano on my phone and noticed your current website is pretty tough to navigate on a smartphone, the call button and text get cut off.
+I specialize in high-converting mobile sites for Texas trade contractors and put together a modern redesign concept specifically for Accurate Leak and Line.
 
-I put together a quick mobile-optimized version for Accurate Leak and Line so customers can call you in 1 tap or get a quote:
+It features upfront emergency pricing, service area highlights for Plano, and a 1-tap emergency dispatch button.
 
-[Click here to view the mobile preview for Accurate Leak and Line](https://dzor777.github.io/building-websites-for-local-businesses/?client=accurate-leak-line-plano)
+Let me know if you'd like me to send the demo link over to take a look. You can text me at (903) 287-0299 or email roth.dylan777@gmail.com.
 
-Take a look on your phone whenever you have a second. The basic package is $450 to get started ($300 setup fee and $150/month for hosting, updates, and maintenance), and I also have higher tiers if you need extra features like custom calculators or booking integrations.
+Thanks,
+Dylan Roth
+```
 
-If you want me to get this set up on your domain today, just reply "YES" to this email.
+**Message #2 (Day 5 Follow-Up Bump — Linkless):**
+```text
+Hi Accurate Leak and Line,
+
+I know you're busy running jobs, so I wanted to make sure my previous note didn't get buried.
+
+Would it be alright if I sent over the mobile redesign demo I put together for Accurate Leak and Line? Feel free to text me at (903) 287-0299 or email roth.dylan777@gmail.com.
+
+Thanks,
+Dylan Roth
+```
+
+**Message #3 (Value Delivery / Reply With Link):**
+```text
+Hi Accurate Leak and Line,
+
+Appreciate you getting back to me! Here is the interactive mobile preview I put together for Accurate Leak and Line:
+
+https://dzor777.github.io/building-websites-for-local-businesses/?client=accurate-leak-and-line
+
+Take a look on your phone if you can. The biggest feature is the interactive quote calculator halfway down the page. Instead of homeowners leaving your site when you don't answer right away, they can estimate their project and submit their details directly to your phone.
+
+We keep pricing completely flat with zero long-term contracts (6-month initial term, then month-to-month):
+- Basic Plan: $450 Total ($300 upfront setup + $150/mo). Clean mobile website, fast hosting, and ongoing updates.
+- Standard Plan (Most Popular): $800 Total ($500 upfront setup + $300/mo). Includes the interactive quote calculator and instant SMS lead alerts straight to your cell.
+- Enterprise Plan: $1,600 Total ($1,000 upfront setup + $600/mo). Full lead acquisition system for multi-crew companies, including custom CRM/booking integrations, multi-city service pages, and priority monthly updates.
+
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
-
 Dylan
-Local Web Developer
 ```
 
 ---
@@ -256,25 +492,51 @@ Local Web Developer
 
 * **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://totalair.com](https://totalair.com) | **To Email:** `info@totalair.com` | **Phone:** (972) 845-9073 | **City:** Plano, TX | **Status:** ⏳ Ready to Send
 
-**Subject:** quick note re: Total Air & Heat mobile site
-
+**Message #1 (Initial Outreach — Linkless):**
 ```text
-Hi Total Air & Heat team,
+Hi Total Air & Heat,
 
-I was looking up local HVAC techs in Plano on my phone and noticed your current website is pretty tough to navigate on a smartphone, the call button and text get cut off.
+I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
-I put together a quick mobile-optimized version for Total Air & Heat so customers can call you in 1 tap or get a quote:
+I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-[Click here to view the mobile preview for Total Air & Heat](https://dzor777.github.io/building-websites-for-local-businesses/?client=total-air-heat-plano)
-
-Take a look on your phone whenever you have a second. The basic package is $450 to get started ($300 setup fee and $150/month for hosting, updates, and maintenance), and I also have higher tiers if you need extra features like custom calculators or booking integrations.
-
-If you want me to get this set up on your domain today, just reply "YES" to this email.
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
+Dylan Roth
+```
 
+**Message #2 (Day 5 Follow-Up Bump — Linkless):**
+```text
+Hi Total Air & Heat,
+
+Just following up on my note from a few days ago—would it be alright if I sent over that mobile site preview link for you to check out on your phone?
+
+Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
+
+Thanks,
+Dylan Roth
+```
+
+**Message #3 (Value Delivery / Reply With Link):**
+```text
+Hi Total Air & Heat,
+
+Appreciate you getting back to me! Here is the interactive mobile preview I put together for Total Air & Heat:
+
+https://dzor777.github.io/building-websites-for-local-businesses/?client=total-air-heat
+
+Take a look on your phone if you can. The biggest feature is the interactive quote calculator halfway down the page. Instead of homeowners leaving your site when you don't answer right away, they can estimate their project and submit their details directly to your phone.
+
+We keep pricing completely flat with zero long-term contracts (6-month initial term, then month-to-month):
+- Basic Plan: $450 Total ($300 upfront setup + $150/mo). Clean mobile website, fast hosting, and ongoing updates.
+- Standard Plan (Most Popular): $800 Total ($500 upfront setup + $300/mo). Includes the interactive quote calculator and instant SMS lead alerts straight to your cell.
+- Enterprise Plan: $1,600 Total ($1,000 upfront setup + $600/mo). Full lead acquisition system for multi-crew companies, including custom CRM/booking integrations, multi-city service pages, and priority monthly updates.
+
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
+
+Thank you,
 Dylan
-Local Web Developer
 ```
 
 ---
@@ -283,25 +545,51 @@ Local Web Developer
 
 * **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://andersonroofingtx.com](https://andersonroofingtx.com) | **To Email:** `info@andersonroofingtx.com` | **Phone:** (210) 972-5682 | **City:** Denton, TX | **Status:** ⏳ Ready to Send
 
-**Subject:** quick note re: Anderson Roofing & Construction mobile site
-
+**Message #1 (Initial Outreach — Linkless):**
 ```text
-Hi Anderson Roofing & Construction team,
+Hi Anderson Roofing & Construction,
 
-I was looking up local roofers in Denton on my phone and noticed your current website is pretty tough to navigate on a smartphone, the call button and text get cut off.
+I came across your business while looking up local roofing & restoration in Denton. I pulled up your site on my iPhone and noticed it takes several steps to navigate on mobile.
 
-I put together a quick mobile-optimized version for Anderson Roofing & Construction so customers can call you in 1 tap or get a quote:
+I put together an interactive mobile prototype customized for Anderson Roofing & Construction with a built-in instant price estimator for homeowners.
 
-[Click here to view the mobile preview for Anderson Roofing & Construction](https://dzor777.github.io/building-websites-for-local-businesses/?client=anderson-roofing-denton)
+Would you be open to checking out a quick preview link on your phone? You can email roth.dylan777@gmail.com or text (903) 287-0299.
 
-Take a look on your phone whenever you have a second. The basic package is $450 to get started ($300 setup fee and $150/month for hosting, updates, and maintenance), and I also have higher tiers if you need extra features like custom calculators or booking integrations.
+Best regards,
+Dylan Roth
+```
 
-If you want me to get this set up on your domain today, just reply "YES" to this email.
+**Message #2 (Day 5 Follow-Up Bump — Linkless):**
+```text
+Hi Anderson Roofing & Construction,
+
+Quick check-in—wanted to see if you had a moment to check out the mobile site preview with the instant quote calculator I put together for Anderson Roofing & Construction?
+
+Happy to send over the link if you'd like to take a look. You can email roth.dylan777@gmail.com or text (903) 287-0299.
+
+Best,
+Dylan Roth
+```
+
+**Message #3 (Value Delivery / Reply With Link):**
+```text
+Hi Anderson Roofing & Construction,
+
+Appreciate you getting back to me! Here is the interactive mobile preview I put together for Anderson Roofing & Construction:
+
+https://dzor777.github.io/building-websites-for-local-businesses/?client=anderson-roofing-construction
+
+Take a look on your phone if you can. The biggest feature is the interactive quote calculator halfway down the page. Instead of homeowners leaving your site when you don't answer right away, they can estimate their project and submit their details directly to your phone.
+
+We keep pricing completely flat with zero long-term contracts (6-month initial term, then month-to-month):
+- Basic Plan: $450 Total ($300 upfront setup + $150/mo). Clean mobile website, fast hosting, and ongoing updates.
+- Standard Plan (Most Popular): $800 Total ($500 upfront setup + $300/mo). Includes the interactive quote calculator and instant SMS lead alerts straight to your cell.
+- Enterprise Plan: $1,600 Total ($1,000 upfront setup + $600/mo). Full lead acquisition system for multi-crew companies, including custom CRM/booking integrations, multi-city service pages, and priority monthly updates.
+
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
-
 Dylan
-Local Web Developer
 ```
 
 ---
@@ -310,25 +598,51 @@ Local Web Developer
 
 * **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://white-electric.com](https://white-electric.com) | **To Email:** `office@white-electric.com` | **Phone:** (972) 436-5020 | **City:** Lewisville, TX | **Status:** ⏳ Ready to Send
 
-**Subject:** quick note re: White Electric mobile site
-
+**Message #1 (Initial Outreach — Linkless):**
 ```text
-Hi White Electric team,
+Hi White Electric,
 
-I was looking up local electricians in Lewisville on my phone and noticed your current website is pretty tough to navigate on a smartphone, the call button and text get cut off.
+I specialize in high-converting mobile sites for Texas trade contractors and put together a modern redesign concept specifically for White Electric.
 
-I put together a quick mobile-optimized version for White Electric so customers can call you in 1 tap or get a quote:
+It features upfront emergency pricing, service area highlights for Lewisville, and a 1-tap emergency dispatch button.
 
-[Click here to view the mobile preview for White Electric](https://dzor777.github.io/building-websites-for-local-businesses/?client=white-electric-lewisville)
+Let me know if you'd like me to send the demo link over to take a look. You can text me at (903) 287-0299 or email roth.dylan777@gmail.com.
 
-Take a look on your phone whenever you have a second. The basic package is $450 to get started ($300 setup fee and $150/month for hosting, updates, and maintenance), and I also have higher tiers if you need extra features like custom calculators or booking integrations.
+Thanks,
+Dylan Roth
+```
 
-If you want me to get this set up on your domain today, just reply "YES" to this email.
+**Message #2 (Day 5 Follow-Up Bump — Linkless):**
+```text
+Hi White Electric,
+
+I know you're busy running jobs, so I wanted to make sure my previous note didn't get buried.
+
+Would it be alright if I sent over the mobile redesign demo I put together for White Electric? Feel free to text me at (903) 287-0299 or email roth.dylan777@gmail.com.
+
+Thanks,
+Dylan Roth
+```
+
+**Message #3 (Value Delivery / Reply With Link):**
+```text
+Hi White Electric,
+
+Appreciate you getting back to me! Here is the interactive mobile preview I put together for White Electric:
+
+https://dzor777.github.io/building-websites-for-local-businesses/?client=white-electric
+
+Take a look on your phone if you can. The biggest feature is the interactive quote calculator halfway down the page. Instead of homeowners leaving your site when you don't answer right away, they can estimate their project and submit their details directly to your phone.
+
+We keep pricing completely flat with zero long-term contracts (6-month initial term, then month-to-month):
+- Basic Plan: $450 Total ($300 upfront setup + $150/mo). Clean mobile website, fast hosting, and ongoing updates.
+- Standard Plan (Most Popular): $800 Total ($500 upfront setup + $300/mo). Includes the interactive quote calculator and instant SMS lead alerts straight to your cell.
+- Enterprise Plan: $1,600 Total ($1,000 upfront setup + $600/mo). Full lead acquisition system for multi-crew companies, including custom CRM/booking integrations, multi-city service pages, and priority monthly updates.
+
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
-
 Dylan
-Local Web Developer
 ```
 
 ---
@@ -337,25 +651,51 @@ Local Web Developer
 
 * **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://armorroofco.com](https://armorroofco.com) | **To Email:** `info@armorroofco.com` | **Phone:** (972) 863-1047 | **City:** Plano, TX | **Status:** ⏳ Ready to Send
 
-**Subject:** quick note re: Armor Roofing | Exteriors mobile site
-
+**Message #1 (Initial Outreach — Linkless):**
 ```text
-Hi Armor Roofing | Exteriors team,
+Hi Armor Roofing | Exteriors,
 
-I was looking up local roofers in Plano on my phone and noticed your current website is pretty tough to navigate on a smartphone, the call button and text get cut off.
+I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
-I put together a quick mobile-optimized version for Armor Roofing | Exteriors so customers can call you in 1 tap or get a quote:
+I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-[Click here to view the mobile preview for Armor Roofing | Exteriors](https://dzor777.github.io/building-websites-for-local-businesses/?client=armor-roofing-plano)
-
-Take a look on your phone whenever you have a second. The basic package is $450 to get started ($300 setup fee and $150/month for hosting, updates, and maintenance), and I also have higher tiers if you need extra features like custom calculators or booking integrations.
-
-If you want me to get this set up on your domain today, just reply "YES" to this email.
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
+Dylan Roth
+```
 
+**Message #2 (Day 5 Follow-Up Bump — Linkless):**
+```text
+Hi Armor Roofing | Exteriors,
+
+Just following up on my note from a few days ago—would it be alright if I sent over that mobile site preview link for you to check out on your phone?
+
+Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
+
+Thanks,
+Dylan Roth
+```
+
+**Message #3 (Value Delivery / Reply With Link):**
+```text
+Hi Armor Roofing | Exteriors,
+
+Appreciate you getting back to me! Here is the interactive mobile preview I put together for Armor Roofing | Exteriors:
+
+https://dzor777.github.io/building-websites-for-local-businesses/?client=armor-roofing-exteriors
+
+Take a look on your phone if you can. The biggest feature is the interactive quote calculator halfway down the page. Instead of homeowners leaving your site when you don't answer right away, they can estimate their project and submit their details directly to your phone.
+
+We keep pricing completely flat with zero long-term contracts (6-month initial term, then month-to-month):
+- Basic Plan: $450 Total ($300 upfront setup + $150/mo). Clean mobile website, fast hosting, and ongoing updates.
+- Standard Plan (Most Popular): $800 Total ($500 upfront setup + $300/mo). Includes the interactive quote calculator and instant SMS lead alerts straight to your cell.
+- Enterprise Plan: $1,600 Total ($1,000 upfront setup + $600/mo). Full lead acquisition system for multi-crew companies, including custom CRM/booking integrations, multi-city service pages, and priority monthly updates.
+
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
+
+Thank you,
 Dylan
-Local Web Developer
 ```
 
 ---
@@ -364,25 +704,51 @@ Local Web Developer
 
 * **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://classicheatandair.com](https://classicheatandair.com) | **To Email:** `info@classicheatandair.com` | **Phone:** (214) 310-2665 | **City:** Garland, TX | **Status:** ⏳ Ready to Send
 
-**Subject:** quick note re: Classic Heating & Air mobile site
-
+**Message #1 (Initial Outreach — Linkless):**
 ```text
-Hi Classic Heating & Air team,
+Hi Classic Heating & Air,
 
-I was looking up local HVAC techs in Garland on my phone and noticed your current website is pretty tough to navigate on a smartphone, the call button and text get cut off.
+I came across your business while looking up local hvac & air conditioning in Garland. I pulled up your site on my iPhone and noticed it takes several steps to navigate on mobile.
 
-I put together a quick mobile-optimized version for Classic Heating & Air so customers can call you in 1 tap or get a quote:
+I put together an interactive mobile prototype customized for Classic Heating & Air with a built-in instant price estimator for homeowners.
 
-[Click here to view the mobile preview for Classic Heating & Air](https://dzor777.github.io/building-websites-for-local-businesses/?client=classic-heating-air-garland)
+Would you be open to checking out a quick preview link on your phone? You can email roth.dylan777@gmail.com or text (903) 287-0299.
 
-Take a look on your phone whenever you have a second. The basic package is $450 to get started ($300 setup fee and $150/month for hosting, updates, and maintenance), and I also have higher tiers if you need extra features like custom calculators or booking integrations.
+Best regards,
+Dylan Roth
+```
 
-If you want me to get this set up on your domain today, just reply "YES" to this email.
+**Message #2 (Day 5 Follow-Up Bump — Linkless):**
+```text
+Hi Classic Heating & Air,
+
+Quick check-in—wanted to see if you had a moment to check out the mobile site preview with the instant quote calculator I put together for Classic Heating & Air?
+
+Happy to send over the link if you'd like to take a look. You can email roth.dylan777@gmail.com or text (903) 287-0299.
+
+Best,
+Dylan Roth
+```
+
+**Message #3 (Value Delivery / Reply With Link):**
+```text
+Hi Classic Heating & Air,
+
+Appreciate you getting back to me! Here is the interactive mobile preview I put together for Classic Heating & Air:
+
+https://dzor777.github.io/building-websites-for-local-businesses/?client=classic-heating-air
+
+Take a look on your phone if you can. The biggest feature is the interactive quote calculator halfway down the page. Instead of homeowners leaving your site when you don't answer right away, they can estimate their project and submit their details directly to your phone.
+
+We keep pricing completely flat with zero long-term contracts (6-month initial term, then month-to-month):
+- Basic Plan: $450 Total ($300 upfront setup + $150/mo). Clean mobile website, fast hosting, and ongoing updates.
+- Standard Plan (Most Popular): $800 Total ($500 upfront setup + $300/mo). Includes the interactive quote calculator and instant SMS lead alerts straight to your cell.
+- Enterprise Plan: $1,600 Total ($1,000 upfront setup + $600/mo). Full lead acquisition system for multi-crew companies, including custom CRM/booking integrations, multi-city service pages, and priority monthly updates.
+
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
-
 Dylan
-Local Web Developer
 ```
 
 ---
@@ -391,25 +757,51 @@ Local Web Developer
 
 * **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://oldproroofing.com](https://oldproroofing.com) | **To Email:** `service@oldproroofing.com` | **Phone:** (817) 929-7663 | **City:** Grapevine, TX | **Status:** ⏳ Ready to Send
 
-**Subject:** quick note re: Old Pro Roofing mobile site
-
+**Message #1 (Initial Outreach — Linkless):**
 ```text
-Hi Old Pro Roofing team,
+Hi Old Pro Roofing,
 
-I was looking up local roofers in Grapevine on my phone and noticed your current website is pretty tough to navigate on a smartphone, the call button and text get cut off.
+I specialize in high-converting mobile sites for Texas trade contractors and put together a modern redesign concept specifically for Old Pro Roofing.
 
-I put together a quick mobile-optimized version for Old Pro Roofing so customers can call you in 1 tap or get a quote:
+It features upfront emergency pricing, service area highlights for Grapevine, and a 1-tap emergency dispatch button.
 
-[Click here to view the mobile preview for Old Pro Roofing](https://dzor777.github.io/building-websites-for-local-businesses/?client=old-pro-roofing-grapevine)
+Let me know if you'd like me to send the demo link over to take a look. You can text me at (903) 287-0299 or email roth.dylan777@gmail.com.
 
-Take a look on your phone whenever you have a second. The basic package is $450 to get started ($300 setup fee and $150/month for hosting, updates, and maintenance), and I also have higher tiers if you need extra features like custom calculators or booking integrations.
+Thanks,
+Dylan Roth
+```
 
-If you want me to get this set up on your domain today, just reply "YES" to this email.
+**Message #2 (Day 5 Follow-Up Bump — Linkless):**
+```text
+Hi Old Pro Roofing,
+
+I know you're busy running jobs, so I wanted to make sure my previous note didn't get buried.
+
+Would it be alright if I sent over the mobile redesign demo I put together for Old Pro Roofing? Feel free to text me at (903) 287-0299 or email roth.dylan777@gmail.com.
+
+Thanks,
+Dylan Roth
+```
+
+**Message #3 (Value Delivery / Reply With Link):**
+```text
+Hi Old Pro Roofing,
+
+Appreciate you getting back to me! Here is the interactive mobile preview I put together for Old Pro Roofing:
+
+https://dzor777.github.io/building-websites-for-local-businesses/?client=old-pro-roofing
+
+Take a look on your phone if you can. The biggest feature is the interactive quote calculator halfway down the page. Instead of homeowners leaving your site when you don't answer right away, they can estimate their project and submit their details directly to your phone.
+
+We keep pricing completely flat with zero long-term contracts (6-month initial term, then month-to-month):
+- Basic Plan: $450 Total ($300 upfront setup + $150/mo). Clean mobile website, fast hosting, and ongoing updates.
+- Standard Plan (Most Popular): $800 Total ($500 upfront setup + $300/mo). Includes the interactive quote calculator and instant SMS lead alerts straight to your cell.
+- Enterprise Plan: $1,600 Total ($1,000 upfront setup + $600/mo). Full lead acquisition system for multi-crew companies, including custom CRM/booking integrations, multi-city service pages, and priority monthly updates.
+
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
-
 Dylan
-Local Web Developer
 ```
 
 ---
@@ -418,25 +810,51 @@ Local Web Developer
 
 * **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://brownandsonsplumbing.com](https://brownandsonsplumbing.com) | **To Email:** `ken@brownandsons.com` | **Phone:** (940) 435-2532 | **City:** Denton, TX | **Status:** ⏳ Ready to Send
 
-**Subject:** quick note re: Brown & Sons Plumbing mobile site
-
+**Message #1 (Initial Outreach — Linkless):**
 ```text
-Hi Brown & Sons Plumbing team,
+Hi Brown & Sons Plumbing,
 
-I was looking up local plumbers in Denton on my phone and noticed your current website is pretty tough to navigate on a smartphone, the call button and text get cut off.
+I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
-I put together a quick mobile-optimized version for Brown & Sons Plumbing so customers can call you in 1 tap or get a quote:
+I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-[Click here to view the mobile preview for Brown & Sons Plumbing](https://dzor777.github.io/building-websites-for-local-businesses/?client=brown-and-sons-plumbing-denton)
-
-Take a look on your phone whenever you have a second. The basic package is $450 to get started ($300 setup fee and $150/month for hosting, updates, and maintenance), and I also have higher tiers if you need extra features like custom calculators or booking integrations.
-
-If you want me to get this set up on your domain today, just reply "YES" to this email.
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
+Dylan Roth
+```
 
+**Message #2 (Day 5 Follow-Up Bump — Linkless):**
+```text
+Hi Brown & Sons Plumbing,
+
+Just following up on my note from a few days ago—would it be alright if I sent over that mobile site preview link for you to check out on your phone?
+
+Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
+
+Thanks,
+Dylan Roth
+```
+
+**Message #3 (Value Delivery / Reply With Link):**
+```text
+Hi Brown & Sons Plumbing,
+
+Appreciate you getting back to me! Here is the interactive mobile preview I put together for Brown & Sons Plumbing:
+
+https://dzor777.github.io/building-websites-for-local-businesses/?client=brown-sons-plumbing
+
+Take a look on your phone if you can. The biggest feature is the interactive quote calculator halfway down the page. Instead of homeowners leaving your site when you don't answer right away, they can estimate their project and submit their details directly to your phone.
+
+We keep pricing completely flat with zero long-term contracts (6-month initial term, then month-to-month):
+- Basic Plan: $450 Total ($300 upfront setup + $150/mo). Clean mobile website, fast hosting, and ongoing updates.
+- Standard Plan (Most Popular): $800 Total ($500 upfront setup + $300/mo). Includes the interactive quote calculator and instant SMS lead alerts straight to your cell.
+- Enterprise Plan: $1,600 Total ($1,000 upfront setup + $600/mo). Full lead acquisition system for multi-crew companies, including custom CRM/booking integrations, multi-city service pages, and priority monthly updates.
+
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
+
+Thank you,
 Dylan
-Local Web Developer
 ```
 
 ---
@@ -445,25 +863,51 @@ Local Web Developer
 
 * **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://electricianoncall.com](https://electricianoncall.com) | **To Email:** `info@electricianoncall.com` | **Phone:** (214) 235-7251 | **City:** Plano, TX | **Status:** ⏳ Ready to Send
 
-**Subject:** quick note re: Electrician On Call mobile site
-
+**Message #1 (Initial Outreach — Linkless):**
 ```text
-Hi Electrician On Call team,
+Hi Electrician On Call,
 
-I was looking up local electricians in Plano on my phone and noticed your current website is pretty tough to navigate on a smartphone, the call button and text get cut off.
+I came across your business while looking up local electrical services in Plano. I pulled up your site on my iPhone and noticed it takes several steps to navigate on mobile.
 
-I put together a quick mobile-optimized version for Electrician On Call so customers can call you in 1 tap or get a quote:
+I put together an interactive mobile prototype customized for Electrician On Call with a built-in instant price estimator for homeowners.
 
-[Click here to view the mobile preview for Electrician On Call](https://dzor777.github.io/building-websites-for-local-businesses/?client=electrician-on-call-plano)
+Would you be open to checking out a quick preview link on your phone? You can email roth.dylan777@gmail.com or text (903) 287-0299.
 
-Take a look on your phone whenever you have a second. The basic package is $450 to get started ($300 setup fee and $150/month for hosting, updates, and maintenance), and I also have higher tiers if you need extra features like custom calculators or booking integrations.
+Best regards,
+Dylan Roth
+```
 
-If you want me to get this set up on your domain today, just reply "YES" to this email.
+**Message #2 (Day 5 Follow-Up Bump — Linkless):**
+```text
+Hi Electrician On Call,
+
+Quick check-in—wanted to see if you had a moment to check out the mobile site preview with the instant quote calculator I put together for Electrician On Call?
+
+Happy to send over the link if you'd like to take a look. You can email roth.dylan777@gmail.com or text (903) 287-0299.
+
+Best,
+Dylan Roth
+```
+
+**Message #3 (Value Delivery / Reply With Link):**
+```text
+Hi Electrician On Call,
+
+Appreciate you getting back to me! Here is the interactive mobile preview I put together for Electrician On Call:
+
+https://dzor777.github.io/building-websites-for-local-businesses/?client=electrician-on-call
+
+Take a look on your phone if you can. The biggest feature is the interactive quote calculator halfway down the page. Instead of homeowners leaving your site when you don't answer right away, they can estimate their project and submit their details directly to your phone.
+
+We keep pricing completely flat with zero long-term contracts (6-month initial term, then month-to-month):
+- Basic Plan: $450 Total ($300 upfront setup + $150/mo). Clean mobile website, fast hosting, and ongoing updates.
+- Standard Plan (Most Popular): $800 Total ($500 upfront setup + $300/mo). Includes the interactive quote calculator and instant SMS lead alerts straight to your cell.
+- Enterprise Plan: $1,600 Total ($1,000 upfront setup + $600/mo). Full lead acquisition system for multi-crew companies, including custom CRM/booking integrations, multi-city service pages, and priority monthly updates.
+
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
-
 Dylan
-Local Web Developer
 ```
 
 ---
@@ -472,25 +916,51 @@ Local Web Developer
 
 * **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://texasstarroofing.com](https://texasstarroofing.com) | **To Email:** `info@texasstarroofing.com` | **Phone:** (972) 509-7570 | **City:** Plano, TX | **Status:** ⏳ Ready to Send
 
-**Subject:** quick note re: Texas Star Roofing mobile site
-
+**Message #1 (Initial Outreach — Linkless):**
 ```text
-Hi Texas Star Roofing team,
+Hi Texas Star Roofing,
 
-I was looking up local roofers in Plano on my phone and noticed your current website is pretty tough to navigate on a smartphone, the call button and text get cut off.
+I specialize in high-converting mobile sites for Texas trade contractors and put together a modern redesign concept specifically for Texas Star Roofing.
 
-I put together a quick mobile-optimized version for Texas Star Roofing so customers can call you in 1 tap or get a quote:
+It features upfront emergency pricing, service area highlights for Plano, and a 1-tap emergency dispatch button.
 
-[Click here to view the mobile preview for Texas Star Roofing](https://dzor777.github.io/building-websites-for-local-businesses/?client=texas-star-roofing-plano)
+Let me know if you'd like me to send the demo link over to take a look. You can text me at (903) 287-0299 or email roth.dylan777@gmail.com.
 
-Take a look on your phone whenever you have a second. The basic package is $450 to get started ($300 setup fee and $150/month for hosting, updates, and maintenance), and I also have higher tiers if you need extra features like custom calculators or booking integrations.
+Thanks,
+Dylan Roth
+```
 
-If you want me to get this set up on your domain today, just reply "YES" to this email.
+**Message #2 (Day 5 Follow-Up Bump — Linkless):**
+```text
+Hi Texas Star Roofing,
+
+I know you're busy running jobs, so I wanted to make sure my previous note didn't get buried.
+
+Would it be alright if I sent over the mobile redesign demo I put together for Texas Star Roofing? Feel free to text me at (903) 287-0299 or email roth.dylan777@gmail.com.
+
+Thanks,
+Dylan Roth
+```
+
+**Message #3 (Value Delivery / Reply With Link):**
+```text
+Hi Texas Star Roofing,
+
+Appreciate you getting back to me! Here is the interactive mobile preview I put together for Texas Star Roofing:
+
+https://dzor777.github.io/building-websites-for-local-businesses/?client=texas-star-roofing
+
+Take a look on your phone if you can. The biggest feature is the interactive quote calculator halfway down the page. Instead of homeowners leaving your site when you don't answer right away, they can estimate their project and submit their details directly to your phone.
+
+We keep pricing completely flat with zero long-term contracts (6-month initial term, then month-to-month):
+- Basic Plan: $450 Total ($300 upfront setup + $150/mo). Clean mobile website, fast hosting, and ongoing updates.
+- Standard Plan (Most Popular): $800 Total ($500 upfront setup + $300/mo). Includes the interactive quote calculator and instant SMS lead alerts straight to your cell.
+- Enterprise Plan: $1,600 Total ($1,000 upfront setup + $600/mo). Full lead acquisition system for multi-crew companies, including custom CRM/booking integrations, multi-city service pages, and priority monthly updates.
+
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
-
 Dylan
-Local Web Developer
 ```
 
 ---
@@ -499,25 +969,51 @@ Local Web Developer
 
 * **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://peakroofingconstruction.com](https://peakroofingconstruction.com) | **To Email:** `info@peakroofingconstruction.com` | **Phone:** (972) 335-7325 | **City:** Frisco, TX | **Status:** ⏳ Ready to Send
 
-**Subject:** quick note re: Peak Roofing & Construction mobile site
-
+**Message #1 (Initial Outreach — Linkless):**
 ```text
-Hi Peak Roofing & Construction team,
+Hi Peak Roofing & Construction,
 
-I was looking up local roofers in Frisco on my phone and noticed your current website is pretty tough to navigate on a smartphone, the call button and text get cut off.
+I was checking your website on my phone and noticed the call button and layout get cut off on mobile screens.
 
-I put together a quick mobile-optimized version for Peak Roofing & Construction so customers can call you in 1 tap or get a quote:
+I'm a local Texas web specialist and put together an interactive mobile demo for your company that includes a 1-tap call button and an instant estimate calculator.
 
-[Click here to view the mobile preview for Peak Roofing & Construction](https://dzor777.github.io/building-websites-for-local-businesses/?client=peak-roofing-construction-frisco)
-
-Take a look on your phone whenever you have a second. The basic package is $450 to get started ($300 setup fee and $150/month for hosting, updates, and maintenance), and I also have higher tiers if you need extra features like custom calculators or booking integrations.
-
-If you want me to get this set up on your domain today, just reply "YES" to this email.
+Would it be alright if I sent you a quick link so you can take a look on your phone? Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
+Dylan Roth
+```
 
+**Message #2 (Day 5 Follow-Up Bump — Linkless):**
+```text
+Hi Peak Roofing & Construction,
+
+Just following up on my note from a few days ago—would it be alright if I sent over that mobile site preview link for you to check out on your phone?
+
+Feel free to email me at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
+
+Thanks,
+Dylan Roth
+```
+
+**Message #3 (Value Delivery / Reply With Link):**
+```text
+Hi Peak Roofing & Construction,
+
+Appreciate you getting back to me! Here is the interactive mobile preview I put together for Peak Roofing & Construction:
+
+https://dzor777.github.io/building-websites-for-local-businesses/?client=peak-roofing-construction
+
+Take a look on your phone if you can. The biggest feature is the interactive quote calculator halfway down the page. Instead of homeowners leaving your site when you don't answer right away, they can estimate their project and submit their details directly to your phone.
+
+We keep pricing completely flat with zero long-term contracts (6-month initial term, then month-to-month):
+- Basic Plan: $450 Total ($300 upfront setup + $150/mo). Clean mobile website, fast hosting, and ongoing updates.
+- Standard Plan (Most Popular): $800 Total ($500 upfront setup + $300/mo). Includes the interactive quote calculator and instant SMS lead alerts straight to your cell.
+- Enterprise Plan: $1,600 Total ($1,000 upfront setup + $600/mo). Full lead acquisition system for multi-crew companies, including custom CRM/booking integrations, multi-city service pages, and priority monthly updates.
+
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
+
+Thank you,
 Dylan
-Local Web Developer
 ```
 
 ---
@@ -526,50 +1022,51 @@ Local Web Developer
 
 * **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://townandcountryroofingdfw.com](https://townandcountryroofingdfw.com) | **To Email:** `info@townandcountryroofingdfw.com` | **Phone:** (972) 377-8188 | **City:** Frisco, TX | **Status:** ⏳ Ready to Send
 
-**Subject:** quick note re: Town & Country Roofing mobile site
-
+**Message #1 (Initial Outreach — Linkless):**
 ```text
-Hi Town & Country Roofing team,
+Hi Town & Country Roofing,
 
-I was looking up local roofers in Frisco on my phone and noticed your current website is pretty tough to navigate on a smartphone, the call button and text get cut off.
+I came across your business while looking up local roofing & restoration in Frisco. I pulled up your site on my iPhone and noticed it takes several steps to navigate on mobile.
 
-I put together a quick mobile-optimized version for Town & Country Roofing so customers can call you in 1 tap or get a quote:
+I put together an interactive mobile prototype customized for Town & Country Roofing with a built-in instant price estimator for homeowners.
 
-[Click here to view the mobile preview for Town & Country Roofing](https://dzor777.github.io/building-websites-for-local-businesses/?client=town-country-roofing-frisco)
+Would you be open to checking out a quick preview link on your phone? You can email roth.dylan777@gmail.com or text (903) 287-0299.
 
-Take a look on your phone whenever you have a second. The basic package is $450 to get started ($300 setup fee and $150/month for hosting, updates, and maintenance), and I also have higher tiers if you need extra features like custom calculators or booking integrations.
+Best regards,
+Dylan Roth
+```
 
-If you want me to get this set up on your domain today, just reply "YES" to this email.
+**Message #2 (Day 5 Follow-Up Bump — Linkless):**
+```text
+Hi Town & Country Roofing,
+
+Quick check-in—wanted to see if you had a moment to check out the mobile site preview with the instant quote calculator I put together for Town & Country Roofing?
+
+Happy to send over the link if you'd like to take a look. You can email roth.dylan777@gmail.com or text (903) 287-0299.
+
+Best,
+Dylan Roth
+```
+
+**Message #3 (Value Delivery / Reply With Link):**
+```text
+Hi Town & Country Roofing,
+
+Appreciate you getting back to me! Here is the interactive mobile preview I put together for Town & Country Roofing:
+
+https://dzor777.github.io/building-websites-for-local-businesses/?client=town-country-roofing
+
+Take a look on your phone if you can. The biggest feature is the interactive quote calculator halfway down the page. Instead of homeowners leaving your site when you don't answer right away, they can estimate their project and submit their details directly to your phone.
+
+We keep pricing completely flat with zero long-term contracts (6-month initial term, then month-to-month):
+- Basic Plan: $450 Total ($300 upfront setup + $150/mo). Clean mobile website, fast hosting, and ongoing updates.
+- Standard Plan (Most Popular): $800 Total ($500 upfront setup + $300/mo). Includes the interactive quote calculator and instant SMS lead alerts straight to your cell.
+- Enterprise Plan: $1,600 Total ($1,000 upfront setup + $600/mo). Full lead acquisition system for multi-crew companies, including custom CRM/booking integrations, multi-city service pages, and priority monthly updates.
+
+If you'd like to put this live under your domain, I can have it ready in 24 to 48 hours. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 
 Thank you,
-
 Dylan
-Local Web Developer
 ```
 
 ---
-
-## Batch #4 Summary Table
-
-| # | Business Name | City | Trade | Category | Verified Email | Phone | Live GitHub Demo |
-|---|---|---|---|---|---|---|---|
-| 61 | DNA Plumbing | Frisco, TX | Plumbing & Drain Services | Cat #2 | `info@dnaplumbing.com` | (860) 515-9565 | [Demo Link](https://dzor777.github.io/building-websites-for-local-businesses/?client=dna-plumbing-frisco) |
-| 62 | Lex Air Conditioning & Heating | Carrollton, TX | HVAC & Air Conditioning | Cat #1 | `info@lexairconditioning.com` | (469) 890-0668 | [Demo Link](https://dzor777.github.io/building-websites-for-local-businesses/?client=lex-air-conditioning-carrollton) |
-| 63 | J&K Air Conditioning & Heating | McKinney, TX | HVAC & Air Conditioning | Cat #2 | `service@jkairconditioning.com` | (972) 542-8888 | [Demo Link](https://dzor777.github.io/building-websites-for-local-businesses/?client=jk-air-conditioning-mckinney) |
-| 64 | Strittmatter Plumbing, Heating & AC | Denton, TX | Plumbing & HVAC | Cat #1 | `info@strittmatters.com` | (940) 246-2075 | [Demo Link](https://dzor777.github.io/building-websites-for-local-businesses/?client=strittmatter-plumbing-denton) |
-| 65 | Cody & Sons Plumbing, Heating & Air | Dallas, TX | Plumbing & Drain Services | Cat #2 | `info@codyandsons.com` | (214) 339-3401 | [Demo Link](https://dzor777.github.io/building-websites-for-local-businesses/?client=cody-and-sons-dallas) |
-| 66 | Cold Factor Heating & Air | Lewisville, TX | HVAC & Air Conditioning | Cat #1 | `service@coldfactor.com` | (469) 200-0982 | [Demo Link](https://dzor777.github.io/building-websites-for-local-businesses/?client=cold-factor-hvac-lewisville) |
-| 67 | Arrow Electric Inc. | Carrollton, TX | Electrical Services | Cat #2 | `service@arrowelectric.net` | (469) 218-9915 | [Demo Link](https://dzor777.github.io/building-websites-for-local-businesses/?client=arrow-electric-carrollton) |
-| 68 | Rowley Roofing & Construction | Frisco, TX | Roofing & Restoration | Cat #2 | `info@rowleyroofing.com` | (972) 668-0919 | [Demo Link](https://dzor777.github.io/building-websites-for-local-businesses/?client=rowley-roofing-frisco) |
-| 69 | Accurate Leak and Line | Plano, TX | Plumbing & Drain Services | Cat #1 | `info@accurateleak.com` | (888) 908-5325 | [Demo Link](https://dzor777.github.io/building-websites-for-local-businesses/?client=accurate-leak-line-plano) |
-| 70 | Total Air & Heat | Plano, TX | HVAC & Air Conditioning | Cat #2 | `info@totalair.com` | (972) 845-9073 | [Demo Link](https://dzor777.github.io/building-websites-for-local-businesses/?client=total-air-heat-plano) |
-| 71 | Anderson Roofing & Construction | Denton, TX | Roofing & Restoration | Cat #1 | `info@andersonroofingtx.com` | (210) 972-5682 | [Demo Link](https://dzor777.github.io/building-websites-for-local-businesses/?client=anderson-roofing-denton) |
-| 72 | White Electric | Lewisville, TX | Electrical Services | Cat #2 | `office@white-electric.com` | (972) 436-5020 | [Demo Link](https://dzor777.github.io/building-websites-for-local-businesses/?client=white-electric-lewisville) |
-| 73 | Armor Roofing | Exteriors | Plano, TX | Roofing & Restoration | Cat #1 | `info@armorroofco.com` | (972) 863-1047 | [Demo Link](https://dzor777.github.io/building-websites-for-local-businesses/?client=armor-roofing-plano) |
-| 74 | Classic Heating & Air | Garland, TX | HVAC & Air Conditioning | Cat #2 | `info@classicheatandair.com` | (214) 310-2665 | [Demo Link](https://dzor777.github.io/building-websites-for-local-businesses/?client=classic-heating-air-garland) |
-| 75 | Old Pro Roofing | Grapevine, TX | Roofing & Restoration | Cat #1 | `service@oldproroofing.com` | (817) 929-7663 | [Demo Link](https://dzor777.github.io/building-websites-for-local-businesses/?client=old-pro-roofing-grapevine) |
-| 76 | Brown & Sons Plumbing | Denton, TX | Plumbing & Drain Services | Cat #2 | `ken@brownandsons.com` | (940) 435-2532 | [Demo Link](https://dzor777.github.io/building-websites-for-local-businesses/?client=brown-and-sons-plumbing-denton) |
-| 77 | Electrician On Call | Plano, TX | Electrical Services | Cat #1 | `info@electricianoncall.com` | (214) 235-7251 | [Demo Link](https://dzor777.github.io/building-websites-for-local-businesses/?client=electrician-on-call-plano) |
-| 78 | Texas Star Roofing | Plano, TX | Roofing & Restoration | Cat #2 | `info@texasstarroofing.com` | (972) 509-7570 | [Demo Link](https://dzor777.github.io/building-websites-for-local-businesses/?client=texas-star-roofing-plano) |
-| 79 | Peak Roofing & Construction | Frisco, TX | Roofing & Restoration | Cat #1 | `info@peakroofingconstruction.com` | (972) 335-7325 | [Demo Link](https://dzor777.github.io/building-websites-for-local-businesses/?client=peak-roofing-construction-frisco) |
-| 80 | Town & Country Roofing | Frisco, TX | Roofing & Restoration | Cat #2 | `info@townandcountryroofingdfw.com` | (972) 377-8188 | [Demo Link](https://dzor777.github.io/building-websites-for-local-businesses/?client=town-country-roofing-frisco) |
