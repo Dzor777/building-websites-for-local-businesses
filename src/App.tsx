@@ -11,6 +11,7 @@ import { QualityCommitment } from './components/QualityCommitment';
 import { DemoSwitcherBar } from './components/DemoSwitcherBar';
 import { ShowcasePortal } from './components/ShowcasePortal';
 import { PricingTiers } from './components/PricingTiers';
+import { tradeDemosList } from './config/tradeDemos';
 import { siteConfig } from './config/site';
 import { injectSEOHead } from './lib/seo';
 import type { ServiceItem } from './config/site';
@@ -44,6 +45,16 @@ export function App() {
 
   const isAgencyRoot = siteConfig.slug === 'dylan-roth-web-services';
 
+  // Check if viewing Mojo Pressure Washing or any bespoke client preview
+  const isClientOrMojo = Boolean(
+    siteConfig.slug?.toLowerCase().includes('mojo') ||
+    (typeof window !== 'undefined' && (
+      window.location.search.toLowerCase().includes('mojo') ||
+      window.location.search.toLowerCase().includes('client=')
+    )) ||
+    (siteConfig.slug && siteConfig.slug !== 'dylan-roth-web-services' && !tradeDemosList.some(d => d.previewSlug === siteConfig.slug))
+  );
+
   return (
     <div className="min-h-screen bg-[#1c2430] text-slate-100 flex flex-col font-sans">
       <Navbar onOpenQuoteModal={() => handleOpenQuoteModal()} />
@@ -53,7 +64,9 @@ export function App() {
           <ShowcasePortal />
         ) : (
           <>
-            <DemoSwitcherBar onOpenPricing={() => setShowPricingModal(true)} />
+            {!isClientOrMojo && (
+              <DemoSwitcherBar onOpenPricing={() => setShowPricingModal(true)} />
+            )}
             
             <Hero onOpenQuoteModal={() => handleOpenQuoteModal()} />
             
@@ -62,8 +75,6 @@ export function App() {
             <Services onSelectService={(service) => handleOpenQuoteModal(service)} />
             
             <QuoteCalculator initialServiceId={selectedServiceId} />
-
-            <PricingTiers />
 
             <ContactSection />
           </>
