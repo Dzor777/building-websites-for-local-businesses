@@ -91,9 +91,11 @@ Contractors immediately tune out corporate agency jargon. Follow these rules on 
 > 
 > We keep pricing completely straightforward with no hidden contracts:
 > 
-> - **Basic Plan**: $300 one-time setup, then $150/mo. Clean 5-page mobile website, fast hosting, SSL security, and ongoing updates.
-> - **Standard Plan (Most Popular)**: $500 one-time setup, then $300/mo. This includes the interactive quote calculator from the demo, instant SMS lead text alerts directly to your phone in under 30 seconds, and an automated Google review booster.
-> - **Premium Plan**: $1,000 setup, then $600/mo for multi-crew companies wanting multi-city service pages and priority changes.
+> - **Basic Plan**: $300 one-time setup, then $150/mo. Clean 5-page mobile website, fast hosting, SSL security, and 4 content updates per year (quarterly).
+> - **Standard Plan (Most Popular)**: $500 one-time setup, then $300/mo. This includes the interactive quote calculator from the demo, instant SMS lead text alerts directly to your phone in under 30 seconds, an automated Google review booster, and 6 scheduled updates per year (every 2 months).
+> - **Premium Plan**: $1,000 setup, then $600/mo for multi-crew companies wanting multi-city service pages, CRM integrations, and 12 updates per year (monthly + same-day priority edits).
+> 
+> *Also, keep in mind this preview is just a baseline prototype before we go live on your domain, you can send over your own actual project images, specific pricing, and company logo, and I'll customize everything to match your business 100%.*
 > 
 > *Note: Out of scope updates are available for a discussed and negotiated additional fee.*
 > 

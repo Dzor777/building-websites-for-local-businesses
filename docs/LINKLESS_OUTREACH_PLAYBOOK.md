@@ -80,13 +80,15 @@ By removing **all links** from Message #1:
 > Take a look on your phone if you can. The biggest feature is the instant quote calculator halfway down the page. Instead of homeowners backing out to Google when you don't answer right away, they can estimate their project and submit their name and number directly to your phone.
 > 
 > We keep pricing flat with zero long-term contracts:
-> - **Basic Plan**: $300 setup fee and $150/mo. Clean mobile website, fast hosting, and ongoing updates.
-> - **Standard Plan (Most Popular)**: $500 setup fee and $300/mo. Includes the interactive quote calculator and instant SMS lead alerts straight to your cell.
-> - **Enterprise Plan**: $1,000 setup fee and $600/mo. Full lead acquisition system for multi-crew companies, including custom CRM/booking integrations, multi-city service pages, and priority monthly updates.
+> - **Basic Plan**: $300 setup fee and $150/mo. Clean mobile website, high-speed hosting, and 4 content updates per year (quarterly).
+> - **Standard Plan (Most Popular)**: $500 setup fee and $300/mo. Includes the interactive quote calculator, instant SMS lead alerts straight to your cell, and 6 scheduled updates per year (every 2 months).
+> - **Enterprise Plan**: $1,000 setup fee and $600/mo. Full lead acquisition system for multi-crew companies, including custom CRM integrations, multi-city service pages, and 12 updates per year (monthly + same-day priority edits).
+> 
+> *Also, keep in mind this demo is just a starting prototype—before we launch on your domain, you can send over your own actual project images, specific pricing, and logo, and I'll swap everything in so it matches your business 100%.*
 > 
 > *Out of scope updates are available for a discussed and negotiated additional fee.*
 > 
-> If you like the layout, I can drop your company name, logo, and phone number in to set up a preview for [Business Name]. Feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
+> If you like the layout, feel free to shoot me an email at roth.dylan777@gmail.com or text me directly at (903) 287-0299.
 > 
 > Thank you,  
 > Dylan
