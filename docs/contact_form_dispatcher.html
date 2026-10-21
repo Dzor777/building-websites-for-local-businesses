@@ -77,6 +77,9 @@
         </div>
 
         <div class="flex items-center gap-2">
+          <button onclick="resetToDefaultCampaignSplit()" title="Set #1-80 to Needs Follow-up & #81-120 to Ready to Send" class="text-[11px] px-2.5 py-1 rounded bg-sky-500/20 hover:bg-sky-500/30 text-sky-300 font-bold border border-sky-500/40 transition-colors">
+            🔄 Preset: 1-80 Follow-up / 81-120 Ready
+          </button>
           <button onclick="exportProgressJSON()" title="Download JSON backup" class="text-[11px] px-2 py-1 rounded bg-slate-800 hover:bg-slate-700 text-slate-300 border border-slate-700">
             Backup
           </button>
@@ -672,7 +675,62 @@
       copyText(text, 'Message #' + num + ' copied for #' + id + ' (' + p.name + ')!');
     }
 
+    function initDefaultLeadStates() {
+      const initKey = 'cf_split_v3_80followup';
+      if (localStorage.getItem(initKey) !== 'true') {
+        prospects.forEach(p => {
+          if (p.id <= 80) {
+            const state = {
+              status: 'needs_followup',
+              sentDate: '2026-10-19',
+              dueDate: '2026-10-24',
+              activeMessage: 2
+            };
+            saveLeadState(p.id, state);
+          } else {
+            const state = {
+              status: 'pending',
+              sentDate: null,
+              dueDate: null,
+              activeMessage: 1
+            };
+            saveLeadState(p.id, state);
+          }
+        });
+        localStorage.setItem(initKey, 'true');
+      }
+    }
+
+    function resetToDefaultCampaignSplit() {
+      if (confirm('Set Leads #1-80 to Needs Follow-up (5-Day Bump Active) and #81-120 to Ready to Send?')) {
+        prospects.forEach(p => {
+          if (p.id <= 80) {
+            const state = {
+              status: 'needs_followup',
+              sentDate: '2026-10-19',
+              dueDate: '2026-10-24',
+              activeMessage: 2
+            };
+            saveLeadState(p.id, state);
+          } else {
+            const state = {
+              status: 'pending',
+              sentDate: null,
+              dueDate: null,
+              activeMessage: 1
+            };
+            saveLeadState(p.id, state);
+          }
+        });
+        clearSelection();
+        updateCounters();
+        renderCards();
+        showToast('Set #1-80 to Needs Follow-up & #81-120 to Ready to Send!');
+      }
+    }
+
     // Initialize on load
+    initDefaultLeadStates();
     updateCounters();
     renderCards();
   </script>

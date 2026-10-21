@@ -13,7 +13,7 @@ This document contains 20 verified local trade service contractors for **McKinne
 
 ### 1. Bewley Plumbing, LLC
 
-* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://www.bewleyplumbing.com](https://www.bewleyplumbing.com) | **To Email:** `info@bewleyplumbing.com` | **Phone:** (972) 562-0037 | **City:** McKinney, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://www.bewleyplumbing.com](https://www.bewleyplumbing.com) | **To Email:** `info@bewleyplumbing.com` | **Phone:** (972) 562-0037 | **City:** McKinney, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text
@@ -66,7 +66,7 @@ Dylan
 
 ### 2. Performance Roofing of DFW
 
-* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://performanceroofingtx.com](https://performanceroofingtx.com) | **To Email:** `sales@performanceroofingtx.com` | **Phone:** (972) 360-8042 | **City:** McKinney, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://performanceroofingtx.com](https://performanceroofingtx.com) | **To Email:** `sales@performanceroofingtx.com` | **Phone:** (972) 360-8042 | **City:** McKinney, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text
@@ -119,7 +119,7 @@ Dylan
 
 ### 3. Cross Air Heating & Cooling
 
-* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://crossairwecare.com](https://crossairwecare.com) | **To Email:** `service@crossairwecare.com` | **Phone:** (945) 220-8181 | **City:** Melissa, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://crossairwecare.com](https://crossairwecare.com) | **To Email:** `service@crossairwecare.com` | **Phone:** (945) 220-8181 | **City:** Melissa, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text
@@ -172,7 +172,7 @@ Dylan
 
 ### 4. Banner Roofing & Construction
 
-* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://banner-roofing.com](https://banner-roofing.com) | **To Email:** `info@banner-roofing.com` | **Phone:** (682) 207-1586 | **City:** Anna, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://banner-roofing.com](https://banner-roofing.com) | **To Email:** `info@banner-roofing.com` | **Phone:** (682) 207-1586 | **City:** Anna, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text
@@ -225,7 +225,7 @@ Dylan
 
 ### 5. Murley Plumbing
 
-* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://www.murleyplumbing.com](https://www.murleyplumbing.com) | **To Email:** `service@murleyplumbing.com` | **Phone:** (972) 548-0799 | **City:** Anna, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://www.murleyplumbing.com](https://www.murleyplumbing.com) | **To Email:** `service@murleyplumbing.com` | **Phone:** (972) 548-0799 | **City:** Anna, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text
@@ -278,7 +278,7 @@ Dylan
 
 ### 6. Sirius Plumbing & Air Conditioning
 
-* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://siriuspac.com](https://siriuspac.com) | **To Email:** `service@siriuspac.com` | **Phone:** (972) 703-9450 | **City:** Frisco, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://siriuspac.com](https://siriuspac.com) | **To Email:** `service@siriuspac.com` | **Phone:** (972) 703-9450 | **City:** Frisco, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text
@@ -331,7 +331,7 @@ Dylan
 
 ### 7. DNA Plumbing Heating & Air
 
-* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://www.dnaplumbingservices.com](https://www.dnaplumbingservices.com) | **To Email:** `info@dnaplumbingservices.com` | **Phone:** (214) 817-3755 | **City:** Plano, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://www.dnaplumbingservices.com](https://www.dnaplumbingservices.com) | **To Email:** `info@dnaplumbingservices.com` | **Phone:** (214) 817-3755 | **City:** Plano, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text
@@ -384,7 +384,7 @@ Dylan
 
 ### 8. Dallas Plumbing & AC Co.
 
-* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://dallasplumbing.com](https://dallasplumbing.com) | **To Email:** `service@dallasplumbing.com` | **Phone:** (214) 227-9459 | **City:** Dallas, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://dallasplumbing.com](https://dallasplumbing.com) | **To Email:** `service@dallasplumbing.com` | **Phone:** (214) 227-9459 | **City:** Dallas, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text
@@ -437,7 +437,7 @@ Dylan
 
 ### 9. Baker Brothers Plumbing
 
-* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://www.bakerbrothersplumbing.com](https://www.bakerbrothersplumbing.com) | **To Email:** `customer_form@bakerbrothersplumbing.com` | **Phone:** (214) 892-2225 | **City:** Fort Worth, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://www.bakerbrothersplumbing.com](https://www.bakerbrothersplumbing.com) | **To Email:** `customer_form@bakerbrothersplumbing.com` | **Phone:** (214) 892-2225 | **City:** Fort Worth, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text
@@ -490,7 +490,7 @@ Dylan
 
 ### 10. ABC Home & Commercial Services
 
-* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://www.abchomeandcommercial.com/austin/](https://www.abchomeandcommercial.com/austin/) | **To Email:** `service@abchomeandcommercial.com` | **Phone:** (512) 837-9500 | **City:** Austin, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://www.abchomeandcommercial.com/austin/](https://www.abchomeandcommercial.com/austin/) | **To Email:** `service@abchomeandcommercial.com` | **Phone:** (512) 837-9500 | **City:** Austin, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text
@@ -543,7 +543,7 @@ Dylan
 
 ### 11. Braun Roofing & Construction
 
-* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://www.braunsroofing.com](https://www.braunsroofing.com) | **To Email:** `info@braunsroofing.com` | **Phone:** (713) 645-0505 | **City:** Houston, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://www.braunsroofing.com](https://www.braunsroofing.com) | **To Email:** `info@braunsroofing.com` | **Phone:** (713) 645-0505 | **City:** Houston, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text
@@ -596,7 +596,7 @@ Dylan
 
 ### 12. Kidd Roofing San Antonio
 
-* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://www.kiddroof.com](https://www.kiddroof.com) | **To Email:** `info@kiddroof.com` | **Phone:** (866) 671-7791 | **City:** San Antonio, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://www.kiddroof.com](https://www.kiddroof.com) | **To Email:** `info@kiddroof.com` | **Phone:** (866) 671-7791 | **City:** San Antonio, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text
@@ -649,7 +649,7 @@ Dylan
 
 ### 13. BlackRock Plumbing Company
 
-* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://blackrockplumbingtx.com](https://blackrockplumbingtx.com) | **To Email:** `service@blackrockplumbingtx.com` | **Phone:** (469) 772-5766 | **City:** Melissa, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://blackrockplumbingtx.com](https://blackrockplumbingtx.com) | **To Email:** `service@blackrockplumbingtx.com` | **Phone:** (469) 772-5766 | **City:** Melissa, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text
@@ -702,7 +702,7 @@ Dylan
 
 ### 14. Jason Airtex HVAC
 
-* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://www.jasonsairtex.com](https://www.jasonsairtex.com) | **To Email:** `jasonsairtex@gmail.com` | **Phone:** (972) 285-3700 | **City:** Anna, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://www.jasonsairtex.com](https://www.jasonsairtex.com) | **To Email:** `jasonsairtex@gmail.com` | **Phone:** (972) 285-3700 | **City:** Anna, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text
@@ -755,7 +755,7 @@ Dylan
 
 ### 15. AugerPros Plumbing
 
-* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://augerpros.com](https://augerpros.com) | **To Email:** `contact@augerpros.com` | **Phone:** (214) 206-6580 | **City:** McKinney, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://augerpros.com](https://augerpros.com) | **To Email:** `contact@augerpros.com` | **Phone:** (214) 206-6580 | **City:** McKinney, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text
@@ -808,7 +808,7 @@ Dylan
 
 ### 16. Smith and Son Plumbing
 
-* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://smithandsonplumbing.com](https://smithandsonplumbing.com) | **To Email:** `service@smithandsonplumbing.com` | **Phone:** (214) 430-7747 | **City:** McKinney, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://smithandsonplumbing.com](https://smithandsonplumbing.com) | **To Email:** `service@smithandsonplumbing.com` | **Phone:** (214) 430-7747 | **City:** McKinney, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text
@@ -861,7 +861,7 @@ Dylan
 
 ### 17. OneSource Roofing
 
-* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://onesourceroofs.com](https://onesourceroofs.com) | **To Email:** `contact@onesourceroofs.com` | **Phone:** (972) 928-2988 | **City:** Melissa, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://onesourceroofs.com](https://onesourceroofs.com) | **To Email:** `contact@onesourceroofs.com` | **Phone:** (972) 928-2988 | **City:** Melissa, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text
@@ -914,7 +914,7 @@ Dylan
 
 ### 18. Colony Air Conditioning & Heating
 
-* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://www.colonyac.com](https://www.colonyac.com) | **To Email:** `info@colonyac.com` | **Phone:** (972) 591-0293 | **City:** Plano, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://www.colonyac.com](https://www.colonyac.com) | **To Email:** `info@colonyac.com` | **Phone:** (972) 591-0293 | **City:** Plano, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text
@@ -967,7 +967,7 @@ Dylan
 
 ### 19. Hargrove Roofing Austin
 
-* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://www.hargroveroofing.com](https://www.hargroveroofing.com) | **To Email:** `quotes@hargroveroofing.com` | **Phone:** (737) 378-8393 | **City:** Austin, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://www.hargroveroofing.com](https://www.hargroveroofing.com) | **To Email:** `quotes@hargroveroofing.com` | **Phone:** (737) 378-8393 | **City:** Austin, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text
@@ -1020,7 +1020,7 @@ Dylan
 
 ### 20. Blue Sky Roofing
 
-* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://www.blueskyroofs.com](https://www.blueskyroofs.com) | **To Email:** `service@blueskyroofs.com` | **Phone:** (512) 649-8244 | **City:** San Antonio, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://www.blueskyroofs.com](https://www.blueskyroofs.com) | **To Email:** `service@blueskyroofs.com` | **Phone:** (512) 649-8244 | **City:** San Antonio, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text

@@ -13,7 +13,7 @@ This document contains 20 verified local trade service contractors for **Houston
 
 ### 21. James Plumbing
 
-* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://calljamesplumbing.com](https://calljamesplumbing.com) | **To Email:** `service@calljamesplumbing.com` | **Phone:** (214) 286-6747 | **City:** Allen, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://calljamesplumbing.com](https://calljamesplumbing.com) | **To Email:** `service@calljamesplumbing.com` | **Phone:** (214) 286-6747 | **City:** Allen, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text
@@ -66,7 +66,7 @@ Dylan
 
 ### 22. Over The Top Roofing
 
-* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://ntxroofs.com](https://ntxroofs.com) | **To Email:** `office@ntxroofs.com` | **Phone:** (940) 391-6773 | **City:** Denton, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://ntxroofs.com](https://ntxroofs.com) | **To Email:** `office@ntxroofs.com` | **Phone:** (940) 391-6773 | **City:** Denton, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text
@@ -119,7 +119,7 @@ Dylan
 
 ### 23. Best Air Denton
 
-* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://bestairofdenton.com](https://bestairofdenton.com) | **To Email:** `service@bestairofdenton.com` | **Phone:** (940) 387-9034 | **City:** Denton, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://bestairofdenton.com](https://bestairofdenton.com) | **To Email:** `service@bestairofdenton.com` | **Phone:** (940) 387-9034 | **City:** Denton, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text
@@ -172,7 +172,7 @@ Dylan
 
 ### 24. Ryerson Roofing
 
-* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://rroofer.com](https://rroofer.com) | **To Email:** `info@rroofer.com` | **Phone:** (817) 756-7686 | **City:** Grapevine, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://rroofer.com](https://rroofer.com) | **To Email:** `info@rroofer.com` | **Phone:** (817) 756-7686 | **City:** Grapevine, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text
@@ -225,7 +225,7 @@ Dylan
 
 ### 25. Grapevine Plumbing Co.
 
-* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://grapevineplumbingco.com](https://grapevineplumbingco.com) | **To Email:** `service@grapevineplumbingco.com` | **Phone:** (817) 435-4456 | **City:** Grapevine, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://grapevineplumbingco.com](https://grapevineplumbingco.com) | **To Email:** `service@grapevineplumbingco.com` | **Phone:** (817) 435-4456 | **City:** Grapevine, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text
@@ -278,7 +278,7 @@ Dylan
 
 ### 26. The Plumbing Service
 
-* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://theplumbingservice.com](https://theplumbingservice.com) | **To Email:** `brent@theplumbingservice.com` | **Phone:** (817) 225-2153 | **City:** Arlington, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://theplumbingservice.com](https://theplumbingservice.com) | **To Email:** `brent@theplumbingservice.com` | **Phone:** (817) 225-2153 | **City:** Arlington, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text
@@ -331,7 +331,7 @@ Dylan
 
 ### 27. Comfort Authority
 
-* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://comfortauthoritytexas.com](https://comfortauthoritytexas.com) | **To Email:** `hello@comfortauthoritytexas.com` | **Phone:** (682) 900-7489 | **City:** Arlington, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://comfortauthoritytexas.com](https://comfortauthoritytexas.com) | **To Email:** `hello@comfortauthoritytexas.com` | **Phone:** (682) 900-7489 | **City:** Arlington, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text
@@ -384,7 +384,7 @@ Dylan
 
 ### 28. John Wade Roofing
 
-* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://johnwaderoofing.com](https://johnwaderoofing.com) | **To Email:** `service@johnwaderoofing.com` | **Phone:** (817) 265-5520 | **City:** Arlington, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://johnwaderoofing.com](https://johnwaderoofing.com) | **To Email:** `service@johnwaderoofing.com` | **Phone:** (817) 265-5520 | **City:** Arlington, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text
@@ -437,7 +437,7 @@ Dylan
 
 ### 29. Ajax Plumbing Solutions
 
-* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://ajaxps.com](https://ajaxps.com) | **To Email:** `ajaxplumbingsolutions@gmail.com` | **Phone:** (972) 395-3730 | **City:** Carrollton, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://ajaxps.com](https://ajaxps.com) | **To Email:** `ajaxplumbingsolutions@gmail.com` | **Phone:** (972) 395-3730 | **City:** Carrollton, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text
@@ -490,7 +490,7 @@ Dylan
 
 ### 30. Mama Bear Roofing
 
-* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://mamabearroofing.com](https://mamabearroofing.com) | **To Email:** `info@mamabearroofing.com` | **Phone:** (469) 640-4646 | **City:** Richardson, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://mamabearroofing.com](https://mamabearroofing.com) | **To Email:** `info@mamabearroofing.com` | **Phone:** (469) 640-4646 | **City:** Richardson, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text
@@ -543,7 +543,7 @@ Dylan
 
 ### 31. AC Pros Heating & Air
 
-* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://acprostx.com](https://acprostx.com) | **To Email:** `info@acprostx.com` | **Phone:** (972) 736-8864 | **City:** Richardson, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://acprostx.com](https://acprostx.com) | **To Email:** `info@acprostx.com` | **Phone:** (972) 736-8864 | **City:** Richardson, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text
@@ -596,7 +596,7 @@ Dylan
 
 ### 32. Mend Services
 
-* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://mendservices.com](https://mendservices.com) | **To Email:** `support@mendservices.com` | **Phone:** (512) 360-0704 | **City:** Round Rock, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://mendservices.com](https://mendservices.com) | **To Email:** `support@mendservices.com` | **Phone:** (512) 360-0704 | **City:** Round Rock, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text
@@ -649,7 +649,7 @@ Dylan
 
 ### 33. Alpha Roofing Industries
 
-* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://alpharoofingtexas.com](https://alpharoofingtexas.com) | **To Email:** `info@alpharoofingtexas.com` | **Phone:** (512) 777-1086 | **City:** Round Rock, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://alpharoofingtexas.com](https://alpharoofingtexas.com) | **To Email:** `info@alpharoofingtexas.com` | **Phone:** (512) 777-1086 | **City:** Round Rock, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text
@@ -702,7 +702,7 @@ Dylan
 
 ### 34. The Katy Plumbing Company
 
-* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://katyplumbers.com](https://katyplumbers.com) | **To Email:** `service@katyplumbers.com` | **Phone:** (281) 601-1513 | **City:** Katy, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://katyplumbers.com](https://katyplumbers.com) | **To Email:** `service@katyplumbers.com` | **Phone:** (281) 601-1513 | **City:** Katy, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text
@@ -755,7 +755,7 @@ Dylan
 
 ### 35. Jerry's Roofing
 
-* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://roofingbyjerry.com](https://roofingbyjerry.com) | **To Email:** `jerrysroofinginfo@gmail.com` | **Phone:** (409) 351-1529 | **City:** Katy, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://roofingbyjerry.com](https://roofingbyjerry.com) | **To Email:** `jerrysroofinginfo@gmail.com` | **Phone:** (409) 351-1529 | **City:** Katy, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text
@@ -808,7 +808,7 @@ Dylan
 
 ### 36. The Woodlands Plumbing & Air
 
-* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://thewoodlandsplumbingandair.com](https://thewoodlandsplumbingandair.com) | **To Email:** `info@thewoodlandsplumbingandair.com` | **Phone:** (281) 363-4822 | **City:** The Woodlands, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://thewoodlandsplumbingandair.com](https://thewoodlandsplumbingandair.com) | **To Email:** `info@thewoodlandsplumbingandair.com` | **Phone:** (281) 363-4822 | **City:** The Woodlands, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text
@@ -861,7 +861,7 @@ Dylan
 
 ### 37. SquadPro Roofing
 
-* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://trustsquadpro.com](https://trustsquadpro.com) | **To Email:** `help@trustsquadpro.com` | **Phone:** (832) 559-2475 | **City:** The Woodlands, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://trustsquadpro.com](https://trustsquadpro.com) | **To Email:** `help@trustsquadpro.com` | **Phone:** (832) 559-2475 | **City:** The Woodlands, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text
@@ -914,7 +914,7 @@ Dylan
 
 ### 38. Meyer Heating & Air
 
-* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://www.meyerac.com/](https://www.meyerac.com/) | **To Email:** `info@meyerac.com` | **Phone:** (830) 407-8631 | **City:** New Braunfels, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://www.meyerac.com/](https://www.meyerac.com/) | **To Email:** `info@meyerac.com` | **Phone:** (830) 407-8631 | **City:** New Braunfels, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text
@@ -967,7 +967,7 @@ Dylan
 
 ### 39. Varni Roofing
 
-* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://www.varniroofing.com/](https://www.varniroofing.com/) | **To Email:** `contact@varniroofing.com` | **Phone:** (830) 609-3605 | **City:** New Braunfels, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://www.varniroofing.com/](https://www.varniroofing.com/) | **To Email:** `contact@varniroofing.com` | **Phone:** (830) 609-3605 | **City:** New Braunfels, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text
@@ -1020,7 +1020,7 @@ Dylan
 
 ### 40. Ace Repair Plumbing
 
-* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://acerepairplumbing.com](https://acerepairplumbing.com) | **To Email:** `acerepairplumbing@charter.net` | **Phone:** (817) 429-1115 | **City:** Fort Worth, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://acerepairplumbing.com](https://acerepairplumbing.com) | **To Email:** `acerepairplumbing@charter.net` | **Phone:** (817) 429-1115 | **City:** Fort Worth, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text

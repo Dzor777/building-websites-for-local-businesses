@@ -13,7 +13,7 @@ This document contains 20 verified local trade service contractors for **Central
 
 ### 41. The Plumbinator
 
-* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://plumbinatoraustin.com](https://plumbinatoraustin.com) | **To Email:** `mickeytheplumber@yahoo.com` | **Phone:** (512) 786-1771 | **City:** Round Rock, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://plumbinatoraustin.com](https://plumbinatoraustin.com) | **To Email:** `mickeytheplumber@yahoo.com` | **Phone:** (512) 786-1771 | **City:** Round Rock, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text
@@ -66,7 +66,7 @@ Dylan
 
 ### 42. Spot-On Plumbing
 
-* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://spot-onplumbing.com](https://spot-onplumbing.com) | **To Email:** `info@spot-onplumbing.com` | **Phone:** (512) 777-1599 | **City:** Round Rock, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://spot-onplumbing.com](https://spot-onplumbing.com) | **To Email:** `info@spot-onplumbing.com` | **Phone:** (512) 777-1599 | **City:** Round Rock, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text
@@ -119,7 +119,7 @@ Dylan
 
 ### 43. Aire Geeks Inc.
 
-* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://airegeeks.com](https://airegeeks.com) | **To Email:** `info@airegeeks.com` | **Phone:** (737) 708-8008 | **City:** Round Rock, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://airegeeks.com](https://airegeeks.com) | **To Email:** `info@airegeeks.com` | **Phone:** (737) 708-8008 | **City:** Round Rock, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text
@@ -172,7 +172,7 @@ Dylan
 
 ### 44. Ark Roofer
 
-* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://arkroofer.com](https://arkroofer.com) | **To Email:** `office@arkroofer.com` | **Phone:** (512) 862-1921 | **City:** Georgetown, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://arkroofer.com](https://arkroofer.com) | **To Email:** `office@arkroofer.com` | **Phone:** (512) 862-1921 | **City:** Georgetown, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text
@@ -225,7 +225,7 @@ Dylan
 
 ### 45. Cool Tex Roofing
 
-* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://cooltexroofingtx.com](https://cooltexroofingtx.com) | **To Email:** `chris@cooltexroofing.net` | **Phone:** (512) 948-2665 | **City:** Georgetown, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://cooltexroofingtx.com](https://cooltexroofingtx.com) | **To Email:** `chris@cooltexroofing.net` | **Phone:** (512) 948-2665 | **City:** Georgetown, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text
@@ -278,7 +278,7 @@ Dylan
 
 ### 46. Texas Home Performance
 
-* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://texashomeperformance.com](https://texashomeperformance.com) | **To Email:** `service@texashomeperformance.com` | **Phone:** (512) 670-0909 | **City:** Pflugerville, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://texashomeperformance.com](https://texashomeperformance.com) | **To Email:** `service@texashomeperformance.com` | **Phone:** (512) 670-0909 | **City:** Pflugerville, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text
@@ -331,7 +331,7 @@ Dylan
 
 ### 47. Cedar Park Air Conditioning
 
-* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://cedarparkac.com](https://cedarparkac.com) | **To Email:** `cedarparkair@gmail.com` | **Phone:** (512) 500-7250 | **City:** Cedar Park, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://cedarparkac.com](https://cedarparkac.com) | **To Email:** `cedarparkair@gmail.com` | **Phone:** (512) 500-7250 | **City:** Cedar Park, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text
@@ -384,7 +384,7 @@ Dylan
 
 ### 48. Mansfield Plumbing, Electrical & Air
 
-* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://mansfieldtxplumbing.com](https://mansfieldtxplumbing.com) | **To Email:** `service@mansfieldtxplumbing.com` | **Phone:** (817) 823-7239 | **City:** Mansfield, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://mansfieldtxplumbing.com](https://mansfieldtxplumbing.com) | **To Email:** `service@mansfieldtxplumbing.com` | **Phone:** (817) 823-7239 | **City:** Mansfield, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text
@@ -437,7 +437,7 @@ Dylan
 
 ### 49. Wahooo Plumbers
 
-* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://wahoooplumbers.com](https://wahoooplumbers.com) | **To Email:** `wahoooplumbers@gmail.com` | **Phone:** (817) 818-0693 | **City:** Euless, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://wahoooplumbers.com](https://wahoooplumbers.com) | **To Email:** `wahoooplumbers@gmail.com` | **Phone:** (817) 818-0693 | **City:** Euless, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text
@@ -490,7 +490,7 @@ Dylan
 
 ### 50. Plumb Right Solutions
 
-* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://plumbrightsolutions.com](https://plumbrightsolutions.com) | **To Email:** `info@plumbrightsolutions.com` | **Phone:** (682) 286-5436 | **City:** Euless, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://plumbrightsolutions.com](https://plumbrightsolutions.com) | **To Email:** `info@plumbrightsolutions.com` | **Phone:** (682) 286-5436 | **City:** Euless, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text
@@ -543,7 +543,7 @@ Dylan
 
 ### 51. Verified Roofing LLC
 
-* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://verified-roofing.com](https://verified-roofing.com) | **To Email:** `office@verified-roofing.com` | **Phone:** (817) 715-6750 | **City:** Bedford, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://verified-roofing.com](https://verified-roofing.com) | **To Email:** `office@verified-roofing.com` | **Phone:** (817) 715-6750 | **City:** Bedford, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text
@@ -596,7 +596,7 @@ Dylan
 
 ### 52. Parker County Cooling & Heating
 
-* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://parkercountyac.com](https://parkercountyac.com) | **To Email:** `info@parkercountyac.com` | **Phone:** (817) 587-4899 | **City:** Weatherford, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://parkercountyac.com](https://parkercountyac.com) | **To Email:** `info@parkercountyac.com` | **Phone:** (817) 587-4899 | **City:** Weatherford, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text
@@ -649,7 +649,7 @@ Dylan
 
 ### 53. Ellis Air Systems
 
-* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://ellisairsystems.com](https://ellisairsystems.com) | **To Email:** `info@ellisairsystems.com` | **Phone:** (254) 598-2074 | **City:** Temple, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://ellisairsystems.com](https://ellisairsystems.com) | **To Email:** `info@ellisairsystems.com` | **Phone:** (254) 598-2074 | **City:** Temple, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text
@@ -702,7 +702,7 @@ Dylan
 
 ### 54. Prince Plumbing & Mechanical
 
-* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://princeplumbingco.com](https://princeplumbingco.com) | **To Email:** `service@princeplumbingco.com` | **Phone:** (254) 298-9994 | **City:** Temple, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://princeplumbingco.com](https://princeplumbingco.com) | **To Email:** `service@princeplumbingco.com` | **Phone:** (254) 298-9994 | **City:** Temple, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text
@@ -755,7 +755,7 @@ Dylan
 
 ### 55. Malek Service Company
 
-* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://malekservice.com](https://malekservice.com) | **To Email:** `info@malekservice.com` | **Phone:** (979) 446-0296 | **City:** Bryan, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://malekservice.com](https://malekservice.com) | **To Email:** `info@malekservice.com` | **Phone:** (979) 446-0296 | **City:** Bryan, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text
@@ -808,7 +808,7 @@ Dylan
 
 ### 56. Schulte Roofing
 
-* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://schulteroofing.com](https://schulteroofing.com) | **To Email:** `sales@schulteroofing.com` | **Phone:** (800) 367-7663 | **City:** Bryan, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://schulteroofing.com](https://schulteroofing.com) | **To Email:** `sales@schulteroofing.com` | **Phone:** (800) 367-7663 | **City:** Bryan, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text
@@ -861,7 +861,7 @@ Dylan
 
 ### 57. Tyler Roofing Company Inc.
 
-* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://tylerroofingco.com](https://tylerroofingco.com) | **To Email:** `tylerroofingco@gmail.com` | **Phone:** (903) 597-4152 | **City:** Tyler, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://tylerroofingco.com](https://tylerroofingco.com) | **To Email:** `tylerroofingco@gmail.com` | **Phone:** (903) 597-4152 | **City:** Tyler, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text
@@ -914,7 +914,7 @@ Dylan
 
 ### 58. Eschberger Plumbing
 
-* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://eschbergerplumbing.com](https://eschbergerplumbing.com) | **To Email:** `eschbergerplumbing@gmail.com` | **Phone:** (903) 581-1200 | **City:** Tyler, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://eschbergerplumbing.com](https://eschbergerplumbing.com) | **To Email:** `eschbergerplumbing@gmail.com` | **Phone:** (903) 581-1200 | **City:** Tyler, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text
@@ -967,7 +967,7 @@ Dylan
 
 ### 59. Armstrong Plumbing Company
 
-* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://armstrongplumbingcompany.com](https://armstrongplumbingcompany.com) | **To Email:** `admin@armstrongplumbingcompany.com` | **Phone:** (281) 899-8462 | **City:** Pearland, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://armstrongplumbingcompany.com](https://armstrongplumbingcompany.com) | **To Email:** `admin@armstrongplumbingcompany.com` | **Phone:** (281) 899-8462 | **City:** Pearland, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text
@@ -1020,7 +1020,7 @@ Dylan
 
 ### 60. Texas Premier Plumbing
 
-* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://texaspremierplumbing.com](https://texaspremierplumbing.com) | **To Email:** `info@texaspremierplumbing.com` | **Phone:** (713) 955-1919 | **City:** Sugar Land, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://texaspremierplumbing.com](https://texaspremierplumbing.com) | **To Email:** `info@texaspremierplumbing.com` | **Phone:** (713) 955-1919 | **City:** Sugar Land, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text

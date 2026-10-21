@@ -13,7 +13,7 @@ This document contains 20 verified local trade service contractors for **North T
 
 ### 61. DNA Plumbing
 
-* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://dnaplumbing.com](https://dnaplumbing.com) | **To Email:** `info@dnaplumbing.com` | **Phone:** (860) 515-9565 | **City:** Frisco, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://dnaplumbing.com](https://dnaplumbing.com) | **To Email:** `info@dnaplumbing.com` | **Phone:** (860) 515-9565 | **City:** Frisco, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text
@@ -66,7 +66,7 @@ Dylan
 
 ### 62. Lex Air Conditioning & Heating
 
-* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://lexairconditioning.com](https://lexairconditioning.com) | **To Email:** `info@lexairconditioning.com` | **Phone:** (469) 890-0668 | **City:** Carrollton, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://lexairconditioning.com](https://lexairconditioning.com) | **To Email:** `info@lexairconditioning.com` | **Phone:** (469) 890-0668 | **City:** Carrollton, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text
@@ -119,7 +119,7 @@ Dylan
 
 ### 63. J&K Air Conditioning & Heating
 
-* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://jkairconditioning.com](https://jkairconditioning.com) | **To Email:** `service@jkairconditioning.com` | **Phone:** (972) 542-8888 | **City:** McKinney, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://jkairconditioning.com](https://jkairconditioning.com) | **To Email:** `service@jkairconditioning.com` | **Phone:** (972) 542-8888 | **City:** McKinney, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text
@@ -172,7 +172,7 @@ Dylan
 
 ### 64. Strittmatter Plumbing, Heating & AC
 
-* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://strittmatters.com](https://strittmatters.com) | **To Email:** `info@strittmatters.com` | **Phone:** (940) 246-2075 | **City:** Denton, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://strittmatters.com](https://strittmatters.com) | **To Email:** `info@strittmatters.com` | **Phone:** (940) 246-2075 | **City:** Denton, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text
@@ -225,7 +225,7 @@ Dylan
 
 ### 65. Cody & Sons Plumbing, Heating & Air
 
-* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://codyandsons.com](https://codyandsons.com) | **To Email:** `info@codyandsons.com` | **Phone:** (214) 339-3401 | **City:** Dallas, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://codyandsons.com](https://codyandsons.com) | **To Email:** `info@codyandsons.com` | **Phone:** (214) 339-3401 | **City:** Dallas, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text
@@ -278,7 +278,7 @@ Dylan
 
 ### 66. Cold Factor Heating & Air
 
-* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://coldfactor.com](https://coldfactor.com) | **To Email:** `service@coldfactor.com` | **Phone:** (469) 200-0982 | **City:** Lewisville, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://coldfactor.com](https://coldfactor.com) | **To Email:** `service@coldfactor.com` | **Phone:** (469) 200-0982 | **City:** Lewisville, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text
@@ -331,7 +331,7 @@ Dylan
 
 ### 67. Arrow Electric Inc.
 
-* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://arrowelectric.net](https://arrowelectric.net) | **To Email:** `service@arrowelectric.net` | **Phone:** (469) 218-9915 | **City:** Carrollton, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://arrowelectric.net](https://arrowelectric.net) | **To Email:** `service@arrowelectric.net` | **Phone:** (469) 218-9915 | **City:** Carrollton, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text
@@ -384,7 +384,7 @@ Dylan
 
 ### 68. Rowley Roofing & Construction
 
-* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://rowleyroofing.com](https://rowleyroofing.com) | **To Email:** `info@rowleyroofing.com` | **Phone:** (972) 668-0919 | **City:** Frisco, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://rowleyroofing.com](https://rowleyroofing.com) | **To Email:** `info@rowleyroofing.com` | **Phone:** (972) 668-0919 | **City:** Frisco, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text
@@ -437,7 +437,7 @@ Dylan
 
 ### 69. Accurate Leak and Line
 
-* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://accurateleak.com](https://accurateleak.com) | **To Email:** `info@accurateleak.com` | **Phone:** (888) 908-5325 | **City:** Plano, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://accurateleak.com](https://accurateleak.com) | **To Email:** `info@accurateleak.com` | **Phone:** (888) 908-5325 | **City:** Plano, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text
@@ -490,7 +490,7 @@ Dylan
 
 ### 70. Total Air & Heat
 
-* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://totalair.com](https://totalair.com) | **To Email:** `info@totalair.com` | **Phone:** (972) 845-9073 | **City:** Plano, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://totalair.com](https://totalair.com) | **To Email:** `info@totalair.com` | **Phone:** (972) 845-9073 | **City:** Plano, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text
@@ -543,7 +543,7 @@ Dylan
 
 ### 71. Anderson Roofing & Construction
 
-* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://andersonroofingtx.com](https://andersonroofingtx.com) | **To Email:** `info@andersonroofingtx.com` | **Phone:** (210) 972-5682 | **City:** Denton, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://andersonroofingtx.com](https://andersonroofingtx.com) | **To Email:** `info@andersonroofingtx.com` | **Phone:** (210) 972-5682 | **City:** Denton, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text
@@ -596,7 +596,7 @@ Dylan
 
 ### 72. White Electric
 
-* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://white-electric.com](https://white-electric.com) | **To Email:** `office@white-electric.com` | **Phone:** (972) 436-5020 | **City:** Lewisville, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://white-electric.com](https://white-electric.com) | **To Email:** `office@white-electric.com` | **Phone:** (972) 436-5020 | **City:** Lewisville, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text
@@ -649,7 +649,7 @@ Dylan
 
 ### 73. Armor Roofing | Exteriors
 
-* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://armorroofco.com](https://armorroofco.com) | **To Email:** `info@armorroofco.com` | **Phone:** (972) 863-1047 | **City:** Plano, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://armorroofco.com](https://armorroofco.com) | **To Email:** `info@armorroofco.com` | **Phone:** (972) 863-1047 | **City:** Plano, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text
@@ -702,7 +702,7 @@ Dylan
 
 ### 74. Classic Heating & Air
 
-* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://classicheatandair.com](https://classicheatandair.com) | **To Email:** `info@classicheatandair.com` | **Phone:** (214) 310-2665 | **City:** Garland, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://classicheatandair.com](https://classicheatandair.com) | **To Email:** `info@classicheatandair.com` | **Phone:** (214) 310-2665 | **City:** Garland, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text
@@ -755,7 +755,7 @@ Dylan
 
 ### 75. Old Pro Roofing
 
-* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://oldproroofing.com](https://oldproroofing.com) | **To Email:** `service@oldproroofing.com` | **Phone:** (817) 929-7663 | **City:** Grapevine, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://oldproroofing.com](https://oldproroofing.com) | **To Email:** `service@oldproroofing.com` | **Phone:** (817) 929-7663 | **City:** Grapevine, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text
@@ -808,7 +808,7 @@ Dylan
 
 ### 76. Brown & Sons Plumbing
 
-* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://brownandsonsplumbing.com](https://brownandsonsplumbing.com) | **To Email:** `ken@brownandsons.com` | **Phone:** (940) 435-2532 | **City:** Denton, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://brownandsonsplumbing.com](https://brownandsonsplumbing.com) | **To Email:** `ken@brownandsons.com` | **Phone:** (940) 435-2532 | **City:** Denton, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text
@@ -861,7 +861,7 @@ Dylan
 
 ### 77. Electrician On Call
 
-* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://electricianoncall.com](https://electricianoncall.com) | **To Email:** `info@electricianoncall.com` | **Phone:** (214) 235-7251 | **City:** Plano, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://electricianoncall.com](https://electricianoncall.com) | **To Email:** `info@electricianoncall.com` | **Phone:** (214) 235-7251 | **City:** Plano, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text
@@ -914,7 +914,7 @@ Dylan
 
 ### 78. Texas Star Roofing
 
-* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://texasstarroofing.com](https://texasstarroofing.com) | **To Email:** `info@texasstarroofing.com` | **Phone:** (972) 509-7570 | **City:** Plano, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://texasstarroofing.com](https://texasstarroofing.com) | **To Email:** `info@texasstarroofing.com` | **Phone:** (972) 509-7570 | **City:** Plano, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text
@@ -967,7 +967,7 @@ Dylan
 
 ### 79. Peak Roofing & Construction
 
-* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://peakroofingconstruction.com](https://peakroofingconstruction.com) | **To Email:** `info@peakroofingconstruction.com` | **Phone:** (972) 335-7325 | **City:** Frisco, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #1 (Technical & Mobile Fixes) | **Current Website:** [https://peakroofingconstruction.com](https://peakroofingconstruction.com) | **To Email:** `info@peakroofingconstruction.com` | **Phone:** (972) 335-7325 | **City:** Frisco, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text
@@ -1020,7 +1020,7 @@ Dylan
 
 ### 80. Town & Country Roofing
 
-* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://townandcountryroofingdfw.com](https://townandcountryroofingdfw.com) | **To Email:** `info@townandcountryroofingdfw.com` | **Phone:** (972) 377-8188 | **City:** Frisco, TX | **Status:** ⏳ Ready to Send
+* **Category:** Category #2 (Conversion & Calculator Upgrade) | **Current Website:** [https://townandcountryroofingdfw.com](https://townandcountryroofingdfw.com) | **To Email:** `info@townandcountryroofingdfw.com` | **Phone:** (972) 377-8188 | **City:** Frisco, TX | **Status:** 📅 Needs Follow-up (5-Day Bump Active)
 
 **Message #1 (Initial Outreach — Linkless):**
 ```text
