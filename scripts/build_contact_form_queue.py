@@ -13,6 +13,10 @@ batch_files = [
     os.path.join(campaigns_dir, "batch_04_texas_20prospects.md"),
     os.path.join(campaigns_dir, "batch_05_texas_20prospects.md"),
     os.path.join(campaigns_dir, "batch_06_texas_20prospects.md"),
+    os.path.join(campaigns_dir, "batch_07_texas_20prospects.md"),
+    os.path.join(campaigns_dir, "batch_08_texas_20prospects.md"),
+    os.path.join(campaigns_dir, "batch_09_texas_20prospects.md"),
+    os.path.join(campaigns_dir, "batch_10_texas_20prospects.md"),
 ]
 
 # Trade demo slug mapping for dynamic preview URLs
@@ -247,13 +251,13 @@ with open(md_out, "w", encoding="utf-8") as f:
 
 print(f"Saved Markdown queue to {md_out}")
 
-# Update Batch Campaign Markdown Files (Batches 1-6) with the 3 messages
-for batch_idx in range(1, 7):
+# Update Batch Campaign Markdown Files (Batches 1-10) with the 3 messages
+for batch_idx in range(1, 11):
     b_prospects = [p for p in prospects if p["batch"] == batch_idx]
     if not b_prospects:
         continue
     
-    fname = f"batch_0{batch_idx}_texas_top20.md" if batch_idx == 1 else f"batch_0{batch_idx}_texas_20prospects.md"
+    fname = f"batch_0{batch_idx}_texas_top20.md" if batch_idx == 1 else (f"batch_0{batch_idx}_texas_20prospects.md" if batch_idx < 10 else f"batch_{batch_idx}_texas_20prospects.md")
     b_file = os.path.join(campaigns_dir, fname)
     
     batch_title = {
@@ -262,7 +266,11 @@ for batch_idx in range(1, 7):
         3: "Central Texas & DFW Metroplex",
         4: "North Texas & DFW Trade Contractors",
         5: "Dallas-Fort Worth Metroplex (Verified Leads)",
-        6: "Austin & San Antonio Corridor (Verified Leads)"
+        6: "Austin & San Antonio Corridor (Verified Leads)",
+        7: "Houston Metro Trade Specialists (Part 1)",
+        8: "Houston Metro Trade Specialists (Part 2)",
+        9: "North Texas Metro (Plano, Frisco, McKinney)",
+        10: "North Texas & San Antonio Mix"
     }.get(batch_idx, f"Batch #{batch_idx}")
 
     lines = [
@@ -365,7 +373,7 @@ html_content = f"""<!DOCTYPE html>
           <span class="px-2 py-0.5 rounded bg-sky-500/20 text-sky-400 font-bold text-xs uppercase tracking-wider border border-sky-500/30">
             Outreach Dispatcher
           </span>
-          <h1 class="text-lg sm:text-xl font-black text-white">Texas Contractor Outreach (120 Leads)</h1>
+          <h1 class="text-lg sm:text-xl font-black text-white">Texas Contractor Outreach (200 Leads)</h1>
         </div>
         <p class="text-xs text-slate-400 mt-0.5">3-Message Pipeline • Auto 5-Day Bump Tracker • Multi-Select Bulk Actions</p>
       </div>
@@ -392,8 +400,8 @@ html_content = f"""<!DOCTYPE html>
         </div>
 
         <div class="flex items-center gap-2">
-          <button onclick="resetToDefaultCampaignSplit()" title="Set #1-80 to Needs Follow-up & #81-120 to Ready to Send" class="text-[11px] px-2.5 py-1 rounded bg-sky-500/20 hover:bg-sky-500/30 text-sky-300 font-bold border border-sky-500/40 transition-colors">
-            🔄 Preset: 1-80 Follow-up / 81-120 Ready
+          <button onclick="resetToDefaultCampaignSplit()" title="Set #1-80 to Needs Follow-up & #81-200 to Ready to Send" class="text-[11px] px-2.5 py-1 rounded bg-sky-500/20 hover:bg-sky-500/30 text-sky-300 font-bold border border-sky-500/40 transition-colors">
+            🔄 Preset: 1-80 Follow-up / 81-200 Ready
           </button>
           <button onclick="exportProgressJSON()" title="Download JSON backup" class="text-[11px] px-2 py-1 rounded bg-slate-800 hover:bg-slate-700 text-slate-300 border border-slate-700">
             Backup
@@ -412,13 +420,17 @@ html_content = f"""<!DOCTYPE html>
         <div class="flex items-center gap-1.5">
           <label for="batch-select" class="text-xs font-semibold text-slate-400">Batch:</label>
           <select id="batch-select" onchange="setBatchFilter(this.value)" class="px-3 py-1.5 rounded-lg bg-slate-900 border border-slate-700 hover:border-sky-500/60 text-xs font-bold text-sky-400 focus:outline-none focus:border-sky-500 transition-all cursor-pointer">
-            <option value="all">All Batches (1–6 · 120 Total)</option>
+            <option value="all">All Batches (1–10 · 200 Total)</option>
             <option value="1">Batch 1: #1–20 (McKinney & Austin)</option>
             <option value="2">Batch 2: #21–40 (Houston & Gulf Coast)</option>
             <option value="3">Batch 3: #41–60 (Central TX & DFW)</option>
             <option value="4">Batch 4: #61–80 (North Texas & DFW)</option>
             <option value="5">Batch 5: #81–100 (DFW Metroplex)</option>
             <option value="6">Batch 6: #101–120 (Austin & San Antonio)</option>
+            <option value="7">Batch 7: #121–140 (Houston Metro Part 1)</option>
+            <option value="8">Batch 8: #141–160 (Houston Metro Part 2)</option>
+            <option value="9">Batch 9: #161–180 (Plano, Frisco, McKinney)</option>
+            <option value="10">Batch 10: #181–200 (North Texas & San Antonio)</option>
           </select>
         </div>
 
@@ -991,7 +1003,7 @@ html_content = f"""<!DOCTYPE html>
     }}
 
     function initDefaultLeadStates() {{
-      const initKey = 'cf_split_v3_80followup';
+      const initKey = 'cf_split_v4_200leads';
       if (localStorage.getItem(initKey) !== 'true') {{
         prospects.forEach(p => {{
           if (p.id <= 80) {{
@@ -1017,7 +1029,7 @@ html_content = f"""<!DOCTYPE html>
     }}
 
     function resetToDefaultCampaignSplit() {{
-      if (confirm('Set Leads #1-80 to Needs Follow-up (5-Day Bump Active) and #81-120 to Ready to Send?')) {{
+      if (confirm('Set Leads #1-80 to Needs Follow-up (5-Day Bump Active) and #81-200 to Ready to Send?')) {{
         prospects.forEach(p => {{
           if (p.id <= 80) {{
             const state = {{
@@ -1040,7 +1052,7 @@ html_content = f"""<!DOCTYPE html>
         clearSelection();
         updateCounters();
         renderCards();
-        showToast('Set #1-80 to Needs Follow-up & #81-120 to Ready to Send!');
+        showToast('Set #1-80 to Needs Follow-up & #81-200 to Ready to Send!');
       }}
     }}
 
