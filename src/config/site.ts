@@ -202,11 +202,40 @@ export function getActiveSiteConfig(): SiteConfig {
     const params = new URLSearchParams(window.location.search);
     const demoParam = (params.get('demo') || params.get('trade') || '').toLowerCase().trim();
     const clientParam = (params.get('client') || '').toLowerCase().trim();
-
     let resolvedConfig: SiteConfig | null = null;
 
-    // 1. Check direct trade demo query (?demo=hvac, ?demo=tree-cutting, etc.)
-    if (demoParam) {
+    // 1. High priority check: Bespoke Client Registry (?client=mojo-pressure-washing, ?client=bewley-plumbing, etc.)
+    if (clientParam) {
+      if (clientRegistry[clientParam]) {
+        resolvedConfig = { ...clientRegistry[clientParam] };
+      } else if (tradeDemosConfigs[clientParam]) {
+        resolvedConfig = { ...tradeDemosConfigs[clientParam] };
+      } else {
+        const matchedByDemoAlias = tradeDemosList.find(d => 
+          d.id === clientParam || 
+          d.previewSlug === clientParam || 
+          d.aliases.includes(clientParam)
+        );
+        if (matchedByDemoAlias && tradeDemosConfigs[matchedByDemoAlias.previewSlug]) {
+          resolvedConfig = { ...tradeDemosConfigs[matchedByDemoAlias.previewSlug] };
+        } else if (clientParam.includes('mojo') && clientRegistry['mojo-pressure-washing']) {
+          resolvedConfig = { ...clientRegistry['mojo-pressure-washing'] };
+        } else if (clientParam === 'mckinney-pro-plumbing' && clientRegistry['mckinney-plumbing-pro']) {
+          resolvedConfig = { ...clientRegistry['mckinney-plumbing-pro'] };
+        }
+      }
+    }
+
+    // 2. High priority match for Mojo Pressure Washing by name parameter
+    const nameParam = (params.get('name') || '').toLowerCase().trim();
+    if (!resolvedConfig && (nameParam.includes('mojo') || clientParam.includes('mojo'))) {
+      if (clientRegistry['mojo-pressure-washing']) {
+        resolvedConfig = { ...clientRegistry['mojo-pressure-washing'] };
+      }
+    }
+
+    // 3. Fallback to trade demo query (?demo=hvac, ?demo=pressure-washing, etc.)
+    if (!resolvedConfig && demoParam) {
       if (tradeDemosConfigs[demoParam]) {
         resolvedConfig = { ...tradeDemosConfigs[demoParam] };
       } else {
@@ -217,26 +246,6 @@ export function getActiveSiteConfig(): SiteConfig {
         );
         if (matchedByAlias && tradeDemosConfigs[matchedByAlias.previewSlug]) {
           resolvedConfig = { ...tradeDemosConfigs[matchedByAlias.previewSlug] };
-        }
-      }
-    }
-
-    // 2. Check ?client= parameter (first in trade demos, then in clientRegistry)
-    if (!resolvedConfig && clientParam) {
-      if (tradeDemosConfigs[clientParam]) {
-        resolvedConfig = { ...tradeDemosConfigs[clientParam] };
-      } else {
-        const matchedByDemoAlias = tradeDemosList.find(d => 
-          d.id === clientParam || 
-          d.previewSlug === clientParam || 
-          d.aliases.includes(clientParam)
-        );
-        if (matchedByDemoAlias && tradeDemosConfigs[matchedByDemoAlias.previewSlug]) {
-          resolvedConfig = { ...tradeDemosConfigs[matchedByDemoAlias.previewSlug] };
-        } else if (clientRegistry[clientParam]) {
-          resolvedConfig = { ...clientRegistry[clientParam] };
-        } else if (clientParam === 'mckinney-pro-plumbing' && clientRegistry['mckinney-plumbing-pro']) {
-          resolvedConfig = { ...clientRegistry['mckinney-plumbing-pro'] };
         }
       }
     }

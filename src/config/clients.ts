@@ -7812,4 +7812,330 @@ export const clientRegistry: Record<string, SiteConfig> = {
         }
     ]
 },
+  "mojo-pressure-washing": {
+    "slug": "mojo-pressure-washing",
+    "name": "Mojo Pressure Washing & Home Services",
+    "legalName": "Mojo Pressure Washing & Home Services LLC",
+    "domain": "mojopressurewashing.com",
+    "url": "https://www.mojopressurewashing.com",
+    "logoIcon": "Droplets",
+    "heroImageUrl": "./images/pressure-washing.jpg",
+    "tagline": "Austin's Premier Veteran-Owned Soft Washing & Exterior Cleaning",
+    "description": "Veteran-owned low-pressure soft washing, rotary concrete driveway cleaning, safe black streak roof restoration, and real estate curb appeal prep across Austin and the Texas Hill Country.",
+    "niche": "Pressure Washing & Exterior Cleaning",
+    "city": "Austin",
+    "state": "TX",
+    "phone": "(512) 815-3971",
+    "formattedPhone": "(512) 815-3971",
+    "phoneRaw": "+15128153971",
+    "email": "mattholdridge@mojopressurewashing.com",
+    "address": {
+      "street": "Serving Greater Austin & Hill Country",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78701",
+      "googleMapsEmbedUrl": ""
+    },
+    "googleAnalyticsId": "G-DEMO999",
+    "web3FormsAccessKey": "YOUR_KEY",
+    "hours": {
+      "days": "Monday - Saturday",
+      "time": "7:00 AM - 7:00 PM (Emergency Dispatch Available)",
+      "is24_7": false
+    },
+    "colors": {
+      "primary": "#0284c7",
+      "primaryDark": "#0369a1",
+      "accent": "#f59e0b"
+    },
+    "trustBadges": [
+      {
+        "title": "Veteran Owned & Operated",
+        "subtitle": "Disciplined, Honest Austin Pro",
+        "icon": "Award"
+      },
+      {
+        "title": "Austin Limestone Safe",
+        "subtitle": "Low-Pressure SoftWash Tech",
+        "icon": "ShieldCheck"
+      },
+      {
+        "title": "Plant & Landscape Safe",
+        "subtitle": "Eco-Friendly Biodegradable Rinse",
+        "icon": "Sparkles"
+      },
+      {
+        "title": "100% Satisfaction Guarantee",
+        "subtitle": "$2M Commercial Liability Insured",
+        "icon": "CheckCircle2"
+      }
+    ],
+    "services": [
+      {
+        "id": "driveway-cleaning",
+        "name": "Rotary Driveway & Sidewalk Scouring",
+        "shortDesc": "High-volume 4,000 PSI industrial rotary surface cleaners erasing stubborn tire marks, oil drips, and black mildew.",
+        "fullDesc": "Eco-friendly degreaser pre-treatment, deep rotary scouring with zero swirl marks, and post-treatment algaecide to keep concrete bright 3x longer.",
+        "basePrice": 185,
+        "iconName": "Droplets",
+        "badge": "Instant Curb Appeal"
+      },
+      {
+        "id": "house-softwash",
+        "name": "Low-Pressure Hill Country SoftWash Siding",
+        "shortDesc": "Gentle chemical rinse under 200 PSI engineered specifically for Austin limestone, stucco, hardy plank, and painted wood.",
+        "fullDesc": "Kills organic algae, lichen, and mildew spores at the microscopic root without etching soft Texas limestone or blowing window seals.",
+        "basePrice": 295,
+        "iconName": "Home",
+        "badge": "Safe on Limestone"
+      },
+      {
+        "id": "roof-wash",
+        "name": "No-Pressure Black Streak Roof Cleaning",
+        "shortDesc": "Safely eradicate dark Gloeocapsa Magma roof algae streaks without stripping protective shingle granules.",
+        "fullDesc": "Dedicated low-pressure soft-wash formula that eliminates ugly roof streaks, restores reflectivity, and prevents premature shingle decay.",
+        "basePrice": 425,
+        "iconName": "Shield"
+      },
+      {
+        "id": "deck-fence-restoration",
+        "name": "Cedar Fence & Wood Deck Restoration",
+        "shortDesc": "Gentle wood brightening and stain preparation for weather-beaten cedar fences, pergolas, and teak decks.",
+        "fullDesc": "Removes gray UV damage, algae, and weather stains, opening wood grain for stain penetration and extending timber lifespan by years.",
+        "basePrice": 275,
+        "iconName": "Sparkles"
+      },
+      {
+        "id": "market-ready-prep",
+        "name": "Real Estate 'Market-Ready' Exterior Package",
+        "shortDesc": "Comprehensive exterior deep clean bundled for Austin homeowners and realtors preparing for open houses.",
+        "fullDesc": "Includes front walkway scouring, entryway soft-wash, garage door wipe down, and window exterior rinse to maximize home appraisal value.",
+        "basePrice": 495,
+        "iconName": "CheckCircle2",
+        "badge": "Realtor Favorite"
+      },
+      {
+        "id": "commercial-pressure-washing",
+        "name": "Commercial Hot-Water Surface Washing",
+        "shortDesc": "High-temp commercial degreasing for Austin restaurants, retail storefronts, dumpster pads, and parking lots.",
+        "fullDesc": "Hot water commercial rigs tackling gum, grease spills, and heavy foot-traffic grime outside business hours for zero customer disruption.",
+        "basePrice": 350,
+        "iconName": "Briefcase"
+      }
+    ],
+    "reviews": {
+      "googleRating": 5.0,
+      "totalReviews": 142,
+      "items": [
+        {
+          "id": "r1",
+          "author": "Brett M.",
+          "rating": 5,
+          "date": "3 days ago",
+          "comment": "Matt Holdridge and Mojo Pressure Washing did an unbelievable job on our West Lake Hills home. Our limestone facade and flagstone patio look brand new. Matt was on time, courteous, and took extraordinary care around our landscaping!",
+          "serviceUsed": "Low-Pressure Hill Country SoftWash Siding",
+          "verified": true
+        },
+        {
+          "id": "r2",
+          "author": "Elena G.",
+          "rating": 5,
+          "date": "1 week ago",
+          "comment": "Hired Mojo for the Real Estate Market-Ready package before listing our house in Tarrytown. The driveway and entryway were spotless, and our realtor said the curb appeal directly contributed to getting multiple offers the first weekend!",
+          "serviceUsed": "Real Estate 'Market-Ready' Exterior Package",
+          "verified": true
+        },
+        {
+          "id": "r3",
+          "author": "David K.",
+          "rating": 5,
+          "date": "2 weeks ago",
+          "comment": "Veteran-owned, honest pricing, and elite work. Matt removed years of dark black algae streaks from our roof and scoured our 3-car driveway in Lakeway. Zero damage, zero mess. Best pressure washing outfit in Austin.",
+          "serviceUsed": "No-Pressure Black Streak Roof Cleaning",
+          "verified": true
+        }
+      ]
+    },
+    "faqs": [
+      {
+        "question": "Will high pressure blast away paint or damage my Austin limestone and stucco?",
+        "answer": "Never. For house siding, limestone, and roofs, Mojo exclusively uses low-pressure SoftWash technology (under 200 PSI). Our biodegradable solutions kill algae and mildew at the root without etching delicate stone, damaging mortar, or stripping paint."
+      },
+      {
+        "question": "Are your cleaning detergents safe for Texas landscaping, grass, and family pets?",
+        "answer": "Yes, 100%. We thoroughly pre-wet all nearby flowerbeds, trees, and shrubs before washing, apply eco-friendly biodegradable detergents, and continuously rinse with fresh water. Once rinsed, surfaces are completely safe for pets and children."
+      },
+      {
+        "question": "How quickly can Mojo Pressure Washing schedule service in Austin?",
+        "answer": "We frequently have same-day and next-day availability across Greater Austin, West Lake Hills, Lakeway, Round Rock, and Cedar Park. Use our interactive estimate tool above or call/text Matt directly at (512) 815-3971 for immediate scheduling."
+      },
+      {
+        "question": "Do you provide free estimates for Austin commercial properties and HOAs?",
+        "answer": "Yes. We offer free on-site consultations and itemized proposals for retail centers, HOA common areas, parking garages, and multi-family communities across Central Texas."
+      }
+    ]
+  },
+  "mojo-pressure-washing-home-services-llc": {
+    "slug": "mojo-pressure-washing-home-services-llc",
+    "name": "Mojo Pressure Washing & Home Services",
+    "legalName": "Mojo Pressure Washing & Home Services LLC",
+    "domain": "mojopressurewashing.com",
+    "url": "https://www.mojopressurewashing.com",
+    "logoIcon": "Droplets",
+    "heroImageUrl": "./images/pressure-washing.jpg",
+    "tagline": "Austin's Premier Veteran-Owned Soft Washing & Exterior Cleaning",
+    "description": "Veteran-owned low-pressure soft washing, rotary concrete driveway cleaning, safe black streak roof restoration, and real estate curb appeal prep across Austin and the Texas Hill Country.",
+    "niche": "Pressure Washing & Exterior Cleaning",
+    "city": "Austin",
+    "state": "TX",
+    "phone": "(512) 815-3971",
+    "formattedPhone": "(512) 815-3971",
+    "phoneRaw": "+15128153971",
+    "email": "mattholdridge@mojopressurewashing.com",
+    "address": {
+      "street": "Serving Greater Austin & Hill Country",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78701",
+      "googleMapsEmbedUrl": ""
+    },
+    "googleAnalyticsId": "G-DEMO999",
+    "web3FormsAccessKey": "YOUR_KEY",
+    "hours": {
+      "days": "Monday - Saturday",
+      "time": "7:00 AM - 7:00 PM (Emergency Dispatch Available)",
+      "is24_7": false
+    },
+    "colors": {
+      "primary": "#0284c7",
+      "primaryDark": "#0369a1",
+      "accent": "#f59e0b"
+    },
+    "trustBadges": [
+      {
+        "title": "Veteran Owned & Operated",
+        "subtitle": "Disciplined, Honest Austin Pro",
+        "icon": "Award"
+      },
+      {
+        "title": "Austin Limestone Safe",
+        "subtitle": "Low-Pressure SoftWash Tech",
+        "icon": "ShieldCheck"
+      },
+      {
+        "title": "Plant & Landscape Safe",
+        "subtitle": "Eco-Friendly Biodegradable Rinse",
+        "icon": "Sparkles"
+      },
+      {
+        "title": "100% Satisfaction Guarantee",
+        "subtitle": "$2M Commercial Liability Insured",
+        "icon": "CheckCircle2"
+      }
+    ],
+    "services": [
+      {
+        "id": "driveway-cleaning",
+        "name": "Rotary Driveway & Sidewalk Scouring",
+        "shortDesc": "High-volume 4,000 PSI industrial rotary surface cleaners erasing stubborn tire marks, oil drips, and black mildew.",
+        "fullDesc": "Eco-friendly degreaser pre-treatment, deep rotary scouring with zero swirl marks, and post-treatment algaecide to keep concrete bright 3x longer.",
+        "basePrice": 185,
+        "iconName": "Droplets",
+        "badge": "Instant Curb Appeal"
+      },
+      {
+        "id": "house-softwash",
+        "name": "Low-Pressure Hill Country SoftWash Siding",
+        "shortDesc": "Gentle chemical rinse under 200 PSI engineered specifically for Austin limestone, stucco, hardy plank, and painted wood.",
+        "fullDesc": "Kills organic algae, lichen, and mildew spores at the microscopic root without etching soft Texas limestone or blowing window seals.",
+        "basePrice": 295,
+        "iconName": "Home",
+        "badge": "Safe on Limestone"
+      },
+      {
+        "id": "roof-wash",
+        "name": "No-Pressure Black Streak Roof Cleaning",
+        "shortDesc": "Safely eradicate dark Gloeocapsa Magma roof algae streaks without stripping protective shingle granules.",
+        "fullDesc": "Dedicated low-pressure soft-wash formula that eliminates ugly roof streaks, restores reflectivity, and prevents premature shingle decay.",
+        "basePrice": 425,
+        "iconName": "Shield"
+      },
+      {
+        "id": "deck-fence-restoration",
+        "name": "Cedar Fence & Wood Deck Restoration",
+        "shortDesc": "Gentle wood brightening and stain preparation for weather-beaten cedar fences, pergolas, and teak decks.",
+        "fullDesc": "Removes gray UV damage, algae, and weather stains, opening wood grain for stain penetration and extending timber lifespan by years.",
+        "basePrice": 275,
+        "iconName": "Sparkles"
+      },
+      {
+        "id": "market-ready-prep",
+        "name": "Real Estate 'Market-Ready' Exterior Package",
+        "shortDesc": "Comprehensive exterior deep clean bundled for Austin homeowners and realtors preparing for open houses.",
+        "fullDesc": "Includes front walkway scouring, entryway soft-wash, garage door wipe down, and window exterior rinse to maximize home appraisal value.",
+        "basePrice": 495,
+        "iconName": "CheckCircle2",
+        "badge": "Realtor Favorite"
+      },
+      {
+        "id": "commercial-pressure-washing",
+        "name": "Commercial Hot-Water Surface Washing",
+        "shortDesc": "High-temp commercial degreasing for Austin restaurants, retail storefronts, dumpster pads, and parking lots.",
+        "fullDesc": "Hot water commercial rigs tackling gum, grease spills, and heavy foot-traffic grime outside business hours for zero customer disruption.",
+        "basePrice": 350,
+        "iconName": "Briefcase"
+      }
+    ],
+    "reviews": {
+      "googleRating": 5.0,
+      "totalReviews": 142,
+      "items": [
+        {
+          "id": "r1",
+          "author": "Brett M.",
+          "rating": 5,
+          "date": "3 days ago",
+          "comment": "Matt Holdridge and Mojo Pressure Washing did an unbelievable job on our West Lake Hills home. Our limestone facade and flagstone patio look brand new. Matt was on time, courteous, and took extraordinary care around our landscaping!",
+          "serviceUsed": "Low-Pressure Hill Country SoftWash Siding",
+          "verified": true
+        },
+        {
+          "id": "r2",
+          "author": "Elena G.",
+          "rating": 5,
+          "date": "1 week ago",
+          "comment": "Hired Mojo for the Real Estate Market-Ready package before listing our house in Tarrytown. The driveway and entryway were spotless, and our realtor said the curb appeal directly contributed to getting multiple offers the first weekend!",
+          "serviceUsed": "Real Estate 'Market-Ready' Exterior Package",
+          "verified": true
+        },
+        {
+          "id": "r3",
+          "author": "David K.",
+          "rating": 5,
+          "date": "2 weeks ago",
+          "comment": "Veteran-owned, honest pricing, and elite work. Matt removed years of dark black algae streaks from our roof and scoured our 3-car driveway in Lakeway. Zero damage, zero mess. Best pressure washing outfit in Austin.",
+          "serviceUsed": "No-Pressure Black Streak Roof Cleaning",
+          "verified": true
+        }
+      ]
+    },
+    "faqs": [
+      {
+        "question": "Will high pressure blast away paint or damage my Austin limestone and stucco?",
+        "answer": "Never. For house siding, limestone, and roofs, Mojo exclusively uses low-pressure SoftWash technology (under 200 PSI). Our biodegradable solutions kill algae and mildew at the root without etching delicate stone, damaging mortar, or stripping paint."
+      },
+      {
+        "question": "Are your cleaning detergents safe for Texas landscaping, grass, and family pets?",
+        "answer": "Yes, 100%. We thoroughly pre-wet all nearby flowerbeds, trees, and shrubs before washing, apply eco-friendly biodegradable detergents, and continuously rinse with fresh water. Once rinsed, surfaces are completely safe for pets and children."
+      },
+      {
+        "question": "How quickly can Mojo Pressure Washing schedule service in Austin?",
+        "answer": "We frequently have same-day and next-day availability across Greater Austin, West Lake Hills, Lakeway, Round Rock, and Cedar Park. Use our interactive estimate tool above or call/text Matt directly at (512) 815-3971 for immediate scheduling."
+      },
+      {
+        "question": "Do you provide free estimates for Austin commercial properties and HOAs?",
+        "answer": "Yes. We offer free on-site consultations and itemized proposals for retail centers, HOA common areas, parking garages, and multi-family communities across Central Texas."
+      }
+    ]
+  }
 };
