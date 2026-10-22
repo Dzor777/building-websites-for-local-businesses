@@ -111,7 +111,10 @@ export const ContactSection: React.FC = () => {
                   </div>
                   <div>
                     <div className="text-xs text-slate-400 font-medium">Business Hours</div>
-                    <div className="text-sm font-semibold text-amber-400">{siteConfig.hours.time}</div>
+                    <div className="text-sm font-semibold text-amber-400">
+                      {siteConfig.hours.time}
+                      {!siteConfig.hours.is24_7 && !siteConfig.hours.time.includes('CST') && !siteConfig.hours.time.includes('Central') && !siteConfig.hours.time.includes('Response') ? ' (CST)' : ''}
+                    </div>
                   </div>
                 </div>
               </div>

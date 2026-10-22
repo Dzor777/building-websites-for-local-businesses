@@ -97,7 +97,10 @@ export const Footer: React.FC = () => {
               )}
               <div>{siteConfig.email}</div>
               <div>{siteConfig.address.street}, {siteConfig.city}, {siteConfig.state}</div>
-              <div className="text-sky-400 font-medium">{siteConfig.hours.time}</div>
+              <div className="text-sky-400 font-medium">
+                {siteConfig.hours.time}
+                {!siteConfig.hours.is24_7 && !siteConfig.hours.time.includes('CST') && !siteConfig.hours.time.includes('Central') && !siteConfig.hours.time.includes('Response') ? ' (CST)' : ''}
+              </div>
             </div>
           </div>
 
