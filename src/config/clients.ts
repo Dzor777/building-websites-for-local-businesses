@@ -8154,7 +8154,7 @@ export const clientRegistry: Record<string, SiteConfig> = {
     "phone": "(972) 742-4463",
     "formattedPhone": "(972) 742-4463",
     "phoneRaw": "+19727424463",
-    "email": "spearcy8@gmail.com",
+    "email": "davidpearcy@longhornpowerwashing.com",
     "address": {
       "street": "Serving Plano, Frisco, McKinney & Collin County",
       "city": "Plano",
@@ -8317,7 +8317,7 @@ export const clientRegistry: Record<string, SiteConfig> = {
     "phone": "(972) 742-4463",
     "formattedPhone": "(972) 742-4463",
     "phoneRaw": "+19727424463",
-    "email": "spearcy8@gmail.com",
+    "email": "davidpearcy@longhornpowerwashing.com",
     "address": {
       "street": "Serving Plano, Frisco, McKinney & Collin County",
       "city": "Plano",
