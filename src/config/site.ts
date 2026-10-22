@@ -220,17 +220,23 @@ export function getActiveSiteConfig(): SiteConfig {
           resolvedConfig = { ...tradeDemosConfigs[matchedByDemoAlias.previewSlug] };
         } else if (clientParam.includes('mojo') && clientRegistry['mojo-pressure-washing']) {
           resolvedConfig = { ...clientRegistry['mojo-pressure-washing'] };
+        } else if (clientParam.includes('longhorn') && clientRegistry['longhorn-power-washing']) {
+          resolvedConfig = { ...clientRegistry['longhorn-power-washing'] };
         } else if (clientParam === 'mckinney-pro-plumbing' && clientRegistry['mckinney-plumbing-pro']) {
           resolvedConfig = { ...clientRegistry['mckinney-plumbing-pro'] };
         }
       }
     }
 
-    // 2. High priority match for Mojo Pressure Washing by name parameter
+    // 2. High priority match for Mojo or Longhorn Pressure Washing by name parameter
     const nameParam = (params.get('name') || '').toLowerCase().trim();
     if (!resolvedConfig && (nameParam.includes('mojo') || clientParam.includes('mojo'))) {
       if (clientRegistry['mojo-pressure-washing']) {
         resolvedConfig = { ...clientRegistry['mojo-pressure-washing'] };
+      }
+    } else if (!resolvedConfig && (nameParam.includes('longhorn') || clientParam.includes('longhorn'))) {
+      if (clientRegistry['longhorn-power-washing']) {
+        resolvedConfig = { ...clientRegistry['longhorn-power-washing'] };
       }
     }
 

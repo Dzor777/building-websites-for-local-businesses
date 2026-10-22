@@ -8,11 +8,13 @@ interface DemoSwitcherBarProps {
 }
 
 export const DemoSwitcherBar: React.FC<DemoSwitcherBarProps> = ({ onOpenPricing }) => {
-  // Never show demo switcher on Mojo Pressure Washing or bespoke client previews
+  // Never show demo switcher on Mojo, Longhorn, or bespoke client previews
   const isClientOrMojo = Boolean(
     siteConfig.slug?.toLowerCase().includes('mojo') ||
+    siteConfig.slug?.toLowerCase().includes('longhorn') ||
     (typeof window !== 'undefined' && (
       window.location.search.toLowerCase().includes('mojo') ||
+      window.location.search.toLowerCase().includes('longhorn') ||
       window.location.search.toLowerCase().includes('client=')
     )) ||
     (siteConfig.slug && siteConfig.slug !== 'dylan-roth-web-services' && !tradeDemosList.some(d => d.previewSlug === siteConfig.slug))

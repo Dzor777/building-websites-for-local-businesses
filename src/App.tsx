@@ -45,11 +45,13 @@ export function App() {
 
   const isAgencyRoot = siteConfig.slug === 'dylan-roth-web-services';
 
-  // Check if viewing Mojo Pressure Washing or any bespoke client preview
+  // Check if viewing Mojo, Longhorn, or any bespoke client preview
   const isClientOrMojo = Boolean(
     siteConfig.slug?.toLowerCase().includes('mojo') ||
+    siteConfig.slug?.toLowerCase().includes('longhorn') ||
     (typeof window !== 'undefined' && (
       window.location.search.toLowerCase().includes('mojo') ||
+      window.location.search.toLowerCase().includes('longhorn') ||
       window.location.search.toLowerCase().includes('client=')
     )) ||
     (siteConfig.slug && siteConfig.slug !== 'dylan-roth-web-services' && !tradeDemosList.some(d => d.previewSlug === siteConfig.slug))

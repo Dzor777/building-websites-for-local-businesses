@@ -8137,5 +8137,331 @@ export const clientRegistry: Record<string, SiteConfig> = {
         "answer": "Yes. We offer free on-site consultations and itemized proposals for retail centers, HOA common areas, parking garages, and multi-family communities across Central Texas."
       }
     ]
+  },
+  "longhorn-power-washing": {
+    "slug": "longhorn-power-washing",
+    "name": "Longhorn Power Washing",
+    "legalName": "Longhorn Power Washing LLC",
+    "domain": "longhornpowerwashing.com",
+    "url": "https://www.longhornpowerwashing.com",
+    "logoIcon": "Droplets",
+    "heroImageUrl": "./images/pressure-washing.jpg",
+    "tagline": "Plano & Collin County's Trusted Power Washing & SoftWash Specialists",
+    "description": "Commercial-grade rotary concrete scouring, low-pressure SoftWash house siding restoration, cedar fence brightening, and oil stain removal across Plano, Frisco, McKinney, and North Dallas.",
+    "niche": "Pressure Washing & Exterior Cleaning",
+    "city": "Plano",
+    "state": "TX",
+    "phone": "(972) 742-4463",
+    "formattedPhone": "(972) 742-4463",
+    "phoneRaw": "+19727424463",
+    "email": "spearcy8@gmail.com",
+    "address": {
+      "street": "Serving Plano, Frisco, McKinney & Collin County",
+      "city": "Plano",
+      "state": "TX",
+      "zip": "75024",
+      "googleMapsEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d106963.85694723927!2d-96.8402506!3d33.0198431!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x864c19f77b45974b%3A0xb9ec9ba4f647678f!2sPlano%2C%20TX!5e0!3m2!1sen!2sus!4v1700000000000!5m2!1sen!2sus"
+    },
+    "googleAnalyticsId": "G-DEMO999",
+    "web3FormsAccessKey": "YOUR_KEY",
+    "hours": {
+      "days": "Monday - Saturday",
+      "time": "7:00 AM - 7:00 PM (Emergency Dispatch Available)",
+      "is24_7": false
+    },
+    "colors": {
+      "primary": "#c25e00",
+      "primaryDark": "#9a4900",
+      "accent": "#0284c7"
+    },
+    "trustBadges": [
+      {
+        "title": "Plano & Collin County Local",
+        "subtitle": "Prompt, Reliable North Texas Techs",
+        "icon": "Award"
+      },
+      {
+        "title": "Industrial Rotary Surface Cleaners",
+        "subtitle": "Zero Striping, Consistent Deep Clean",
+        "icon": "ShieldCheck"
+      },
+      {
+        "title": "Plant & Landscape Protection",
+        "subtitle": "Eco-Friendly Biodegradable Pre-Rinse",
+        "icon": "Sparkles"
+      },
+      {
+        "title": "100% Satisfaction Guaranteed",
+        "subtitle": "Fully Licensed & Insured Contractor",
+        "icon": "CheckCircle2"
+      }
+    ],
+    "services": [
+      {
+        "id": "driveway-walkway-scouring",
+        "name": "Rotary Driveway & Walkway Surface Scouring",
+        "shortDesc": "High-volume 4,000 PSI industrial surface cleaners removing stubborn tire marks, oil drips, and black mildew without swirl marks.",
+        "fullDesc": "Commercial degreaser pre-treatment, uniform 4,000 PSI rotary scouring eliminating tiger striping, and post-treatment algaecide to keep concrete bright 3x longer.",
+        "basePrice": 195,
+        "iconName": "Droplets",
+        "badge": "Instant Curb Appeal"
+      },
+      {
+        "id": "house-softwash",
+        "name": "Low-Pressure SoftWash House Siding",
+        "shortDesc": "Gentle chemical rinse under 150 PSI engineered specifically for North Texas brick, Austin stone accents, fiber cement, and stucco.",
+        "fullDesc": "Eradicates organic algae, lichen, and mildew spores at the microscopic root without etching soft brick mortar, chipping paint, or blowing window seals.",
+        "basePrice": 295,
+        "iconName": "Home",
+        "badge": "Safe on Brick & Stucco"
+      },
+      {
+        "id": "cedar-fence-restoration",
+        "name": "Cedar Fence & Deck Restoration",
+        "shortDesc": "Gentle wood brightening and weather stain removal for sun-bleached cedar privacy fences, pergolas, and decks.",
+        "fullDesc": "Removes gray UV damage, water mold, and rain stains, opening natural wood grain for stain penetration and extending timber lifespan by years.",
+        "basePrice": 275,
+        "iconName": "Sparkles"
+      },
+      {
+        "id": "roof-streak-removal",
+        "name": "No-Pressure Shingle Roof Wash",
+        "shortDesc": "Safely eliminate dark Gloeocapsa Magma roof algae streaks without stripping protective shingle granules.",
+        "fullDesc": "Dedicated low-pressure SoftWash formula that eradicates unsightly roof streaks, restores solar reflectivity, and prevents premature shingle decay.",
+        "basePrice": 425,
+        "iconName": "Shield"
+      },
+      {
+        "id": "patio-pool-deck-cleaning",
+        "name": "Pool Deck & Flagstone Patio Cleaning",
+        "shortDesc": "Gentle stone, stamped concrete, and paver cleaning to erase pool chemical residue, slippery algae, and red clay stains.",
+        "fullDesc": "Deep cleaning that restores non-slip traction around pool coping and enhances stone color for outdoor family entertainment.",
+        "basePrice": 245,
+        "iconName": "CheckCircle2",
+        "badge": "Non-Slip Safety"
+      },
+      {
+        "id": "commercial-degreasing",
+        "name": "Commercial Storefront & Dumpster Pad Degreasing",
+        "shortDesc": "High-temperature commercial washing for Plano restaurants, retail strip centers, dumpster enclosures, and sidewalks.",
+        "fullDesc": "Hot water commercial rigs dissolving food grease, motor oil, and heavy foot-traffic grime outside business hours for zero customer disruption.",
+        "basePrice": 375,
+        "iconName": "Briefcase"
+      }
+    ],
+    "reviews": {
+      "googleRating": 5.0,
+      "totalReviews": 128,
+      "items": [
+        {
+          "id": "r1",
+          "author": "Marcus T.",
+          "rating": 5,
+          "date": "3 days ago",
+          "comment": "Longhorn Power Washing transformed our 3-car driveway and front walkway in West Plano. Our driveway had nasty oil spots from an older truck and black mildew from the spring rains. They completely stripped it clean without any swirl marks. Prompt, professional, and very fair pricing!",
+          "serviceUsed": "Rotary Driveway & Walkway Surface Scouring",
+          "verified": true
+        },
+        {
+          "id": "r2",
+          "author": "Sarah B.",
+          "rating": 5,
+          "date": "1 week ago",
+          "comment": "Called Longhorn for a full house SoftWash and cedar fence brightening before selling our home in Frisco. Our HOA had sent us a notice about green algae on the north brick wall. They came out the next morning, protected all our flowerbeds, and the brick looks brand new. Got full asking price on our open house!",
+          "serviceUsed": "Low-Pressure SoftWash House Siding",
+          "verified": true
+        },
+        {
+          "id": "r3",
+          "author": "Greg & Linda D.",
+          "rating": 5,
+          "date": "2 weeks ago",
+          "comment": "Outstanding work by Longhorn Power Washing. We have delicate flagstone around our pool in Willow Bend and a stained cedar pergola. They used low pressure and safe cleaners, and didn't damage a single plant or stone edge. Highly recommend them to anyone in Collin County!",
+          "serviceUsed": "Pool Deck & Flagstone Patio Cleaning",
+          "verified": true
+        }
+      ]
+    },
+    "faqs": [
+      {
+        "question": "Will high pressure blast away paint or damage my Plano home's brick mortar and siding?",
+        "answer": "Never. For house siding, stone, and roofs, Longhorn exclusively uses low-pressure SoftWash technology (under 150 PSI). Our specialized biodegradable solutions kill algae and mildew at the microscopic root without etching brick, cracking mortar, or blowing window seals."
+      },
+      {
+        "question": "Are your cleaning detergents safe for North Texas landscaping, grass, and pets?",
+        "answer": "Yes, 100%. We thoroughly pre-wet all nearby flowerbeds, trees, and shrubs before washing, apply eco-friendly biodegradable detergents, and continuously rinse with fresh water. Once rinsed, surfaces are completely safe for pets and children."
+      },
+      {
+        "question": "How quickly can Longhorn Power Washing schedule service in Plano or Frisco?",
+        "answer": "We frequently have same-day and next-day availability across Plano, Frisco, McKinney, Allen, and North Dallas. Use our interactive estimate tool above or call/text directly at (972) 742-4463 for immediate scheduling."
+      },
+      {
+        "question": "Can you remove tough motor oil stains and red clay residue from driveways?",
+        "answer": "Yes. We use commercial-grade hot water degreasers and specialty chemical treatments specifically formulated to break down petroleum hydrocarbons and red clay mineral bonds that cold-water pressure washers cannot lift."
+      }
+    ]
+  },
+  "longhorn-power-washing-llc": {
+    "slug": "longhorn-power-washing-llc",
+    "name": "Longhorn Power Washing",
+    "legalName": "Longhorn Power Washing LLC",
+    "domain": "longhornpowerwashing.com",
+    "url": "https://www.longhornpowerwashing.com",
+    "logoIcon": "Droplets",
+    "heroImageUrl": "./images/pressure-washing.jpg",
+    "tagline": "Plano & Collin County's Trusted Power Washing & SoftWash Specialists",
+    "description": "Commercial-grade rotary concrete scouring, low-pressure SoftWash house siding restoration, cedar fence brightening, and oil stain removal across Plano, Frisco, McKinney, and North Dallas.",
+    "niche": "Pressure Washing & Exterior Cleaning",
+    "city": "Plano",
+    "state": "TX",
+    "phone": "(972) 742-4463",
+    "formattedPhone": "(972) 742-4463",
+    "phoneRaw": "+19727424463",
+    "email": "spearcy8@gmail.com",
+    "address": {
+      "street": "Serving Plano, Frisco, McKinney & Collin County",
+      "city": "Plano",
+      "state": "TX",
+      "zip": "75024",
+      "googleMapsEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d106963.85694723927!2d-96.8402506!3d33.0198431!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x864c19f77b45974b%3A0xb9ec9ba4f647678f!2sPlano%2C%20TX!5e0!3m2!1sen!2sus!4v1700000000000!5m2!1sen!2sus"
+    },
+    "googleAnalyticsId": "G-DEMO999",
+    "web3FormsAccessKey": "YOUR_KEY",
+    "hours": {
+      "days": "Monday - Saturday",
+      "time": "7:00 AM - 7:00 PM (Emergency Dispatch Available)",
+      "is24_7": false
+    },
+    "colors": {
+      "primary": "#c25e00",
+      "primaryDark": "#9a4900",
+      "accent": "#0284c7"
+    },
+    "trustBadges": [
+      {
+        "title": "Plano & Collin County Local",
+        "subtitle": "Prompt, Reliable North Texas Techs",
+        "icon": "Award"
+      },
+      {
+        "title": "Industrial Rotary Surface Cleaners",
+        "subtitle": "Zero Striping, Consistent Deep Clean",
+        "icon": "ShieldCheck"
+      },
+      {
+        "title": "Plant & Landscape Protection",
+        "subtitle": "Eco-Friendly Biodegradable Pre-Rinse",
+        "icon": "Sparkles"
+      },
+      {
+        "title": "100% Satisfaction Guaranteed",
+        "subtitle": "Fully Licensed & Insured Contractor",
+        "icon": "CheckCircle2"
+      }
+    ],
+    "services": [
+      {
+        "id": "driveway-walkway-scouring",
+        "name": "Rotary Driveway & Walkway Surface Scouring",
+        "shortDesc": "High-volume 4,000 PSI industrial surface cleaners removing stubborn tire marks, oil drips, and black mildew without swirl marks.",
+        "fullDesc": "Commercial degreaser pre-treatment, uniform 4,000 PSI rotary scouring eliminating tiger striping, and post-treatment algaecide to keep concrete bright 3x longer.",
+        "basePrice": 195,
+        "iconName": "Droplets",
+        "badge": "Instant Curb Appeal"
+      },
+      {
+        "id": "house-softwash",
+        "name": "Low-Pressure SoftWash House Siding",
+        "shortDesc": "Gentle chemical rinse under 150 PSI engineered specifically for North Texas brick, Austin stone accents, fiber cement, and stucco.",
+        "fullDesc": "Eradicates organic algae, lichen, and mildew spores at the microscopic root without etching soft brick mortar, chipping paint, or blowing window seals.",
+        "basePrice": 295,
+        "iconName": "Home",
+        "badge": "Safe on Brick & Stucco"
+      },
+      {
+        "id": "cedar-fence-restoration",
+        "name": "Cedar Fence & Deck Restoration",
+        "shortDesc": "Gentle wood brightening and weather stain removal for sun-bleached cedar privacy fences, pergolas, and decks.",
+        "fullDesc": "Removes gray UV damage, water mold, and rain stains, opening natural wood grain for stain penetration and extending timber lifespan by years.",
+        "basePrice": 275,
+        "iconName": "Sparkles"
+      },
+      {
+        "id": "roof-streak-removal",
+        "name": "No-Pressure Shingle Roof Wash",
+        "shortDesc": "Safely eliminate dark Gloeocapsa Magma roof algae streaks without stripping protective shingle granules.",
+        "fullDesc": "Dedicated low-pressure SoftWash formula that eradicates unsightly roof streaks, restores solar reflectivity, and prevents premature shingle decay.",
+        "basePrice": 425,
+        "iconName": "Shield"
+      },
+      {
+        "id": "patio-pool-deck-cleaning",
+        "name": "Pool Deck & Flagstone Patio Cleaning",
+        "shortDesc": "Gentle stone, stamped concrete, and paver cleaning to erase pool chemical residue, slippery algae, and red clay stains.",
+        "fullDesc": "Deep cleaning that restores non-slip traction around pool coping and enhances stone color for outdoor family entertainment.",
+        "basePrice": 245,
+        "iconName": "CheckCircle2",
+        "badge": "Non-Slip Safety"
+      },
+      {
+        "id": "commercial-degreasing",
+        "name": "Commercial Storefront & Dumpster Pad Degreasing",
+        "shortDesc": "High-temperature commercial washing for Plano restaurants, retail strip centers, dumpster enclosures, and sidewalks.",
+        "fullDesc": "Hot water commercial rigs dissolving food grease, motor oil, and heavy foot-traffic grime outside business hours for zero customer disruption.",
+        "basePrice": 375,
+        "iconName": "Briefcase"
+      }
+    ],
+    "reviews": {
+      "googleRating": 5.0,
+      "totalReviews": 128,
+      "items": [
+        {
+          "id": "r1",
+          "author": "Marcus T.",
+          "rating": 5,
+          "date": "3 days ago",
+          "comment": "Longhorn Power Washing transformed our 3-car driveway and front walkway in West Plano. Our driveway had nasty oil spots from an older truck and black mildew from the spring rains. They completely stripped it clean without any swirl marks. Prompt, professional, and very fair pricing!",
+          "serviceUsed": "Rotary Driveway & Walkway Surface Scouring",
+          "verified": true
+        },
+        {
+          "id": "r2",
+          "author": "Sarah B.",
+          "rating": 5,
+          "date": "1 week ago",
+          "comment": "Called Longhorn for a full house SoftWash and cedar fence brightening before selling our home in Frisco. Our HOA had sent us a notice about green algae on the north brick wall. They came out the next morning, protected all our flowerbeds, and the brick looks brand new. Got full asking price on our open house!",
+          "serviceUsed": "Low-Pressure SoftWash House Siding",
+          "verified": true
+        },
+        {
+          "id": "r3",
+          "author": "Greg & Linda D.",
+          "rating": 5,
+          "date": "2 weeks ago",
+          "comment": "Outstanding work by Longhorn Power Washing. We have delicate flagstone around our pool in Willow Bend and a stained cedar pergola. They used low pressure and safe cleaners, and didn't damage a single plant or stone edge. Highly recommend them to anyone in Collin County!",
+          "serviceUsed": "Pool Deck & Flagstone Patio Cleaning",
+          "verified": true
+        }
+      ]
+    },
+    "faqs": [
+      {
+        "question": "Will high pressure blast away paint or damage my Plano home's brick mortar and siding?",
+        "answer": "Never. For house siding, stone, and roofs, Longhorn exclusively uses low-pressure SoftWash technology (under 150 PSI). Our specialized biodegradable solutions kill algae and mildew at the microscopic root without etching brick, cracking mortar, or blowing window seals."
+      },
+      {
+        "question": "Are your cleaning detergents safe for North Texas landscaping, grass, and pets?",
+        "answer": "Yes, 100%. We thoroughly pre-wet all nearby flowerbeds, trees, and shrubs before washing, apply eco-friendly biodegradable detergents, and continuously rinse with fresh water. Once rinsed, surfaces are completely safe for pets and children."
+      },
+      {
+        "question": "How quickly can Longhorn Power Washing schedule service in Plano or Frisco?",
+        "answer": "We frequently have same-day and next-day availability across Plano, Frisco, McKinney, Allen, and North Dallas. Use our interactive estimate tool above or call/text directly at (972) 742-4463 for immediate scheduling."
+      },
+      {
+        "question": "Can you remove tough motor oil stains and red clay residue from driveways?",
+        "answer": "Yes. We use commercial-grade hot water degreasers and specialty chemical treatments specifically formulated to break down petroleum hydrocarbons and red clay mineral bonds that cold-water pressure washers cannot lift."
+      }
+    ]
   }
 };
